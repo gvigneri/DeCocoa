@@ -1,6 +1,23 @@
 # DeCocoa local draft site
 
-October 24, 2026. This continues the established DeCocoa design as a portable, responsive informational site. Guy approved the local draft build in [the consolidated plan](handoff/site-build-plan.md). WordPress transfer is a later phase. Nothing is published, and inquiry fields do not send or save messages.
+This continues the established DeCocoa design as a portable, responsive informational site. Guy approved the local draft build in [the consolidated plan](handoff/site-build-plan.md) and authorized temporary GitHub Pages hosting on October 25, 2026. WordPress transfer remains a later phase. Inquiry fields do not send or save messages.
+
+## GitHub Pages
+
+The public homepage is [gvigneri.github.io/DeCocoa/](https://gvigneri.github.io/DeCocoa/). The workflow in `.github/workflows/pages.yml` builds and checks the site, exports the generated pages and runtime assets into `_site/`, validates their URLs under `/DeCocoa/`, then deploys that artifact. The repository's Pages publishing source must be **GitHub Actions**. Pushes to `main` deploy automatically; the workflow can also be run manually.
+
+The published artifact has `index.html`, `styles.css`, `script.js`, `assets/` and the page directories at its root. `prototype/` remains the editable/generated source folder in this repository. Compatibility pages redirect the old `/DeCocoa/prototype/index.html` and related legacy URLs to the new public routes. Original artwork, templates and review/handoff records are not included in the website artifact.
+
+To check the same artifact locally after rebuilding:
+
+```powershell
+python scripts/check_site.py
+python scripts/export_pages.py --base-path /DeCocoa/
+python scripts/check_pages_export.py --base-path /DeCocoa/
+python scripts/preview_pages.py --port 4180 --base-path /DeCocoa/
+```
+
+Open `http://127.0.0.1:4180/DeCocoa/`. This separate preview reproduces the GitHub Pages project path and nested 404 handling; it does not replace the normal local preview below.
 
 ## Preview
 

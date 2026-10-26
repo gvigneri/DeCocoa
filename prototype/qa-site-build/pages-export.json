@@ -1,0 +1,333 @@
+{
+  "base_path": "/DeCocoa/",
+  "content_pages": 18,
+  "runtime_resources": 34,
+  "compatibility_redirects": {
+    "/prototype/": "/",
+    "/prototype/products/": "/products/",
+    "/prototype/products/filled-chocolate/": "/products/filled-chocolate/",
+    "/prototype/products/chocolate-bar/": "/products/chocolate-bar/",
+    "/prototype/products/chocolate-drizzle/": "/products/chocolate-drizzle/",
+    "/prototype/our-people/": "/our-people/",
+    "/prototype/our-craft/": "/our-craft/",
+    "/prototype/experience-center/": "/experience-center/",
+    "/prototype/gifting/": "/gifting/",
+    "/prototype/craft-your-own/": "/craft-your-own/",
+    "/prototype/fundraising/": "/fundraising/",
+    "/prototype/wholesale/": "/wholesale/",
+    "/prototype/b2b/": "/b2b/",
+    "/prototype/lets-talk/": "/lets-talk/",
+    "/prototype/privacy-policy/": "/privacy-policy/",
+    "/prototype/terms-and-conditions/": "/terms-and-conditions/",
+    "/prototype/accessibility/": "/accessibility/",
+    "/prototype/404.html": "/404.html",
+    "/work-with-us/": "/lets-talk/",
+    "/prototype/work-with-us/": "/lets-talk/"
+  },
+  "files": [
+    {
+      "file": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "404.html",
+      "sha256": "700336e0e51f8ae458d23384c9ed0d8aab05b2b013a10e08c861c243f1b1dea4"
+    },
+    {
+      "file": "accessibility/index.html",
+      "sha256": "b316a6f781ad71e6f24fe6d0baa4d8b1975f6b069153da964d439bef2af36efa"
+    },
+    {
+      "file": "assets/fonts/montserrat-1.woff2",
+      "sha256": "0f7f5f2fbb4eae126790fe6f01659ab3ee0806e8038a941908e893020569f51a"
+    },
+    {
+      "file": "assets/fonts/montserrat-2.woff2",
+      "sha256": "a187b077090fe8ae3fd2d7496aabbeae604819c718a282e0afc92df72b450766"
+    },
+    {
+      "file": "assets/fonts/montserrat-3.woff2",
+      "sha256": "26b2403f995ed65fb49037a6498c074d3ec3c36031a69fc368c4c2180e2c01fa"
+    },
+    {
+      "file": "assets/fonts/montserrat-4.woff2",
+      "sha256": "54d9a78b7ff60b689ad9f3017ffac8547b5d871afec733f6c1c3ae36577ee504"
+    },
+    {
+      "file": "assets/fonts/montserrat-5.woff2",
+      "sha256": "06b16db7a969135d48d38c49183be7fb88d4452e2a3011957c7851941f4e4879"
+    },
+    {
+      "file": "assets/fonts/Montserrat-OFL.txt",
+      "sha256": "eea2531f8465ea6a4442b47ad40f4360cc4495c61abdf7600719789d778504d9"
+    },
+    {
+      "file": "assets/fonts/montserrat.css",
+      "sha256": "9327d40f13768bb975a7fa00c691828933f3d3b953f9821a4aa983c1a50e627e"
+    },
+    {
+      "file": "assets/icons/fontawesome-free-6.7.2/LICENSE.txt",
+      "sha256": "9b914eae88817d63b576eab5aafde7068c7a1abae125d7cdfb034f1da43a9afc"
+    },
+    {
+      "file": "assets/images/certification-cacao-trace.png",
+      "sha256": "9d4f54ac30f600b1d3b5c761e3d0f1d7b470cf9a8533197a76d1dec12f2366e7"
+    },
+    {
+      "file": "assets/images/certification-haccp.png",
+      "sha256": "b788ae11997dc92cd7721653538d324efea4f40b206e4cb0d9026392c9882bec"
+    },
+    {
+      "file": "assets/images/certification-ou-kosher.png",
+      "sha256": "4fb0b2da010bf35f7338ad3cf653589a92f6486cba59d00988cbe4143b542766"
+    },
+    {
+      "file": "assets/images/certification-rainforest-alliance.png",
+      "sha256": "a02b39be75742c758aaa2d2c21b22e6a787fd6616af146d7f8ca897322ed9221"
+    },
+    {
+      "file": "assets/images/certification-sqf.png",
+      "sha256": "31740b11dbfd3ee2971e0911fda27fb59b2dd99928873e34b0e5def1d3fdbeb6"
+    },
+    {
+      "file": "assets/images/chocolate-bar.webp",
+      "sha256": "77dab355d1a33615c19657ac007d04dd5c80228bdbe6f6cf403858efaac3f3c1"
+    },
+    {
+      "file": "assets/images/chocolate-craft.webp",
+      "sha256": "33083a81d60a730f74e22f39d59f1bd963a35161ee2c9b7aab10b3345a5fc8fd"
+    },
+    {
+      "file": "assets/images/chocolate-drizzle.webp",
+      "sha256": "fb6add532b0d20931fcf31a25fe7df7d2d2d5893bc43203faf4fff057d115733"
+    },
+    {
+      "file": "assets/images/cocoa-powder.webp",
+      "sha256": "a1ef7c882e0bce1ac744aa948379743a0df6e3c294b6d8116338c8ba50d6a0fd"
+    },
+    {
+      "file": "assets/images/decocoa-factory-still.png",
+      "sha256": "f1109f604083124b6f421b364aa29453f42e1d5220f91e78bdbc589b42d5371b"
+    },
+    {
+      "file": "assets/images/decocoa-factory.gif",
+      "sha256": "930a1bc748f01167cb404a4c46cd59075c3890e47bfa22cd4f8a26bf0cd7028a"
+    },
+    {
+      "file": "assets/images/dipped-pretzel.webp",
+      "sha256": "236b7b30a790e463605a6dc5fc241ffe433ac88bbe03e8c6d8c3a6d15f587cb9"
+    },
+    {
+      "file": "assets/images/filled-chocolate.webp",
+      "sha256": "89cd56eb57ad1b91ba9fd53f14a09e5713cb92625ea1a569387b51e404b9e5aa"
+    },
+    {
+      "file": "assets/images/hollow-chocolate-figure.webp",
+      "sha256": "317e99695f2f7adf40ca7b3953c33ac4f72084411441d693f1ac3e0184170053"
+    },
+    {
+      "file": "assets/images/nuts-and-chocolate.webp",
+      "sha256": "8eef1fcd328890ed3b7b25fc9a85be0cd185d7d55f84413e4f5fb7611da18d96"
+    },
+    {
+      "file": "assets/images/partner-guittard.png",
+      "sha256": "45f12cb652f3ee300f5ebf0a024120713a3de4a8ed97d2159905dbd32bf7a9c4"
+    },
+    {
+      "file": "assets/images/partner-puratos.png",
+      "sha256": "31deb4cfcef999ab6da76cd3d2933e77de63fbb99fd4f5f745b8b84c1fbfa681"
+    },
+    {
+      "file": "assets/images/partner-wegmans-supplied-626950.webp",
+      "sha256": "46aa4f2538544f46aa9abd6627eae5ab132f8184b2feff7b81efad58564178fd"
+    },
+    {
+      "file": "assets/images/people-at-work.webp",
+      "sha256": "e411970b0ae92e0d1c60d79cc1e89ad05aae08edd8941e12da126989715a3630"
+    },
+    {
+      "file": "assets/images/pretzel-chunky-sprinkles-r6.webp",
+      "sha256": "55cfe4d8247f1199b0ee64468ade6c36426d18c732221b5b2e828dcd56395a8e"
+    },
+    {
+      "file": "assets/images/pretzel-red-drizzle-r6.webp",
+      "sha256": "c068c705d7a301d0b61ed39dc798d51d0a16049c1b1cdcd25101dceffa9890ff"
+    },
+    {
+      "file": "assets/js/category-motion.js",
+      "sha256": "ae030c2fe65b8d20d4c1ad241a72fb1b39e771a0502fa2bac81dabcd2a0668f8"
+    },
+    {
+      "file": "assets/logos/decocoa-brandmark-silhouette.svg",
+      "sha256": "8795beb3f7ceef3528aea6e99b8a7504a1b8e3ee4edd3cd0ffb760b83b555a0a"
+    },
+    {
+      "file": "assets/logos/decocoa-brandmark.svg",
+      "sha256": "45137b2c629d32cac320bfce89e522baa1b82f7804b726dd66b5e0a4bd5e4dbc"
+    },
+    {
+      "file": "assets/logos/decocoa-dark-badge.svg",
+      "sha256": "4aed6b6f912b737949ef49c67356d00f42d53620e0f42c50cdb796fdeee06a39"
+    },
+    {
+      "file": "assets/logos/decocoa-horizontal.svg",
+      "sha256": "8cfb6f63f632b8f26cfe4fbc3a5f1e238acd7de7e8b30f511fbb1a1b8f34df39"
+    },
+    {
+      "file": "b2b/index.html",
+      "sha256": "9ba9df404e8a8badc830e1133b0b205db46faf23438ddf08ed8b6ea76de0699e"
+    },
+    {
+      "file": "craft-your-own/index.html",
+      "sha256": "8a37577412fa3f8cbd07cffd68beffc0e6a364d3b465d8ba99bf2908793fc8dc"
+    },
+    {
+      "file": "experience-center/index.html",
+      "sha256": "3e86ca7eb63c3fbe007dc859dd4383a5e0ff02b856d727c6cb8c338acf54a906"
+    },
+    {
+      "file": "fundraising/index.html",
+      "sha256": "92cd37120c2c381afbbd712003202258fe1ac8d3cb6004165f1e6cec50bb569e"
+    },
+    {
+      "file": "gifting/index.html",
+      "sha256": "39ad03249fa71ef7d1d172473d1257483ac3453e001bcf6b022d2dddce3666af"
+    },
+    {
+      "file": "index.html",
+      "sha256": "7bd8acb3dfb0712dc483332c6b00e5dfa3821c085922184cfff93e9126cfc5b8"
+    },
+    {
+      "file": "lets-talk/index.html",
+      "sha256": "1ed214fb549cd6b475b6549eb93fc17b657f67202a9878efbce69086249c965d"
+    },
+    {
+      "file": "our-craft/index.html",
+      "sha256": "41c22d204b0404dd659aedd1376ea3b9fe351cc52f28fe4bd4ac5411229ed7c4"
+    },
+    {
+      "file": "our-people/index.html",
+      "sha256": "2b4f5b77d8a471ee8dbc4c4aca47b567a16832a38702304ddad94283d26102c5"
+    },
+    {
+      "file": "privacy-policy/index.html",
+      "sha256": "0b22d0f1a9be9e5ec80bc35fe4bbf8b66b9db85f231e98c43bff8f94dbddac29"
+    },
+    {
+      "file": "products/chocolate-bar/index.html",
+      "sha256": "8d64db4d63a110320216250dff3327e6634058b53b8b60eee15135ac217e2ee5"
+    },
+    {
+      "file": "products/chocolate-drizzle/index.html",
+      "sha256": "7d7bafee11fbc8ebcaf8a6eb513de8ddcf2b946f5e19397565feed881047b8d5"
+    },
+    {
+      "file": "products/filled-chocolate/index.html",
+      "sha256": "6d0bd5cd5e6dfcd941d1d2cdcb98fe7399bc3c187a153e29362ffe5c3ba133d2"
+    },
+    {
+      "file": "products/index.html",
+      "sha256": "4f8f59d80d3deba0262f8a94f43307b3c5f2ae8cc84b4538dd729ac7677f91f5"
+    },
+    {
+      "file": "prototype/404.html",
+      "sha256": "4f40a61662309259fcefc867efe9c071dfa628e957605f5fa1804ec2af6b6219"
+    },
+    {
+      "file": "prototype/accessibility/index.html",
+      "sha256": "c0e7f9bad77ddb042c967196d2f54f3ceb19faafa1b45a2cc358023d2bce41bd"
+    },
+    {
+      "file": "prototype/b2b/index.html",
+      "sha256": "57d807878c0b16d24f2c0ed5eb81475f136cf5e30d343d05d5fdfeed1fdfe43f"
+    },
+    {
+      "file": "prototype/craft-your-own/index.html",
+      "sha256": "a167c9bebdb60a13b05b4e79c60eb04a94f7ff09e4b2eeb30a60ecdd2466948d"
+    },
+    {
+      "file": "prototype/experience-center/index.html",
+      "sha256": "c9d94a49a79565b6f446e75224550f8a462d9df2bc69fb59d0a296a0fa626630"
+    },
+    {
+      "file": "prototype/fundraising/index.html",
+      "sha256": "fd884223fdc3422ab48ebea0b745142de31d12ff2a4a42f75377c636b8fc34b7"
+    },
+    {
+      "file": "prototype/gifting/index.html",
+      "sha256": "b9a3925f49cdf0ee5aa91044a68108f02740f330dd720372bcd1f0aa8194e680"
+    },
+    {
+      "file": "prototype/index.html",
+      "sha256": "409eefa9666a5ce10766bcea793e465b0c6580510051ebe4b5a8b12de6c76b6e"
+    },
+    {
+      "file": "prototype/lets-talk/index.html",
+      "sha256": "00fc57dbe4fedfd7c00bb19c35f59da8629e78ab0da5ce7443e1040099638b8a"
+    },
+    {
+      "file": "prototype/our-craft/index.html",
+      "sha256": "fe7bfcf0153b44cf38394cb97b77ec39f7bf2f72ef9b6d2ab9ee6d5888dd1202"
+    },
+    {
+      "file": "prototype/our-people/index.html",
+      "sha256": "c133b263c8de19ba03437a36e9fe21c1447b8a9078f31c9e9f6d21189c058269"
+    },
+    {
+      "file": "prototype/privacy-policy/index.html",
+      "sha256": "cf4f12d8f7db6d204fa5ce4a9439d81cc0ed6b5775ea006cf3b72c709e12dd0c"
+    },
+    {
+      "file": "prototype/products/chocolate-bar/index.html",
+      "sha256": "b3b74ce52b928796ff3d8a8c920ed1b79b4322f7e94d39134bcb2d3005477090"
+    },
+    {
+      "file": "prototype/products/chocolate-drizzle/index.html",
+      "sha256": "bd1c2eef1b351aaf75b837de7c145cd2927734812be2a9a04f481aec467367e0"
+    },
+    {
+      "file": "prototype/products/filled-chocolate/index.html",
+      "sha256": "880f7e4965dae3684b07d8e487464f16feb2c98fb0529dd86853e18d61a82d08"
+    },
+    {
+      "file": "prototype/products/index.html",
+      "sha256": "6d67233f2c4b8d4e5a838e086268bd5a1354ff17670658417699457179d82630"
+    },
+    {
+      "file": "prototype/terms-and-conditions/index.html",
+      "sha256": "cbdbd886c7d2023402af30386a27d047dab1a7b9ff350ad7a6fde22aacfb7590"
+    },
+    {
+      "file": "prototype/wholesale/index.html",
+      "sha256": "11efa932ea3edf840e10692e3acdc900689169ddaafad9e48e0ce712fb6595e8"
+    },
+    {
+      "file": "prototype/work-with-us/index.html",
+      "sha256": "00fc57dbe4fedfd7c00bb19c35f59da8629e78ab0da5ce7443e1040099638b8a"
+    },
+    {
+      "file": "redirect.js",
+      "sha256": "42569f1b4011de4c114c3d4425babb91bdda3781afc84f4b889f89edf4b4cdf7"
+    },
+    {
+      "file": "script.js",
+      "sha256": "ddd435c098a6f966b6e87e6d14c10b973b45dace2401b7151e8883a8bfbd5447"
+    },
+    {
+      "file": "styles.css",
+      "sha256": "0ed0a0e083c3ffe0115e094a6bc18f50396deac19bf00646deae711698ede76c"
+    },
+    {
+      "file": "terms-and-conditions/index.html",
+      "sha256": "40b392c5449accb8bd6adc56ff9b157fa42b79ce07fcee64bb2062257a5ea7ad"
+    },
+    {
+      "file": "wholesale/index.html",
+      "sha256": "32bb1a7647bda87387ab05a5624185167d0f46258f9c00de1c2982d1a6a33cea"
+    },
+    {
+      "file": "work-with-us/index.html",
+      "sha256": "2ccaba1916df1b99edbd1cb8788e029b5717454dfee9bba532286ed23f3ce073"
+    }
+  ]
+}

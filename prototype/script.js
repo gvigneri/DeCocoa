@@ -2,9 +2,11 @@
   const body = document.body;
   if (!body || body.dataset.decocoaInitialized) return;
   body.dataset.decocoaInitialized = "true";
+  const siteRoot = new URL('./', document.currentScript?.src || location.href);
+  const canonicalPath = pathname => pathname.replace(/\/index\.html$/, '/');
   // Old Work With Us links are redirected here by the preview. Only these
   // public offering fragments are forwarded; message fields never enter URLs.
-  if(location.pathname==='/lets-talk/'){
+  if(canonicalPath(location.pathname)===new URL('lets-talk/',siteRoot).pathname){
     const legacy={gifting:'../gifting/','craft-your-own':'../craft-your-own/','chocolate-bar':'../craft-your-own/#chocolate-bars',basket:'../craft-your-own/#baskets',fundraising:'../fundraising/',business:'../b2b/'};
     const route=legacy[location.hash.slice(1)];
     if(route){const destination=new URL(route,location.href);destination.search=location.search;location.replace(destination.href);return;}
@@ -168,6 +170,7 @@
   };
   const publicContextURL = (hash) => {
     const next=new URL(location.href);
+    next.pathname=canonicalPath(next.pathname);
     next.search='';
     for(const [key,id] of contextFields){
       const select=document.getElementById(id);
@@ -200,7 +203,7 @@
   };
   document.querySelectorAll('a[href]').forEach(link=>link.addEventListener('click',event=>{
     const destination=new URL(link.href,location.href);
-    if(destination.origin!==location.origin || destination.pathname!==location.pathname || !destination.hash || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey)return;
+    if(destination.origin!==location.origin || canonicalPath(destination.pathname)!==canonicalPath(location.pathname) || !destination.hash || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey)return;
     let section;
     try{section=document.getElementById(decodeURIComponent(destination.hash.slice(1)));}catch{return;}
     if(!section)return;

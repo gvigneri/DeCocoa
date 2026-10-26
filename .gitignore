@@ -16,3 +16,6 @@ Desktop.ini
 # Duplicate intake/archive packages; extracted originals remain in brand/source/
 /Decocoa Get Started.zip
 /handoff/*.zip
+
+# Generated GitHub Pages artifact (workflow builds from authoritative sources)
+/_site/

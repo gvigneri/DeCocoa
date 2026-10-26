@@ -1,0 +1,47 @@
+name: Deploy DeCocoa to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/configure-pages@v5
+      - name: Build and verify
+        run: |
+          python3 scripts/build_homepage.py
+          python3 scripts/check_site.py
+          node --check prototype/script.js
+          node --check assets/js/category-motion.js
+          python3 scripts/export_pages.py --base-path /DeCocoa/
+          python3 scripts/check_pages_export.py --base-path /DeCocoa/
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy verified artifact
+        id: deployment
+        uses: actions/deploy-pages@v4
