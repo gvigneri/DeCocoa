@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-25",
+  "browser": "Hidden IAB through CUA",
+  "visible": false,
+  "checks": [
+    {
+      "carousel": "category-carousel is-in-view is-looping",
+      "overflow": false,
+      "pretzelAnimation": "pretzel-fall",
+      "reveals": [
+        {
+          "animation": "none",
+          "class": "reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "discovery-icon reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "discovery-icon reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "discovery-icon reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        }
+      ],
+      "width": 1440
+    },
+    {
+      "carousel": "category-carousel is-in-view is-looping",
+      "overflow": false,
+      "pretzelAnimation": "pretzel-fall",
+      "reveals": [
+        {
+          "animation": "none",
+          "class": "reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "discovery-icon reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "discovery-icon reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "animation": "none",
+          "class": "discovery-icon reveal-drop",
+          "opacity": "1",
+          "translate": "none"
+        }
+      ],
+      "width": 390
+    }
+  ],
+  "console": [],
+  "screenshot": "drop-removal-desktop.png"
+}

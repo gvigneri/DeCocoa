@@ -1,0 +1,394 @@
+{
+  "date": "2026-10-24",
+  "scope": "Targeted CUA Chrome checks for category revision; no independent review.",
+  "layout": [
+    {
+      "cards": [
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        }
+      ],
+      "clientWidth": 1905,
+      "discoveryCount": 3,
+      "introWidth": 600,
+      "overflow": false,
+      "trackWidth": 1372,
+      "width": 1920
+    },
+    {
+      "cards": [
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        }
+      ],
+      "clientWidth": 1425,
+      "discoveryCount": 3,
+      "introWidth": 600,
+      "overflow": false,
+      "trackWidth": 1304,
+      "width": 1440
+    },
+    {
+      "cards": [
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 614,
+          "imageHeight": 300,
+          "width": 370
+        }
+      ],
+      "clientWidth": 753,
+      "discoveryCount": 3,
+      "introWidth": 600,
+      "overflow": false,
+      "trackWidth": 689,
+      "width": 768
+    },
+    {
+      "cards": [
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 636,
+          "imageHeight": 280,
+          "width": 303
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 636,
+          "imageHeight": 280,
+          "width": 303
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 636,
+          "imageHeight": 280,
+          "width": 303
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 636,
+          "imageHeight": 280,
+          "width": 303
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 636,
+          "imageHeight": 280,
+          "width": 303
+        }
+      ],
+      "clientWidth": 375,
+      "discoveryCount": 3,
+      "introWidth": 327,
+      "overflow": false,
+      "trackWidth": 327,
+      "width": 390
+    },
+    {
+      "cards": [
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 722,
+          "imageHeight": 280,
+          "width": 241
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 722,
+          "imageHeight": 280,
+          "width": 241
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 722,
+          "imageHeight": 280,
+          "width": 241
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 722,
+          "imageHeight": 280,
+          "width": 241
+        },
+        {
+          "border": "2px",
+          "borderColor": "rgb(58, 23, 13)",
+          "fontSize": "16px",
+          "height": 722,
+          "imageHeight": 280,
+          "width": 241
+        }
+      ],
+      "clientWidth": 305,
+      "discoveryCount": 3,
+      "introWidth": 265,
+      "overflow": false,
+      "trackWidth": 265,
+      "width": 320
+    }
+  ],
+  "keyboard320": [
+    {
+      "label": "Explore Wellness",
+      "left": 32,
+      "outline": "3px",
+      "right": 273,
+      "scrollLeft": 0,
+      "trackLeft": 20,
+      "trackRight": 285
+    },
+    {
+      "label": "Explore One Shot Depositing",
+      "left": 32,
+      "outline": "3px",
+      "right": 273,
+      "scrollLeft": 0,
+      "trackLeft": 20,
+      "trackRight": 285
+    },
+    {
+      "label": "Explore Hollow Moulding",
+      "left": 32,
+      "outline": "3px",
+      "right": 273,
+      "scrollLeft": 0,
+      "trackLeft": 20,
+      "trackRight": 285
+    },
+    {
+      "label": "Explore Mixing",
+      "left": 32,
+      "outline": "3px",
+      "right": 273,
+      "scrollLeft": 0,
+      "trackLeft": 20,
+      "trackRight": 285
+    },
+    {
+      "label": "Explore Dry Filling",
+      "left": 32,
+      "outline": "3px",
+      "right": 273,
+      "scrollLeft": 0,
+      "trackLeft": 20,
+      "trackRight": 285
+    },
+    {
+      "label": "Explore Mixing",
+      "left": 32,
+      "outline": "3px",
+      "right": 273,
+      "scrollLeft": 0,
+      "trackLeft": 20,
+      "trackRight": 285
+    },
+    {
+      "label": "Explore Hollow Moulding",
+      "left": 32,
+      "outline": "3px",
+      "right": 273,
+      "scrollLeft": 0,
+      "trackLeft": 20,
+      "trackRight": 285
+    },
+    {
+      "label": "Explore One Shot Depositing",
+      "left": 32,
+      "outline": "3px",
+      "right": 273,
+      "scrollLeft": 0,
+      "trackLeft": 20,
+      "trackRight": 285
+    },
+    {
+      "label": "Explore Wellness",
+      "left": 32,
+      "outline": "3px",
+      "right": 273,
+      "scrollLeft": 0,
+      "trackLeft": 20,
+      "trackRight": 285
+    }
+  ],
+  "keyboard390": [
+    {
+      "label": "Explore Wellness",
+      "right": 339,
+      "scrollLeft": 0,
+      "x": 36
+    },
+    {
+      "label": "Explore One Shot Depositing",
+      "right": 339,
+      "scrollLeft": 0,
+      "x": 36
+    },
+    {
+      "label": "Explore Hollow Moulding",
+      "right": 339,
+      "scrollLeft": 0,
+      "x": 36
+    },
+    {
+      "label": "Explore Mixing",
+      "right": 339,
+      "scrollLeft": 0,
+      "x": 36
+    },
+    {
+      "label": "Explore Dry Filling",
+      "right": 339,
+      "scrollLeft": 0,
+      "x": 36
+    }
+  ],
+  "globalPauseBefore": {
+    "paused": true,
+    "rowDisabled": true,
+    "x": 406.7437438964844
+  },
+  "globalPauseAfter": {
+    "paused": true,
+    "x": 406.7437438964844
+  },
+  "rightwardBrowserSamples": [
+    108.2197,
+    165.9877
+  ],
+  "hover": {
+    "color": "#E87933",
+    "background": "#170905",
+    "boxShadow": "5px 5px 0 #3A170D"
+  },
+  "destination": "http://127.0.0.1:4174/products/#dry-filling",
+  "limitations": [
+    "Reduced-motion and hidden-tab gates tested in production-state logic, not browser preference switching.",
+    "No physical touch hardware test."
+  ]
+}

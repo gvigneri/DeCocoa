@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-24",
+  "widths": [
+    {
+      "cardWidth": 452.25,
+      "client": 1905,
+      "columns": "4",
+      "discovery": [
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        },
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        },
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        }
+      ],
+      "eyebrows": [
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)"
+      ],
+      "imageHeights": [
+        300,
+        300,
+        300,
+        300,
+        300
+      ],
+      "introMin": "650px",
+      "introWidth": 650,
+      "overflow": false,
+      "primary": "button button-primary",
+      "removedControls": 0,
+      "trackWidth": 1905,
+      "trackX": 0,
+      "width": 1920
+    },
+    {
+      "cardWidth": 332.25,
+      "client": 1425,
+      "columns": "4",
+      "discovery": [
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        },
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        },
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        }
+      ],
+      "eyebrows": [
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)"
+      ],
+      "imageHeights": [
+        300,
+        300,
+        300,
+        300,
+        300
+      ],
+      "introMin": "650px",
+      "introWidth": 650,
+      "overflow": false,
+      "primary": "button button-primary",
+      "removedControls": 0,
+      "trackWidth": 1425,
+      "trackX": 0,
+      "width": 1440
+    },
+    {
+      "cardWidth": 352.5,
+      "client": 753,
+      "columns": "2",
+      "discovery": [
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        },
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        },
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        }
+      ],
+      "eyebrows": [
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)"
+      ],
+      "imageHeights": [
+        300,
+        300,
+        300,
+        300,
+        300
+      ],
+      "introMin": "650px",
+      "introWidth": 650,
+      "overflow": false,
+      "primary": "button button-primary",
+      "removedControls": 0,
+      "trackWidth": 753,
+      "trackX": 0,
+      "width": 768
+    },
+    {
+      "cardWidth": 351,
+      "client": 375,
+      "columns": "1",
+      "discovery": [
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        },
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        },
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        }
+      ],
+      "eyebrows": [
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)"
+      ],
+      "imageHeights": [
+        280,
+        280,
+        280,
+        280,
+        280
+      ],
+      "introMin": "0px",
+      "introWidth": 327,
+      "overflow": false,
+      "primary": "button button-primary",
+      "removedControls": 0,
+      "trackWidth": 375,
+      "trackX": 0,
+      "width": 390
+    },
+    {
+      "cardWidth": 281,
+      "client": 305,
+      "columns": "1",
+      "discovery": [
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        },
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        },
+        {
+          "nestedLinks": 0,
+          "tag": "A",
+          "textAlign": "center"
+        }
+      ],
+      "eyebrows": [
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)",
+        "rgba(0, 0, 0, 0)"
+      ],
+      "imageHeights": [
+        280,
+        280,
+        280,
+        280,
+        280
+      ],
+      "introMin": "0px",
+      "introWidth": 265,
+      "overflow": false,
+      "primary": "button button-primary",
+      "removedControls": 0,
+      "trackWidth": 305,
+      "trackX": 0,
+      "width": 320
+    }
+  ],
+  "mobileKeyboard": [
+    {
+      "label": "Explore Wellness",
+      "right": 293,
+      "scrollLeft": 0,
+      "trackWidth": 305,
+      "x": 12
+    },
+    {
+      "label": "Explore One Shot Depositing",
+      "right": 293,
+      "scrollLeft": 0,
+      "trackWidth": 305,
+      "x": 12
+    },
+    {
+      "label": "Explore Hollow Moulding",
+      "right": 293,
+      "scrollLeft": 0,
+      "trackWidth": 305,
+      "x": 12
+    },
+    {
+      "label": "Explore Mixing",
+      "right": 293,
+      "scrollLeft": 0,
+      "trackWidth": 305,
+      "x": 12
+    },
+    {
+      "label": "Explore Dry Filling",
+      "right": 293,
+      "scrollLeft": 0,
+      "trackWidth": 305,
+      "x": 12
+    }
+  ],
+  "categoryHover": {
+    "background": "rgba(0, 0, 0, 0)",
+    "boxShadow": "none",
+    "color": "rgb(232, 121, 51)",
+    "hover": true,
+    "textShadow": "rgb(58, 23, 13) 1px 1px 0px"
+  },
+  "discoveryHover": {
+    "alignItems": "center",
+    "boxShadow": "rgb(232, 121, 51) 8px 8px 0px 0px",
+    "headingAlign": "center",
+    "hover": true,
+    "nestedLinks": 0,
+    "tag": "A",
+    "textAlign": "center"
+  },
+  "discoveryDestination": "http://127.0.0.1:4174/work-with-us/#gifting",
+  "screenshots": [
+    "fullwidth-categories-1920.jpg",
+    "fullwidth-card-320.jpg",
+    "discovery-button-cards-1440.jpg"
+  ],
+  "limits": [
+    "Runtime reduced-motion preference switching, hidden-tab switching, native touch hardware and non-Chromium browsers were not tested."
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-25",
+  "hidden": true,
+  "drawerCollapsed390": {
+    "clientHeight": 717,
+    "documentOverflow": 0,
+    "drawer": {
+      "bottom": 844,
+      "height": 718.53125,
+      "left": 0,
+      "right": 390,
+      "top": 125.46875,
+      "width": 390,
+      "x": 0,
+      "y": 125.46875
+    },
+    "firstRow": {
+      "bottom": 200.46875,
+      "height": 64,
+      "left": 16,
+      "right": 374,
+      "top": 136.46875,
+      "width": 358,
+      "x": 16,
+      "y": 136.46875
+    },
+    "headerBottom": 125.46875,
+    "justify": "flex-start",
+    "scrollHeight": 717,
+    "windowHeight": 844
+  },
+  "drawerOpen390": {
+    "animation": "phone-submenu-enter",
+    "border": "0px",
+    "clientHeight": 717,
+    "color": "rgb(232, 121, 51)",
+    "drawer": {
+      "bottom": 844,
+      "height": 718.53125,
+      "left": 0,
+      "right": 390,
+      "top": 125.46875,
+      "width": 390,
+      "x": 0,
+      "y": 125.46875
+    },
+    "expanded": "true",
+    "line": {
+      "left": "0px",
+      "right": "0px",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "width": "343px"
+    },
+    "row": {
+      "bottom": 200.46875,
+      "height": 64,
+      "left": 16,
+      "right": 359,
+      "top": 136.46875,
+      "width": 343,
+      "x": 16,
+      "y": 136.46875
+    },
+    "scrollHeight": 718
+  },
+  "collapsePointer390": {
+    "border": "0px",
+    "className": "nav-link submenu-toggle pointer-collapsed",
+    "color": "rgb(58, 23, 13)",
+    "expanded": "false",
+    "focusVisible": false,
+    "hover": true,
+    "line": "matrix(0, 0, 0, 1, 0, 0)"
+  },
+  "scrollDrawer320": {
+    "clientHeight": 589,
+    "documentOverflow": 0,
+    "drawer": {
+      "bottom": 720,
+      "height": 590.65625,
+      "left": 0,
+      "right": 320,
+      "top": 129.34375,
+      "width": 320,
+      "x": 0,
+      "y": 129.34375
+    },
+    "header": {
+      "bottom": 129.34375,
+      "height": 129.34375,
+      "left": 0,
+      "right": 320,
+      "top": 0,
+      "width": 320,
+      "x": 0,
+      "y": 0
+    },
+    "layers": {
+      "background": "rgb(232, 121, 51)",
+      "chrome": "1",
+      "controls": "2",
+      "drawer": "0"
+    },
+    "row": {
+      "bottom": 204.34375,
+      "height": 64,
+      "left": 16,
+      "right": 289,
+      "top": 140.34375,
+      "width": 273,
+      "x": 16,
+      "y": 140.34375
+    },
+    "scrollHeight": 718,
+    "scrollTop": 0,
+    "windowHeight": 720
+  },
+  "internalScroll320": {
+    "clientHeight": 589,
+    "drawer": {
+      "bottom": 720,
+      "height": 590.65625,
+      "left": 0,
+      "right": 320,
+      "top": 129.34375,
+      "width": 320,
+      "x": 0,
+      "y": 129.34375
+    },
+    "expanded": "true",
+    "lastLink": {
+      "bottom": 695.34375,
+      "height": 59,
+      "left": 16,
+      "right": 289,
+      "top": 636.34375,
+      "width": 273,
+      "x": 16,
+      "y": 636.34375
+    },
+    "pageY": 573,
+    "scrollHeight": 718,
+    "scrollTop": 129
+  },
+  "interiorCollapse320": {
+    "border": "0px",
+    "color": "rgb(58, 23, 13)",
+    "expanded": "false",
+    "hover": true,
+    "line": "matrix(0, 0, 0, 1, 0, 0)",
+    "text": "Our People"
+  },
+  "finalKeyboardCue": {
+    "color": "rgb(232, 121, 51)",
+    "focus": "Our Craft",
+    "focusVisible": true,
+    "line": "matrix(1, 0, 0, 1, 0, 0)"
+  },
+  "closeEscape": {
+    "expanded": "false",
+    "focus": "menu-toggle",
+    "label": "Menu",
+    "locked": "homepage motion-ready"
+  },
+  "desktopKeyboard": {
+    "expanded": "true",
+    "focus": "Products",
+    "overflow": -15,
+    "phoneDrawerHeight": "54px"
+  },
+  "desktopEscape": {
+    "expanded": "false",
+    "focus": "Our Chocolate"
+  },
+  "drawerConsole": [],
+  "scope": "Targeted implementation checks; reduced-motion overrides source-checked, no runtime preference change."
+}

@@ -1,0 +1,75 @@
+{
+  "vector_exports": "assets/vector-export-details.json",
+  "filled-chocolate": {
+    "original": "Bark filled.png",
+    "dimensions": [
+      872,
+      496
+    ],
+    "operation": "alpha-bounds crop, proportional resize, WebP RGBA"
+  },
+  "chocolate-bar": {
+    "original": "Bark.png",
+    "dimensions": [
+      905,
+      1500
+    ],
+    "operation": "alpha-bounds crop, proportional resize, WebP RGBA"
+  },
+  "cocoa-powder": {
+    "original": "Chocolate Powder.png",
+    "dimensions": [
+      1500,
+      642
+    ],
+    "operation": "alpha-bounds crop, proportional resize, WebP RGBA"
+  },
+  "nuts-and-chocolate": {
+    "original": "Nuts Upscale.png",
+    "dimensions": [
+      1500,
+      876
+    ],
+    "operation": "alpha-bounds crop, proportional resize, WebP RGBA"
+  },
+  "chocolate-drizzle": {
+    "original": "Wellness.png",
+    "dimensions": [
+      1500,
+      1486
+    ],
+    "operation": "alpha-bounds crop, proportional resize, WebP RGBA"
+  },
+  "dipped-pretzels": {
+    "original": "Pretzels.png",
+    "dimensions": [
+      1085,
+      1500
+    ],
+    "operation": "alpha-bounds crop, proportional resize, WebP RGBA"
+  },
+  "dipped-pretzel": {
+    "original": "Pretzel + RedGreen sprinkles.png",
+    "dimensions": [
+      1326,
+      1138
+    ],
+    "operation": "alpha-bounds crop, proportional resize, WebP RGBA"
+  },
+  "people-at-work": {
+    "original": "wireframe page 2 Pattern resource P179-X4.jpg",
+    "dimensions": [
+      1229,
+      697
+    ],
+    "operation": "WebP RGB; original framing; provisional photography"
+  },
+  "chocolate-craft": {
+    "original": "wireframe page 2 Pattern resource P184-X17.jpg",
+    "dimensions": [
+      931,
+      696
+    ],
+    "operation": "WebP RGB; original framing; provisional photography"
+  }
+}

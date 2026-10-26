@@ -1,0 +1,54 @@
+{
+  "heading_ranks_preserved": true,
+  "pages": {
+    "prototype\\index.html": {
+      "h1": 1,
+      "h2": 11,
+      "h3": 9,
+      "h4": 3
+    },
+    "prototype\\products\\index.html": {
+      "h1": 1,
+      "h2": 9,
+      "h3": 3
+    },
+    "prototype\\products\\filled-chocolate\\index.html": {
+      "h1": 1,
+      "h2": 4,
+      "h3": 2
+    },
+    "prototype\\products\\chocolate-bar\\index.html": {
+      "h1": 1,
+      "h2": 4,
+      "h3": 2
+    },
+    "prototype\\products\\chocolate-drizzle\\index.html": {
+      "h1": 1,
+      "h2": 4,
+      "h3": 2
+    },
+    "prototype\\our-people\\index.html": {
+      "h1": 1,
+      "h2": 6
+    },
+    "prototype\\our-craft\\index.html": {
+      "h1": 1,
+      "h2": 6,
+      "h3": 5
+    },
+    "prototype\\experience-center\\index.html": {
+      "h1": 1,
+      "h2": 6
+    },
+    "prototype\\work-with-us\\index.html": {
+      "h1": 1,
+      "h2": 9,
+      "h3": 2
+    },
+    "prototype\\404.html": {
+      "h1": 1,
+      "h2": 3
+    }
+  },
+  "paired_heading_count": 21
+}

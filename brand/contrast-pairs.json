@@ -1,0 +1,65 @@
+[
+  {
+    "foreground": "chocolate",
+    "background": "cream",
+    "ratio": 11.51,
+    "normal_text_AA": true,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "chocolate",
+    "background": "orange",
+    "ratio": 4.5,
+    "normal_text_AA": true,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "cream",
+    "background": "chocolate",
+    "ratio": 11.51,
+    "normal_text_AA": true,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "cream",
+    "background": "leaf",
+    "ratio": 4.41,
+    "normal_text_AA": false,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "orange",
+    "background": "cream",
+    "ratio": 2.56,
+    "normal_text_AA": false,
+    "large_text_AA": false
+  },
+  {
+    "foreground": "chocolate",
+    "background": "blush",
+    "ratio": 8.68,
+    "normal_text_AA": true,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "chocolate",
+    "background": "fresh",
+    "ratio": 5.83,
+    "normal_text_AA": true,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "chocolate",
+    "background": "sunrise",
+    "ratio": 7.94,
+    "normal_text_AA": true,
+    "large_text_AA": true
+  },
+  {
+    "foreground": "cream",
+    "background": "ripe",
+    "ratio": 3.62,
+    "normal_text_AA": false,
+    "large_text_AA": true
+  }
+]

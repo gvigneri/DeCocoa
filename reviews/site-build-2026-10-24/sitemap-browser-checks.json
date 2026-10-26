@@ -1,0 +1,1025 @@
+{
+  "routes": [
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "CHOCOLATE CRAFTERS\nExperience.\nChocolate."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/",
+      "sections": [],
+      "title": "Experience. Chocolate. | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "OUR CHOCOLATE\nChocolate possibilities."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/products/",
+      "sections": [],
+      "title": "Our Chocolate | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "OUR CHOCOLATE\nFilled Chocolate"
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/products/filled-chocolate/",
+      "sections": [],
+      "title": "Filled Chocolate | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "OUR CHOCOLATE\nChocolate Bar"
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/products/chocolate-bar/",
+      "sections": [],
+      "title": "Chocolate Bar | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "OUR CHOCOLATE\nChocolate Drizzle"
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/products/chocolate-drizzle/",
+      "sections": [],
+      "title": "Chocolate Drizzle | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "OUR PEOPLE\nThe heart behind the chocolate."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/our-people/",
+      "sections": [
+        {
+          "id": "our-roots",
+          "title": "Our Roots"
+        },
+        {
+          "id": "our-principals",
+          "title": "Our Principals"
+        },
+        {
+          "id": "our-values",
+          "title": "Our Values"
+        },
+        {
+          "id": "sweet-careers",
+          "title": "Sweet Careers"
+        }
+      ],
+      "title": "Our People | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "OUR CRAFT\nCuriosity in the making."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/our-craft/",
+      "sections": [
+        {
+          "id": "promise",
+          "title": "Promise"
+        },
+        {
+          "id": "focus",
+          "title": "Focus"
+        },
+        {
+          "id": "sustainability",
+          "title": "Sustainability"
+        },
+        {
+          "id": "food-safety",
+          "title": "Food Safety"
+        },
+        {
+          "id": "our-segments",
+          "title": "Our Segments"
+        }
+      ],
+      "title": "Our Craft | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "EXPERIENCE CENTER\nCome curious. Think chocolate."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/experience-center/",
+      "sections": [
+        {
+          "id": "how-its-made",
+          "title": "How It’s Made"
+        },
+        {
+          "id": "museum-virtual-exhibition",
+          "title": "Museum & Virtual Exhibition"
+        },
+        {
+          "id": "tours-and-classes",
+          "title": "Tours and Classes"
+        }
+      ],
+      "title": "Experience Center | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "GIFTING\nChocolate gifts, with your idea at heart."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/gifting/",
+      "sections": [
+        {
+          "id": "occasions",
+          "title": "Personal occasions"
+        },
+        {
+          "id": "corporate-gifts",
+          "title": "Chocolate for your team."
+        },
+        {
+          "id": "planning-details",
+          "title": "Planning details"
+        }
+      ],
+      "title": "Chocolate Gifting | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "CRAFT YOUR OWN\nCraft your own chocolate bar or basket."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/craft-your-own/",
+      "sections": [
+        {
+          "id": "chocolate-bars",
+          "title": "Chocolate Bars"
+        },
+        {
+          "id": "baskets",
+          "title": "Baskets & gift boxes"
+        },
+        {
+          "id": "share-your-idea",
+          "title": "Share Your Idea"
+        }
+      ],
+      "title": "Craft Your Own Chocolate | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "FUNDRAISING\nBring chocolate into your fundraising idea."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/fundraising/",
+      "sections": [
+        {
+          "id": "your-group",
+          "title": "Your Group & Goal"
+        },
+        {
+          "id": "your-idea",
+          "title": "Chocolate Possibilities"
+        },
+        {
+          "id": "your-questions",
+          "title": "Plan the Conversation"
+        }
+      ],
+      "title": "Chocolate Fundraising | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "WHOLESALE\nExplore chocolate for your business."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/wholesale/",
+      "sections": [
+        {
+          "id": "your-business",
+          "title": "Tell us about your business."
+        },
+        {
+          "id": "product-interests",
+          "title": "Explore the chocolate."
+        },
+        {
+          "id": "wholesale-questions",
+          "title": "Start a wholesale inquiry."
+        }
+      ],
+      "title": "Wholesale Chocolate | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "B2B\nA starting point for your chocolate project."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/b2b/",
+      "sections": [
+        {
+          "id": "product-ideas",
+          "title": "Begin with your product idea."
+        },
+        {
+          "id": "craft-and-process",
+          "title": "Connect the idea with the craft."
+        },
+        {
+          "id": "your-project-brief",
+          "title": "A useful project brief"
+        }
+      ],
+      "title": "B2B Chocolate Projects | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "LET'S TALK\nTell us what you have in mind."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/lets-talk/",
+      "sections": [],
+      "title": "Let's Talk | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "PAGE NOT FOUND\nSomething is missing."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/404.html",
+      "sections": [],
+      "title": "Page Not Found | DeCocoa",
+      "width": 1440
+    }
+  ],
+  "responsive": [
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "OUR CHOCOLATE\nChocolate possibilities."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/products/",
+      "sections": [],
+      "title": "Our Chocolate | DeCocoa",
+      "width": 320
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "OUR PEOPLE\nThe heart behind the chocolate."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/our-people/",
+      "sections": [
+        {
+          "id": "our-roots",
+          "title": "Our Roots"
+        },
+        {
+          "id": "our-principals",
+          "title": "Our Principals"
+        },
+        {
+          "id": "our-values",
+          "title": "Our Values"
+        },
+        {
+          "id": "sweet-careers",
+          "title": "Sweet Careers"
+        }
+      ],
+      "title": "Our People | DeCocoa",
+      "width": 320
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "OUR CRAFT\nCuriosity in the making."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/our-craft/",
+      "sections": [
+        {
+          "id": "promise",
+          "title": "Promise"
+        },
+        {
+          "id": "focus",
+          "title": "Focus"
+        },
+        {
+          "id": "sustainability",
+          "title": "Sustainability"
+        },
+        {
+          "id": "food-safety",
+          "title": "Food Safety"
+        },
+        {
+          "id": "our-segments",
+          "title": "Our Segments"
+        }
+      ],
+      "title": "Our Craft | DeCocoa",
+      "width": 320
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "EXPERIENCE CENTER\nCome curious. Think chocolate."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/experience-center/",
+      "sections": [
+        {
+          "id": "how-its-made",
+          "title": "How It’s Made"
+        },
+        {
+          "id": "museum-virtual-exhibition",
+          "title": "Museum & Virtual Exhibition"
+        },
+        {
+          "id": "tours-and-classes",
+          "title": "Tours and Classes"
+        }
+      ],
+      "title": "Experience Center | DeCocoa",
+      "width": 320
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "GIFTING\nChocolate gifts, with your idea at heart."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/gifting/",
+      "sections": [
+        {
+          "id": "occasions",
+          "title": "Personal occasions"
+        },
+        {
+          "id": "corporate-gifts",
+          "title": "Chocolate for your team."
+        },
+        {
+          "id": "planning-details",
+          "title": "Planning details"
+        }
+      ],
+      "title": "Chocolate Gifting | DeCocoa",
+      "width": 320
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "CRAFT YOUR OWN\nCraft your own chocolate bar or basket."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/craft-your-own/",
+      "sections": [
+        {
+          "id": "chocolate-bars",
+          "title": "Chocolate Bars"
+        },
+        {
+          "id": "baskets",
+          "title": "Baskets & gift boxes"
+        },
+        {
+          "id": "share-your-idea",
+          "title": "Share Your Idea"
+        }
+      ],
+      "title": "Craft Your Own Chocolate | DeCocoa",
+      "width": 320
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "FUNDRAISING\nBring chocolate into your fundraising idea."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/fundraising/",
+      "sections": [
+        {
+          "id": "your-group",
+          "title": "Your Group & Goal"
+        },
+        {
+          "id": "your-idea",
+          "title": "Chocolate Possibilities"
+        },
+        {
+          "id": "your-questions",
+          "title": "Plan the Conversation"
+        }
+      ],
+      "title": "Chocolate Fundraising | DeCocoa",
+      "width": 320
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "WHOLESALE\nExplore chocolate for your business."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/wholesale/",
+      "sections": [
+        {
+          "id": "your-business",
+          "title": "Tell us about your business."
+        },
+        {
+          "id": "product-interests",
+          "title": "Explore the chocolate."
+        },
+        {
+          "id": "wholesale-questions",
+          "title": "Start a wholesale inquiry."
+        }
+      ],
+      "title": "Wholesale Chocolate | DeCocoa",
+      "width": 320
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "B2B\nA starting point for your chocolate project."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/b2b/",
+      "sections": [
+        {
+          "id": "product-ideas",
+          "title": "Begin with your product idea."
+        },
+        {
+          "id": "craft-and-process",
+          "title": "Connect the idea with the craft."
+        },
+        {
+          "id": "your-project-brief",
+          "title": "A useful project brief"
+        }
+      ],
+      "title": "B2B Chocolate Projects | DeCocoa",
+      "width": 320
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "LET'S TALK\nTell us what you have in mind."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/lets-talk/",
+      "sections": [],
+      "title": "Let's Talk | DeCocoa",
+      "width": 320
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "CHOCOLATE CRAFTERS\nExperience.\nChocolate."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/",
+      "sections": [],
+      "title": "Experience. Chocolate. | DeCocoa",
+      "width": 1920
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "CHOCOLATE CRAFTERS\nExperience.\nChocolate."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/",
+      "sections": [],
+      "title": "Experience. Chocolate. | DeCocoa",
+      "width": 1440
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "CHOCOLATE CRAFTERS\nExperience.\nChocolate."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/",
+      "sections": [],
+      "title": "Experience. Chocolate. | DeCocoa",
+      "width": 768
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "CHOCOLATE CRAFTERS\nExperience.\nChocolate."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/",
+      "sections": [],
+      "title": "Experience. Chocolate. | DeCocoa",
+      "width": 390
+    },
+    {
+      "brokenVisibleTitles": [],
+      "h1": [
+        "CHOCOLATE CRAFTERS\nExperience.\nChocolate."
+      ],
+      "navGroups": 4,
+      "oldLabel": false,
+      "oldLinks": 0,
+      "overflow": false,
+      "panels": 8,
+      "route": "/",
+      "sections": [],
+      "title": "Experience. Chocolate. | DeCocoa",
+      "width": 320
+    }
+  ],
+  "menus": [
+    {
+      "focus": "Products",
+      "header": "original",
+      "links": [
+        {
+          "href": "products/",
+          "label": "Products"
+        },
+        {
+          "href": "gifting/",
+          "label": "Gifting"
+        },
+        {
+          "href": "craft-your-own/",
+          "label": "Craft Your Own"
+        },
+        {
+          "href": "fundraising/",
+          "label": "Fundraising"
+        },
+        {
+          "href": "wholesale/",
+          "label": "Wholesale"
+        },
+        {
+          "href": "b2b/",
+          "label": "B2B"
+        }
+      ],
+      "openCount": 1,
+      "panel": "main-products-menu",
+      "returnFocus": "Our Chocolate"
+    },
+    {
+      "focus": "Our Roots",
+      "header": "original",
+      "links": [
+        {
+          "href": "our-people/#our-roots",
+          "label": "Our Roots"
+        },
+        {
+          "href": "our-people/#our-principals",
+          "label": "Our Principals"
+        },
+        {
+          "href": "our-people/#our-values",
+          "label": "Our Values"
+        },
+        {
+          "href": "our-people/#sweet-careers",
+          "label": "Sweet Careers"
+        }
+      ],
+      "openCount": 1,
+      "panel": "main-our-people-menu",
+      "returnFocus": "Our People"
+    },
+    {
+      "focus": "Promise",
+      "header": "original",
+      "links": [
+        {
+          "href": "our-craft/#promise",
+          "label": "Promise"
+        },
+        {
+          "href": "our-craft/#focus",
+          "label": "Focus"
+        },
+        {
+          "href": "our-craft/#sustainability",
+          "label": "Sustainability"
+        },
+        {
+          "href": "our-craft/#food-safety",
+          "label": "Food Safety"
+        },
+        {
+          "href": "our-craft/#our-segments",
+          "label": "Our Segments"
+        }
+      ],
+      "openCount": 1,
+      "panel": "main-our-craft-menu",
+      "returnFocus": "Our Craft"
+    },
+    {
+      "focus": "How It’s Made",
+      "header": "original",
+      "links": [
+        {
+          "href": "experience-center/#how-its-made",
+          "label": "How It’s Made"
+        },
+        {
+          "href": "experience-center/#museum-virtual-exhibition",
+          "label": "Museum & Virtual Exhibition"
+        },
+        {
+          "href": "experience-center/#tours-and-classes",
+          "label": "Tours and Classes"
+        }
+      ],
+      "openCount": 1,
+      "panel": "main-experience-center-menu",
+      "returnFocus": "Experience Center"
+    },
+    {
+      "focus": "Products",
+      "header": "mobile-original",
+      "open": [
+        "main-products-menu"
+      ],
+      "width": 320,
+      "returnFocus": "Our Chocolate"
+    },
+    {
+      "focus": "Our Roots",
+      "header": "mobile-original",
+      "open": [
+        "main-our-people-menu"
+      ],
+      "width": 320,
+      "returnFocus": "Our People"
+    },
+    {
+      "focus": "Promise",
+      "header": "mobile-original",
+      "open": [
+        "main-our-craft-menu"
+      ],
+      "width": 320,
+      "returnFocus": "Our Craft"
+    },
+    {
+      "focus": "How It’s Made",
+      "header": "mobile-original",
+      "open": [
+        "main-experience-center-menu"
+      ],
+      "width": 320,
+      "returnFocus": "Experience Center"
+    },
+    {
+      "focus": "Products",
+      "header": "scroll",
+      "open": [
+        "scroll-products-menu"
+      ],
+      "returnFocus": "Our Chocolate"
+    },
+    {
+      "focus": "Our Roots",
+      "header": "scroll",
+      "open": [
+        "scroll-our-people-menu"
+      ],
+      "returnFocus": "Our People"
+    },
+    {
+      "focus": "Promise",
+      "header": "scroll",
+      "open": [
+        "scroll-our-craft-menu"
+      ],
+      "returnFocus": "Our Craft"
+    },
+    {
+      "focus": "How It’s Made",
+      "header": "scroll",
+      "open": [
+        "scroll-experience-center-menu"
+      ],
+      "returnFocus": "Experience Center"
+    }
+  ],
+  "jumps": [
+    {
+      "bodyOverflow": "",
+      "bottom": 219.125,
+      "focus": "sweet-careers-title",
+      "openMenus": 0,
+      "openPanels": 0,
+      "stickyBottom": 132,
+      "stickyVisible": true,
+      "tag": "H2",
+      "text": "Sweet Careers",
+      "top": 181.046875,
+      "url": "http://127.0.0.1:4174/our-people/#sweet-careers"
+    },
+    {
+      "bodyOverflow": "",
+      "bottom": 218.171875,
+      "focus": "our-roots-title",
+      "openMenus": 0,
+      "openPanels": 0,
+      "stickyBottom": 132,
+      "stickyVisible": true,
+      "tag": "H2",
+      "text": "Our Roots",
+      "top": 180.09375,
+      "url": "http://127.0.0.1:4174/our-people/#our-roots"
+    },
+    {
+      "bodyOverflow": "",
+      "bottom": 219.3125,
+      "focus": "our-principals-title",
+      "openMenus": 0,
+      "openPanels": 0,
+      "stickyBottom": -13.199996948242188,
+      "stickyVisible": false,
+      "tag": "H2",
+      "text": "Our Principals",
+      "top": 181.234375,
+      "url": "http://127.0.0.1:4174/our-people/#our-principals"
+    },
+    {
+      "bodyOverflow": "",
+      "bottom": 224.4375,
+      "focus": "food-safety-title",
+      "openMenus": 0,
+      "openPanels": 0,
+      "stickyBottom": 112,
+      "stickyVisible": true,
+      "tag": "H2",
+      "text": "Food Safety",
+      "top": 170.6875,
+      "url": "http://127.0.0.1:4174/our-craft/#food-safety"
+    },
+    {
+      "bodyOverflow": "",
+      "bottom": 225.203125,
+      "focus": "museum-virtual-exhibition-title",
+      "openMenus": 0,
+      "openPanels": 0,
+      "stickyBottom": 112,
+      "stickyVisible": true,
+      "tag": "H2",
+      "text": "Museum & Virtual Exhibition",
+      "top": 171.453125,
+      "url": "http://127.0.0.1:4174/experience-center/#museum-virtual-exhibition"
+    }
+  ],
+  "contexts": [
+    {
+      "fieldsEnabled": true,
+      "focus": "talk-title",
+      "product": "",
+      "topic": "Gifting",
+      "url": "http://127.0.0.1:4174/lets-talk/?topic=Gifting#inquiry"
+    },
+    {
+      "fieldsEnabled": true,
+      "focus": "talk-title",
+      "product": "",
+      "topic": "Craft Your Own",
+      "url": "http://127.0.0.1:4174/lets-talk/?topic=Craft%20Your%20Own#inquiry"
+    },
+    {
+      "fieldsEnabled": true,
+      "focus": "talk-title",
+      "product": "",
+      "topic": "Fundraising",
+      "url": "http://127.0.0.1:4174/lets-talk/?topic=Fundraising#inquiry"
+    },
+    {
+      "fieldsEnabled": true,
+      "focus": "talk-title",
+      "product": "",
+      "topic": "Wholesale",
+      "url": "http://127.0.0.1:4174/lets-talk/?topic=Wholesale#inquiry"
+    },
+    {
+      "fieldsEnabled": true,
+      "focus": "talk-title",
+      "product": "",
+      "topic": "B2B",
+      "url": "http://127.0.0.1:4174/lets-talk/?topic=B2B#inquiry"
+    },
+    {
+      "focus": "talk-title",
+      "product": "",
+      "topic": "Sweet Careers",
+      "url": "http://127.0.0.1:4174/lets-talk/?topic=Sweet%20Careers#inquiry"
+    }
+  ],
+  "legacy": [
+    {
+      "focus": "talk-title",
+      "product": "filled-chocolate",
+      "url": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products&product=filled-chocolate#inquiry"
+    },
+    {
+      "h1": "GIFTING\nChocolate gifts, with your idea at heart.",
+      "url": "http://127.0.0.1:4174/gifting/"
+    },
+    {
+      "bodyOverflow": "",
+      "bottom": 291.140625,
+      "focus": "baskets-title",
+      "openMenus": 0,
+      "openPanels": 0,
+      "stickyBottom": 84.51935386657715,
+      "stickyVisible": true,
+      "tag": "H2",
+      "text": "Baskets & gift boxes",
+      "top": 237.390625,
+      "url": "http://127.0.0.1:4174/craft-your-own/#baskets"
+    },
+    {
+      "h1": "B2B\nA starting point for your chocolate project.",
+      "url": "http://127.0.0.1:4174/b2b/"
+    }
+  ],
+  "siblingSwitch": [
+    "scroll-our-craft-menu"
+  ],
+  "hover": {
+    "expanded": "true",
+    "hover": true,
+    "openPanels": [
+      "scroll-experience-center-menu"
+    ]
+  },
+  "form": {
+    "focus": "",
+    "retainedMessage": "Local-only inquiry validation check.",
+    "retainedName": "Local Preview Check",
+    "status": "Message delivery is not connected yet."
+  },
+  "console": [],
+  "screenshots": [
+    "sitemap-gifting-final.jpg",
+    "sitemap-navigation-final.jpg"
+  ]
+}

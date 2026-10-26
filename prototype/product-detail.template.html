@@ -1,0 +1,6 @@
+<div class="container breadcrumb"><nav aria-label="Breadcrumb"><a href="{{url:}}">Home</a><span aria-hidden="true">/</span><a href="{{url:products/}}">Our Chocolate</a><span aria-hidden="true">/</span><span aria-current="page">{{product-title}}</span></nav></div>
+<section class="container product-detail" aria-labelledby="page-title">
+  <div class="card product-image {{product-class}}"><img src="{{asset:images/{{product-image}}}}" width="{{product-width}}" height="{{product-height}}" alt="{{product-alt}}" fetchpriority="high"></div>
+  <div class="detail-copy"><h1 id="page-title" class="section-title"><span class="eyebrow">Our Chocolate</span> <span class="heading-title">{{product-title}}</span></h1><p class="lead">{{product-description}}</p><p>{{product-detail}}</p><a class="button button-primary" href="{{product-inquiry}}">Ask About This Chocolate</a><a class="text-link" href="{{url:products/}}">Explore all chocolate</a></div>
+</section>
+<section class="container content-section" aria-labelledby="more-title"><h2 id="more-title" class="section-title"><span class="eyebrow">Keep exploring</span> <span class="heading-title">More chocolate possibilities.</span></h2><div class="product-grid related-products">{{related-products}}</div></section>

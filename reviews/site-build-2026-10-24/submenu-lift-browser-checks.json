@@ -1,0 +1,158 @@
+{
+  "states": [
+    {
+      "phase": "original-entry",
+      "panels": [
+        {
+          "animations": "submenu-enter, submenu-shadow",
+          "border": "0px",
+          "bottom": 609.9375,
+          "delays": "0s, 0.22s",
+          "durations": "0.22s, 0.18s",
+          "id": "main-products-menu",
+          "left": 919,
+          "opacity": "0",
+          "overflow": false,
+          "right": 1209,
+          "shadow": "rgba(0, 0, 0, 0) 10px 10px 0px 0px",
+          "top": 249.9375,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ]
+    },
+    {
+      "phase": "original-settled",
+      "panels": [
+        {
+          "animations": "submenu-enter, submenu-shadow",
+          "border": "0px",
+          "bottom": 605.9375,
+          "delays": "0s, 0.22s",
+          "durations": "0.22s, 0.18s",
+          "id": "main-products-menu",
+          "left": 915,
+          "opacity": "1",
+          "overflow": false,
+          "right": 1205,
+          "shadow": "rgb(184, 59, 40) 6px 6px 0px 0px",
+          "top": 245.9375,
+          "transform": "matrix(1, 0, 0, 1, -4, -4)"
+        }
+      ]
+    },
+    {
+      "phase": "scroll-entry",
+      "panels": [
+        {
+          "animations": "submenu-enter, submenu-shadow",
+          "border": "0px",
+          "bottom": 447,
+          "delays": "0s, 0.22s",
+          "durations": "0.22s, 0.18s",
+          "id": "scroll-products-menu",
+          "left": 875.296875,
+          "opacity": "0",
+          "overflow": false,
+          "right": 1165.296875,
+          "shadow": "rgba(0, 0, 0, 0) 10px 10px 0px 0px",
+          "top": 87,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ]
+    },
+    {
+      "phase": "scroll-settled",
+      "panels": [
+        {
+          "animations": "submenu-enter, submenu-shadow",
+          "border": "0px",
+          "bottom": 443,
+          "delays": "0s, 0.22s",
+          "durations": "0.22s, 0.18s",
+          "id": "scroll-products-menu",
+          "left": 871.296875,
+          "opacity": "1",
+          "overflow": false,
+          "right": 1161.296875,
+          "shadow": "rgb(184, 59, 40) 6px 6px 0px 0px",
+          "top": 83,
+          "transform": "matrix(1, 0, 0, 1, -4, -4)"
+        }
+      ]
+    },
+    {
+      "phase": "mobile-settled",
+      "panels": [
+        {
+          "animations": "submenu-enter, submenu-shadow",
+          "border": "0px",
+          "bottom": 585,
+          "delays": "0s, 0.22s",
+          "durations": "0.22s, 0.18s",
+          "id": "main-products-menu",
+          "left": 20,
+          "opacity": "1",
+          "overflow": false,
+          "right": 347,
+          "shadow": "rgb(184, 59, 40) 6px 6px 0px 0px",
+          "top": 224,
+          "transform": "matrix(1, 0, 0, 1, -4, -4)"
+        }
+      ]
+    }
+  ],
+  "keyboard": [
+    {
+      "focus": "Products",
+      "phase": "original-entry-focus"
+    },
+    {
+      "controls": "main-products-menu",
+      "focus": "Our Chocolate",
+      "open": 0,
+      "phase": "original-escape"
+    },
+    {
+      "focus": "Products",
+      "phase": "scroll-entry-focus"
+    },
+    {
+      "controls": "scroll-products-menu",
+      "focus": "Our Chocolate",
+      "open": 0,
+      "phase": "scroll-escape"
+    },
+    {
+      "focus": "BODY",
+      "focusVisible": false,
+      "left": 0,
+      "phase": "mobile-entry-focus",
+      "right": 390,
+      "top": 0,
+      "note": "Untargeted key did not focus submenu; verified with trigger-targeted ArrowDown in subsequent check."
+    },
+    {
+      "focus": "Menu",
+      "menuOpen": false,
+      "open": 0,
+      "phase": "mobile-escape"
+    },
+    {
+      "focus": "Products",
+      "focusVisible": true,
+      "left": 32.983360290527344,
+      "open": 1,
+      "phase": "mobile-entry-focus-confirmed",
+      "right": 335.98336029052734,
+      "tag": "A",
+      "top": 239.98336791992188
+    },
+    {
+      "focus": "Menu",
+      "menuOpen": false,
+      "open": 0,
+      "phase": "mobile-confirmed-escape"
+    }
+  ],
+  "console": []
+}

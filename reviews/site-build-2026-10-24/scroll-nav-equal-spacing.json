@@ -1,0 +1,114 @@
+[
+  {
+    "items": [
+      {
+        "right": 676.640625,
+        "text": "Our Chocolate",
+        "textAlign": "left",
+        "underlineLeft": "0px",
+        "x": 532.28125
+      },
+      {
+        "right": 851.65625,
+        "text": "Our People",
+        "textAlign": "left",
+        "underlineLeft": "0px",
+        "x": 738.421875
+      },
+      {
+        "right": 1005.03125,
+        "text": "Our Craft",
+        "textAlign": "left",
+        "underlineLeft": "0px",
+        "x": 913.453125
+      },
+      {
+        "right": 1250.640625,
+        "text": "Experience Center",
+        "textAlign": "left",
+        "underlineLeft": "0px",
+        "x": 1066.8125
+      },
+      {
+        "right": 1450.703125,
+        "text": "Work With Us",
+        "textAlign": "left",
+        "underlineLeft": "0px",
+        "x": 1312.421875
+      }
+    ],
+    "justify": "space-evenly",
+    "nav": {
+      "right": 1512.5,
+      "x": 470.5
+    },
+    "overflow": false,
+    "shellGap": "0px",
+    "spaces": [
+      61.78125,
+      61.78125,
+      61.796875,
+      61.78125,
+      61.78125,
+      61.796875
+    ],
+    "visible": true,
+    "width": 1920
+  },
+  {
+    "items": [
+      {
+        "right": 484.640625,
+        "text": "Our Chocolate",
+        "textAlign": "left",
+        "underlineLeft": "0px",
+        "x": 340.28125
+      },
+      {
+        "right": 659.65625,
+        "text": "Our People",
+        "textAlign": "left",
+        "underlineLeft": "0px",
+        "x": 546.421875
+      },
+      {
+        "right": 813.03125,
+        "text": "Our Craft",
+        "textAlign": "left",
+        "underlineLeft": "0px",
+        "x": 721.453125
+      },
+      {
+        "right": 1058.640625,
+        "text": "Experience Center",
+        "textAlign": "left",
+        "underlineLeft": "0px",
+        "x": 874.8125
+      },
+      {
+        "right": 1258.703125,
+        "text": "Work With Us",
+        "textAlign": "left",
+        "underlineLeft": "0px",
+        "x": 1120.421875
+      }
+    ],
+    "justify": "space-evenly",
+    "nav": {
+      "right": 1320.5,
+      "x": 278.5
+    },
+    "overflow": false,
+    "shellGap": "0px",
+    "spaces": [
+      61.78125,
+      61.78125,
+      61.796875,
+      61.78125,
+      61.78125,
+      61.796875
+    ],
+    "visible": true,
+    "width": 1536
+  }
+]

@@ -1,0 +1,410 @@
+{
+  "date": "2026-10-25",
+  "visible": false,
+  "homepage": [
+    {
+      "cardTextColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "clientWidth": 1905,
+      "documentWidth": 1905,
+      "pureWhiteTextCount": 0,
+      "titles": [
+        {
+          "fontSize": "96px",
+          "spacing": "-5.28px",
+          "text": "Experience.Chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "96px",
+          "spacing": "-5.28px",
+          "text": "Chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "62px",
+          "spacing": "-3.41px",
+          "text": "Chocolate possibilities. Crafted with curiosity.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "62px",
+          "spacing": "-3.41px",
+          "text": "The heart behind the chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "62px",
+          "spacing": "-3.41px",
+          "text": "chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "56px",
+          "spacing": "-3.08px",
+          "text": "Our Partners",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "56px",
+          "spacing": "-3.08px",
+          "text": "Chocolate craftsmanship, with purpose.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "56px",
+          "spacing": "-3.08px",
+          "text": "Our Certifications",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "62px",
+          "spacing": "-3.41px",
+          "text": "Come curious.Think chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "62px",
+          "spacing": "-3.41px",
+          "text": "Think chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "65px",
+          "spacing": "-3.575px",
+          "text": "Tell us what youhave in mind.",
+          "textOverflow": false
+        }
+      ],
+      "width": 1920
+    },
+    {
+      "cardTextColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "clientWidth": 1425,
+      "documentWidth": 1425,
+      "pureWhiteTextCount": 0,
+      "titles": [
+        {
+          "fontSize": "84.96px",
+          "spacing": "-4.6728px",
+          "text": "Experience.Chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "84.96px",
+          "spacing": "-4.6728px",
+          "text": "Chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "60.48px",
+          "spacing": "-3.3264px",
+          "text": "Chocolate possibilities. Crafted with curiosity.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "57.6px",
+          "spacing": "-3.168px",
+          "text": "The heart behind the chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "57.6px",
+          "spacing": "-3.168px",
+          "text": "chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "51.84px",
+          "spacing": "-2.8512px",
+          "text": "Our Partners",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "56px",
+          "spacing": "-3.08px",
+          "text": "Chocolate craftsmanship, with purpose.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "51.84px",
+          "spacing": "-2.8512px",
+          "text": "Our Certifications",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "57.6px",
+          "spacing": "-3.168px",
+          "text": "Come curious.Think chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "57.6px",
+          "spacing": "-3.168px",
+          "text": "Think chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "59.04px",
+          "spacing": "-3.2472px",
+          "text": "Tell us what youhave in mind.",
+          "textOverflow": false
+        }
+      ],
+      "width": 1440
+    },
+    {
+      "cardTextColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "clientWidth": 753,
+      "documentWidth": 753,
+      "pureWhiteTextCount": 0,
+      "titles": [
+        {
+          "fontSize": "46.848px",
+          "spacing": "-2.57664px",
+          "text": "Experience.Chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "46.848px",
+          "spacing": "-2.57664px",
+          "text": "Chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "38px",
+          "spacing": "-2.09px",
+          "text": "Chocolate possibilities. Crafted with curiosity.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "46px",
+          "spacing": "-2.53px",
+          "text": "The heart behind the chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "46px",
+          "spacing": "-2.53px",
+          "text": "chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "36px",
+          "spacing": "-1.98px",
+          "text": "Our Partners",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "34px",
+          "spacing": "-1.87px",
+          "text": "Chocolate craftsmanship, with purpose.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "36px",
+          "spacing": "-1.98px",
+          "text": "Our Certifications",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "46px",
+          "spacing": "-2.53px",
+          "text": "Come curious.Think chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "46px",
+          "spacing": "-2.53px",
+          "text": "Think chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "46px",
+          "spacing": "-2.53px",
+          "text": "Tell us what youhave in mind.",
+          "textOverflow": false
+        }
+      ],
+      "width": 768
+    },
+    {
+      "cardTextColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "clientWidth": 375,
+      "documentWidth": 375,
+      "pureWhiteTextCount": 0,
+      "titles": [
+        {
+          "fontSize": "39px",
+          "spacing": "-2.145px",
+          "text": "Experience.Chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "39px",
+          "spacing": "-2.145px",
+          "text": "Chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "38px",
+          "spacing": "-2.09px",
+          "text": "Chocolate possibilities. Crafted with curiosity.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "42px",
+          "spacing": "-2.31px",
+          "text": "The heart behind the chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "42px",
+          "spacing": "-2.31px",
+          "text": "chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "36px",
+          "spacing": "-1.98px",
+          "text": "Our Partners",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "34px",
+          "spacing": "-1.87px",
+          "text": "Chocolate craftsmanship, with purpose.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "36px",
+          "spacing": "-1.98px",
+          "text": "Our Certifications",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "32px",
+          "spacing": "-1.76px",
+          "text": "Come curious.Think chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "32px",
+          "spacing": "-1.76px",
+          "text": "Think chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "43px",
+          "spacing": "-2.365px",
+          "text": "Tell us what youhave in mind.",
+          "textOverflow": false
+        }
+      ],
+      "width": 390
+    },
+    {
+      "cardTextColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "clientWidth": 305,
+      "documentWidth": 305,
+      "pureWhiteTextCount": 0,
+      "titles": [
+        {
+          "fontSize": "35px",
+          "spacing": "-1.925px",
+          "text": "Experience.Chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "35px",
+          "spacing": "-1.925px",
+          "text": "Chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "38px",
+          "spacing": "-2.09px",
+          "text": "Chocolate possibilities. Crafted with curiosity.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "36px",
+          "spacing": "-1.98px",
+          "text": "The heart behind the chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "36px",
+          "spacing": "-1.98px",
+          "text": "chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "36px",
+          "spacing": "-1.98px",
+          "text": "Our Partners",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "32px",
+          "spacing": "-1.76px",
+          "text": "Chocolate craftsmanship, with purpose.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "36px",
+          "spacing": "-1.98px",
+          "text": "Our Certifications",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "32px",
+          "spacing": "-1.76px",
+          "text": "Come curious.Think chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "32px",
+          "spacing": "-1.76px",
+          "text": "Think chocolate.",
+          "textOverflow": false
+        },
+        {
+          "fontSize": "38px",
+          "spacing": "-2.09px",
+          "text": "Tell us what youhave in mind.",
+          "textOverflow": false
+        }
+      ],
+      "width": 320
+    }
+  ],
+  "interior": {
+    "cardTextColors": [
+      "rgb(247, 239, 230)"
+    ],
+    "pureWhiteTextCount": 0,
+    "titles": [
+      {
+        "fontSize": "72px",
+        "spacing": "-3.96px",
+        "text": "Chocolate possibilities."
+      }
+    ],
+    "url": "http://127.0.0.1:4174/products/#wellness"
+  },
+  "console": [],
+  "screenshots": [
+    "type-cream-home-320.png",
+    "type-cream-products-desktop.png"
+  ]
+}

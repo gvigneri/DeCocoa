@@ -1,0 +1,41 @@
+{
+  "baseline": "DC-LOCAL-R6-2026-10-24",
+  "method": "Python HTMLParser/static file checks and sRGB contrast calculation; not a rendered accessibility scanner",
+  "links_total": 47,
+  "distinct_link_destinations": [
+    "#craft",
+    "#experience",
+    "#main",
+    "#people",
+    "#products",
+    "#talk",
+    "#top"
+  ],
+  "broken_fragment_targets": [],
+  "duplicate_ids": [],
+  "missing_local_html_resources": [],
+  "images_total": 17,
+  "images_missing_alt_attribute": [],
+  "heading_counts": {
+    "h1": 1,
+    "h2": 10,
+    "h3": 6
+  },
+  "scripts": [
+    "script.js?v=6"
+  ],
+  "native_forms": 0,
+  "contrast_solid_colors": {
+    "current_brown_on_orange": 4.503,
+    "approved_brown_on_orange": 5.514,
+    "approved_brown_on_cream": 14.098,
+    "cream_on_dark_brown": 17.114,
+    "leaf_on_cream": 4.41
+  },
+  "limits": [
+    "No visual layout or focus pass inferred.",
+    "Assets inside CSS/SVG and script runtime behavior are outside this static check.",
+    "No native form is intentional for non-transmitting prototype behavior.",
+    "Color calculations are for solid token pairings; actual states require browser review."
+  ]
+}

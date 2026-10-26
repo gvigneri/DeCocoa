@@ -1,0 +1,16 @@
+<header class="site-header original-header" data-header="original">
+  <div class="header-shell">
+    <a class="brand" href="{{url:}}" aria-label="DeCocoa home"><img src="{{asset:logos/decocoa-horizontal.svg}}" width="240" height="62" alt="DeCocoa"></a>
+    <button type="button" class="menu-toggle" aria-expanded="false" aria-controls="main-navigation">Menu</button>
+    <a class="button button-primary header-contact" href="{{url:lets-talk/#inquiry}}">Let's Talk</a>
+    <nav class="main-navigation" id="main-navigation" aria-label="Main navigation">{{navigation-original}}</nav>
+  </div>
+</header>
+<header class="site-header scroll-header" data-header="scroll" aria-hidden="true" inert>
+  <div class="header-shell">
+    <a class="brand" href="{{url:}}" aria-label="DeCocoa home"><picture><source media="(max-width:1535px)" srcset="{{asset:logos/decocoa-brandmark.svg}}" width="1309" height="1512"><img src="{{asset:logos/decocoa-horizontal.svg}}" width="180" height="47" alt="DeCocoa"></picture></a>
+    <button type="button" class="menu-toggle" aria-expanded="false" aria-controls="scroll-navigation">Menu</button>
+    <nav class="main-navigation" id="scroll-navigation" aria-label="Scroll navigation">{{navigation-scroll}}</nav>
+    <a class="button button-secondary button-scroll-contact header-contact" href="{{url:lets-talk/#inquiry}}">Let's Talk</a>
+  </div>
+</header>

@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-25",
+  "browser": "hidden IAB",
+  "hidden": true,
+  "checks": [
+    {
+      "case": "initial arrival",
+      "focus": "partners-title",
+      "outline": "rgb(58, 23, 13) none 0px",
+      "overflow": false,
+      "quiet": true,
+      "shadow": "none",
+      "url": "/#partners"
+    },
+    {
+      "case": "initial arrival",
+      "focus": "talk-title",
+      "outline": "rgb(58, 23, 13) none 0px",
+      "overflow": false,
+      "quiet": true,
+      "shadow": "none",
+      "url": "/lets-talk/#inquiry"
+    },
+    {
+      "case": "initial arrival",
+      "focus": "our-roots-title",
+      "outline": "rgb(58, 23, 13) none 0px",
+      "overflow": false,
+      "quiet": true,
+      "shadow": "none",
+      "url": "/our-people/#our-roots"
+    },
+    {
+      "case": "pointer section link",
+      "focus": "our-principals-title",
+      "outline": "rgb(58, 23, 13) none 0px",
+      "quiet": true,
+      "shadow": "none",
+      "url": "/our-people/#our-principals"
+    },
+    {
+      "case": "keyboard section link",
+      "focus": "our-values-title",
+      "outline": "rgb(23, 9, 5) solid 3px",
+      "quiet": false,
+      "shadow": "rgb(247, 239, 230) 0px 0px 0px 8px",
+      "url": "/our-people/#our-values"
+    },
+    {
+      "case": "keyboard skip link",
+      "focus": "hero-title",
+      "outline": "rgb(247, 239, 230) solid 3px",
+      "quiet": false,
+      "shadow": "rgb(23, 9, 5) 0px 0px 0px 8px",
+      "url": "/#main"
+    },
+    {
+      "case": "Tab after skip",
+      "focusVisible": true,
+      "label": "Let’s Craft Something Together",
+      "outline": "rgb(247, 239, 230) solid 3px",
+      "shadow": "rgba(23, 9, 5, 0.984) 0px 0px 0px 7.86982px",
+      "tag": "A"
+    },
+    {
+      "case": "initial arrival after reload",
+      "focus": "certifications-title",
+      "outline": "rgb(58, 23, 13) none 0px",
+      "quiet": true,
+      "shadow": "none",
+      "url": "/#certifications"
+    },
+    {
+      "case": "initial arrival after reload",
+      "focus": "craft-title",
+      "outline": "rgb(247, 239, 230) none 0px",
+      "quiet": true,
+      "shadow": "none",
+      "url": "/#craft"
+    },
+    {
+      "case": "mobile Tab from arrival heading",
+      "focus": "contact-name",
+      "outline": "rgb(58, 23, 13) solid 2px",
+      "overflow": false,
+      "tag": "INPUT"
+    }
+  ],
+  "console": []
+}

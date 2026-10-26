@@ -1,0 +1,647 @@
+{
+  "layouts": [
+    {
+      "exploreLinks": [],
+      "fields": [
+        {
+          "disabled": false,
+          "id": "contact-name",
+          "left": 232.5,
+          "right": 619.5,
+          "width": 387
+        },
+        {
+          "disabled": false,
+          "id": "contact-email",
+          "left": 645.5,
+          "right": 1032.5,
+          "width": 387
+        },
+        {
+          "disabled": false,
+          "id": "contact-reason",
+          "left": 232.5,
+          "right": 1032.5,
+          "width": 800
+        },
+        {
+          "disabled": false,
+          "id": "contact-product",
+          "left": 232.5,
+          "right": 1032.5,
+          "width": 800
+        },
+        {
+          "disabled": false,
+          "id": "contact-message",
+          "left": 232.5,
+          "right": 1032.5,
+          "width": 800
+        }
+      ],
+      "form": {
+        "left": 232.5,
+        "right": 1032.5,
+        "top": 495.4375,
+        "width": 800
+      },
+      "groups": 1,
+      "h1": 1,
+      "intro": {
+        "bottom": 453.4375,
+        "left": 232.5,
+        "right": 1032.5,
+        "textAlign": "center"
+      },
+      "overflow": false,
+      "section": {
+        "borderTop": "0px",
+        "columns": "1fr 1.1fr",
+        "left": 0,
+        "right": 1265
+      },
+      "width": 1280
+    },
+    {
+      "exploreLinks": [],
+      "fields": [
+        {
+          "disabled": false,
+          "id": "contact-name",
+          "left": 552.5,
+          "right": 939.5,
+          "width": 387
+        },
+        {
+          "disabled": false,
+          "id": "contact-email",
+          "left": 965.5,
+          "right": 1352.5,
+          "width": 387
+        },
+        {
+          "disabled": false,
+          "id": "contact-reason",
+          "left": 552.5,
+          "right": 1352.5,
+          "width": 800
+        },
+        {
+          "disabled": false,
+          "id": "contact-product",
+          "left": 552.5,
+          "right": 1352.5,
+          "width": 800
+        },
+        {
+          "disabled": false,
+          "id": "contact-message",
+          "left": 552.5,
+          "right": 1352.5,
+          "width": 800
+        }
+      ],
+      "form": {
+        "left": 552.5,
+        "right": 1352.5,
+        "top": 634.6875,
+        "width": 800
+      },
+      "groups": 1,
+      "h1": 1,
+      "intro": {
+        "bottom": 592.6875,
+        "left": 552.5,
+        "right": 1352.5,
+        "textAlign": "center"
+      },
+      "overflow": false,
+      "section": {
+        "borderTop": "0px",
+        "columns": "1fr 1.1fr",
+        "left": 202.5,
+        "right": 1702.5
+      },
+      "width": 1920
+    },
+    {
+      "exploreLinks": [],
+      "fields": [
+        {
+          "disabled": false,
+          "id": "contact-name",
+          "left": 312.5,
+          "right": 699.5,
+          "width": 387
+        },
+        {
+          "disabled": false,
+          "id": "contact-email",
+          "left": 725.5,
+          "right": 1112.5,
+          "width": 387
+        },
+        {
+          "disabled": false,
+          "id": "contact-reason",
+          "left": 312.5,
+          "right": 1112.5,
+          "width": 800
+        },
+        {
+          "disabled": false,
+          "id": "contact-product",
+          "left": 312.5,
+          "right": 1112.5,
+          "width": 800
+        },
+        {
+          "disabled": false,
+          "id": "contact-message",
+          "left": 312.5,
+          "right": 1112.5,
+          "width": 800
+        }
+      ],
+      "form": {
+        "left": 312.5,
+        "right": 1112.5,
+        "top": 585.671875,
+        "width": 800
+      },
+      "groups": 1,
+      "h1": 1,
+      "intro": {
+        "bottom": 543.671875,
+        "left": 312.5,
+        "right": 1112.5,
+        "textAlign": "center"
+      },
+      "overflow": false,
+      "section": {
+        "borderTop": "0px",
+        "columns": "1fr 1.1fr",
+        "left": 0,
+        "right": 1425
+      },
+      "width": 1440
+    },
+    {
+      "exploreLinks": [],
+      "fields": [
+        {
+          "disabled": false,
+          "id": "contact-name",
+          "left": 32.25,
+          "right": 363.5,
+          "width": 331.25
+        },
+        {
+          "disabled": false,
+          "id": "contact-email",
+          "left": 389.5,
+          "right": 720.75,
+          "width": 331.25
+        },
+        {
+          "disabled": false,
+          "id": "contact-reason",
+          "left": 32.25,
+          "right": 720.75,
+          "width": 688.5
+        },
+        {
+          "disabled": false,
+          "id": "contact-product",
+          "left": 32.25,
+          "right": 720.75,
+          "width": 688.5
+        },
+        {
+          "disabled": false,
+          "id": "contact-message",
+          "left": 32.25,
+          "right": 720.75,
+          "width": 688.5
+        }
+      ],
+      "form": {
+        "left": 32.25,
+        "right": 720.75,
+        "top": 1666.84375,
+        "width": 688.5
+      },
+      "groups": 1,
+      "h1": 1,
+      "intro": {
+        "bottom": 1624.84375,
+        "left": 32.25,
+        "right": 720.75,
+        "textAlign": "center"
+      },
+      "overflow": false,
+      "section": {
+        "borderTop": "0px",
+        "columns": "1fr",
+        "left": 0,
+        "right": 753
+      },
+      "width": 768
+    },
+    {
+      "exploreLinks": [],
+      "fields": [
+        {
+          "disabled": false,
+          "id": "contact-name",
+          "left": 24,
+          "right": 351,
+          "width": 327
+        },
+        {
+          "disabled": false,
+          "id": "contact-email",
+          "left": 24,
+          "right": 351,
+          "width": 327
+        },
+        {
+          "disabled": false,
+          "id": "contact-reason",
+          "left": 24,
+          "right": 351,
+          "width": 327
+        },
+        {
+          "disabled": false,
+          "id": "contact-product",
+          "left": 24,
+          "right": 351,
+          "width": 327
+        },
+        {
+          "disabled": false,
+          "id": "contact-message",
+          "left": 24,
+          "right": 351,
+          "width": 327
+        }
+      ],
+      "form": {
+        "left": 24,
+        "right": 351,
+        "top": 1610.9375,
+        "width": 327
+      },
+      "groups": 1,
+      "h1": 1,
+      "intro": {
+        "bottom": 1568.9375,
+        "left": 24,
+        "right": 351,
+        "textAlign": "center"
+      },
+      "overflow": false,
+      "section": {
+        "borderTop": "0px",
+        "columns": "1fr",
+        "left": 0,
+        "right": 375
+      },
+      "width": 390
+    },
+    {
+      "exploreLinks": [],
+      "fields": [
+        {
+          "disabled": false,
+          "id": "contact-name",
+          "left": 20,
+          "right": 285,
+          "width": 265
+        },
+        {
+          "disabled": false,
+          "id": "contact-email",
+          "left": 20,
+          "right": 285,
+          "width": 265
+        },
+        {
+          "disabled": false,
+          "id": "contact-reason",
+          "left": 20,
+          "right": 285,
+          "width": 265
+        },
+        {
+          "disabled": false,
+          "id": "contact-product",
+          "left": 20,
+          "right": 285,
+          "width": 265
+        },
+        {
+          "disabled": false,
+          "id": "contact-message",
+          "left": 20,
+          "right": 285,
+          "width": 265
+        }
+      ],
+      "form": {
+        "left": 20,
+        "right": 285,
+        "top": 1730.375,
+        "width": 265
+      },
+      "groups": 1,
+      "h1": 1,
+      "intro": {
+        "bottom": 1688.375,
+        "left": 20,
+        "right": 285,
+        "textAlign": "center"
+      },
+      "overflow": false,
+      "section": {
+        "borderTop": "0px",
+        "columns": "1fr",
+        "left": 0,
+        "right": 305
+      },
+      "width": 320
+    }
+  ],
+  "validation": [
+    {
+      "errors": [
+        "Please enter your name.",
+        "Please enter a valid email address.",
+        "Please enter a message."
+      ],
+      "focus": "contact-name",
+      "invalid": [
+        "contact-name",
+        "contact-email",
+        "contact-message"
+      ],
+      "phase": "empty"
+    },
+    {
+      "formElements": 0,
+      "phase": "valid-local",
+      "retainedMessage": "Checking the reused homepage inquiry form locally.",
+      "retainedName": "Local Form Check",
+      "status": "Message delivery is not connected yet.",
+      "statusFocused": true,
+      "topic": "Gifting",
+      "url": "http://127.0.0.1:4174/?topic=Gifting#talk"
+    }
+  ],
+  "dedicated": {
+    "signature": {
+      "button": "Send Message",
+      "fields": [
+        {
+          "id": "contact-name",
+          "name": "name",
+          "options": [],
+          "required": true,
+          "type": "text"
+        },
+        {
+          "id": "contact-email",
+          "name": "email",
+          "options": [],
+          "required": true,
+          "type": "email"
+        },
+        {
+          "id": "contact-reason",
+          "name": "reason",
+          "options": [
+            {
+              "text": "Choose a topic",
+              "value": ""
+            },
+            {
+              "text": "Chocolate & products",
+              "value": "Chocolate & products"
+            },
+            {
+              "text": "Gifting",
+              "value": "Gifting"
+            },
+            {
+              "text": "Craft Your Own",
+              "value": "Craft Your Own"
+            },
+            {
+              "text": "Fundraising",
+              "value": "Fundraising"
+            },
+            {
+              "text": "Wholesale",
+              "value": "Wholesale"
+            },
+            {
+              "text": "B2B",
+              "value": "B2B"
+            },
+            {
+              "text": "Experience Center",
+              "value": "Experience Center"
+            },
+            {
+              "text": "Our story",
+              "value": "Our story"
+            },
+            {
+              "text": "Our craft",
+              "value": "Our craft"
+            },
+            {
+              "text": "Sweet Careers",
+              "value": "Sweet Careers"
+            },
+            {
+              "text": "Something else",
+              "value": "Something else"
+            }
+          ],
+          "required": false,
+          "type": "select-one"
+        },
+        {
+          "id": "contact-product",
+          "name": "product",
+          "options": [
+            {
+              "text": "No particular chocolate",
+              "value": ""
+            },
+            {
+              "text": "Filled Chocolate",
+              "value": "filled-chocolate"
+            },
+            {
+              "text": "Chocolate Bar",
+              "value": "chocolate-bar"
+            },
+            {
+              "text": "Chocolate Drizzle",
+              "value": "chocolate-drizzle"
+            }
+          ],
+          "required": false,
+          "type": "select-one"
+        },
+        {
+          "id": "contact-message",
+          "name": "message",
+          "options": [],
+          "required": true,
+          "type": "textarea"
+        }
+      ],
+      "labels": [
+        "Name (required)",
+        "Email (required)",
+        "What would you like to talk about?",
+        "Chocolate that interests you",
+        "Your message (required)"
+      ]
+    },
+    "layout": {
+      "columns": "558.875px 614.781px",
+      "display": "grid",
+      "formTop": 310.53125,
+      "groups": 1,
+      "introTop": 310.53125,
+      "overflow": false
+    },
+    "sameFields": true
+  },
+  "homeSignature": {
+    "button": "Send Message",
+    "fields": [
+      {
+        "id": "contact-name",
+        "name": "name",
+        "options": [],
+        "required": true,
+        "type": "text"
+      },
+      {
+        "id": "contact-email",
+        "name": "email",
+        "options": [],
+        "required": true,
+        "type": "email"
+      },
+      {
+        "id": "contact-reason",
+        "name": "reason",
+        "options": [
+          {
+            "text": "Choose a topic",
+            "value": ""
+          },
+          {
+            "text": "Chocolate & products",
+            "value": "Chocolate & products"
+          },
+          {
+            "text": "Gifting",
+            "value": "Gifting"
+          },
+          {
+            "text": "Craft Your Own",
+            "value": "Craft Your Own"
+          },
+          {
+            "text": "Fundraising",
+            "value": "Fundraising"
+          },
+          {
+            "text": "Wholesale",
+            "value": "Wholesale"
+          },
+          {
+            "text": "B2B",
+            "value": "B2B"
+          },
+          {
+            "text": "Experience Center",
+            "value": "Experience Center"
+          },
+          {
+            "text": "Our story",
+            "value": "Our story"
+          },
+          {
+            "text": "Our craft",
+            "value": "Our craft"
+          },
+          {
+            "text": "Sweet Careers",
+            "value": "Sweet Careers"
+          },
+          {
+            "text": "Something else",
+            "value": "Something else"
+          }
+        ],
+        "required": false,
+        "type": "select-one"
+      },
+      {
+        "id": "contact-product",
+        "name": "product",
+        "options": [
+          {
+            "text": "No particular chocolate",
+            "value": ""
+          },
+          {
+            "text": "Filled Chocolate",
+            "value": "filled-chocolate"
+          },
+          {
+            "text": "Chocolate Bar",
+            "value": "chocolate-bar"
+          },
+          {
+            "text": "Chocolate Drizzle",
+            "value": "chocolate-drizzle"
+          }
+        ],
+        "required": false,
+        "type": "select-one"
+      },
+      {
+        "id": "contact-message",
+        "name": "message",
+        "options": [],
+        "required": true,
+        "type": "textarea"
+      }
+    ],
+    "labels": [
+      "Name (required)",
+      "Email (required)",
+      "What would you like to talk about?",
+      "Chocolate that interests you",
+      "Your message (required)"
+    ]
+  },
+  "console": [],
+  "screenshots": [
+    "home-inquiry-2026-10-25-desktop.png",
+    "home-inquiry-2026-10-25-form.png",
+    "home-inquiry-2026-10-25-mobile.png"
+  ],
+  "hidden": true,
+  "viewportRestored": true
+}

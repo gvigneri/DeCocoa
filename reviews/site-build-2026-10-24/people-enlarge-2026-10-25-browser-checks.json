@@ -1,0 +1,624 @@
+{
+  "date": "2026-10-25",
+  "browser": "Hidden IAB through CUA",
+  "visible": false,
+  "baseline": [
+    {
+      "width": 1920,
+      "bodyColors": [
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)"
+      ],
+      "copy": {
+        "bottom": 794.609375,
+        "height": 411.875,
+        "left": 310.5,
+        "right": 913.984375,
+        "top": 382.734375,
+        "width": 603.484375,
+        "x": 310.5,
+        "y": 382.734375
+      },
+      "headings": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "Care, creativity and integrity",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "A lighter footprint",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "Craft for professionals",
+          "weight": "700"
+        }
+      ],
+      "mask": {
+        "bottom": 962.34375,
+        "height": 747.34375,
+        "left": 991.015625,
+        "right": 1638.5,
+        "top": 215,
+        "width": 647.484375,
+        "x": 991.015625,
+        "y": 215
+      },
+      "overflow": false,
+      "panel": {
+        "bottom": 898.140625,
+        "height": 618.9375,
+        "left": 266.5,
+        "right": 1638.5,
+        "top": 279.203125,
+        "width": 1372,
+        "x": 266.5,
+        "y": 279.203125
+      },
+      "panelOverflow": "hidden",
+      "panelRadius": "16px",
+      "stage": {
+        "bottom": 854.140625,
+        "height": 530.9375,
+        "left": 991.015625,
+        "right": 1594.5,
+        "top": 323.203125,
+        "width": 603.484375,
+        "x": 991.015625,
+        "y": 323.203125
+      },
+      "stageClip": "none",
+      "stageOverflow": "visible"
+    },
+    {
+      "width": 1440,
+      "bodyColors": [
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)"
+      ],
+      "copy": {
+        "bottom": 830.265625,
+        "height": 402,
+        "left": 104.46875,
+        "right": 676.015625,
+        "top": 428.265625,
+        "width": 571.546875,
+        "x": 104.46875,
+        "y": 428.265625
+      },
+      "headings": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "Care, creativity and integrity",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "A lighter footprint",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "Craft for professionals",
+          "weight": "700"
+        }
+      ],
+      "mask": {
+        "bottom": 984.5078125,
+        "height": 710.484375,
+        "left": 748.96875,
+        "right": 1364.53125,
+        "top": 274.0234375,
+        "width": 615.5625,
+        "x": 748.96875,
+        "y": 274.0234375
+      },
+      "overflow": false,
+      "panel": {
+        "bottom": 938.734375,
+        "height": 618.9375,
+        "left": 60.46875,
+        "right": 1364.53125,
+        "top": 319.796875,
+        "width": 1304.0625,
+        "x": 60.46875,
+        "y": 319.796875
+      },
+      "panelOverflow": "hidden",
+      "panelRadius": "16px",
+      "stage": {
+        "bottom": 894.734375,
+        "height": 530.9375,
+        "left": 748.96875,
+        "right": 1320.53125,
+        "top": 363.796875,
+        "width": 571.5625,
+        "x": 748.96875,
+        "y": 363.796875
+      },
+      "stageClip": "none",
+      "stageOverflow": "visible"
+    },
+    {
+      "width": 768,
+      "bodyColors": [
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)"
+      ],
+      "copy": {
+        "bottom": 805.375,
+        "height": 319.625,
+        "left": 64.25,
+        "right": 688.75,
+        "top": 485.75,
+        "width": 624.5,
+        "x": 64.25,
+        "y": 485.75
+      },
+      "headings": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "Care, creativity and integrity",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "A lighter footprint",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "Craft for professionals",
+          "weight": "700"
+        }
+      ],
+      "mask": {
+        "bottom": 1480.0859375,
+        "height": 794.671875,
+        "left": 32.25,
+        "right": 720.75,
+        "top": 685.4140625,
+        "width": 688.5,
+        "x": 32.25,
+        "y": 685.4140625
+      },
+      "overflow": false,
+      "panel": {
+        "bottom": 1357.140625,
+        "height": 903.390625,
+        "left": 32.25,
+        "right": 720.75,
+        "top": 453.75,
+        "width": 688.5,
+        "x": 32.25,
+        "y": 453.75
+      },
+      "panelOverflow": "hidden",
+      "panelRadius": "16px",
+      "stage": {
+        "bottom": 1325.140625,
+        "height": 484.765625,
+        "left": 64.25,
+        "right": 688.75,
+        "top": 840.375,
+        "width": 624.5,
+        "x": 64.25,
+        "y": 840.375
+      },
+      "stageClip": "inset(0px -32px -32px)",
+      "stageOverflow": "visible"
+    },
+    {
+      "width": 390,
+      "bodyColors": [
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)"
+      ],
+      "copy": {
+        "bottom": 1347.40625,
+        "height": 415.28125,
+        "left": 48,
+        "right": 327,
+        "top": 932.125,
+        "width": 279,
+        "x": 48,
+        "y": 932.125
+      },
+      "headings": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "Care, creativity and integrity",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "A lighter footprint",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "Craft for professionals",
+          "weight": "700"
+        }
+      ],
+      "mask": {
+        "bottom": 1727.1171875,
+        "height": 377.421875,
+        "left": 24,
+        "right": 351,
+        "top": 1349.6953125,
+        "width": 327,
+        "x": 24,
+        "y": 1349.6953125
+      },
+      "overflow": false,
+      "panel": {
+        "bottom": 1723.421875,
+        "height": 815.296875,
+        "left": 24,
+        "right": 351,
+        "top": 908.125,
+        "width": 327,
+        "x": 24,
+        "y": 908.125
+      },
+      "panelOverflow": "hidden",
+      "panelRadius": "16px",
+      "stage": {
+        "bottom": 1699.421875,
+        "height": 322.015625,
+        "left": 48,
+        "right": 327,
+        "top": 1377.40625,
+        "width": 279,
+        "x": 48,
+        "y": 1377.40625
+      },
+      "stageClip": "inset(0px -24px -24px)",
+      "stageOverflow": "visible"
+    },
+    {
+      "width": 320,
+      "bodyColors": [
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)"
+      ],
+      "copy": {
+        "bottom": 1538.9375,
+        "height": 423.921875,
+        "left": 44,
+        "right": 261,
+        "top": 1115.015625,
+        "width": 217,
+        "x": 44,
+        "y": 1115.015625
+      },
+      "headings": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "Care, creativity and integrity",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "A lighter footprint",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(220, 75, 51)",
+          "size": "24px",
+          "text": "Craft for professionals",
+          "weight": "700"
+        }
+      ],
+      "mask": {
+        "bottom": 1847.0859375,
+        "height": 305.859375,
+        "left": 20,
+        "right": 285,
+        "top": 1541.2265625,
+        "width": 265,
+        "x": 20,
+        "y": 1541.2265625
+      },
+      "overflow": false,
+      "panel": {
+        "bottom": 1843.390625,
+        "height": 752.375,
+        "left": 20,
+        "right": 285,
+        "top": 1091.015625,
+        "width": 265,
+        "x": 20,
+        "y": 1091.015625
+      },
+      "panelOverflow": "hidden",
+      "panelRadius": "16px",
+      "stage": {
+        "bottom": 1819.390625,
+        "height": 250.453125,
+        "left": 44,
+        "right": 261,
+        "top": 1568.9375,
+        "width": 217,
+        "x": 44,
+        "y": 1568.9375
+      },
+      "stageClip": "inset(0px -24px -24px)",
+      "stageOverflow": "visible"
+    }
+  ],
+  "checks": [
+    {
+      "width": 1920,
+      "copy": {
+        "bottom": 807.609375,
+        "height": 411.875,
+        "left": 310.5,
+        "right": 913.984375,
+        "top": 395.734375,
+        "width": 603.484375,
+        "x": 310.5,
+        "y": 395.734375
+      },
+      "mask": {
+        "bottom": 1162.171875,
+        "height": 1121,
+        "left": 991.015625,
+        "right": 1962.234375,
+        "top": 41.171875,
+        "width": 971.21875,
+        "x": 991.015625,
+        "y": 41.171875
+      },
+      "overflow": false,
+      "panel": {
+        "bottom": 911.140625,
+        "height": 618.9375,
+        "left": 266.5,
+        "right": 1638.5,
+        "top": 292.203125,
+        "width": 1372,
+        "x": 266.5,
+        "y": 292.203125
+      },
+      "panelOverflow": "hidden",
+      "stage": {
+        "bottom": 867.140625,
+        "height": 530.9375,
+        "left": 991.015625,
+        "right": 1594.5,
+        "top": 336.203125,
+        "width": 603.484375,
+        "x": 991.015625,
+        "y": 336.203125
+      },
+      "stageClip": "none"
+    },
+    {
+      "width": 1440,
+      "copy": {
+        "bottom": 843.265625,
+        "height": 402,
+        "left": 104.46875,
+        "right": 676.015625,
+        "top": 441.265625,
+        "width": 571.546875,
+        "x": 104.46875,
+        "y": 441.265625
+      },
+      "mask": {
+        "bottom": 1175.1328125,
+        "height": 1065.734375,
+        "left": 748.96875,
+        "right": 1672.3125,
+        "top": 109.3984375,
+        "width": 923.34375,
+        "x": 748.96875,
+        "y": 109.3984375
+      },
+      "overflow": false,
+      "panel": {
+        "bottom": 951.734375,
+        "height": 618.9375,
+        "left": 60.46875,
+        "right": 1364.53125,
+        "top": 332.796875,
+        "width": 1304.0625,
+        "x": 60.46875,
+        "y": 332.796875
+      },
+      "panelOverflow": "hidden",
+      "stage": {
+        "bottom": 907.734375,
+        "height": 530.9375,
+        "left": 748.96875,
+        "right": 1320.53125,
+        "top": 376.796875,
+        "width": 571.5625,
+        "x": 748.96875,
+        "y": 376.796875
+      },
+      "stageClip": "none"
+    },
+    {
+      "width": 768,
+      "copy": {
+        "bottom": 818.375,
+        "height": 319.625,
+        "left": 64.25,
+        "right": 688.75,
+        "top": 498.75,
+        "width": 624.5,
+        "x": 64.25,
+        "y": 498.75
+      },
+      "mask": {
+        "bottom": 1691.7578125,
+        "height": 1192.015625,
+        "left": -139.875,
+        "right": 892.875,
+        "top": 499.7421875,
+        "width": 1032.75,
+        "x": -139.875,
+        "y": 499.7421875
+      },
+      "overflow": false,
+      "panel": {
+        "bottom": 1370.140625,
+        "height": 903.390625,
+        "left": 32.25,
+        "right": 720.75,
+        "top": 466.75,
+        "width": 688.5,
+        "x": 32.25,
+        "y": 466.75
+      },
+      "panelOverflow": "hidden",
+      "stage": {
+        "bottom": 1338.140625,
+        "height": 484.765625,
+        "left": 64.25,
+        "right": 688.75,
+        "top": 853.375,
+        "width": 624.5,
+        "x": 64.25,
+        "y": 853.375
+      },
+      "stageClip": "inset(0px -32px -32px)"
+    },
+    {
+      "width": 390,
+      "copy": {
+        "bottom": 1360.40625,
+        "height": 415.28125,
+        "left": 48,
+        "right": 327,
+        "top": 945.125,
+        "width": 279,
+        "x": 48,
+        "y": 945.125
+      },
+      "mask": {
+        "bottom": 1834.4765625,
+        "height": 566.140625,
+        "left": -57.75,
+        "right": 432.75,
+        "top": 1268.3359375,
+        "width": 490.5,
+        "x": -57.75,
+        "y": 1268.3359375
+      },
+      "overflow": false,
+      "panel": {
+        "bottom": 1736.421875,
+        "height": 815.296875,
+        "left": 24,
+        "right": 351,
+        "top": 921.125,
+        "width": 327,
+        "x": 24,
+        "y": 921.125
+      },
+      "panelOverflow": "hidden",
+      "stage": {
+        "bottom": 1712.421875,
+        "height": 322.015625,
+        "left": 48,
+        "right": 327,
+        "top": 1390.40625,
+        "width": 279,
+        "x": 48,
+        "y": 1390.40625
+      },
+      "stageClip": "inset(0px -24px -24px)"
+    },
+    {
+      "width": 320,
+      "copy": {
+        "bottom": 1551.9375,
+        "height": 423.921875,
+        "left": 44,
+        "right": 261,
+        "top": 1128.015625,
+        "width": 217,
+        "x": 44,
+        "y": 1128.015625
+      },
+      "mask": {
+        "bottom": 1936.5546875,
+        "height": 458.796875,
+        "left": -46.25,
+        "right": 351.25,
+        "top": 1477.7578125,
+        "width": 397.5,
+        "x": -46.25,
+        "y": 1477.7578125
+      },
+      "overflow": false,
+      "panel": {
+        "bottom": 1856.390625,
+        "height": 752.375,
+        "left": 20,
+        "right": 285,
+        "top": 1104.015625,
+        "width": 265,
+        "x": 20,
+        "y": 1104.015625
+      },
+      "panelOverflow": "hidden",
+      "stage": {
+        "bottom": 1832.390625,
+        "height": 250.453125,
+        "left": 44,
+        "right": 261,
+        "top": 1581.9375,
+        "width": 217,
+        "x": 44,
+        "y": 1581.9375
+      },
+      "stageClip": "inset(0px -24px -24px)"
+    }
+  ],
+  "console": [],
+  "screenshots": [
+    "people-enlarge-desktop.png",
+    "people-enlarge-mobile.png"
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "layouts": [
+    {
+      "border": "rgb(232, 121, 51)",
+      "bottom": {
+        "left": 586.5,
+        "right": 1958.5,
+        "width": 1372
+      },
+      "links": [
+        {
+          "height": 34,
+          "href": "privacy-policy/",
+          "left": 777.4375,
+          "right": 913.515625,
+          "text": "Privacy Policy",
+          "top": 1100.859375,
+          "width": 136.078125
+        },
+        {
+          "height": 34,
+          "href": "terms-and-conditions/",
+          "left": 937.515625,
+          "right": 1156.0625,
+          "text": "Terms and Conditions",
+          "top": 1100.859375,
+          "width": 218.546875
+        },
+        {
+          "height": 34,
+          "href": "accessibility/",
+          "left": 1180.0625,
+          "right": 1301.234375,
+          "text": "Accessibility",
+          "top": 1100.859375,
+          "width": 121.171875
+        },
+        {
+          "height": 34,
+          "href": "#top",
+          "left": 1843.9375,
+          "right": 1958.5,
+          "text": "Back to top",
+          "top": 1100.859375,
+          "width": 114.5625
+        }
+      ],
+      "logoPadding": "38.1818px",
+      "logoSource": "assets/logos/decocoa-dark-badge.svg",
+      "logoWidth": "300px",
+      "overflow": false,
+      "taglinePresent": false,
+      "width": 2560
+    },
+    {
+      "border": "rgb(232, 121, 51)",
+      "bottom": {
+        "left": 266.5,
+        "right": 1638.5,
+        "width": 1372
+      },
+      "links": [
+        {
+          "height": 34,
+          "href": "privacy-policy/",
+          "left": 457.4375,
+          "right": 593.515625,
+          "text": "Privacy Policy",
+          "top": 1100.859375,
+          "width": 136.078125
+        },
+        {
+          "height": 34,
+          "href": "terms-and-conditions/",
+          "left": 617.515625,
+          "right": 836.0625,
+          "text": "Terms and Conditions",
+          "top": 1100.859375,
+          "width": 218.546875
+        },
+        {
+          "height": 34,
+          "href": "accessibility/",
+          "left": 860.0625,
+          "right": 981.234375,
+          "text": "Accessibility",
+          "top": 1100.859375,
+          "width": 121.171875
+        },
+        {
+          "height": 34,
+          "href": "#top",
+          "left": 1523.9375,
+          "right": 1638.5,
+          "text": "Back to top",
+          "top": 1100.859375,
+          "width": 114.5625
+        }
+      ],
+      "logoPadding": "38.1818px",
+      "logoSource": "assets/logos/decocoa-dark-badge.svg",
+      "logoWidth": "300px",
+      "overflow": false,
+      "taglinePresent": false,
+      "width": 1920
+    },
+    {
+      "border": "rgb(232, 121, 51)",
+      "bottom": {
+        "left": 60.46875,
+        "right": 1364.53125,
+        "width": 1304.0625
+      },
+      "links": [
+        {
+          "height": 34,
+          "href": "privacy-policy/",
+          "left": 251.40625,
+          "right": 387.484375,
+          "text": "Privacy Policy",
+          "top": 1051.84375,
+          "width": 136.078125
+        },
+        {
+          "height": 34,
+          "href": "terms-and-conditions/",
+          "left": 411.484375,
+          "right": 630.03125,
+          "text": "Terms and Conditions",
+          "top": 1051.84375,
+          "width": 218.546875
+        },
+        {
+          "height": 34,
+          "href": "accessibility/",
+          "left": 654.03125,
+          "right": 775.203125,
+          "text": "Accessibility",
+          "top": 1051.84375,
+          "width": 121.171875
+        },
+        {
+          "height": 34,
+          "href": "#top",
+          "left": 1249.96875,
+          "right": 1364.53125,
+          "text": "Back to top",
+          "top": 1051.84375,
+          "width": 114.5625
+        }
+      ],
+      "logoPadding": "38.1818px",
+      "logoSource": "assets/logos/decocoa-dark-badge.svg",
+      "logoWidth": "300px",
+      "overflow": false,
+      "taglinePresent": false,
+      "width": 1440
+    },
+    {
+      "border": "rgb(232, 121, 51)",
+      "bottom": {
+        "left": 50.390625,
+        "right": 1134.609375,
+        "width": 1084.21875
+      },
+      "links": [
+        {
+          "height": 34,
+          "href": "privacy-policy/",
+          "left": 241.328125,
+          "right": 377.40625,
+          "text": "Privacy Policy",
+          "top": 916.21875,
+          "width": 136.078125
+        },
+        {
+          "height": 34,
+          "href": "terms-and-conditions/",
+          "left": 401.40625,
+          "right": 619.953125,
+          "text": "Terms and Conditions",
+          "top": 916.21875,
+          "width": 218.546875
+        },
+        {
+          "height": 34,
+          "href": "accessibility/",
+          "left": 643.953125,
+          "right": 765.125,
+          "text": "Accessibility",
+          "top": 916.21875,
+          "width": 121.171875
+        },
+        {
+          "height": 34,
+          "href": "#top",
+          "left": 1020.046875,
+          "right": 1134.609375,
+          "text": "Back to top",
+          "top": 916.21875,
+          "width": 114.5625
+        }
+      ],
+      "logoPadding": "38.1818px",
+      "logoSource": "assets/logos/decocoa-dark-badge.svg",
+      "logoWidth": "300px",
+      "overflow": false,
+      "taglinePresent": false,
+      "width": 1200
+    },
+    {
+      "border": "rgb(232, 121, 51)",
+      "bottom": {
+        "left": 32.25,
+        "right": 720.75,
+        "width": 688.5
+      },
+      "links": [
+        {
+          "height": 27.1875,
+          "href": "privacy-policy/",
+          "left": 32.25,
+          "right": 141.109375,
+          "text": "Privacy Policy",
+          "top": 2642.5,
+          "width": 108.859375
+        },
+        {
+          "height": 27.1875,
+          "href": "terms-and-conditions/",
+          "left": 165.109375,
+          "right": 339.953125,
+          "text": "Terms and Conditions",
+          "top": 2642.5,
+          "width": 174.84375
+        },
+        {
+          "height": 27.1875,
+          "href": "accessibility/",
+          "left": 363.953125,
+          "right": 460.890625,
+          "text": "Accessibility",
+          "top": 2642.5,
+          "width": 96.9375
+        },
+        {
+          "height": 27.1875,
+          "href": "#top",
+          "left": 629.109375,
+          "right": 720.75,
+          "text": "Back to top",
+          "top": 2622.90625,
+          "width": 91.640625
+        }
+      ],
+      "logoPadding": "30.5455px",
+      "logoSource": "assets/logos/decocoa-dark-badge.svg",
+      "logoWidth": "240px",
+      "overflow": false,
+      "taglinePresent": false,
+      "width": 768
+    },
+    {
+      "border": "rgb(232, 121, 51)",
+      "bottom": {
+        "left": 24,
+        "right": 351,
+        "width": 327
+      },
+      "links": [
+        {
+          "height": 27.1875,
+          "href": "privacy-policy/",
+          "left": 24,
+          "right": 132.859375,
+          "text": "Privacy Policy",
+          "top": 3009.53125,
+          "width": 108.859375
+        },
+        {
+          "height": 27.1875,
+          "href": "terms-and-conditions/",
+          "left": 156.859375,
+          "right": 331.703125,
+          "text": "Terms and Conditions",
+          "top": 3009.53125,
+          "width": 174.84375
+        },
+        {
+          "height": 27.1875,
+          "href": "accessibility/",
+          "left": 24,
+          "right": 120.9375,
+          "text": "Accessibility",
+          "top": 3048.71875,
+          "width": 96.9375
+        },
+        {
+          "height": 27.1875,
+          "href": "#top",
+          "left": 24,
+          "right": 115.640625,
+          "text": "Back to top",
+          "top": 3095.90625,
+          "width": 91.640625
+        }
+      ],
+      "logoPadding": "28px",
+      "logoSource": "assets/logos/decocoa-dark-badge.svg",
+      "logoWidth": "220px",
+      "overflow": false,
+      "taglinePresent": false,
+      "width": 390
+    },
+    {
+      "border": "rgb(232, 121, 51)",
+      "bottom": {
+        "left": 20,
+        "right": 285,
+        "width": 265
+      },
+      "links": [
+        {
+          "height": 27.1875,
+          "href": "privacy-policy/",
+          "left": 20,
+          "right": 128.859375,
+          "text": "Privacy Policy",
+          "top": 3047.265625,
+          "width": 108.859375
+        },
+        {
+          "height": 27.1875,
+          "href": "terms-and-conditions/",
+          "left": 20,
+          "right": 194.84375,
+          "text": "Terms and Conditions",
+          "top": 3086.453125,
+          "width": 174.84375
+        },
+        {
+          "height": 27.1875,
+          "href": "accessibility/",
+          "left": 20,
+          "right": 116.9375,
+          "text": "Accessibility",
+          "top": 3125.640625,
+          "width": 96.9375
+        },
+        {
+          "height": 27.1875,
+          "href": "#top",
+          "left": 20,
+          "right": 111.640625,
+          "text": "Back to top",
+          "top": 3172.828125,
+          "width": 91.640625
+        }
+      ],
+      "logoPadding": "25.4545px",
+      "logoSource": "assets/logos/decocoa-dark-badge.svg",
+      "logoWidth": "200px",
+      "overflow": false,
+      "taglinePresent": false,
+      "width": 320
+    }
+  ],
+  "links": [
+    {
+      "current": "Privacy Policy",
+      "h1": "Privacy Policy",
+      "notice": "Draft privacy policy content is being prepared for review.",
+      "overflow": false,
+      "robots": "noindex",
+      "title": "Privacy Policy | DeCocoa",
+      "url": "http://127.0.0.1:4174/privacy-policy/"
+    },
+    {
+      "current": "Terms and Conditions",
+      "h1": "Terms and Conditions",
+      "notice": "Draft terms and conditions content is being prepared for review.",
+      "overflow": false,
+      "robots": "noindex",
+      "title": "Terms and Conditions | DeCocoa",
+      "url": "http://127.0.0.1:4174/terms-and-conditions/"
+    },
+    {
+      "current": "Accessibility",
+      "h1": "Accessibility",
+      "notice": "Draft accessibility content is being prepared for review.",
+      "overflow": false,
+      "robots": "noindex",
+      "title": "Accessibility | DeCocoa",
+      "url": "http://127.0.0.1:4174/accessibility/"
+    }
+  ],
+  "hover": {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(232, 121, 51)",
+    "duration": "0.22s",
+    "hover": true,
+    "lineColor": "rgb(232, 121, 51)",
+    "lineHeight": "2px",
+    "lineOrigin": "0px 1px",
+    "lineTransform": "matrix(1, 0, 0, 1, 0, 0)"
+  },
+  "focus": {
+    "color": "rgb(232, 121, 51)",
+    "focusVisible": true,
+    "lineHeight": "2px",
+    "lineOrigin": "0px 1px",
+    "lineTransform": "matrix(1, 0, 0, 1, 0, 0)",
+    "outline": "rgb(247, 239, 230) solid 3px",
+    "text": "Accessibility"
+  },
+  "desktopColumns": [
+    {
+      "class": "footer-brand",
+      "contents": [
+        {
+          "left": 12.21875,
+          "right": 388.5625,
+          "tag": "A"
+        }
+      ],
+      "left": 50.390625,
+      "right": 388.390625
+    },
+    {
+      "class": "footer-group",
+      "contents": [
+        {
+          "left": 423.390625,
+          "right": 502.578125,
+          "tag": "H2"
+        },
+        {
+          "left": 423.390625,
+          "right": 567.75,
+          "tag": "A"
+        },
+        {
+          "left": 423.390625,
+          "right": 536.625,
+          "tag": "A"
+        },
+        {
+          "left": 423.390625,
+          "right": 514.96875,
+          "tag": "A"
+        },
+        {
+          "left": 423.390625,
+          "right": 607.21875,
+          "tag": "A"
+        }
+      ],
+      "left": 423.390625,
+      "right": 623.765625
+    },
+    {
+      "class": "footer-group",
+      "contents": [
+        {
+          "left": 658.765625,
+          "right": 894.015625,
+          "tag": "H2"
+        },
+        {
+          "left": 658.765625,
+          "right": 727.109375,
+          "tag": "A"
+        },
+        {
+          "left": 658.765625,
+          "right": 810.71875,
+          "tag": "A"
+        },
+        {
+          "left": 658.765625,
+          "right": 778.34375,
+          "tag": "A"
+        },
+        {
+          "left": 658.765625,
+          "right": 763.1875,
+          "tag": "A"
+        },
+        {
+          "left": 658.765625,
+          "right": 700.296875,
+          "tag": "A"
+        }
+      ],
+      "left": 658.765625,
+      "right": 899.21875
+    },
+    {
+      "class": "footer-group",
+      "contents": [
+        {
+          "left": 934.21875,
+          "right": 1062.890625,
+          "tag": "H2"
+        },
+        {
+          "left": 934.21875,
+          "right": 1025.140625,
+          "tag": "A"
+        },
+        {
+          "left": 934.21875,
+          "right": 1096.46875,
+          "tag": "A"
+        }
+      ],
+      "left": 934.21875,
+      "right": 1134.59375
+    }
+  ],
+  "console": []
+}

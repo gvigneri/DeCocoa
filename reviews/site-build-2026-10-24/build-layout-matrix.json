@@ -1,0 +1,452 @@
+[
+  {
+    "client": 1905,
+    "h1": "Experience.Chocolate.",
+    "path": "/prototype/",
+    "scroll": 1905,
+    "smallText": 0,
+    "title": "Experience. Chocolate. | DeCocoa",
+    "viewport": 1920
+  },
+  {
+    "client": 1905,
+    "h1": "Explore our chocolate.",
+    "path": "/prototype/products/",
+    "scroll": 1905,
+    "smallText": 0,
+    "title": "Our Chocolate | DeCocoa",
+    "viewport": 1920
+  },
+  {
+    "client": 1905,
+    "h1": "Filled Chocolate",
+    "path": "/prototype/products/filled-chocolate/",
+    "scroll": 1905,
+    "smallText": 0,
+    "title": "Filled Chocolate | DeCocoa",
+    "viewport": 1920
+  },
+  {
+    "client": 1905,
+    "h1": "Chocolate Bar",
+    "path": "/prototype/products/chocolate-bar/",
+    "scroll": 1905,
+    "smallText": 0,
+    "title": "Chocolate Bar | DeCocoa",
+    "viewport": 1920
+  },
+  {
+    "client": 1905,
+    "h1": "Chocolate Drizzle",
+    "path": "/prototype/products/chocolate-drizzle/",
+    "scroll": 1905,
+    "smallText": 0,
+    "title": "Chocolate Drizzle | DeCocoa",
+    "viewport": 1920
+  },
+  {
+    "client": 1905,
+    "h1": "The heart behind the chocolate.",
+    "path": "/prototype/our-people/",
+    "scroll": 1905,
+    "smallText": 0,
+    "title": "Our People | DeCocoa",
+    "viewport": 1920
+  },
+  {
+    "client": 1905,
+    "h1": "Curiosity in the making.",
+    "path": "/prototype/our-craft/",
+    "scroll": 1905,
+    "smallText": 0,
+    "title": "Our Craft | DeCocoa",
+    "viewport": 1920
+  },
+  {
+    "client": 1905,
+    "h1": "Come curious. Think chocolate.",
+    "path": "/prototype/experience-center/",
+    "scroll": 1905,
+    "smallText": 0,
+    "title": "Experience Center | DeCocoa",
+    "viewport": 1920
+  },
+  {
+    "client": 1905,
+    "h1": "What do you have in mind?",
+    "path": "/prototype/work-with-us/",
+    "scroll": 1905,
+    "smallText": 0,
+    "title": "Work With Us | DeCocoa",
+    "viewport": 1920
+  },
+  {
+    "client": 1905,
+    "h1": "Something is missing.",
+    "path": "/prototype/404.html",
+    "scroll": 1905,
+    "smallText": 0,
+    "title": "Page Not Found | DeCocoa",
+    "viewport": 1920
+  },
+  {
+    "client": 1425,
+    "h1": "Experience.Chocolate.",
+    "path": "/prototype/",
+    "scroll": 1425,
+    "smallText": 0,
+    "title": "Experience. Chocolate. | DeCocoa",
+    "viewport": 1440
+  },
+  {
+    "client": 1425,
+    "h1": "Explore our chocolate.",
+    "path": "/prototype/products/",
+    "scroll": 1425,
+    "smallText": 0,
+    "title": "Our Chocolate | DeCocoa",
+    "viewport": 1440
+  },
+  {
+    "client": 1425,
+    "h1": "Filled Chocolate",
+    "path": "/prototype/products/filled-chocolate/",
+    "scroll": 1425,
+    "smallText": 0,
+    "title": "Filled Chocolate | DeCocoa",
+    "viewport": 1440
+  },
+  {
+    "client": 1425,
+    "h1": "Chocolate Bar",
+    "path": "/prototype/products/chocolate-bar/",
+    "scroll": 1425,
+    "smallText": 0,
+    "title": "Chocolate Bar | DeCocoa",
+    "viewport": 1440
+  },
+  {
+    "client": 1425,
+    "h1": "Chocolate Drizzle",
+    "path": "/prototype/products/chocolate-drizzle/",
+    "scroll": 1425,
+    "smallText": 0,
+    "title": "Chocolate Drizzle | DeCocoa",
+    "viewport": 1440
+  },
+  {
+    "client": 1425,
+    "h1": "The heart behind the chocolate.",
+    "path": "/prototype/our-people/",
+    "scroll": 1425,
+    "smallText": 0,
+    "title": "Our People | DeCocoa",
+    "viewport": 1440
+  },
+  {
+    "client": 1425,
+    "h1": "Curiosity in the making.",
+    "path": "/prototype/our-craft/",
+    "scroll": 1425,
+    "smallText": 0,
+    "title": "Our Craft | DeCocoa",
+    "viewport": 1440
+  },
+  {
+    "client": 1425,
+    "h1": "Come curious. Think chocolate.",
+    "path": "/prototype/experience-center/",
+    "scroll": 1425,
+    "smallText": 0,
+    "title": "Experience Center | DeCocoa",
+    "viewport": 1440
+  },
+  {
+    "client": 1425,
+    "h1": "What do you have in mind?",
+    "path": "/prototype/work-with-us/",
+    "scroll": 1425,
+    "smallText": 0,
+    "title": "Work With Us | DeCocoa",
+    "viewport": 1440
+  },
+  {
+    "client": 1425,
+    "h1": "Something is missing.",
+    "path": "/prototype/404.html",
+    "scroll": 1425,
+    "smallText": 0,
+    "title": "Page Not Found | DeCocoa",
+    "viewport": 1440
+  },
+  {
+    "client": 753,
+    "h1": "Experience.Chocolate.",
+    "path": "/prototype/",
+    "scroll": 753,
+    "smallText": 0,
+    "title": "Experience. Chocolate. | DeCocoa",
+    "viewport": 768
+  },
+  {
+    "client": 753,
+    "h1": "Explore our chocolate.",
+    "path": "/prototype/products/",
+    "scroll": 753,
+    "smallText": 0,
+    "title": "Our Chocolate | DeCocoa",
+    "viewport": 768
+  },
+  {
+    "client": 753,
+    "h1": "Filled Chocolate",
+    "path": "/prototype/products/filled-chocolate/",
+    "scroll": 753,
+    "smallText": 0,
+    "title": "Filled Chocolate | DeCocoa",
+    "viewport": 768
+  },
+  {
+    "client": 753,
+    "h1": "Chocolate Bar",
+    "path": "/prototype/products/chocolate-bar/",
+    "scroll": 753,
+    "smallText": 0,
+    "title": "Chocolate Bar | DeCocoa",
+    "viewport": 768
+  },
+  {
+    "client": 753,
+    "h1": "Chocolate Drizzle",
+    "path": "/prototype/products/chocolate-drizzle/",
+    "scroll": 753,
+    "smallText": 0,
+    "title": "Chocolate Drizzle | DeCocoa",
+    "viewport": 768
+  },
+  {
+    "client": 753,
+    "h1": "The heart behind the chocolate.",
+    "path": "/prototype/our-people/",
+    "scroll": 753,
+    "smallText": 0,
+    "title": "Our People | DeCocoa",
+    "viewport": 768
+  },
+  {
+    "client": 753,
+    "h1": "Curiosity in the making.",
+    "path": "/prototype/our-craft/",
+    "scroll": 753,
+    "smallText": 0,
+    "title": "Our Craft | DeCocoa",
+    "viewport": 768
+  },
+  {
+    "client": 753,
+    "h1": "Come curious. Think chocolate.",
+    "path": "/prototype/experience-center/",
+    "scroll": 753,
+    "smallText": 0,
+    "title": "Experience Center | DeCocoa",
+    "viewport": 768
+  },
+  {
+    "client": 753,
+    "h1": "What do you have in mind?",
+    "path": "/prototype/work-with-us/",
+    "scroll": 753,
+    "smallText": 0,
+    "title": "Work With Us | DeCocoa",
+    "viewport": 768
+  },
+  {
+    "client": 753,
+    "h1": "Something is missing.",
+    "path": "/prototype/404.html",
+    "scroll": 753,
+    "smallText": 0,
+    "title": "Page Not Found | DeCocoa",
+    "viewport": 768
+  },
+  {
+    "client": 375,
+    "h1": "Experience.Chocolate.",
+    "path": "/prototype/",
+    "scroll": 375,
+    "smallText": 0,
+    "title": "Experience. Chocolate. | DeCocoa",
+    "viewport": 390
+  },
+  {
+    "client": 375,
+    "h1": "Explore our chocolate.",
+    "path": "/prototype/products/",
+    "scroll": 375,
+    "smallText": 0,
+    "title": "Our Chocolate | DeCocoa",
+    "viewport": 390
+  },
+  {
+    "client": 375,
+    "h1": "Filled Chocolate",
+    "path": "/prototype/products/filled-chocolate/",
+    "scroll": 375,
+    "smallText": 0,
+    "title": "Filled Chocolate | DeCocoa",
+    "viewport": 390
+  },
+  {
+    "client": 375,
+    "h1": "Chocolate Bar",
+    "path": "/prototype/products/chocolate-bar/",
+    "scroll": 375,
+    "smallText": 0,
+    "title": "Chocolate Bar | DeCocoa",
+    "viewport": 390
+  },
+  {
+    "client": 375,
+    "h1": "Chocolate Drizzle",
+    "path": "/prototype/products/chocolate-drizzle/",
+    "scroll": 375,
+    "smallText": 0,
+    "title": "Chocolate Drizzle | DeCocoa",
+    "viewport": 390
+  },
+  {
+    "client": 375,
+    "h1": "The heart behind the chocolate.",
+    "path": "/prototype/our-people/",
+    "scroll": 375,
+    "smallText": 0,
+    "title": "Our People | DeCocoa",
+    "viewport": 390
+  },
+  {
+    "client": 375,
+    "h1": "Curiosity in the making.",
+    "path": "/prototype/our-craft/",
+    "scroll": 375,
+    "smallText": 0,
+    "title": "Our Craft | DeCocoa",
+    "viewport": 390
+  },
+  {
+    "client": 375,
+    "h1": "Come curious. Think chocolate.",
+    "path": "/prototype/experience-center/",
+    "scroll": 375,
+    "smallText": 0,
+    "title": "Experience Center | DeCocoa",
+    "viewport": 390
+  },
+  {
+    "client": 375,
+    "h1": "What do you have in mind?",
+    "path": "/prototype/work-with-us/",
+    "scroll": 375,
+    "smallText": 0,
+    "title": "Work With Us | DeCocoa",
+    "viewport": 390
+  },
+  {
+    "client": 375,
+    "h1": "Something is missing.",
+    "path": "/prototype/404.html",
+    "scroll": 375,
+    "smallText": 0,
+    "title": "Page Not Found | DeCocoa",
+    "viewport": 390
+  },
+  {
+    "client": 305,
+    "h1": "Experience.Chocolate.",
+    "path": "/prototype/",
+    "scroll": 305,
+    "smallText": 0,
+    "title": "Experience. Chocolate. | DeCocoa",
+    "viewport": 320
+  },
+  {
+    "client": 305,
+    "h1": "Explore our chocolate.",
+    "path": "/prototype/products/",
+    "scroll": 305,
+    "smallText": 0,
+    "title": "Our Chocolate | DeCocoa",
+    "viewport": 320
+  },
+  {
+    "client": 305,
+    "h1": "Filled Chocolate",
+    "path": "/prototype/products/filled-chocolate/",
+    "scroll": 305,
+    "smallText": 0,
+    "title": "Filled Chocolate | DeCocoa",
+    "viewport": 320
+  },
+  {
+    "client": 305,
+    "h1": "Chocolate Bar",
+    "path": "/prototype/products/chocolate-bar/",
+    "scroll": 305,
+    "smallText": 0,
+    "title": "Chocolate Bar | DeCocoa",
+    "viewport": 320
+  },
+  {
+    "client": 305,
+    "h1": "Chocolate Drizzle",
+    "path": "/prototype/products/chocolate-drizzle/",
+    "scroll": 305,
+    "smallText": 0,
+    "title": "Chocolate Drizzle | DeCocoa",
+    "viewport": 320
+  },
+  {
+    "client": 305,
+    "h1": "The heart behind the chocolate.",
+    "path": "/prototype/our-people/",
+    "scroll": 305,
+    "smallText": 0,
+    "title": "Our People | DeCocoa",
+    "viewport": 320
+  },
+  {
+    "client": 305,
+    "h1": "Curiosity in the making.",
+    "path": "/prototype/our-craft/",
+    "scroll": 305,
+    "smallText": 0,
+    "title": "Our Craft | DeCocoa",
+    "viewport": 320
+  },
+  {
+    "client": 305,
+    "h1": "Come curious. Think chocolate.",
+    "path": "/prototype/experience-center/",
+    "scroll": 305,
+    "smallText": 0,
+    "title": "Experience Center | DeCocoa",
+    "viewport": 320
+  },
+  {
+    "client": 305,
+    "h1": "What do you have in mind?",
+    "path": "/prototype/work-with-us/",
+    "scroll": 305,
+    "smallText": 0,
+    "title": "Work With Us | DeCocoa",
+    "viewport": 320
+  },
+  {
+    "client": 305,
+    "h1": "Something is missing.",
+    "path": "/prototype/404.html",
+    "scroll": 305,
+    "smallText": 0,
+    "title": "Page Not Found | DeCocoa",
+    "viewport": 320
+  }
+]

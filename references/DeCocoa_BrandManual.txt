@@ -1,0 +1,259 @@
+PAGE 1
+Brand 
+Manual
+
+PAGE 2
+Welcome
+Velkommen
+Vítejte
+Dobrodošli
+Välkommen
+Bienvenue
+Bienvenido
+
+PAGE 3
+The De Cocoa logo has 
+multiple meanings: 
+Our new brand mark represents 6 cocoa pods 
+coming together to create the Flower of Life.
+The Flower of Life is an ancient geometric symbol 
+that represents creation, connection, and unity.
+In numerology the number six represents balance, 
+harmony and responsibility.
+
+PAGE 4
+LOGOS ON LIGHT BACKGROUND
+
+PAGE 5
+LOGOS ON DARK BACKGROUND
+
+PAGE 6
+WHITEWHITE
+
+PAGE 7
+BLACK
+
+PAGE 8
+Brand Patterns 
+
+PAGE 9
+
+
+PAGE 10
+
+
+PAGE 11
+
+
+PAGE 12
+
+
+PAGE 13
+
+
+PAGE 14
+
+
+PAGE 15
+Brand Colors
+
+PAGE 16
+BRAND COLORS OPTION 2
+COCOA LIFE CYCLE
+02
+03
+0405
+07
+08
+05
+01
+
+PAGE 17
+PRIMARYSECONDARY
+COLOR SYSTEM
+DE COCOA ORANGE
+PRIMARY
+HEX: E87933
+CMYK: 5 64 91 0
+PANTONE: 158
+BLUSH
+SECONDARY
+HEX: F2C9C1
+CMYK: 3 23 18 0
+PANTONE: 496
+FRESH
+SECONDARY
+HEX: A0B65C
+CMYK: 42 14 81 0
+PANTONE: 383
+LEAF
+SECONDARY
+HEX: 327D4F
+CMYK: 81 29 84 14
+PANTONE: 555
+CHOCOLATE
+PRIMARY
+HEX: 2E2E2E
+CMYK: 70 64 63 63
+PANTONE: 4625
+01
+02
+07
+08
+05
+CREAM
+PRIMARY
+HEX: F7EFE6
+CMYK: 2 4 8 0
+PANTONE: 9080
+04
+06
+03
+RIPE
+SECONDARY
+HEX: DC4B33
+CMYK: 8 86 90 1
+PANTONE: 7417
+SUNRISE 
+SECONDARY
+HEX: FFBE4A
+CMYK: 0 31 91 0
+PANTONE: 1235
+
+PAGE 18
+Brand Typography
+
+PAGE 19
+BODY COPY FONTS:HEADLINE FONT:
+MONTSERRAT BOLD
+ABCDEFGHI JKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+MONTSERRAT LIGHT
+ABCDEFGHI JKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+SUSA REGULAR
+abcdefghi jklmnopqrstuvwxyz
+ABCDEFGH I JKL M NOPQ R S T U V W X Y Z
+MONTSERRAT REGULAR:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo cons
+equat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
+in culpa qui ofﬁcia deserunt mollit anim id est laborum.
+MONTSERRAT LIGHT:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo cons
+equat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
+in culpa qui ofﬁcia deserunt mollit anim id est laborum.
+TYPOGRAPHY
+Primary Typefaces
+These are the fonts for consumer facing media. They should 
+be used by the designers and design ﬁrms working on Purpose
+Brands. These do not need to be used for internal messaging.
+
+PAGE 20
+PRIMARY FONTS IN USE (OPTION 1)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo cons
+equat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
+in culpa qui ofﬁcia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius-
+mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad 
+minim veniam, quis nostrud exercitation ullamco laboris nisi ut 
+aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen-
+derit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+ofﬁcia deserunt mollit anim id est laborum.
+Lorem ipsum adipiscing elit.
+Ut Enim ad
+Minim Venia ANIM LABORUM
+Lorem
+
+PAGE 21
+TYPOGRAPHY:
+System Font
+BODY COPY FONTS:HEADLINE FONT:
+AVENIR BOLD
+ABCDEFGHI JKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+AVENIR LIGHT
+ABCDEFGHI JKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+AVENIR BOOK:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo cons
+equat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
+in culpa qui officia deserunt mollit anim id est laborum.
+These are fonts that come included with Microsoft Ofﬁce and
+are available on all computers. When you don’t have access to 
+the primary fonts, please use the system fonts. 
+AVENIR LIGHT:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo cons
+equat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore 
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
+in culpa qui officia deserunt mollit anim id est laborum.
+
+PAGE 22
+Brand Rules
+
+PAGE 23
+LOGO SYSTEM PADDING
+PLEASE THIS MUCH SPACE AROUND THE LOGO
+X = Y=
+BRAND MARK BADGE
+VERTICAL LOGO
+HORIZONTAL LOGO
+
+PAGE 24
+DO NOT USE IN A HEADLINE
+UNAPPROVED LOGO USAGE
+PLEASE DO NOT DO ANY OF THESE THINGS WITH THE LOGO WITHOUT PERMISSION
+NO ROTATION NO STRETCHING DO NOT CHANGE THE COLORS DO NOT USE THE FULL LOGO IN A SENTENCE
+DO NOT CHANGE THE FONT NO SQUISHING DO NOT PLACE IT ON A PATTERN DO NOT REARRANGE THE ELEMENTS
+
+PAGE 25
+Brand Mock-Ups
+
+PAGE 26
+
+
+PAGE 27
+
+
+PAGE 28
+NET WT 1.55 OZ (43G)
+210 CALORIES PER BAR
+
+PAGE 29
+EMAIL SIGNATURE MOCK-UP
+Dear Lorem,
+Jamie Merrick  
+Director of Communications & Culture 
++1 (234) 567-8910
+1189 East Main Street Rochester, NY 14609
+decocoa.com
+De Cocoa Email Template
+Allan@AllanPeters.com
+Avenir Next
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut 
+laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ulla-
+mcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hen-
+drerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et 
+accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait 
+nulla facilisi.
+
+PAGE 30
+Questions?
+Need Files?
+Contact:
+Jamie Merrick
+jmerrick@decocoa.com

@@ -1,0 +1,100 @@
+{
+  "version": "homepage-r6",
+  "missing_assets": [],
+  "missing_anchors": [],
+  "duplicate_ids": [],
+  "forbidden_customer_copy": false,
+  "arrows_in_customer_text": false,
+  "native_forms": 0,
+  "native_submit_controls": 0,
+  "fieldset_disabled_in_source": true,
+  "network_transport_code": false,
+  "storage_keys": [
+    "decocoa-motion-paused",
+    "decocoa-motion-paused"
+  ],
+  "form_storage_code": false,
+  "reduced_motion_media_rule": true,
+  "pattern_masters": [
+    {
+      "file": "circles-master.svg",
+      "paths_including_clips": 869,
+      "clip_references_resolve": true,
+      "raster_embeds": false
+    },
+    {
+      "file": "floweroflife-master.svg",
+      "paths_including_clips": 57,
+      "clip_references_resolve": true,
+      "raster_embeds": false
+    },
+    {
+      "file": "growth-master.svg",
+      "paths_including_clips": 174,
+      "clip_references_resolve": true,
+      "raster_embeds": false
+    },
+    {
+      "file": "luxury-master.svg",
+      "paths_including_clips": 155,
+      "clip_references_resolve": true,
+      "raster_embeds": false
+    },
+    {
+      "file": "rings-master.svg",
+      "paths_including_clips": 139,
+      "clip_references_resolve": true,
+      "raster_embeds": false
+    },
+    {
+      "file": "stripes-master.svg",
+      "paths_including_clips": 188,
+      "clip_references_resolve": true,
+      "raster_embeds": false
+    }
+  ],
+  "files": {
+    "prototype\\index.html": "823af4b54d0673482903fd9456e59c145ce2393cecabe2af64e4c73c76ee108d",
+    "prototype\\styles.css": "e6092fce673645e6cf5bb39cc2556c55887c934ef1e7e6c49fe702676baed5b0",
+    "prototype\\script.js": "de620ee24418249ebed60844a6c0fd055cd0d99a26485fecd7db3e9c0db1c68d",
+    "prototype\\homepage.template.html": "abb6de778638cf6818468d920779263e7ac8ced68420cfe88435c7fd3ea89100"
+  },
+  "r5": {
+    "default_and_button_type_1rem": true,
+    "main_navigation_type_1_25rem": true,
+    "button_outer_inner_radii": true,
+    "hover_underlines": false,
+    "badge_painted_paths": 31,
+    "badge_raster_embeds": false,
+    "dynamic_header_height": true,
+    "sticky_disclosure_breakpoint_matches": true
+  },
+  "r6": {
+    "separate_hero_nodes": 3,
+    "distinct_hero_assets": 3,
+    "hero_assets": [
+      "../assets/images/pretzel-red-drizzle-r6.webp",
+      "../assets/images/pretzel-chunky-sprinkles-r6.webp",
+      "../assets/images/dipped-pretzel.webp"
+    ],
+    "shared_card_instances": 8,
+    "button_inner_2px": true,
+    "eyebrow_radius_8px": true,
+    "card_outer_4px_transparent": true,
+    "card_inner_4px": true,
+    "falls_start_above_hero": true,
+    "stagger_delays_seconds": [
+      0,
+      0.2,
+      0.4
+    ],
+    "durations_seconds": [
+      1.55,
+      1.65,
+      1.7
+    ],
+    "stored_pause_starts_static": true,
+    "active_entrance_can_pause": true,
+    "cutout_alpha_verified": true
+  }
+}

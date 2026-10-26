@@ -1,0 +1,317 @@
+{
+  "version": "homepage-r5",
+  "files": [
+    {
+      "path": "assets\\export-details.json",
+      "sha256": "66AEDD4BA398C7571AF8D8ADF053AE2C67F0A06C1F70BE58C9D69D4EC3DBA4C2"
+    },
+    {
+      "path": "assets\\fonts\\montserrat-1.woff2",
+      "sha256": "0F7F5F2FBB4EAE126790FE6F01659AB3EE0806E8038A941908E893020569F51A"
+    },
+    {
+      "path": "assets\\fonts\\montserrat-2.woff2",
+      "sha256": "A187B077090FE8AE3FD2D7496AABBEAE604819C718A282E0AFC92DF72B450766"
+    },
+    {
+      "path": "assets\\fonts\\montserrat-3.woff2",
+      "sha256": "26B2403F995ED65FB49037A6498C074D3EC3C36031A69FC368C4C2180E2C01FA"
+    },
+    {
+      "path": "assets\\fonts\\montserrat-4.woff2",
+      "sha256": "54D9A78B7FF60B689AD9F3017FFAC8547B5D871AFEC733F6C1C3AE36577EE504"
+    },
+    {
+      "path": "assets\\fonts\\montserrat-5.woff2",
+      "sha256": "06B16DB7A969135D48D38C49183BE7FB88D4452E2A3011957C7851941F4E4879"
+    },
+    {
+      "path": "assets\\fonts\\Montserrat-OFL.txt",
+      "sha256": "EEA2531F8465EA6A4442B47AD40F4360CC4495C61ABDF7600719789D778504D9"
+    },
+    {
+      "path": "assets\\fonts\\montserrat.css",
+      "sha256": "9327D40F13768BB975A7FA00C691828933F3D3B953F9821A4AA983C1A50E627E"
+    },
+    {
+      "path": "assets\\fonts\\provenance.json",
+      "sha256": "7C77DF0714D3F4B9147BAFBDF540C890C34E6BB60C8F1AA055C27215990F7DA1"
+    },
+    {
+      "path": "assets\\images\\certification-reference-a.jpg",
+      "sha256": "B834987BB26F2273F7132A3651715514A6818C5979E6B84EFF0D4D841C886945"
+    },
+    {
+      "path": "assets\\images\\certification-reference-b.jpg",
+      "sha256": "5AFE6F19F6ED2644E7FA46154F86213EDE32BD241E820503F8F5C3627616E8D4"
+    },
+    {
+      "path": "assets\\images\\chocolate-bar.webp",
+      "sha256": "77DAB355D1A33615C19657AC007D04DD5C80228BDBE6F6CF403858EFAAC3F3C1"
+    },
+    {
+      "path": "assets\\images\\chocolate-craft.webp",
+      "sha256": "33083A81D60A730F74E22F39D59F1BD963A35161EE2C9B7AAB10B3345A5FC8FD"
+    },
+    {
+      "path": "assets\\images\\chocolate-drizzle.webp",
+      "sha256": "FB6ADD532B0D20931FCF31A25FE7DF7D2D2D5893BC43203FAF4FFF057D115733"
+    },
+    {
+      "path": "assets\\images\\cocoa-powder.webp",
+      "sha256": "A1EF7C882E0BCE1AC744AA948379743A0DF6E3C294B6D8116338C8BA50D6A0FD"
+    },
+    {
+      "path": "assets\\images\\dipped-pretzel-trio.webp",
+      "sha256": "70FE62C15ED524E951C641C7FB5DA508C3EA7B883B8EC3359133FCDCFD097C37"
+    },
+    {
+      "path": "assets\\images\\dipped-pretzel.webp",
+      "sha256": "236B7B30A790E463605A6DC5FC241FFE433AC88BBE03E8C6D8C3A6D15F587CB9"
+    },
+    {
+      "path": "assets\\images\\dipped-pretzels.webp",
+      "sha256": "5428CE2ACCF64EFF3E6BAC9104E7BAEF8481C15552CC862D72AF56A64655053C"
+    },
+    {
+      "path": "assets\\images\\filled-chocolate-on-cream.jpg",
+      "sha256": "105CE510707BF55728FA8A9736DF3069871966E0CEE2B930CC6FEED613B33065"
+    },
+    {
+      "path": "assets\\images\\filled-chocolate.webp",
+      "sha256": "89CD56EB57AD1B91BA9FD53F14A09E5713CB92625EA1A569387B51E404B9E5AA"
+    },
+    {
+      "path": "assets\\images\\inspect-Blue-Stripes.jpg",
+      "sha256": "A8660528E77F64ABBB88B29A666716E8BC09389919AA1766E545CF44B0F95D85"
+    },
+    {
+      "path": "assets\\images\\inspect-Pretzels.jpg",
+      "sha256": "544A9BEB3CFABFCF8AC03CF167DFB28B8E1AD57ABD7D87C7105145A810B022A5"
+    },
+    {
+      "path": "assets\\images\\nuts-and-chocolate.webp",
+      "sha256": "8EEF1FCD328890ED3B7B25FC9A85BE0CD185D7D55F84413E4F5FB7611DA18D96"
+    },
+    {
+      "path": "assets\\images\\partner-guittard.png",
+      "sha256": "45F12CB652F3EE300F5EBF0A024120713A3DE4A8ED97D2159905DBD32BF7A9C4"
+    },
+    {
+      "path": "assets\\images\\partner-puratos.png",
+      "sha256": "31DEB4CFCEF999AB6DA76CD3D2933E77DE63FBB99FD4F5F745B8B84C1FBFA681"
+    },
+    {
+      "path": "assets\\images\\partner-region-inspection.png",
+      "sha256": "521EE24A20ACA5E52649B795E65539E3D9B892DE80C1BA463983FB0CEFEB03C3"
+    },
+    {
+      "path": "assets\\images\\partner-wegmans.png",
+      "sha256": "B7F82D78B99646CEAE595147DF3A15F845A129B0E412268ED1D30D3742FB29F9"
+    },
+    {
+      "path": "assets\\images\\people-at-work.webp",
+      "sha256": "E411970B0AE92E0D1C60D79CC1E89AD05AAE08EDD8941E12DA126989715A3630"
+    },
+    {
+      "path": "assets\\images\\pretzel-compositing-check.jpg",
+      "sha256": "0269ED6B855ED67BDA16E0850A8869B59C766B29361DD053C630161C7034DB10"
+    },
+    {
+      "path": "assets\\images\\pretzel-trio-export-proof.jpg",
+      "sha256": "5D19CCA1E8099978DE724F9B9BF5306769444EC3FF540CA4E0CF63FFE169F541"
+    },
+    {
+      "path": "assets\\logos\\brandmark-source-render.png",
+      "sha256": "1D59F4932986A2386388D0873E34DFE75C4763472DA71E67F2AA8B08F456A2F1"
+    },
+    {
+      "path": "assets\\logos\\dark-badge-source-brown.png",
+      "sha256": "41A49110143ED2D5A61638B0551710010E423D180E5117D5833B9FE0100CD702"
+    },
+    {
+      "path": "assets\\logos\\dark-badge-source-render.png",
+      "sha256": "3769C3C6BC567407CB6097B7B09F09D68650AC2BF6454EB539D1A5FAB734D669"
+    },
+    {
+      "path": "assets\\logos\\decocoa-brandmark-silhouette.svg",
+      "sha256": "8795BEB3F7CEEF3528AEA6E99B8A7504A1B8E3EE4EDD3CD0FFB760B83B555A0A"
+    },
+    {
+      "path": "assets\\logos\\decocoa-brandmark.svg",
+      "sha256": "45137B2C629D32CAC320BFCE89E522BAA1B82F7804B726DD66B5E0A4BD5E4DBC"
+    },
+    {
+      "path": "assets\\logos\\decocoa-dark-badge.svg",
+      "sha256": "4AED6B6F912B737949EF49C67356D00F42D53620E0F42C50CDB796FDEEE06A39"
+    },
+    {
+      "path": "assets\\logos\\decocoa-horizontal.svg",
+      "sha256": "8CFB6F63F632B8F26CFE4FBC3A5F1E238ACD7DE7E8B30F511FBB1A1B8F34DF39"
+    },
+    {
+      "path": "assets\\logos\\horizontal-source-cropped.png",
+      "sha256": "A427B61CFC4F8CC9CD3858EAC833C8FBDB71C78E122072BAEDCA343725C7DEB7"
+    },
+    {
+      "path": "assets\\logos\\horizontal-source-render.png",
+      "sha256": "9389614F39E930AA32A91784BC08A1F70F8D758A9192BBEF5D9F981CBFA537E2"
+    },
+    {
+      "path": "assets\\patterns\\circles-master.svg",
+      "sha256": "55CE301328BFDC300FC5D8EE94CA17A8ECAB6AD81E1E1AD0007BAEA4EAAB7089"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_Circles_Pattern.png",
+      "sha256": "787F9AD06AF2BACDB3D8C0C154A82BCD3392705E22DE1F2484F145F6EFCBE3A1"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_FlowerOfLife_Pattern.png",
+      "sha256": "6CD9BFB17F8927F93E24B317F68D548ADFCC7D6D495ACA17F5B0D99D809C3250"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_Growth_Pattern.png",
+      "sha256": "52D3483747058910403E28D5FF22B043C5DADF5F7231B10C31A37F2062FA4171"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_Luxury_Pattern.png",
+      "sha256": "038CD0A38D45C3A1C1E07949561200A124568B4D687468A57FD8F92F0E202246"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_Rings_Pattern.png",
+      "sha256": "32C888A802C63923DDE30A8D435FF3AC22D817DE0CB816EA203F9FA3AA3E9EC1"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_Stripes_Pattern.png",
+      "sha256": "A2878E4EF9F5992D7D20C35370DD156D57C3818C25459298B7999AB5B3FB2E79"
+    },
+    {
+      "path": "assets\\patterns\\floweroflife-master.svg",
+      "sha256": "E225FCFE076DB5C71C754C71EF3210FC4C10F1812A9187268DE32DB13B350810"
+    },
+    {
+      "path": "assets\\patterns\\floweroflife-website.svg",
+      "sha256": "789FCBC980619E62ED99879647E0E449D65BD624BDE0BA206A8141521E1B2B67"
+    },
+    {
+      "path": "assets\\patterns\\growth-master.svg",
+      "sha256": "C06F32F436DD146F576F64DD35F5C09FDCA86408B9B45027C1AE4873360431C9"
+    },
+    {
+      "path": "assets\\patterns\\growth-source-render.png",
+      "sha256": "F0574F23679B38508280939174A9A65EF63FB429794043D81DFC5BEDD4379CCF"
+    },
+    {
+      "path": "assets\\patterns\\growth-website.svg",
+      "sha256": "7278E62538B6E92CDDEDDF533682D701E753381331710FB399ED3FDD4E8B3272"
+    },
+    {
+      "path": "assets\\patterns\\luxury-master.svg",
+      "sha256": "72B7A1225DF2243A08EF2DC1594FC90EA4ACCAF3C58A398CCD1F4B62980058B9"
+    },
+    {
+      "path": "assets\\patterns\\pattern-contact-sheet.jpg",
+      "sha256": "EC3E1F5C3655DB152CEA02A05FFCA72ABC25A0B0389BC571D33BBF95BA2A1B06"
+    },
+    {
+      "path": "assets\\patterns\\rings-master.svg",
+      "sha256": "22E27FFACFD12EE48CDB65935960AB5D35B37C067CCEB532D0B41893DDBA61D1"
+    },
+    {
+      "path": "assets\\patterns\\stripes-master.svg",
+      "sha256": "9353D9376D47E7CE35E4D44AEEBDFB41C876116B4054257670EEC1030F365EA2"
+    },
+    {
+      "path": "assets\\patterns\\stripes-website.svg",
+      "sha256": "7CC9238175B181FB62448B11C593E8D3593690B851E016BC8EECD15186ACB615"
+    },
+    {
+      "path": "assets\\patterns\\stripes.png",
+      "sha256": "E57B69C974D4904F7ADC7A7AB80A7EDDFDE637A2F8F303E20E197C3888EBC139"
+    },
+    {
+      "path": "assets\\pretzel-trio-export-details.json",
+      "sha256": "08BB4792FB87B7A187EF284F5808595922837F8B113B2293B39FAC039168071F"
+    },
+    {
+      "path": "assets\\vector-export-details.json",
+      "sha256": "0DC9CA342B926CD43CCBDA5B7DD1C644CF3CCAD7A79887E9579C4655912B38DA"
+    },
+    {
+      "path": "prototype\\copy-changes-r3.md",
+      "sha256": "B7A55F1EFED1F4362FF9DD553666CA0A62F075D768C59A81BB164BA103D862A8"
+    },
+    {
+      "path": "prototype\\homepage.template.html",
+      "sha256": "05B19D00397D87C0AC68829EBD02D902331DA4B8793C0B6EE5FECD3A647AE885"
+    },
+    {
+      "path": "prototype\\implementation-checks-r4.md",
+      "sha256": "D2E29667B6E28B2A38DE5C3B9A9B9631C1B51EF1B8C13FF7CFC3416E936792D4"
+    },
+    {
+      "path": "prototype\\implementation-checks-r5.md",
+      "sha256": "BF9442B7360533EC6A6422DD31FC7CC825B3F12EF85EBC9A6174DE88ACFCD890"
+    },
+    {
+      "path": "prototype\\index.html",
+      "sha256": "3CF6CEB591E41830FADDB791C65C4D4E9241FB9A4498C90FBB5ED4573B423A57"
+    },
+    {
+      "path": "prototype\\qa-r5\\badge-source-comparison.jpg",
+      "sha256": "502DBAE8FA8299338F378161D4F3C9210F3E214850186321ABC8C6CA3F9ECC78"
+    },
+    {
+      "path": "prototype\\qa-r5\\footer-1920.jpg",
+      "sha256": "4234AE31EE47F2DA3BBAB498E7FC4D14272415992CCC27E064A679AD5A4F3682"
+    },
+    {
+      "path": "prototype\\qa-r5\\hero-1440.jpg",
+      "sha256": "2645D091E3601ACFBCBBD8E280AD16928019CB330B3C30916514DF8CEDAEBCAB"
+    },
+    {
+      "path": "prototype\\qa-r5\\hero-1920.jpg",
+      "sha256": "CEAB070329B0273EFCA10D25965B8CC880ED1B9D5A220C4B478F3C7C36489BF3"
+    },
+    {
+      "path": "prototype\\qa-r5\\hero-320.jpg",
+      "sha256": "56465D9CF8452CD878B1285513E8D6FBC5E1243466E5D2BCACCD6D0725FE8618"
+    },
+    {
+      "path": "prototype\\qa-r5\\hero-390.jpg",
+      "sha256": "09EE311B3A852E73905487D18B3D06534C91BF9A5412D1A4D06E63D092F6AB3C"
+    },
+    {
+      "path": "prototype\\qa-r5\\hero-768.jpg",
+      "sha256": "12C4DB61371501A6B47C4268ECDF16DB8437445233A9C4A76142E1E582199644"
+    },
+    {
+      "path": "prototype\\qa-r5\\menu-390.jpg",
+      "sha256": "8DF7684C8DB8CD1AF6C87B568CF2B48EAA1D7130D2569D9F9645B75C5EFC98E3"
+    },
+    {
+      "path": "prototype\\qa-r5\\pretzel-trio-320.jpg",
+      "sha256": "6A37EB6673BA53FBCF7FFF0593F61B85B65D9B477317E8DB37FA5A20EE8EC87F"
+    },
+    {
+      "path": "prototype\\qa-r5\\pretzel-trio-390.jpg",
+      "sha256": "B59B6EB2F297AE9F3E6324F0FE49516CC82FF7147E7AAE0DA8D892C2FE5F2134"
+    },
+    {
+      "path": "prototype\\repair-checks-r3.md",
+      "sha256": "EC49DDB5781BF4805E15A302C071E3152A25CE637C53B1C17D113316574787BF"
+    },
+    {
+      "path": "prototype\\script.js",
+      "sha256": "C396A12DD6760C7044B47D3A93C02EA1FC7975C2C58A7AFFC090F232163ADDD3"
+    },
+    {
+      "path": "prototype\\source-checks.json",
+      "sha256": "07EF1B87E2EEDB7B0E6934A2B5027111D2A2B68061D11485E2BD82C547C0547C"
+    },
+    {
+      "path": "prototype\\styles.css",
+      "sha256": "453C6F5203D9363A176AE4C00188EACF852BB867943FF554498555AEC16AF943"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "project": "Font Awesome Free",
+  "release": "6.7.2",
+  "publisher": "Fonticons, Inc.",
+  "source_repository": "https://github.com/FortAwesome/Font-Awesome/tree/6.7.2",
+  "license_file": "LICENSE.txt",
+  "icons": [
+    {
+      "file": "assets/icons/fontawesome-free-6.7.2/arrow-right.svg",
+      "source_url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/arrow-right.svg",
+      "sha256": "8184baa12892006d1b801a4dc1c89b3df14f35a2e70b7670376a4e967225b26d",
+      "license": "CC BY 4.0",
+      "changes": "None; original SVG file and attribution retained. Embedded instances add presentation attributes only."
+    },
+    {
+      "file": "assets/icons/fontawesome-free-6.7.2/gift.svg",
+      "source_url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/gift.svg",
+      "sha256": "7a7117cba668d12caecb0ecde0219735e48e52e6c7f76f22b1ddd3206038a721",
+      "license": "CC BY 4.0",
+      "changes": "None; original SVG file and attribution retained. Embedded instances add presentation attributes only."
+    },
+    {
+      "file": "assets/icons/fontawesome-free-6.7.2/wand-magic-sparkles.svg",
+      "source_url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/wand-magic-sparkles.svg",
+      "sha256": "ce3eb5166b70675a20f76e27bc592a44014e87314595bee786b9cc015017655b",
+      "license": "CC BY 4.0",
+      "changes": "None; original SVG file and attribution retained. Embedded instances add presentation attributes only."
+    },
+    {
+      "file": "assets/icons/fontawesome-free-6.7.2/handshake.svg",
+      "source_url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/handshake.svg",
+      "sha256": "24c97cbe39f555507383ba78fb0eee928401745ba5acf336cc9d6084a09823cf",
+      "license": "CC BY 4.0",
+      "changes": "None; original SVG file and attribution retained. Embedded instances add presentation attributes only."
+    },
+    {
+      "file": "assets/icons/fontawesome-free-6.7.2/shield-heart.svg",
+      "source_url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/shield-heart.svg",
+      "sha256": "fbe50df2ab969c38cd5b312c3e6e3dcda7c361676063fb26dad99b3ec54c8fdf",
+      "license": "CC BY 4.0",
+      "changes": "None; original SVG file and attribution retained. Embedded instances add presentation attributes only."
+    },
+    {
+      "file": "assets/icons/fontawesome-free-6.7.2/leaf.svg",
+      "source_url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/leaf.svg",
+      "sha256": "4b6137e9ab6ecbdc5da505cc35c06cb7daacabb16e6be384f1e6f7edc1e5353e",
+      "license": "CC BY 4.0",
+      "changes": "None; original SVG file and attribution retained. Embedded instances add presentation attributes only."
+    },
+    {
+      "file": "assets/icons/fontawesome-free-6.7.2/gears.svg",
+      "source_url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/gears.svg",
+      "sha256": "44fd5217fb99f55dd649bdd65ad526b298b41d93dfe9539f4adc30387358132f",
+      "license": "CC BY 4.0",
+      "changes": "None; original SVG file and attribution retained. Embedded instances add presentation attributes only."
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "layouts": [
+    {
+      "background": "rgb(58, 23, 13)",
+      "clientWidth": 1905,
+      "container": {
+        "bottom": 1400.171875,
+        "left": 202.5,
+        "right": 1702.5,
+        "top": 260.515625,
+        "width": 1500
+      },
+      "cta": {
+        "bounds": {
+          "bottom": 1372.171875,
+          "left": 294.5,
+          "right": 533.34375,
+          "top": 1306.171875,
+          "width": 238.84375
+        },
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      "h1": 1,
+      "image": {
+        "bounds": {
+          "bottom": 1275.40625,
+          "left": 941.25,
+          "right": 1634.5,
+          "top": 757.15625,
+          "width": 693.25
+        },
+        "loaded": true
+      },
+      "overflow": false,
+      "pattern": {
+        "animations": [
+          "none"
+        ],
+        "colors": [
+          "rgb(232, 121, 51)"
+        ],
+        "count": 135,
+        "hidden": "true"
+      },
+      "quietPanels": [],
+      "section": {
+        "bottom": 1483.171875,
+        "left": 0,
+        "right": 1905,
+        "top": 166.515625,
+        "width": 1905
+      },
+      "textColor": "rgb(247, 239, 230)",
+      "titleOverflow": false,
+      "width": 1920
+    },
+    {
+      "background": "rgb(58, 23, 13)",
+      "clientWidth": 1425,
+      "container": {
+        "bottom": 1447.078125,
+        "left": 0,
+        "right": 1425,
+        "top": 245.296875,
+        "width": 1425
+      },
+      "cta": {
+        "bounds": {
+          "bottom": 1419.078125,
+          "left": 88.46875,
+          "right": 327.3125,
+          "top": 1353.078125,
+          "width": 238.84375
+        },
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      "h1": 1,
+      "image": {
+        "bounds": {
+          "bottom": 1291.328125,
+          "left": 702,
+          "right": 1360.53125,
+          "top": 799.03125,
+          "width": 658.53125
+        },
+        "loaded": true
+      },
+      "overflow": false,
+      "pattern": {
+        "animations": [
+          "none"
+        ],
+        "colors": [
+          "rgb(232, 121, 51)"
+        ],
+        "count": 135,
+        "hidden": "true"
+      },
+      "quietPanels": [],
+      "section": {
+        "bottom": 1530.078125,
+        "left": 0,
+        "right": 1425,
+        "top": 151.296875,
+        "width": 1425
+      },
+      "textColor": "rgb(247, 239, 230)",
+      "titleOverflow": false,
+      "width": 1440
+    },
+    {
+      "background": "rgb(58, 23, 13)",
+      "clientWidth": 753,
+      "container": {
+        "bottom": 1821.671875,
+        "left": 0,
+        "right": 753,
+        "top": 440.703125,
+        "width": 753
+      },
+      "cta": {
+        "bounds": {
+          "bottom": 1273.734375,
+          "left": 60.25,
+          "right": 262.921875,
+          "top": 1213.734375,
+          "width": 202.671875
+        },
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      "h1": 1,
+      "image": {
+        "bounds": {
+          "bottom": 1817.671875,
+          "left": 55.5,
+          "right": 697.5,
+          "top": 1337.734375,
+          "width": 642
+        },
+        "loaded": true
+      },
+      "overflow": false,
+      "pattern": {
+        "animations": [
+          "none"
+        ],
+        "colors": [
+          "rgb(232, 121, 51)"
+        ],
+        "count": 135,
+        "hidden": "true"
+      },
+      "quietPanels": [],
+      "section": {
+        "bottom": 1881.671875,
+        "left": 0,
+        "right": 753,
+        "top": 370.703125,
+        "width": 753
+      },
+      "textColor": "rgb(247, 239, 230)",
+      "titleOverflow": false,
+      "width": 768
+    },
+    {
+      "background": "rgb(58, 23, 13)",
+      "clientWidth": 375,
+      "container": {
+        "bottom": 1782.328125,
+        "left": 0,
+        "right": 375,
+        "top": 242.3125,
+        "width": 375
+      },
+      "cta": {
+        "bounds": {
+          "bottom": 1483.859375,
+          "left": 44,
+          "right": 246.671875,
+          "top": 1423.859375,
+          "width": 202.671875
+        },
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      "h1": 1,
+      "image": {
+        "bounds": {
+          "bottom": 1778.328125,
+          "left": 28,
+          "right": 347,
+          "top": 1539.859375,
+          "width": 319
+        },
+        "loaded": true
+      },
+      "overflow": false,
+      "pattern": {
+        "animations": [
+          "none"
+        ],
+        "colors": [
+          "rgb(232, 121, 51)"
+        ],
+        "count": 135,
+        "hidden": "true"
+      },
+      "quietPanels": [],
+      "section": {
+        "bottom": 1830.328125,
+        "left": 0,
+        "right": 375,
+        "top": 182.3125,
+        "width": 375
+      },
+      "textColor": "rgb(247, 239, 230)",
+      "titleOverflow": false,
+      "width": 390
+    },
+    {
+      "background": "rgb(58, 23, 13)",
+      "clientWidth": 305,
+      "container": {
+        "bottom": 1970.953125,
+        "left": 0,
+        "right": 305,
+        "top": 213.3125,
+        "width": 305
+      },
+      "cta": {
+        "bounds": {
+          "bottom": 1718.828125,
+          "left": 40,
+          "right": 242.671875,
+          "top": 1658.828125,
+          "width": 202.671875
+        },
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      "h1": 1,
+      "image": {
+        "bounds": {
+          "bottom": 1966.953125,
+          "left": 24,
+          "right": 281,
+          "top": 1774.828125,
+          "width": 257
+        },
+        "loaded": true
+      },
+      "overflow": false,
+      "pattern": {
+        "animations": [
+          "none"
+        ],
+        "colors": [
+          "rgb(232, 121, 51)"
+        ],
+        "count": 135,
+        "hidden": "true"
+      },
+      "quietPanels": [],
+      "section": {
+        "bottom": 2018.953125,
+        "left": 0,
+        "right": 305,
+        "top": 153.3125,
+        "width": 305
+      },
+      "textColor": "rgb(247, 239, 230)",
+      "titleOverflow": false,
+      "width": 320
+    }
+  ],
+  "scope": "Homepage Our Craft only; hidden IAB implementation checks",
+  "focus": {
+    "bottom": 1711.828125,
+    "boxShadow": "rgba(23, 9, 5, 0.65) 0px 0px 0px 5.21863px",
+    "height": 720,
+    "href": "http://127.0.0.1:4174/our-craft/",
+    "outline": "rgb(247, 239, 230) solid 3px",
+    "text": "Explore Our Craft",
+    "top": 1651.828125,
+    "visible": true
+  },
+  "focusSettled": {
+    "bottom": 419.828125,
+    "boxShadow": "rgb(23, 9, 5) 0px 0px 0px 8px",
+    "height": 720,
+    "outline": "rgb(247, 239, 230) solid 3px",
+    "text": "Explore Our Craft",
+    "top": 359.828125,
+    "visible": true
+  },
+  "destination": {
+    "title": "OUR CRAFT\nCuriosity in the making.",
+    "url": "http://127.0.0.1:4174/our-craft/"
+  },
+  "copySurfaces": [
+    {
+      "background": "rgb(58, 23, 13)",
+      "class": "craft-heading",
+      "color": "rgb(247, 239, 230)"
+    },
+    {
+      "background": "rgb(58, 23, 13)",
+      "class": "craft-steps",
+      "color": "rgb(247, 239, 230)"
+    }
+  ],
+  "console": [],
+  "hidden": true,
+  "viewportRestored": true,
+  "screenshots": [
+    "craft-2026-10-25-desktop.png",
+    "craft-2026-10-25-mobile.png",
+    "craft-2026-10-25-focus.png"
+  ]
+}

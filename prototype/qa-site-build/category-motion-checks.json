@@ -1,0 +1,56 @@
+{
+  "scope": "Production motion-state logic only; DOM, swipe, CSS entrances and visual geometry require coordinator browser checks.",
+  "results": [
+    {
+      "inner_view_width": 1881,
+      "columns": 4,
+      "card_width": 452.25,
+      "rightward_pixels_per_second": 15,
+      "pause_gates": 6,
+      "manual_pause_expires": true,
+      "focusable_cards_revealed": 5,
+      "wrapping_steps": 1000
+    },
+    {
+      "inner_view_width": 1401,
+      "columns": 4,
+      "card_width": 332.25,
+      "rightward_pixels_per_second": 15,
+      "pause_gates": 6,
+      "manual_pause_expires": true,
+      "focusable_cards_revealed": 5,
+      "wrapping_steps": 1000
+    },
+    {
+      "inner_view_width": 729,
+      "columns": 2,
+      "card_width": 352.5,
+      "rightward_pixels_per_second": 15,
+      "pause_gates": 6,
+      "manual_pause_expires": true,
+      "focusable_cards_revealed": 5,
+      "wrapping_steps": 1000
+    },
+    {
+      "inner_view_width": 351,
+      "columns": 1,
+      "card_width": 351,
+      "rightward_pixels_per_second": 15,
+      "pause_gates": 6,
+      "manual_pause_expires": true,
+      "focusable_cards_revealed": 5,
+      "wrapping_steps": 1000
+    },
+    {
+      "inner_view_width": 281,
+      "columns": 1,
+      "card_width": 281,
+      "rightward_pixels_per_second": 15,
+      "pause_gates": 6,
+      "manual_pause_expires": true,
+      "focusable_cards_revealed": 5,
+      "wrapping_steps": 1000
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,1039 @@
+{
+  "date": "2026-10-25",
+  "browser": "Hidden IAB through CUA",
+  "visible": false,
+  "baseline": [
+    {
+      "cardHeight": 618.9375,
+      "imageWidth": 460,
+      "stageHeight": 530.9375,
+      "width": 1920
+    },
+    {
+      "cardHeight": 618.9375,
+      "imageWidth": 460,
+      "stageHeight": 530.9375,
+      "width": 1440
+    },
+    {
+      "cardHeight": 903.390625,
+      "imageWidth": 420,
+      "stageHeight": 484.765625,
+      "width": 768
+    },
+    {
+      "cardHeight": 815.296875,
+      "imageWidth": 279,
+      "stageHeight": 322.015625,
+      "width": 390
+    },
+    {
+      "cardHeight": 752.375,
+      "imageWidth": 217,
+      "stageHeight": 250.453125,
+      "width": 320
+    }
+  ],
+  "layout": [
+    {
+      "cards": [
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        }
+      ],
+      "clientWidth": 1905,
+      "documentWidth": 1905,
+      "headers": [
+        {
+          "cta": {
+            "bottom": 96,
+            "height": 60,
+            "left": 1502.5,
+            "right": 1638.5,
+            "top": 36,
+            "width": 136,
+            "x": 1502.5,
+            "y": 36
+          },
+          "header": {
+            "bottom": 262.9375,
+            "height": 262.9375,
+            "left": 0,
+            "right": 1905,
+            "top": 0,
+            "width": 1905,
+            "x": 0,
+            "y": 0
+          },
+          "imageLoaded": true,
+          "imageSrc": "http://127.0.0.1:4174/assets/logos/decocoa-horizontal.svg",
+          "kind": "original",
+          "logo": {
+            "bottom": 191.9375,
+            "height": 188.9375,
+            "left": 724.5,
+            "right": 1180.5,
+            "top": 3,
+            "width": 456,
+            "x": 724.5,
+            "y": 3
+          },
+          "menu": {
+            "bottom": 0,
+            "height": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "width": 0,
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "cta": {
+            "bottom": -37.19999694824219,
+            "height": 60,
+            "left": 1512.5,
+            "right": 1638.5,
+            "top": -97.1999969482422,
+            "width": 126,
+            "x": 1512.5,
+            "y": -97.1999969482422
+          },
+          "header": {
+            "bottom": -11.199996948242188,
+            "height": 112,
+            "left": 0,
+            "right": 1905,
+            "top": -123.1999969482422,
+            "width": 1905,
+            "x": 0,
+            "y": -123.1999969482422
+          },
+          "imageLoaded": true,
+          "imageSrc": "http://127.0.0.1:4174/assets/logos/decocoa-horizontal.svg",
+          "kind": "scroll",
+          "logo": {
+            "bottom": -19.965621948242188,
+            "height": 94.46875,
+            "left": 242.5,
+            "right": 470.5,
+            "top": -114.4343719482422,
+            "width": 228,
+            "x": 242.5,
+            "y": -114.4343719482422
+          },
+          "menu": {
+            "bottom": 0,
+            "height": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "width": 0,
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "hero": {
+        "background": "rgb(58, 23, 13)",
+        "copy": "rgb(247, 239, 230)",
+        "cta": "rgb(247, 239, 230)",
+        "eyebrow": "rgb(220, 75, 51)",
+        "heading": "rgb(247, 239, 230)"
+      },
+      "patterns": {
+        "animationNames": [
+          "none"
+        ],
+        "count": 548
+      },
+      "people": {
+        "cardHeight": 618.9375,
+        "copy": {
+          "bottom": 3436.609375,
+          "height": 411.875,
+          "left": 310.5,
+          "right": 913.984375,
+          "top": 3024.734375,
+          "width": 603.484375,
+          "x": 310.5,
+          "y": 3024.734375
+        },
+        "image": {
+          "bottom": 3628.875,
+          "height": 796.40625,
+          "left": 1121,
+          "right": 1811,
+          "top": 2832.46875,
+          "width": 690,
+          "x": 1121,
+          "y": 2832.46875
+        },
+        "imageWidth": 690,
+        "stage": {
+          "bottom": 3496.140625,
+          "height": 530.9375,
+          "left": 991.015625,
+          "right": 1594.5,
+          "top": 2965.203125,
+          "width": 603.484375,
+          "x": 991.015625,
+          "y": 2965.203125
+        },
+        "stageClip": "none",
+        "stageHeight": 530.9375
+      },
+      "secondary": [
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)"
+      ],
+      "width": 1920
+    },
+    {
+      "cards": [
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        }
+      ],
+      "clientWidth": 1425,
+      "documentWidth": 1425,
+      "headers": [
+        {
+          "cta": {
+            "bottom": 96,
+            "height": 60,
+            "left": 1228.53125,
+            "right": 1364.53125,
+            "top": 36,
+            "width": 136,
+            "x": 1228.53125,
+            "y": 36
+          },
+          "header": {
+            "bottom": 262.9375,
+            "height": 262.9375,
+            "left": 0,
+            "right": 1425,
+            "top": 0,
+            "width": 1425,
+            "x": 0,
+            "y": 0
+          },
+          "imageLoaded": true,
+          "imageSrc": "http://127.0.0.1:4174/assets/logos/decocoa-horizontal.svg",
+          "kind": "original",
+          "logo": {
+            "bottom": 191.9375,
+            "height": 188.9375,
+            "left": 484.5,
+            "right": 940.5,
+            "top": 3,
+            "width": 456,
+            "x": 484.5,
+            "y": 3
+          },
+          "menu": {
+            "bottom": 0,
+            "height": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "width": 0,
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "cta": {
+            "bottom": -38.400001525878906,
+            "height": 48,
+            "left": 1258.53125,
+            "right": 1364.53125,
+            "top": -86.4000015258789,
+            "width": 106,
+            "x": 1258.53125,
+            "y": -86.4000015258789
+          },
+          "header": {
+            "bottom": -10.400001525878906,
+            "height": 104,
+            "left": 0,
+            "right": 1425,
+            "top": -114.4000015258789,
+            "width": 1425,
+            "x": 0,
+            "y": -114.4000015258789
+          },
+          "imageLoaded": true,
+          "imageSrc": "http://127.0.0.1:4174/assets/logos/decocoa-brandmark.svg",
+          "kind": "scroll",
+          "logo": {
+            "bottom": -15.321876525878906,
+            "height": 94.15625,
+            "left": 60.46875,
+            "right": 148.46875,
+            "top": -109.4781265258789,
+            "width": 88,
+            "x": 60.46875,
+            "y": -109.4781265258789
+          },
+          "menu": {
+            "bottom": -33.400001525878906,
+            "height": 58,
+            "left": 1192.390625,
+            "right": 1250.53125,
+            "top": -91.4000015258789,
+            "width": 58.140625,
+            "x": 1192.390625,
+            "y": -91.4000015258789
+          }
+        }
+      ],
+      "hero": {
+        "background": "rgb(58, 23, 13)",
+        "copy": "rgb(247, 239, 230)",
+        "cta": "rgb(247, 239, 230)",
+        "eyebrow": "rgb(220, 75, 51)",
+        "heading": "rgb(247, 239, 230)"
+      },
+      "patterns": {
+        "animationNames": [
+          "none"
+        ],
+        "count": 548
+      },
+      "people": {
+        "cardHeight": 618.9375,
+        "copy": {
+          "bottom": 3560.265625,
+          "height": 402,
+          "left": 104.46875,
+          "right": 676.015625,
+          "top": 3158.265625,
+          "width": 571.546875,
+          "x": 104.46875,
+          "y": 3158.265625
+        },
+        "image": {
+          "bottom": 3757.46875,
+          "height": 796.40625,
+          "left": 847.03125,
+          "right": 1537.03125,
+          "top": 2961.0625,
+          "width": 690,
+          "x": 847.03125,
+          "y": 2961.0625
+        },
+        "imageWidth": 690,
+        "stage": {
+          "bottom": 3624.734375,
+          "height": 530.9375,
+          "left": 748.96875,
+          "right": 1320.53125,
+          "top": 3093.796875,
+          "width": 571.5625,
+          "x": 748.96875,
+          "y": 3093.796875
+        },
+        "stageClip": "none",
+        "stageHeight": 530.9375
+      },
+      "secondary": [
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)"
+      ],
+      "width": 1440
+    },
+    {
+      "cards": [
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        }
+      ],
+      "clientWidth": 753,
+      "documentWidth": 753,
+      "headers": [
+        {
+          "cta": {
+            "bottom": 160.796875,
+            "height": 50,
+            "left": 604.75,
+            "right": 720.75,
+            "top": 110.796875,
+            "width": 116,
+            "x": 604.75,
+            "y": 110.796875
+          },
+          "header": {
+            "bottom": 175.390625,
+            "height": 175.390625,
+            "left": 0,
+            "right": 753,
+            "top": 0,
+            "width": 753,
+            "x": 0,
+            "y": 0
+          },
+          "imageLoaded": true,
+          "imageSrc": "http://127.0.0.1:4174/assets/logos/decocoa-horizontal.svg",
+          "kind": "original",
+          "logo": {
+            "bottom": 110.203125,
+            "height": 110.203125,
+            "left": 243.5,
+            "right": 509.5,
+            "top": 0,
+            "width": 266,
+            "x": 243.5,
+            "y": 0
+          },
+          "menu": {
+            "bottom": 161.390625,
+            "height": 51.1875,
+            "left": 32.25,
+            "right": 78.765625,
+            "top": 110.203125,
+            "width": 46.515625,
+            "x": 32.25,
+            "y": 110.203125
+          }
+        },
+        {
+          "cta": {
+            "bottom": -38.400001525878906,
+            "height": 48,
+            "left": 614.75,
+            "right": 720.75,
+            "top": -86.4000015258789,
+            "width": 106,
+            "x": 614.75,
+            "y": -86.4000015258789
+          },
+          "header": {
+            "bottom": -10.400001525878906,
+            "height": 104,
+            "left": 0,
+            "right": 753,
+            "top": -114.4000015258789,
+            "width": 753,
+            "x": 0,
+            "y": -114.4000015258789
+          },
+          "imageLoaded": true,
+          "imageSrc": "http://127.0.0.1:4174/assets/logos/decocoa-brandmark.svg",
+          "kind": "scroll",
+          "logo": {
+            "bottom": -15.321876525878906,
+            "height": 94.15625,
+            "left": 32.25,
+            "right": 120.25,
+            "top": -109.4781265258789,
+            "width": 88,
+            "x": 32.25,
+            "y": -109.4781265258789
+          },
+          "menu": {
+            "bottom": -36.806251525878906,
+            "height": 51.1875,
+            "left": 560.234375,
+            "right": 606.75,
+            "top": -87.9937515258789,
+            "width": 46.515625,
+            "x": 560.234375,
+            "y": -87.9937515258789
+          }
+        }
+      ],
+      "hero": {
+        "background": "rgb(58, 23, 13)",
+        "copy": "rgb(247, 239, 230)",
+        "cta": "rgb(247, 239, 230)",
+        "eyebrow": "rgb(220, 75, 51)",
+        "heading": "rgb(247, 239, 230)"
+      },
+      "patterns": {
+        "animationNames": [
+          "none"
+        ],
+        "count": 548
+      },
+      "people": {
+        "cardHeight": 903.390625,
+        "copy": {
+          "bottom": 3498.375,
+          "height": 319.625,
+          "left": 64.25,
+          "right": 688.75,
+          "top": 3178.75,
+          "width": 624.5,
+          "x": 64.25,
+          "y": 3178.75
+        },
+        "image": {
+          "bottom": 4139.328125,
+          "height": 727.15625,
+          "left": 248.25,
+          "right": 878.25,
+          "top": 3412.171875,
+          "width": 630,
+          "x": 248.25,
+          "y": 3412.171875
+        },
+        "imageWidth": 630,
+        "stage": {
+          "bottom": 4018.140625,
+          "height": 484.765625,
+          "left": 64.25,
+          "right": 688.75,
+          "top": 3533.375,
+          "width": 624.5,
+          "x": 64.25,
+          "y": 3533.375
+        },
+        "stageClip": "inset(0px -32px 0px 0px)",
+        "stageHeight": 484.765625
+      },
+      "secondary": [
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)"
+      ],
+      "width": 768
+    },
+    {
+      "cards": [
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        }
+      ],
+      "clientWidth": 375,
+      "documentWidth": 375,
+      "headers": [
+        {
+          "cta": {
+            "bottom": 145.0625,
+            "height": 50,
+            "left": 235,
+            "right": 351,
+            "top": 95.0625,
+            "width": 116,
+            "x": 235,
+            "y": 95.0625
+          },
+          "header": {
+            "bottom": 159.65625,
+            "height": 159.65625,
+            "left": 0,
+            "right": 375,
+            "top": 0,
+            "width": 375,
+            "x": 0,
+            "y": 0
+          },
+          "imageLoaded": true,
+          "imageSrc": "http://127.0.0.1:4174/assets/logos/decocoa-horizontal.svg",
+          "kind": "original",
+          "logo": {
+            "bottom": 94.46875,
+            "height": 94.46875,
+            "left": 73.5,
+            "right": 301.5,
+            "top": 0,
+            "width": 228,
+            "x": 73.5,
+            "y": 0
+          },
+          "menu": {
+            "bottom": 145.65625,
+            "height": 51.1875,
+            "left": 24,
+            "right": 70.515625,
+            "top": 94.46875,
+            "width": 46.515625,
+            "x": 24,
+            "y": 94.46875
+          }
+        },
+        {
+          "cta": {
+            "bottom": -38.400001525878906,
+            "height": 48,
+            "left": 245,
+            "right": 351,
+            "top": -86.4000015258789,
+            "width": 106,
+            "x": 245,
+            "y": -86.4000015258789
+          },
+          "header": {
+            "bottom": -10.400001525878906,
+            "height": 104,
+            "left": 0,
+            "right": 375,
+            "top": -114.4000015258789,
+            "width": 375,
+            "x": 0,
+            "y": -114.4000015258789
+          },
+          "imageLoaded": true,
+          "imageSrc": "http://127.0.0.1:4174/assets/logos/decocoa-brandmark.svg",
+          "kind": "scroll",
+          "logo": {
+            "bottom": -15.321876525878906,
+            "height": 94.15625,
+            "left": 24,
+            "right": 112,
+            "top": -109.4781265258789,
+            "width": 88,
+            "x": 24,
+            "y": -109.4781265258789
+          },
+          "menu": {
+            "bottom": -36.806251525878906,
+            "height": 51.1875,
+            "left": 190.484375,
+            "right": 237,
+            "top": -87.9937515258789,
+            "width": 46.515625,
+            "x": 190.484375,
+            "y": -87.9937515258789
+          }
+        }
+      ],
+      "hero": {
+        "background": "rgb(58, 23, 13)",
+        "copy": "rgb(247, 239, 230)",
+        "cta": "rgb(247, 239, 230)",
+        "eyebrow": "rgb(220, 75, 51)",
+        "heading": "rgb(247, 239, 230)"
+      },
+      "patterns": {
+        "animationNames": [
+          "none"
+        ],
+        "count": 548
+      },
+      "people": {
+        "cardHeight": 815.296875,
+        "copy": {
+          "bottom": 4030.40625,
+          "height": 415.28125,
+          "left": 48,
+          "right": 327,
+          "top": 3615.125,
+          "width": 279,
+          "x": 48,
+          "y": 3615.125
+        },
+        "image": {
+          "bottom": 4462.921875,
+          "height": 483.03125,
+          "left": 37.125,
+          "right": 455.625,
+          "top": 3979.890625,
+          "width": 418.5,
+          "x": 37.125,
+          "y": 3979.890625
+        },
+        "imageWidth": 418.5,
+        "stage": {
+          "bottom": 4382.421875,
+          "height": 322.015625,
+          "left": 48,
+          "right": 327,
+          "top": 4060.40625,
+          "width": 279,
+          "x": 48,
+          "y": 4060.40625
+        },
+        "stageClip": "inset(0px -24px 0px 0px)",
+        "stageHeight": 322.015625
+      },
+      "secondary": [
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)"
+      ],
+      "width": 390
+    },
+    {
+      "cards": [
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        },
+        {
+          "action": "rgb(255, 255, 255)",
+          "background": "rgb(58, 23, 13)",
+          "cardBackground": "rgb(255, 255, 255)",
+          "text": "rgb(255, 255, 255)",
+          "title": "rgb(255, 255, 255)"
+        }
+      ],
+      "clientWidth": 305,
+      "documentWidth": 305,
+      "headers": [
+        {
+          "cta": {
+            "bottom": 137.4375,
+            "height": 50,
+            "left": 169,
+            "right": 285,
+            "top": 87.4375,
+            "width": 116,
+            "x": 169,
+            "y": 87.4375
+          },
+          "header": {
+            "bottom": 152.03125,
+            "height": 152.03125,
+            "left": 0,
+            "right": 305,
+            "top": 0,
+            "width": 305,
+            "x": 0,
+            "y": 0
+          },
+          "imageLoaded": true,
+          "imageSrc": "http://127.0.0.1:4174/assets/logos/decocoa-horizontal.svg",
+          "kind": "original",
+          "logo": {
+            "bottom": 86.84375,
+            "height": 86.84375,
+            "left": 47.5,
+            "right": 257.5,
+            "top": 0,
+            "width": 210,
+            "x": 47.5,
+            "y": 0
+          },
+          "menu": {
+            "bottom": 138.03125,
+            "height": 51.1875,
+            "left": 20,
+            "right": 66.515625,
+            "top": 86.84375,
+            "width": 46.515625,
+            "x": 20,
+            "y": 86.84375
+          }
+        },
+        {
+          "cta": {
+            "bottom": -38.400001525878906,
+            "height": 48,
+            "left": 179,
+            "right": 285,
+            "top": -86.4000015258789,
+            "width": 106,
+            "x": 179,
+            "y": -86.4000015258789
+          },
+          "header": {
+            "bottom": -10.400001525878906,
+            "height": 104,
+            "left": 0,
+            "right": 305,
+            "top": -114.4000015258789,
+            "width": 305,
+            "x": 0,
+            "y": -114.4000015258789
+          },
+          "imageLoaded": true,
+          "imageSrc": "http://127.0.0.1:4174/assets/logos/decocoa-brandmark.svg",
+          "kind": "scroll",
+          "logo": {
+            "bottom": -15.321876525878906,
+            "height": 94.15625,
+            "left": 20,
+            "right": 108,
+            "top": -109.4781265258789,
+            "width": 88,
+            "x": 20,
+            "y": -109.4781265258789
+          },
+          "menu": {
+            "bottom": -36.806251525878906,
+            "height": 51.1875,
+            "left": 124.484375,
+            "right": 171,
+            "top": -87.9937515258789,
+            "width": 46.515625,
+            "x": 124.484375,
+            "y": -87.9937515258789
+          }
+        }
+      ],
+      "hero": {
+        "background": "rgb(58, 23, 13)",
+        "copy": "rgb(247, 239, 230)",
+        "cta": "rgb(247, 239, 230)",
+        "eyebrow": "rgb(220, 75, 51)",
+        "heading": "rgb(247, 239, 230)"
+      },
+      "patterns": {
+        "animationNames": [
+          "none"
+        ],
+        "count": 548
+      },
+      "people": {
+        "cardHeight": 752.375,
+        "copy": {
+          "bottom": 4291.9375,
+          "height": 423.921875,
+          "left": 44,
+          "right": 261,
+          "top": 3868.015625,
+          "width": 217,
+          "x": 44,
+          "y": 3868.015625
+        },
+        "image": {
+          "bottom": 4635,
+          "height": 375.6875,
+          "left": 40.875,
+          "right": 366.375,
+          "top": 4259.3125,
+          "width": 325.5,
+          "x": 40.875,
+          "y": 4259.3125
+        },
+        "imageWidth": 325.5,
+        "stage": {
+          "bottom": 4572.390625,
+          "height": 250.453125,
+          "left": 44,
+          "right": 261,
+          "top": 4321.9375,
+          "width": 217,
+          "x": 44,
+          "y": 4321.9375
+        },
+        "stageClip": "inset(0px -24px 0px 0px)",
+        "stageHeight": 250.453125
+      },
+      "secondary": [
+        "rgb(247, 239, 230)",
+        "rgb(247, 239, 230)"
+      ],
+      "width": 320
+    }
+  ],
+  "menus": [
+    {
+      "active": "Our Chocolate",
+      "phase": "original submenu Escape",
+      "submenuHidden": true,
+      "url": "http://127.0.0.1:4174/"
+    },
+    {
+      "active": "Menu",
+      "bodyOverflow": "visible",
+      "expanded": "false",
+      "phase": "original menu Escape"
+    },
+    {
+      "active": "Menu",
+      "bodyOverflow": "hidden",
+      "expanded": "true",
+      "phase": "scroll open",
+      "url": "http://127.0.0.1:4174/"
+    },
+    {
+      "active": "Menu",
+      "bodyOverflow": "visible",
+      "expanded": "false",
+      "phase": "scroll Escape"
+    }
+  ],
+  "categoryJourney": {
+    "active": "wellness-title",
+    "copyColors": [
+      {
+        "bg": "rgb(58, 23, 13)",
+        "text": "rgb(255, 255, 255)"
+      },
+      {
+        "bg": "rgb(58, 23, 13)",
+        "text": "rgb(255, 255, 255)"
+      },
+      {
+        "bg": "rgb(58, 23, 13)",
+        "text": "rgb(255, 255, 255)"
+      },
+      {
+        "bg": "rgb(58, 23, 13)",
+        "text": "rgb(255, 255, 255)"
+      },
+      {
+        "bg": "rgb(58, 23, 13)",
+        "text": "rgb(255, 255, 255)"
+      }
+    ],
+    "url": "http://127.0.0.1:4174/products/#wellness"
+  },
+  "console": [],
+  "correction": "Compact original-header CTA required position:relative with inset:auto so its inset border stayed inside the button; corrected and viewed.",
+  "screenshots": [
+    "mobile-header-home-390.png",
+    "mobile-header-people-320.png",
+    "mobile-header-people-desktop.png",
+    "mobile-header-category-colors.png"
+  ],
+  "limits": [
+    "Runtime reduced-motion preference switching and screen-reader announcements not retested.",
+    "Pattern animation:none and source metadata removal verified; browser animation enumeration unavailable."
+  ]
+}

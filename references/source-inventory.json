@@ -1,0 +1,720 @@
+[
+  {
+    "source": "brand\\source\\Decocoa Get Started\\Decocoa 2026 Wireframe + Branded.pdf",
+    "bytes": 40892950,
+    "sha256": "258c2d2f38e8fff2053e13ecaa9159a2eb41de61abcb8f763bbece8ca6e7c983",
+    "pdf_readable": true,
+    "pages": 9,
+    "page_sizes_pt": [
+      [
+        1440.0,
+        4878.0
+      ],
+      [
+        1440.0,
+        5581.0
+      ],
+      [
+        1440.0,
+        4825.0
+      ],
+      [
+        1440.0,
+        5693.0
+      ],
+      [
+        1440.0,
+        2652.0
+      ],
+      [
+        1440.0,
+        4155.0
+      ],
+      [
+        1440.0,
+        1296.0
+      ],
+      [
+        1440.0,
+        1296.0
+      ],
+      [
+        1440.0,
+        1296.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_BrandManual.pdf",
+    "bytes": 7845454,
+    "sha256": "ad013bbf7e0795064ae74deeef8d1476f9b43c717e7c8f8715c8f328c9017069",
+    "pdf_readable": true,
+    "pages": 30,
+    "page_sizes_pt": [
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ],
+      [
+        1600.0,
+        900.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_BrandPatterns_Circles_Pattern.ai",
+    "bytes": 877061,
+    "sha256": "42e9a9223743d4b13e2653f70bf019ff0507407b34365f6821233b91f382e198",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        1600.0,
+        900.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_BrandPatterns_FlowerOfLife_Pattern.ai",
+    "bytes": 589137,
+    "sha256": "df0cc10cfb0c61142d70e046cf4734046296ede50159d16b5692c848aab6ee8e",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        1600.0,
+        900.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_BrandPatterns_Growth_Pattern.ai",
+    "bytes": 632227,
+    "sha256": "586a07593f4b97fa1e5fb8bcb114984e9d772d22521e382379e70df72081fcf0",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        1600.0,
+        900.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_BrandPatterns_Luxury_Pattern.ai",
+    "bytes": 597536,
+    "sha256": "b067d837bd0a8f4ed02d6ad8aedde2801bd2a5201d4f956af25bd5eccb01bfa1",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        1600.0,
+        900.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_BrandPatterns_Rings_Pattern.ai",
+    "bytes": 794120,
+    "sha256": "7aa6419966abb28fe4ac540a28de63d2bce6a3675ba88acfd9000bbb01181261",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        1600.0,
+        900.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_BrandPatterns_Stripes_Pattern.ai",
+    "bytes": 564471,
+    "sha256": "c11f0e7332dc948b09ff5f9cadd425332612a3e95c218553b85a419b06dfa6a8",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        1600.0,
+        900.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_Black_Badge.ai",
+    "bytes": 392244,
+    "sha256": "7cbdfe530abbb053832c3a662b8f60e8adcc66eb1bb528f1336839b4597442e5",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2000.0,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_Black_Brandmark.ai",
+    "bytes": 364382,
+    "sha256": "007184b5575d32d9969fe179de1474e09f48c9cb3bb3df88133e2b7235f1249e",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2000.0,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_Black_Horizontal.ai",
+    "bytes": 371512,
+    "sha256": "bc7e2876b8c29952c241506e9d28383ccdfcf9a4a148edc8c851edb1fa7eded3",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        4497.15,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_Black_Vertical.ai",
+    "bytes": 372118,
+    "sha256": "c4271bf514d31a2293d3dc355f7c09c6965ac6a13c29c814d9b103a5e66a6ad6",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2285.06,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_DarkBG_Badge.ai",
+    "bytes": 392564,
+    "sha256": "1c60c0a19418819494fbd3f9945f869162d1af041f5389a7b66dc176cf82c754",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2000.0,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_DarkBG_Brandmark.ai",
+    "bytes": 364661,
+    "sha256": "649dfea3114bf78610db1e2800dbbc710c5b016249b24a71c44dd829138cda19",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2000.0,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_DarkBG_Horiztonal.ai",
+    "bytes": 371514,
+    "sha256": "fe38c917983f91891e5c41f381d070c355b9ca20b67f93d1747d296a7516bf08",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        4497.15,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_DarkBG_Vertical.ai",
+    "bytes": 372164,
+    "sha256": "810c3a85be4df7de6350ecf451f6aa207cee64490d8f374ea61855353cf42e5d",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2285.06,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_LightBG_Badge.ai",
+    "bytes": 391422,
+    "sha256": "643c5a33aea514b39ed2e7af5349c5db97bbe7f491669639ed461106cf80e686",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2000.0,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_LightBG_Brandmark.ai",
+    "bytes": 351022,
+    "sha256": "c6a2087b38998e5e0c83d777e5342fedbd2e955ed16b50f984fc38a4a1651bed",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2000.0,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_LightBG_Horiztonal.ai",
+    "bytes": 371196,
+    "sha256": "f0c1a60964280b7f1dc349974c0c4bd49ee277529b6545f724761508851fc387",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        4497.15,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_LightBG_Vertical.ai",
+    "bytes": 372003,
+    "sha256": "952e43716c064c5edf26ec2492010d9736b6e35d8facc885f004ab148f73c93e",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2285.06,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_White_Badge.ai",
+    "bytes": 391712,
+    "sha256": "4f3123c6b74b1d8e05ffb6bad820af7d704883a6e79e1aab10c6c8bcb4528442",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2000.0,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_White_Brandmark.ai",
+    "bytes": 363876,
+    "sha256": "6c57d2c6cdd4d88dd2cc7d4bf08474dc5533bda0715d5d39cf9a7ce82f0e774e",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2000.0,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_White_Horizontal.ai",
+    "bytes": 371277,
+    "sha256": "3a9941a9530e8a932f4b84f864dd1d3c3fccac0900963a9b8b44c17e7fee1156",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        4497.15,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\DeCocoa_Logo_RGB_White_Vertical.ai",
+    "bytes": 371860,
+    "sha256": "54c10432e46b6cbf7464a1185134223df08d937012ef5b44030a4bba9b500cda",
+    "pdf_readable": true,
+    "pages": 1,
+    "page_sizes_pt": [
+      [
+        2285.06,
+        2000.0
+      ]
+    ],
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\bag.png",
+    "bytes": 6756596,
+    "sha256": "34bf5abb2324b6f0e53561f914430a1ae39f87b9f0af75fffd05d85a73a448dc",
+    "dimensions_px": [
+      3648,
+      5472
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Bark filled.png",
+    "bytes": 607972,
+    "sha256": "cfe6fbf002421f2178d50092723f88c01e336a50aef68af84b4c92848f4a857a",
+    "dimensions_px": [
+      1206,
+      880
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Bark.png",
+    "bytes": 28614926,
+    "sha256": "518ca59873d70ca45156537e0e9950e1f1ff05da390fff3eb471c327424ddd7d",
+    "dimensions_px": [
+      6336,
+      5472
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Blue Stripes.png",
+    "bytes": 10789991,
+    "sha256": "7c47bae6b44a108fa2e40c1b8a3fb8ff2141ef1c525cdc1d4e4a9dc91e31e49a",
+    "dimensions_px": [
+      5472,
+      3648
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Box Transparent Wrap.png",
+    "bytes": 654980,
+    "sha256": "f06441786cc50b9a9c207e16a5feac4cc9c22115d19f520b7d81bab0dc49b05a",
+    "dimensions_px": [
+      1264,
+      842
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Box Transparent Wrap_2.png",
+    "bytes": 14284202,
+    "sha256": "477fc24336d9762b74052fa665449564bedcd5eb9f0061a9bb8e5db1a1706bd3",
+    "dimensions_px": [
+      3648,
+      5472
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Box.png",
+    "bytes": 6149442,
+    "sha256": "34949b1f22a9ecee6596f626083f8440d9740d0d9e41bab1fd188ac46ea6659c",
+    "dimensions_px": [
+      3648,
+      2040
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Bunny 1.png",
+    "bytes": 480918,
+    "sha256": "a95a76e4dd2c3fd2cd4c382e5ed1a2c8d5b1d5d1c2d6fd2b5229c8f041d509d1",
+    "dimensions_px": [
+      646,
+      896
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Bunny 2.png",
+    "bytes": 9267246,
+    "sha256": "b0e1a1f638e6660b6b17409494d34bd9ca5868b3b17d23ad80142688e85ddb95",
+    "dimensions_px": [
+      3648,
+      5472
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Chocolate Powder.png",
+    "bytes": 4006010,
+    "sha256": "47b5af80c6e191bf00c429fba09074025a608001d2952b3dc5333e3eb710d1a6",
+    "dimensions_px": [
+      3584,
+      1680
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\DEfi.png",
+    "bytes": 12400533,
+    "sha256": "16fcd79437bcf7de66885bdbbd23c4fdf94ff58be6a0e44c1f695a064e382dd4",
+    "dimensions_px": [
+      3648,
+      3936
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\ENrobed nuts.png",
+    "bytes": 2579250,
+    "sha256": "2dd660681bb5abebe0816e6cfc4f9c6dee1114e6cd3130536b551283803019b5",
+    "dimensions_px": [
+      2048,
+      1536
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": false,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Hot Cocoa Tin.png",
+    "bytes": 5421768,
+    "sha256": "f34165304aa7803167c40335dd06ee086b58e9b021a76a454f656993f8a2a230",
+    "dimensions_px": [
+      2532,
+      2700
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Nuts Upscale.png",
+    "bytes": 1980377,
+    "sha256": "caeb0873e8d94cfd98b5ae8600ab1cd262937744ce81a19de88de2e42e5e1296",
+    "dimensions_px": [
+      1520,
+      1146
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": false,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Pretzel + RedGreen sprinkles.png",
+    "bytes": 1658951,
+    "sha256": "98e62dee12eb57c413db365d18edf9a88026630e9850f06c378e78036f8b564b",
+    "dimensions_px": [
+      1628,
+      1256
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": false,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Pretzels.png",
+    "bytes": 10984097,
+    "sha256": "b5ab57b44ed77babafe88ec55e31e110e25dd8668c636ef0442b5be9f5868a04",
+    "dimensions_px": [
+      3232,
+      4576
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Wegmans Bark.png",
+    "bytes": 9055552,
+    "sha256": "0ece474a29d9026c1d06582380a12cb87d85f9ca03157ad520083dc1bf97ec6a",
+    "dimensions_px": [
+      3636,
+      3648
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  },
+  {
+    "source": "brand\\source\\Decocoa Get Started\\images\\Wellness.png",
+    "bytes": 5650969,
+    "sha256": "d2c4483e85883d6d646fa61e23af21e849e601d0521d4890165d65ac208e145c",
+    "dimensions_px": [
+      2352,
+      2416
+    ],
+    "mode": "RGBA",
+    "has_icc_profile": true,
+    "has_alpha": true,
+    "validation": "readable"
+  }
+]

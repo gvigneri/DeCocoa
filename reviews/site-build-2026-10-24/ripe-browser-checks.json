@@ -1,0 +1,478 @@
+{
+  "hoverMenu": {
+    "animations": "submenu-enter, submenu-shadow",
+    "border": "0px none rgb(58, 23, 13)",
+    "delays": "0s, 0.22s",
+    "durations": "0.22s, 0.18s",
+    "expanded": "true",
+    "hidden": false,
+    "linkBorders": [
+      "0px",
+      "0px",
+      "0px",
+      "0px",
+      "0px",
+      "0px",
+      "0px"
+    ],
+    "radius": "12px",
+    "shadow": "rgb(220, 75, 51) 0px 0px 0px 0px",
+    "triggerHovered": true
+  },
+  "escapeClosed": {
+    "focused": "Our Chocolate",
+    "hidden": true,
+    "stillHover": true
+  },
+  "stillDismissed": true,
+  "hoverThenClick": {
+    "expanded": "true",
+    "hidden": false
+  },
+  "primaryHover": {
+    "hover": true,
+    "innerFill": "rgb(232, 121, 51)",
+    "innerZ": "-1",
+    "outerFill": "rgb(247, 239, 230)",
+    "shadow": "rgb(220, 75, 51) 6px 6px 0px 0px",
+    "text": "rgb(58, 23, 13)",
+    "transform": "matrix(1, 0, 0, 1, -4, -4)"
+  },
+  "secondaryHover": {
+    "hover": true,
+    "innerFill": "rgb(232, 121, 51)",
+    "outerFill": "rgb(58, 23, 13)",
+    "shadow": "rgb(220, 75, 51) 6px 6px 0px 0px",
+    "text": "rgb(58, 23, 13)",
+    "transform": "matrix(1, 0, 0, 1, -4, -4)"
+  },
+  "widths": [
+    {
+      "categories": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 332.25
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 332.25
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 332.25
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 332.25
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 332.25
+        }
+      ],
+      "client": 1425,
+      "creamTalk": [
+        {
+          "bg": "rgb(247, 239, 230)",
+          "class": "button button-primary header-contact"
+        },
+        {
+          "bg": "rgb(247, 239, 230)",
+          "class": "button button-primary"
+        }
+      ],
+      "discovery": [
+        {
+          "bg": "rgb(255, 190, 74)",
+          "border": "0px"
+        },
+        {
+          "bg": "rgb(160, 182, 92)",
+          "border": "0px"
+        },
+        {
+          "bg": "rgb(242, 201, 193)",
+          "border": "0px"
+        }
+      ],
+      "eyebrowColors": [
+        "rgb(220, 75, 51)"
+      ],
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "categories": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 452.25
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 452.2499694824219
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 452.25
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 452.25
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 452.25
+        }
+      ],
+      "client": 1905,
+      "creamTalk": [
+        {
+          "bg": "rgb(247, 239, 230)",
+          "class": "button button-primary header-contact"
+        },
+        {
+          "bg": "rgb(247, 239, 230)",
+          "class": "button button-primary"
+        }
+      ],
+      "discovery": [
+        {
+          "bg": "rgb(255, 190, 74)",
+          "border": "0px"
+        },
+        {
+          "bg": "rgb(160, 182, 92)",
+          "border": "0px"
+        },
+        {
+          "bg": "rgb(242, 201, 193)",
+          "border": "0px"
+        }
+      ],
+      "eyebrowColors": [
+        "rgb(220, 75, 51)"
+      ],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "categories": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 352.5
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 352.5000305175781
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 352.5
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 352.5
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "300px",
+          "width": 352.5
+        }
+      ],
+      "client": 753,
+      "creamTalk": [
+        {
+          "bg": "rgb(247, 239, 230)",
+          "class": "button button-primary header-contact"
+        },
+        {
+          "bg": "rgb(247, 239, 230)",
+          "class": "button button-primary"
+        }
+      ],
+      "discovery": [
+        {
+          "bg": "rgb(255, 190, 74)",
+          "border": "0px"
+        },
+        {
+          "bg": "rgb(160, 182, 92)",
+          "border": "0px"
+        },
+        {
+          "bg": "rgb(242, 201, 193)",
+          "border": "0px"
+        }
+      ],
+      "eyebrowColors": [
+        "rgb(220, 75, 51)"
+      ],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "categories": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "280px",
+          "width": 351
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "280px",
+          "width": 351
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "280px",
+          "width": 351
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "280px",
+          "width": 351
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "280px",
+          "width": 351
+        }
+      ],
+      "client": 375,
+      "creamTalk": [
+        {
+          "bg": "rgb(247, 239, 230)",
+          "class": "button button-primary header-contact"
+        },
+        {
+          "bg": "rgb(247, 239, 230)",
+          "class": "button button-primary"
+        }
+      ],
+      "discovery": [
+        {
+          "bg": "rgb(255, 190, 74)",
+          "border": "0px"
+        },
+        {
+          "bg": "rgb(160, 182, 92)",
+          "border": "0px"
+        },
+        {
+          "bg": "rgb(242, 201, 193)",
+          "border": "0px"
+        }
+      ],
+      "eyebrowColors": [
+        "rgb(220, 75, 51)"
+      ],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "categories": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "280px",
+          "width": 281
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "280px",
+          "width": 281
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "280px",
+          "width": 281
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "280px",
+          "width": 281
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "border": "0px",
+          "imageBg": "rgb(255, 255, 255)",
+          "imageHeight": "280px",
+          "width": 281
+        }
+      ],
+      "client": 305,
+      "creamTalk": [
+        {
+          "bg": "rgb(247, 239, 230)",
+          "class": "button button-primary header-contact"
+        },
+        {
+          "bg": "rgb(247, 239, 230)",
+          "class": "button button-primary"
+        }
+      ],
+      "discovery": [
+        {
+          "bg": "rgb(255, 190, 74)",
+          "border": "0px"
+        },
+        {
+          "bg": "rgb(160, 182, 92)",
+          "border": "0px"
+        },
+        {
+          "bg": "rgb(242, 201, 193)",
+          "border": "0px"
+        }
+      ],
+      "eyebrowColors": [
+        "rgb(220, 75, 51)"
+      ],
+      "overflow": false,
+      "width": 320
+    }
+  ],
+  "categoryHover": {
+    "bg": "rgb(255, 255, 255)",
+    "border": "0px",
+    "cardBottom": 815.984375,
+    "hover": true,
+    "shadow": "rgb(220, 75, 51) 6px 6px 0px 0px",
+    "trackBottom": 831.984375,
+    "transform": "matrix(1, 0, 0, 1, 356.753, 0)",
+    "translate": "-4px -4px"
+  },
+  "discoveryHover": {
+    "bg": "rgb(255, 190, 74)",
+    "border": "0px",
+    "hover": true,
+    "shadow": "rgb(220, 75, 51) 6px 6px 0px 0px",
+    "translate": "-4px -4px"
+  },
+  "scrollRest": {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(58, 23, 13)",
+    "visible": true
+  },
+  "scrollHover": {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(247, 239, 230)",
+    "lineColor": "rgb(247, 239, 230)",
+    "submenuColor": "rgb(58, 23, 13)",
+    "submenuHidden": false
+  },
+  "mobileMenu": {
+    "border": "0px none rgb(58, 23, 13)",
+    "focus": "Products",
+    "hidden": false,
+    "overflow": false
+  },
+  "mobileEscape": {
+    "focus": "Menu",
+    "open": false
+  },
+  "categoryFocus": [
+    {
+      "client": 305,
+      "left": 12,
+      "outline": "rgb(58, 23, 13) solid 3px",
+      "right": 293,
+      "scrollLeft": 0,
+      "text": "Explore Wellness"
+    },
+    {
+      "client": 305,
+      "left": 12,
+      "outline": "rgb(58, 23, 13) solid 3px",
+      "right": 293,
+      "scrollLeft": 0,
+      "text": "Explore One Shot Depositing"
+    },
+    {
+      "client": 305,
+      "left": 12,
+      "outline": "rgb(58, 23, 13) solid 3px",
+      "right": 293,
+      "scrollLeft": 0,
+      "text": "Explore Hollow Moulding"
+    },
+    {
+      "client": 305,
+      "left": 12,
+      "outline": "rgb(58, 23, 13) solid 3px",
+      "right": 293,
+      "scrollLeft": 0,
+      "text": "Explore Mixing"
+    },
+    {
+      "client": 305,
+      "left": 12,
+      "outline": "rgb(58, 23, 13) solid 3px",
+      "right": 293,
+      "scrollLeft": 0,
+      "text": "Explore Dry Filling"
+    }
+  ],
+  "consoleErrors": []
+}

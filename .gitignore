@@ -1,0 +1,18 @@
+# Local preview output and Python caches
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Duplicate intake/archive packages; extracted originals remain in brand/source/
+/Decocoa Get Started.zip
+/handoff/*.zip

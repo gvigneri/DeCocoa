@@ -1,0 +1,779 @@
+{
+  "navigation": [
+    {
+      "label": "Our Chocolate",
+      "route": "products/",
+      "children": [
+        {
+          "label": "Products",
+          "route": "products/"
+        },
+        {
+          "label": "Gifting",
+          "route": "gifting/"
+        },
+        {
+          "label": "Craft Your Own",
+          "route": "craft-your-own/"
+        },
+        {
+          "label": "Fundraising",
+          "route": "fundraising/"
+        },
+        {
+          "label": "Wholesale",
+          "route": "wholesale/"
+        },
+        {
+          "label": "B2B",
+          "route": "b2b/"
+        }
+      ]
+    },
+    {
+      "label": "Our People",
+      "route": "our-people/",
+      "children": [
+        {
+          "label": "Our Roots",
+          "route": "our-people/#our-roots"
+        },
+        {
+          "label": "Our Principals",
+          "route": "our-people/#our-principals"
+        },
+        {
+          "label": "Our Values",
+          "route": "our-people/#our-values"
+        },
+        {
+          "label": "Sweet Careers",
+          "route": "our-people/#sweet-careers"
+        }
+      ]
+    },
+    {
+      "label": "Our Craft",
+      "route": "our-craft/",
+      "children": [
+        {
+          "label": "Promise",
+          "route": "our-craft/#promise"
+        },
+        {
+          "label": "Focus",
+          "route": "our-craft/#focus"
+        },
+        {
+          "label": "Sustainability",
+          "route": "our-craft/#sustainability"
+        },
+        {
+          "label": "Food Safety",
+          "route": "our-craft/#food-safety"
+        },
+        {
+          "label": "Our Segments",
+          "route": "our-craft/#our-segments"
+        }
+      ]
+    },
+    {
+      "label": "Experience Center",
+      "route": "experience-center/",
+      "children": [
+        {
+          "label": "How It’s Made",
+          "route": "experience-center/#how-its-made"
+        },
+        {
+          "label": "Museum & Virtual Exhibition",
+          "route": "experience-center/#museum-virtual-exhibition"
+        },
+        {
+          "label": "Tours and Classes",
+          "route": "experience-center/#tours-and-classes"
+        }
+      ]
+    }
+  ],
+  "topics": [
+    "Chocolate & products",
+    "Gifting",
+    "Craft Your Own",
+    "Fundraising",
+    "Wholesale",
+    "B2B",
+    "Experience Center",
+    "Our story",
+    "Our craft",
+    "Sweet Careers",
+    "Something else"
+  ],
+  "products": [
+    {
+      "slug": "filled-chocolate",
+      "title": "Filled Chocolate",
+      "caption": "A soft center",
+      "image": "filled-chocolate.webp",
+      "class": "product-filled",
+      "width": 872,
+      "height": 496,
+      "alt": "Chocolate pieces cut open to show a golden-colored center",
+      "description": "A chocolate shell with a contrasting center. The cut pieces show the layers inside, with a smooth outer finish and a soft-looking filling.",
+      "detail": "Take a closer look at the shape, shell and center in this chocolate. If it catches your eye, tell us what you would like to know or how you would like to use it.",
+      "source": "Bark filled.png; existing homepage image and sensory copy. Descriptive working title, not a verified catalog record."
+    },
+    {
+      "slug": "chocolate-bar",
+      "title": "Chocolate Bar",
+      "caption": "The classic snap",
+      "image": "chocolate-bar.webp",
+      "class": "product-bar",
+      "width": 905,
+      "height": 1500,
+      "alt": "A tall chocolate bar divided into scored rectangular pieces",
+      "description": "A familiar chocolate form with a scored surface. The clean lines and individual sections put the shape and finish of the bar in focus.",
+      "detail": "Explore the bar as a starting point for a chocolate conversation. You can ask about this pictured chocolate or follow the Craft Your Own route to discuss a chocolate bar idea.",
+      "source": "Bark.png; existing homepage image and sensory copy. Descriptive working title, not a verified catalog record."
+    },
+    {
+      "slug": "chocolate-drizzle",
+      "title": "Chocolate Drizzle",
+      "caption": "A playful finishing touch",
+      "image": "chocolate-drizzle.webp",
+      "class": "product-drizzle",
+      "width": 1500,
+      "height": 1486,
+      "alt": "A confection with crossing lines of chocolate drizzle and a textured topping",
+      "description": "Crossing lines of chocolate drizzle give this confection its distinctive finish. Its irregular outline and textured surface offer another way to explore chocolate.",
+      "detail": "Look at the contrast between the chocolate lines and the textured surface. Bring this pictured example into your inquiry and tell us which detail interests you.",
+      "source": "Wellness.png; existing homepage image. No ingredient or wellness claim inferred. Descriptive working title, not a verified catalog record."
+    }
+  ],
+  "pages": [
+    {
+      "route": "our-people/",
+      "title": "Our People",
+      "eyebrow": "Our People",
+      "heading": "The heart behind the chocolate.",
+      "intro": "Our story begins with the Vigneri family and a Sicilian patisserie. That love of confection is part of the DeCocoa story.",
+      "image": "people-at-work.webp",
+      "width": 1229,
+      "height": 697,
+      "alt": "A member of the chocolate team preparing a bag of chocolates",
+      "sections": [
+        {
+          "id": "our-roots",
+          "title": "Our Roots",
+          "paragraphs": [
+            "Our story begins in the cobblestoned streets of a Sicilian patisserie, where the Vigneri family first fell in love with the art of confection.",
+            "In the scent of warm pastries and the flicker of old ovens, a legacy of sweetness began to rise. Tradition, dreams and a devotion to the craft are part of that story."
+          ],
+          "aliases": [
+            "story",
+            "roots"
+          ]
+        },
+        {
+          "id": "our-principals",
+          "title": "Our Principals",
+          "aliases": [
+            "pillars",
+            "principals"
+          ],
+          "paragraphs": [
+            "Our vision, mission and focus bring people, craft and care together. They describe the direction behind our chocolate and the experiences we want to create."
+          ],
+          "items": [
+            {
+              "title": "Vision",
+              "text": "A chocolate brand shaped by craftsmanship, creativity and care, with responsible sourcing and a farmers-first future as aspirations."
+            },
+            {
+              "title": "Mission",
+              "text": "To craft chocolate with care and create memorable chocolate experiences."
+            },
+            {
+              "title": "Focus",
+              "text": "To bring passionate people, innovative craft and sustainable practices together in chocolate with purpose."
+            }
+          ]
+        },
+        {
+          "id": "our-values",
+          "title": "Our Values",
+          "paragraphs": [
+            "Integrity. Ingredients. Innovation. Invest. Inspire. These are the values named in our story, and the ingredients we bring to our work.",
+            "Meet the craft behind the chocolate, then tell us what brings you to DeCocoa."
+          ],
+          "aliases": [
+            "values"
+          ]
+        },
+        {
+          "id": "sweet-careers",
+          "title": "Sweet Careers",
+          "paragraphs": [
+            "Interested in a career in chocolate? Tell us about your experience, interests and the work you would like to explore with DeCocoa."
+          ],
+          "topic": "Sweet Careers",
+          "cta": "Ask About Sweet Careers"
+        }
+      ],
+      "cta": "Explore Our Craft",
+      "cta_route": "our-craft/",
+      "source": "Wireframe p.3; existing homepage draft. History, location and community statements require final factual approval."
+    },
+    {
+      "route": "our-craft/",
+      "title": "Our Craft",
+      "eyebrow": "Our Craft",
+      "heading": "Curiosity in the making.",
+      "intro": "We bring people, tradition and technology together to explore chocolate with purpose and care.",
+      "image": "chocolate-craft.webp",
+      "width": 931,
+      "height": 696,
+      "alt": "A member of the chocolate team holding a tray of chocolate",
+      "sections": [
+        {
+          "id": "promise",
+          "title": "Promise",
+          "aliases": [
+            "approach"
+          ],
+          "paragraphs": [
+            "Care, creativity and integrity guide our chocolate craft. Our promise begins with attention to the craft and the people behind it.",
+            "Quality and food safety are central to the way we want to work, from a first idea to a finished chocolate."
+          ]
+        },
+        {
+          "id": "focus",
+          "title": "Focus",
+          "paragraphs": [
+            "Our focus brings passionate people, innovative craft and sustainable practices together to create chocolate with purpose and care.",
+            "Discover how ingredients, processes and shapes connect a chocolate idea with the craft behind it."
+          ],
+          "items": [
+            {
+              "title": "Mixing",
+              "text": "Where the ingredients come together."
+            },
+            {
+              "title": "One Shot Depositing",
+              "text": "A closer look at the filled chocolate process."
+            },
+            {
+              "title": "Hollow Moulding",
+              "text": "Exploring chocolate through shape and form."
+            }
+          ],
+          "aliases": [
+            "capabilities"
+          ]
+        },
+        {
+          "id": "sustainability",
+          "title": "Sustainability",
+          "paragraphs": [
+            "Responsible sourcing and thoughtful packaging are part of our sustainability aspirations. We consider the people and resources involved in making chocolate as we look toward continuous improvement.",
+            "Ask about the sourcing and packaging considerations that matter to your project."
+          ]
+        },
+        {
+          "id": "food-safety",
+          "title": "Food Safety",
+          "paragraphs": [
+            "Our approach to food safety emphasizes care, communication, ongoing training and continuous improvement. These priorities connect our people with the quality of the chocolate we want to create.",
+            "Tell us which product you are considering and the ingredient, handling or food safety questions you would like to discuss."
+          ],
+          "topic": "Our craft",
+          "cta": "Ask About Food Safety"
+        },
+        {
+          "id": "our-segments",
+          "title": "Our Segments",
+          "items": [
+            {
+              "title": "DeCocoa Decor",
+              "text": "Chocolate décor for professionals, with detail and finish at the center of the idea."
+            },
+            {
+              "title": "Food & gourmet fulfillment",
+              "text": "Food and gourmet fulfillment is another part of the DeCocoa conversation. Ask how it relates to your project."
+            }
+          ],
+          "paragraphs": [
+            "Explore chocolate for your business and choose a starting point for your inquiry."
+          ],
+          "aliases": [
+            "segments"
+          ],
+          "related_route": "b2b/",
+          "related_label": "Explore Chocolate for Business"
+        }
+      ],
+      "cta": "Explore Chocolate for Business",
+      "cta_route": "b2b/",
+      "source": "Wireframe pp.4–5. Sustainability and food safety are restrained draft aspirations; no energy, certification, regulatory or fulfillment performance claim."
+    },
+    {
+      "route": "experience-center/",
+      "title": "Experience Center",
+      "eyebrow": "Experience Center",
+      "heading": "Come curious. Think chocolate.",
+      "intro": "Discover another side of chocolate, from the art of the chocolatier to the story of how chocolate is made.",
+      "mask": true,
+      "image": "filled-chocolate.webp",
+      "width": 872,
+      "height": 496,
+      "alt": "Chocolate pieces framed by the DeCocoa flower shape",
+      "sections": [
+        {
+          "id": "how-its-made",
+          "title": "How It’s Made",
+          "paragraphs": [
+            "Follow the story of chocolate from cacao to the finished confection. The Experience Center offers a starting point for exploring the ingredients, stages and craft behind chocolate.",
+            "Discover the processes on our craft page, then ask about the chocolate-making experience that interests you.",
+            "Explore the idea of crafting your own chocolate bar and building a gift box. Let curiosity guide the shapes, finishes and chocolate ideas you would like to discuss.",
+            "Ask about Craft Your Own to find out more before planning a visit."
+          ],
+          "aliases": [
+            "craft-your-own"
+          ],
+          "related_links": [
+            {
+              "route": "our-craft/",
+              "label": "Explore Our Craft"
+            },
+            {
+              "route": "craft-your-own/",
+              "label": "Explore Craft Your Own"
+            }
+          ]
+        },
+        {
+          "id": "museum-virtual-exhibition",
+          "title": "Museum & Virtual Exhibition",
+          "paragraphs": [
+            "The Experience Center brings the history of chocolate and how it is made into the story. The museum and virtual exhibition invite a closer look at that journey.",
+            "The Green Screen Photo Room is another part of the experience described in our story. Ask about the experience you have in mind."
+          ],
+          "aliases": [
+            "exhibition"
+          ]
+        },
+        {
+          "id": "tours-and-classes",
+          "title": "Tours and Classes",
+          "paragraphs": [
+            "Factory tours, chocolate crafting classes and tasting sessions are ways to explore the craft described in the Experience Center story.",
+            "Start with an inquiry about the activity that interests you. Ask about visit arrangements and details before making plans."
+          ],
+          "aliases": [
+            "tours"
+          ]
+        }
+      ],
+      "cta": "Ask About the Experience Center",
+      "cta_route": "lets-talk/?topic=Experience%20Center#inquiry",
+      "source": "Wireframe p.6 and homepage draft. No watermarked image, booking, opening date, hours, address, price or availability promise."
+    }
+  ],
+  "chocolate_intro": {
+    "eyebrow": "Our Chocolate",
+    "heading": "Chocolate possibilities. Crafted with curiosity.",
+    "text": "Explore chocolate products and the craft behind them. From filled chocolate and hollow figures to ingredient mixing and dry filling, discover a starting point for your next confection, gift or business idea."
+  },
+  "categories": [
+    {
+      "slug": "wellness",
+      "title": "Wellness",
+      "description": "Bring your wellness chocolate idea into focus. Explore flavor, texture and ingredient preferences, then talk with us about the confection you want to create.",
+      "image": "chocolate-drizzle.webp",
+      "width": 1500,
+      "height": 1486,
+      "alt": "A round confection with chocolate drizzle and a textured topping",
+      "surface": "blush",
+      "source": "Wellness.png; source category label and coordinator-approved local draft copy. No nutritional or health benefit claim."
+    },
+    {
+      "slug": "one-shot-depositing",
+      "title": "One Shot Depositing",
+      "description": "One shot depositing brings chocolate and filling together in a single moulding step. Explore filled chocolate with a contrasting center and a shell shaped around it.",
+      "image": "filled-chocolate.webp",
+      "width": 872,
+      "height": 496,
+      "alt": "Chocolate pieces showing a contrasting golden-colored center",
+      "surface": "sunrise",
+      "source": "Bark filled.png; coordinator-approved process definition and local draft copy."
+    },
+    {
+      "slug": "hollow-moulding",
+      "title": "Hollow Moulding",
+      "description": "Hollow moulding creates chocolate figures with an open center. Discover how a chocolate shell takes shape, from familiar seasonal figures to playful forms.",
+      "image": "hollow-chocolate-figure.webp",
+      "width": 746,
+      "height": 1200,
+      "alt": "A chocolate rabbit with a broken section showing the open center",
+      "surface": "fresh",
+      "source": "Bunny 2.png; coordinator-approved process definition and local draft copy."
+    },
+    {
+      "slug": "mixing",
+      "title": "Mixing",
+      "description": "Mixing brings chocolate and other ingredients together to create different flavors and textures. Explore how the blend can shape the character of a chocolate confection.",
+      "image": "nuts-and-chocolate.webp",
+      "width": 1500,
+      "height": 876,
+      "alt": "An assortment of textured pieces and chocolate drops",
+      "surface": "blush",
+      "source": "Nuts Upscale.png; illustrative supplied mix, no specific ingredient or recipe claim."
+    },
+    {
+      "slug": "dry-filling",
+      "title": "Dry Filling",
+      "description": "Explore dry filling for cocoa powders and chocolate drink mixes. Start a conversation about your product, pack format and filling requirements.",
+      "image": "cocoa-powder.webp",
+      "width": 1500,
+      "height": 642,
+      "alt": "A loose pile of cocoa-colored powder",
+      "surface": "sunrise",
+      "source": "Chocolate Powder.png; coordinator-approved local draft definition. No filling performance or pack type promised."
+    }
+  ],
+  "discovery_cards": [
+    {
+      "title": "Gifting",
+      "text": "Explore chocolate gifting ideas for celebrations, thank-yous and gifts for your team.",
+      "route": "gifting/",
+      "icon": "gift"
+    },
+    {
+      "title": "Craft Your Own",
+      "text": "Start with a chocolate bar, basket or gift box and share the idea you want to create.",
+      "route": "craft-your-own/",
+      "icon": "wand-magic-sparkles"
+    },
+    {
+      "title": "For your business",
+      "text": "Start a conversation about chocolate for your business, from product ideas to wholesale questions.",
+      "route": "b2b/",
+      "icon": "handshake",
+      "link_label": "Chocolate for Your Business"
+    }
+  ],
+  "services": [
+    {
+      "width": 872,
+      "height": 496,
+      "image": "filled-chocolate.webp",
+      "alt": "Chocolate pieces with a contrasting golden-colored center",
+      "route": "gifting/",
+      "title": "Chocolate Gifting",
+      "eyebrow": "Gifting",
+      "heading": "Chocolate gifts, with your idea at heart.",
+      "intro": "Explore chocolate gifting ideas for celebrations, thank-yous and gifts for your team. Start with the people and occasion behind your gift.",
+      "topic": "Gifting",
+      "description": "Explore DeCocoa chocolate gifting ideas for celebrations, thank-yous and team gifts. Share your occasion and start a gifting conversation.",
+      "sections": [
+        {
+          "id": "occasions",
+          "title": "Personal occasions",
+          "paragraphs": [
+            "A gift begins with the person receiving it. Tell us who the chocolate is for, what you are celebrating and the feeling you want the gift to convey."
+          ]
+        },
+        {
+          "id": "corporate-gifts",
+          "title": "Chocolate for your team.",
+          "paragraphs": [
+            "A thank-you, a shared celebration or a gift for people you work with. Bring the occasion and your gifting idea to the conversation."
+          ]
+        },
+        {
+          "id": "planning-details",
+          "title": "Planning details",
+          "paragraphs": [
+            "Tell us about the recipient, occasion and the chocolate you have in mind. Share any approximate quantity, timing and preferences you would like to discuss.",
+            "Explore the pictured chocolate examples for shapes and finishes that catch your eye. A little context helps begin a useful gifting conversation."
+          ]
+        }
+      ],
+      "related_route": "craft-your-own/",
+      "related_label": "Explore Craft Your Own",
+      "source": "Wireframe pp.1–2 Gifting and footer Corporate Gifts; approved existing inquiry-led local draft. Dedicated inquiry path authorized October 24; copy follows coordinator-approved SEO/AEO draft guidance.",
+      "cta": "Ask About Gifting",
+      "cta_route": "lets-talk/?topic=Gifting#inquiry"
+    },
+    {
+      "route": "craft-your-own/",
+      "title": "Craft Your Own Chocolate",
+      "eyebrow": "Craft Your Own",
+      "heading": "Craft your own chocolate bar or basket.",
+      "intro": "Imagine a chocolate bar, a basket or a gift box. Share the shapes, finishes and occasion you have in mind, and explore where your curiosity leads.",
+      "image": "chocolate-bar.webp",
+      "width": 905,
+      "height": 1500,
+      "alt": "A scored chocolate bar",
+      "topic": "Craft Your Own",
+      "description": "Explore Craft Your Own chocolate ideas with DeCocoa, from a chocolate bar to a basket or gift box. Share the idea you want to create.",
+      "sections": [
+        {
+          "id": "chocolate-bars",
+          "title": "Chocolate Bars",
+          "paragraphs": [
+            "A bar gives your chocolate idea a familiar starting point. Think about its shape, the look of its surface and the finishing touches that interest you.",
+            "Tell us what you imagine and which details you want to explore."
+          ],
+          "aliases": [
+            "chocolate-bar"
+          ]
+        },
+        {
+          "id": "baskets",
+          "title": "Baskets & gift boxes",
+          "paragraphs": [
+            "Start with the occasion and the people the basket or gift box is for. Tell us which chocolate examples caught your eye and how you imagine bringing them together.",
+            "Use your inquiry to share the presentation and experience you have in mind."
+          ],
+          "aliases": [
+            "basket"
+          ]
+        },
+        {
+          "id": "share-your-idea",
+          "title": "Share Your Idea",
+          "paragraphs": [
+            "Tell us about the occasion, the chocolate form you imagine and the finishing touches that interest you. A bar, basket or gift box can be a starting point for the conversation.",
+            "The Experience Center story includes crafting a chocolate bar and building a gift box. Ask about the experience you would like to explore before making plans."
+          ]
+        }
+      ],
+      "related_route": "experience-center/",
+      "related_label": "Explore the Experience Center",
+      "source": "Wireframe pp.1–2 Craft Your Own / Chocolate Bar / Basket and p.6 gift box; no customization options or visit availability promised. Dedicated inquiry path authorized October 24; copy follows coordinator-approved SEO/AEO draft guidance.",
+      "cta": "Ask About Craft Your Own",
+      "cta_route": "lets-talk/?topic=Craft%20Your%20Own#inquiry"
+    },
+    {
+      "width": 872,
+      "height": 496,
+      "image": "filled-chocolate.webp",
+      "alt": "Chocolate pieces with a contrasting golden-colored center",
+      "route": "fundraising/",
+      "title": "Chocolate Fundraising",
+      "eyebrow": "Fundraising",
+      "heading": "Bring chocolate into your fundraising idea.",
+      "intro": "Have a fundraising idea involving chocolate? Tell us about your group, the occasion and what you hope to create.",
+      "topic": "Fundraising",
+      "description": "Start a chocolate fundraising conversation with DeCocoa. Share your group, occasion and project questions to explore your idea.",
+      "sections": [
+        {
+          "id": "your-group",
+          "title": "Your Group & Goal",
+          "paragraphs": [
+            "Introduce your organization or community and the purpose behind your fundraising idea. The people and occasion provide a useful starting point."
+          ]
+        },
+        {
+          "id": "your-idea",
+          "title": "Chocolate Possibilities",
+          "paragraphs": [
+            "Explore the pictured chocolate examples and tell us which shapes or finishes interest you. Share how chocolate fits into the project you imagine."
+          ]
+        },
+        {
+          "id": "your-questions",
+          "title": "Plan the Conversation",
+          "paragraphs": [
+            "Tell us about your audience, occasion and the chocolate that interests you. Share any quantity and timeline questions alongside the goals for your group.",
+            "Start with what you already know and the details you would like to discuss."
+          ]
+        }
+      ],
+      "related_route": "products/",
+      "related_label": "Explore Our Products",
+      "source": "Wireframe pp.1–2 Fundraising navigation; inquiry prompts only, no program, margin, minimum, timing or outcome promised. Dedicated inquiry path authorized October 24; copy follows coordinator-approved SEO/AEO draft guidance.",
+      "cta": "Ask About Fundraising",
+      "cta_route": "lets-talk/?topic=Fundraising#inquiry"
+    },
+    {
+      "route": "wholesale/",
+      "title": "Wholesale Chocolate",
+      "eyebrow": "Wholesale",
+      "heading": "Explore chocolate for your business.",
+      "intro": "Explore chocolate with your business in mind. Tell us which products interest you and how chocolate fits into the way you work.",
+      "image": "nuts-and-chocolate.webp",
+      "width": 1500,
+      "height": 876,
+      "alt": "An assortment of textured pieces and chocolate drops",
+      "topic": "Wholesale",
+      "description": "Explore wholesale chocolate inquiries with DeCocoa. Share your business context, product interests and the questions you want to discuss.",
+      "sections": [
+        {
+          "id": "your-business",
+          "title": "Tell us about your business.",
+          "paragraphs": [
+            "Introduce your business and the role you imagine for chocolate. Share who you serve and which chocolate examples have caught your attention."
+          ]
+        },
+        {
+          "id": "product-interests",
+          "title": "Explore the chocolate.",
+          "paragraphs": [
+            "Start with the products and processes pictured on our chocolate page. Bring the shapes, textures and finishes that interest you into your inquiry."
+          ]
+        },
+        {
+          "id": "wholesale-questions",
+          "title": "Start a wholesale inquiry.",
+          "paragraphs": [
+            "Tell us which chocolate range interests you and how your business intends to use it. Include the quantity and timing questions you would like to discuss before planning your next step."
+          ]
+        }
+      ],
+      "related_route": "products/",
+      "related_label": "Explore Our Products",
+      "source": "Wireframe pp.1–2 Wholesale navigation; editorial inquiry prompts, no catalog, supply, order or commercial terms promised. Dedicated inquiry path authorized October 24; copy follows coordinator-approved SEO/AEO draft guidance.",
+      "cta": "Ask About Wholesale",
+      "cta_route": "lets-talk/?topic=Wholesale#inquiry"
+    },
+    {
+      "route": "b2b/",
+      "title": "B2B Chocolate Projects",
+      "eyebrow": "B2B",
+      "heading": "A starting point for your chocolate project.",
+      "intro": "Bring your chocolate product idea or business question to the conversation. Explore how people, processes and chocolate connect with the project you have in mind.",
+      "image": "chocolate-craft.webp",
+      "width": 931,
+      "height": 696,
+      "alt": "A member of the chocolate team holding a tray of chocolate",
+      "topic": "B2B",
+      "description": "Explore chocolate ideas for your business with DeCocoa. Discover the craft, processes and segments, then share your project questions.",
+      "sections": [
+        {
+          "id": "product-ideas",
+          "title": "Begin with your product idea.",
+          "paragraphs": [
+            "Tell us about the chocolate you want to explore and the context for your project. Shape, texture, finish and intended use can all help begin the conversation."
+          ]
+        },
+        {
+          "id": "craft-and-process",
+          "title": "Connect the idea with the craft.",
+          "paragraphs": [
+            "Explore mixing, one shot depositing and hollow moulding on our craft and product pages. Tell us which process interests you and the questions you would like to discuss."
+          ]
+        },
+        {
+          "id": "your-project-brief",
+          "title": "A useful project brief",
+          "paragraphs": [
+            "Bring the shape, texture, finish and process questions that matter to your project. Tell us how you imagine the chocolate being used and which details you want to explore.",
+            "For buying and product inquiries, explore the Wholesale page as another starting point."
+          ]
+        }
+      ],
+      "related_route": "wholesale/",
+      "related_label": "Explore Wholesale",
+      "source": "Wireframe pp.1–2 B2B and pp.4–5 segments; no manufacturing, partnership, fulfillment performance or commercial promise. Dedicated inquiry path authorized October 24; copy follows coordinator-approved SEO/AEO draft guidance.",
+      "cta": "Ask About B2B",
+      "cta_route": "lets-talk/?topic=B2B#inquiry"
+    }
+  ],
+  "policies": [
+    {
+      "route": "privacy-policy/",
+      "title": "Privacy Policy",
+      "notice": "Draft privacy policy content is being prepared for review.",
+      "source": "User-authorized pending policy copy, October 25, 2026. No legal terms or compliance assertions."
+    },
+    {
+      "route": "terms-and-conditions/",
+      "title": "Terms and Conditions",
+      "notice": "Draft terms and conditions content is being prepared for review.",
+      "source": "User-authorized pending policy copy, October 25, 2026. No legal terms or compliance assertions."
+    },
+    {
+      "route": "accessibility/",
+      "title": "Accessibility",
+      "notice": "Draft accessibility content is being prepared for review.",
+      "source": "User-authorized pending policy copy, October 25, 2026. No legal terms or compliance assertions."
+    }
+  ],
+  "trust_sections": {
+    "partners": {
+      "eyebrow": "Connections & collaboration",
+      "title": "Our Partners",
+      "intro": "Good chocolate brings people together. Discover the ingredient specialists and food brands connected to DeCOCOA’s chocolate craft.",
+      "marks": [
+        {
+          "image": "partner-puratos.png",
+          "width": 456,
+          "height": 320,
+          "alt": "Puratos",
+          "class": "puratos"
+        },
+        {
+          "image": "partner-wegmans-supplied-626950.webp",
+          "width": 1280,
+          "height": 1000,
+          "alt": "Wegmans",
+          "class": "wegmans"
+        },
+        {
+          "image": "partner-guittard.png",
+          "width": 540,
+          "height": 320,
+          "alt": "Guittard",
+          "class": "guittard"
+        }
+      ],
+      "source": "Coordinator-approved local draft copy, October 25, 2026; logo source and fallback status in assets/trust-export-details.json. No relationship or certification verification added."
+    },
+    "certifications": {
+      "eyebrow": "Care & commitment",
+      "title": "Our Certifications",
+      "intro": "Quality, food safety and responsible sourcing guide our chocolate making. Explore the standards and programs behind our commitment to care.",
+      "marks": [
+        {
+          "image": "certification-ou-kosher.png",
+          "width": 654,
+          "height": 651,
+          "alt": "OU Kosher",
+          "class": "ou-kosher"
+        },
+        {
+          "image": "certification-sqf.png",
+          "width": 640,
+          "height": 280,
+          "alt": "SQF Institute",
+          "class": "sqf"
+        },
+        {
+          "image": "certification-haccp.png",
+          "width": 690,
+          "height": 706,
+          "alt": "HACCP",
+          "class": "haccp"
+        },
+        {
+          "image": "certification-rainforest-alliance.png",
+          "width": 640,
+          "height": 640,
+          "alt": "Rainforest Alliance People & Nature",
+          "class": "rainforest"
+        },
+        {
+          "image": "certification-cacao-trace.png",
+          "width": 640,
+          "height": 519,
+          "alt": "Cacao-Trace",
+          "class": "cacao-trace"
+        }
+      ],
+      "source": "Coordinator-approved local draft copy, October 25, 2026; logo source and fallback status in assets/trust-export-details.json. No relationship or certification verification added."
+    }
+  }
+}

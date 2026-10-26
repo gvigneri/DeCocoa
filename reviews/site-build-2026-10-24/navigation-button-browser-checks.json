@@ -1,0 +1,591 @@
+{
+  "desktop": {
+    "buttons": [
+      {
+        "background": "rgb(247, 239, 230)",
+        "border": "2px solid rgb(232, 121, 51)",
+        "color": "rgb(58, 23, 13)",
+        "innerBorder": "2px solid rgb(232, 121, 51)",
+        "innerInset": "4px",
+        "innerRadius": "6px",
+        "radius": "12px",
+        "text": "Explore Our Products",
+        "transform": "none"
+      },
+      {
+        "background": "rgb(58, 23, 13)",
+        "border": "2px solid rgb(232, 121, 51)",
+        "color": "rgb(247, 239, 230)",
+        "innerBorder": "2px solid rgb(232, 121, 51)",
+        "innerInset": "4px",
+        "innerRadius": "6px",
+        "radius": "12px",
+        "text": "Work With Us",
+        "transform": "none"
+      }
+    ],
+    "nav": {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(232, 121, 51)",
+      "lineColor": "rgb(232, 121, 51)",
+      "lineHeight": "2px",
+      "lineOrigin": "0px 1px",
+      "lineTransform": "matrix(1, 0, 0, 1, 0, 0)",
+      "transition": "transform 0.22s"
+    },
+    "submenu": {
+      "animation": "submenu-enter",
+      "border": "2px solid rgb(58, 23, 13)",
+      "duration": "0.22s",
+      "hidden": false,
+      "radius": "12px"
+    }
+  },
+  "subLinkHover": {
+    "background": "rgba(0, 0, 0, 0)",
+    "color": "rgb(232, 121, 51)",
+    "hover": true,
+    "submenuHidden": false
+  },
+  "arrowDown": {
+    "focused": "Products",
+    "outline": "rgb(23, 9, 5) solid 3px",
+    "submenuHidden": false
+  },
+  "escape": {
+    "focused": "Our Chocolate",
+    "submenuHidden": true
+  },
+  "primaryHover": {
+    "background": "rgb(247, 239, 230)",
+    "border": "2px solid rgb(232, 121, 51)",
+    "color": "rgb(58, 23, 13)",
+    "focus": true,
+    "hover": true,
+    "outline": "rgb(247, 239, 230) solid 3px",
+    "shadow": "rgb(232, 121, 51) 6px 6px 0px 0px",
+    "transform": "matrix(1, 0, 0, 1, -4, -4)"
+  },
+  "secondaryHover": {
+    "background": "rgb(58, 23, 13)",
+    "border": "2px solid rgb(232, 121, 51)",
+    "color": "rgb(247, 239, 230)",
+    "hover": true,
+    "outline": "rgb(247, 239, 230) solid 3px",
+    "shadow": "rgb(232, 121, 51) 6px 6px 0px 0px",
+    "transform": "matrix(1, 0, 0, 1, -4, -4)"
+  },
+  "widths": [
+    {
+      "buttons": [
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 1228.53125,
+          "right": 1364.53125,
+          "text": "Let's Talk",
+          "width": 136
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 92.46875,
+          "right": 330.15625,
+          "text": "Explore Our Products",
+          "width": 237.6875
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 340.15625,
+          "right": 515.203125,
+          "text": "Work With Us",
+          "width": 175.046875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 593.65625,
+          "right": 831.34375,
+          "text": "Explore Our Products",
+          "width": 237.6875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 104.46875,
+          "right": 303.421875,
+          "text": "Meet Our People",
+          "width": 198.953125
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 60.46875,
+          "right": 263.140625,
+          "text": "Explore Our Craft",
+          "width": 202.671875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 102.46875,
+          "right": 415.296875,
+          "text": "Explore the Experience Center",
+          "width": 312.828125
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 60.46875,
+          "right": 235.515625,
+          "text": "Work With Us",
+          "width": 175.046875
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 749.75,
+          "right": 885.75,
+          "text": "Let's Talk",
+          "width": 136
+        }
+      ],
+      "client": 1425,
+      "overflow": false,
+      "scroll": 1425,
+      "viewport": 1440
+    },
+    {
+      "buttons": [
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 1512.5,
+          "right": 1638.5,
+          "text": "Let's Talk",
+          "width": 126
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 298.5,
+          "right": 536.1875,
+          "text": "Explore Our Products",
+          "width": 237.6875
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 550.1875,
+          "right": 725.234375,
+          "text": "Work With Us",
+          "width": 175.046875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 833.65625,
+          "right": 1071.34375,
+          "text": "Explore Our Products",
+          "width": 237.6875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 310.5,
+          "right": 509.453125,
+          "text": "Meet Our People",
+          "width": 198.953125
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 266.5,
+          "right": 469.171875,
+          "text": "Explore Our Craft",
+          "width": 202.671875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 308.5,
+          "right": 621.328125,
+          "text": "Explore the Experience Center",
+          "width": 312.828125
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 266.5,
+          "right": 441.546875,
+          "text": "Work With Us",
+          "width": 175.046875
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 991.6875,
+          "right": 1127.6875,
+          "text": "Let's Talk",
+          "width": 136
+        }
+      ],
+      "client": 1905,
+      "overflow": false,
+      "scroll": 1905,
+      "viewport": 1920
+    },
+    {
+      "buttons": [
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 598.75,
+          "right": 720.75,
+          "text": "Let's Talk",
+          "width": 122
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 54.25,
+          "right": 281.9375,
+          "text": "Explore Our Products",
+          "width": 227.6875
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 54.25,
+          "right": 219.296875,
+          "text": "Work With Us",
+          "width": 165.046875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 257.65625,
+          "right": 495.34375,
+          "text": "Explore Our Products",
+          "width": 237.6875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 91.5,
+          "right": 290.453125,
+          "text": "Meet Our People",
+          "width": 198.953125
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 32.25,
+          "right": 234.921875,
+          "text": "Explore Our Craft",
+          "width": 202.671875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 95.5,
+          "right": 408.328125,
+          "text": "Explore the Experience Center",
+          "width": 312.828125
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 32.25,
+          "right": 207.296875,
+          "text": "Work With Us",
+          "width": 175.046875
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 32.25,
+          "right": 168.25,
+          "text": "Let's Talk",
+          "width": 136
+        }
+      ],
+      "client": 753,
+      "overflow": false,
+      "scroll": 753,
+      "viewport": 768
+    },
+    {
+      "buttons": [
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 229,
+          "right": 351,
+          "text": "Let's Talk",
+          "width": 122
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 46,
+          "right": 273.6875,
+          "text": "Explore Our Products",
+          "width": 227.6875
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 46,
+          "right": 211.046875,
+          "text": "Work With Us",
+          "width": 165.046875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 68.65625,
+          "right": 306.34375,
+          "text": "Explore Our Products",
+          "width": 237.6875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 54,
+          "right": 252.953125,
+          "text": "Meet Our People",
+          "width": 198.953125
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 24,
+          "right": 226.671875,
+          "text": "Explore Our Craft",
+          "width": 202.671875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 53,
+          "right": 322,
+          "text": "Explore the Experience Center",
+          "width": 269
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 24,
+          "right": 199.046875,
+          "text": "Work With Us",
+          "width": 175.046875
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 24,
+          "right": 160,
+          "text": "Let's Talk",
+          "width": 136
+        }
+      ],
+      "client": 375,
+      "overflow": false,
+      "scroll": 375,
+      "viewport": 390
+    },
+    {
+      "buttons": [
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 169,
+          "right": 285,
+          "text": "Let's Talk",
+          "width": 116
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 34,
+          "right": 257.6875,
+          "text": "Explore Our Products",
+          "width": 223.6875
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 34,
+          "right": 195.046875,
+          "text": "Work With Us",
+          "width": 161.046875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 33.65625,
+          "right": 271.34375,
+          "text": "Explore Our Products",
+          "width": 237.6875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 47,
+          "right": 245.953125,
+          "text": "Meet Our People",
+          "width": 198.953125
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 20,
+          "right": 222.671875,
+          "text": "Explore Our Craft",
+          "width": 202.671875
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "color": "rgb(58, 23, 13)",
+          "font": "16px",
+          "left": 46,
+          "right": 259,
+          "text": "Explore the Experience Center",
+          "width": 213
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 20,
+          "right": 195.046875,
+          "text": "Work With Us",
+          "width": 175.046875
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "color": "rgb(247, 239, 230)",
+          "font": "16px",
+          "left": 20,
+          "right": 156,
+          "text": "Let's Talk",
+          "width": 136
+        }
+      ],
+      "client": 305,
+      "overflow": false,
+      "scroll": 305,
+      "viewport": 320
+    }
+  ],
+  "scrollHeader": {
+    "buttonBackground": "rgb(58, 23, 13)",
+    "buttonBox": {
+      "bottom": 86,
+      "height": 60,
+      "left": 1512.5,
+      "right": 1638.5,
+      "top": 26,
+      "width": 126,
+      "x": 1512.5,
+      "y": 26
+    },
+    "buttonShadowToken": "#3A170D",
+    "headerBackground": "rgb(232, 121, 51)",
+    "navBackground": "rgb(247, 239, 230)",
+    "navBox": {
+      "bottom": 87,
+      "height": 62,
+      "left": 617.859375,
+      "right": 1365.140625,
+      "top": 25,
+      "width": 747.28125,
+      "x": 617.859375,
+      "y": 25
+    },
+    "navColor": "rgb(232, 121, 51)",
+    "submenuBorder": "2px solid rgb(58, 23, 13)",
+    "visible": true
+  },
+  "tabletMenu": {
+    "border": "2px solid rgb(58, 23, 13)",
+    "hidden": false,
+    "overflow": false,
+    "radius": "12px"
+  },
+  "phoneMenu": {
+    "border": "2px solid rgb(58, 23, 13)",
+    "box": {
+      "bottom": 561.2711334228516,
+      "height": 378.3125,
+      "left": 24,
+      "right": 351,
+      "top": 182.95863342285156,
+      "width": 327,
+      "x": 24,
+      "y": 182.95863342285156
+    },
+    "focused": "Products",
+    "hidden": false,
+    "overflow": false,
+    "radius": "12px"
+  },
+  "phoneEscape": {
+    "focused": "Menu",
+    "menuOpen": false
+  },
+  "smallMenu": {
+    "border": "2px solid rgb(58, 23, 13)",
+    "focus": "Products",
+    "left": 20,
+    "overflow": false,
+    "right": 285,
+    "submenuWidth": 265,
+    "width": 320
+  },
+  "consoleErrors": []
+}

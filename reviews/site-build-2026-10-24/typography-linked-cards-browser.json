@@ -1,0 +1,1051 @@
+{
+  "desktopPages": [
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#wellness",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#one-shot-depositing",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#hollow-moulding",
+          "imageBG": "rgb(160, 182, 92)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#mixing",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#dry-filling",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        }
+      ],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/",
+      "subFont": "20px",
+      "width": 1440
+    },
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "../work-with-us/?topic=Chocolate%20%26%20products#inquiry",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "../work-with-us/?topic=Chocolate%20%26%20products#inquiry",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "../work-with-us/?topic=Chocolate%20%26%20products#inquiry",
+          "imageBG": "rgb(160, 182, 92)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "../work-with-us/?topic=Chocolate%20%26%20products#inquiry",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "../work-with-us/?topic=Chocolate%20%26%20products#inquiry",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        }
+      ],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/products/",
+      "subFont": "20px",
+      "width": 1440
+    },
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/products/filled-chocolate/",
+      "subFont": "20px",
+      "width": 1440
+    },
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/products/chocolate-bar/",
+      "subFont": "20px",
+      "width": 1440
+    },
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/products/chocolate-drizzle/",
+      "subFont": "20px",
+      "width": 1440
+    },
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/our-people/",
+      "subFont": "20px",
+      "width": 1440
+    },
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/our-craft/",
+      "subFont": "20px",
+      "width": 1440
+    },
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/experience-center/",
+      "subFont": "20px",
+      "width": 1440
+    },
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/work-with-us/",
+      "subFont": "20px",
+      "width": 1440
+    },
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/404.html",
+      "subFont": "20px",
+      "width": 1440
+    }
+  ],
+  "cardHover": {
+    "actionColor": "rgb(184, 59, 40)",
+    "ariaLabelledby": "category-wellness-action",
+    "arrowFilter": "none",
+    "cardTag": "A",
+    "copyBackground": "rgb(255, 255, 255)",
+    "hover": true,
+    "imageBackground": "rgb(242, 201, 193)",
+    "nested": 0,
+    "textShadow": "none"
+  },
+  "imageClick": {
+    "targetExists": true,
+    "title": "Wellness",
+    "url": "http://127.0.0.1:4174/products/#wellness"
+  },
+  "widths": [
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#wellness",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#one-shot-depositing",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#hollow-moulding",
+          "imageBG": "rgb(160, 182, 92)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#mixing",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#dry-filling",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        }
+      ],
+      "client": 1425,
+      "eyebrows": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/",
+      "subFont": "20px",
+      "width": 1440
+    },
+    {
+      "body": "20px",
+      "buttons": [
+        "20px"
+      ],
+      "categories": [
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#wellness",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#one-shot-depositing",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#hollow-moulding",
+          "imageBG": "rgb(160, 182, 92)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#mixing",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "20px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#dry-filling",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        }
+      ],
+      "client": 1905,
+      "eyebrows": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 20,
+      "overflow": false,
+      "root": "16px",
+      "route": "/",
+      "subFont": "20px",
+      "width": 1920
+    },
+    {
+      "body": "16px",
+      "buttons": [
+        "16px"
+      ],
+      "categories": [
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#wellness",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#one-shot-depositing",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#hollow-moulding",
+          "imageBG": "rgb(160, 182, 92)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#mixing",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#dry-filling",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        }
+      ],
+      "client": 753,
+      "eyebrows": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 16,
+      "overflow": false,
+      "root": "16px",
+      "route": "/",
+      "subFont": "20px",
+      "width": 768
+    },
+    {
+      "body": "16px",
+      "buttons": [
+        "16px"
+      ],
+      "categories": [
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#wellness",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#one-shot-depositing",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#hollow-moulding",
+          "imageBG": "rgb(160, 182, 92)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#mixing",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#dry-filling",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        }
+      ],
+      "client": 375,
+      "eyebrows": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 16,
+      "overflow": false,
+      "root": "16px",
+      "route": "/",
+      "subFont": "20px",
+      "width": 390
+    },
+    {
+      "body": "16px",
+      "buttons": [
+        "16px"
+      ],
+      "categories": [
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#wellness",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#one-shot-depositing",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#hollow-moulding",
+          "imageBG": "rgb(160, 182, 92)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#mixing",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "products/#dry-filling",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        }
+      ],
+      "client": 305,
+      "eyebrows": [
+        {
+          "color": "rgb(220, 75, 51)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 16,
+      "overflow": false,
+      "root": "16px",
+      "route": "/",
+      "subFont": "20px",
+      "width": 320
+    }
+  ],
+  "scrollLayout": {
+    "background": "rgba(0, 0, 0, 0)",
+    "cta": {
+      "bottom": 87,
+      "height": 62,
+      "left": 1493,
+      "right": 1638.5,
+      "top": 25,
+      "width": 145.5,
+      "x": 1493,
+      "y": 25
+    },
+    "first": {
+      "bottom": 83,
+      "height": 54,
+      "left": 490.5,
+      "right": 646.859375,
+      "top": 29,
+      "width": 156.359375,
+      "x": 490.5,
+      "y": 29
+    },
+    "flex": "1 1 0%",
+    "justify": "flex-start",
+    "logo": {
+      "bottom": 103.234375,
+      "height": 94.46875,
+      "left": 242.5,
+      "right": 470.5,
+      "top": 8.765625,
+      "width": 228,
+      "x": 242.5,
+      "y": 8.765625
+    },
+    "nav": {
+      "bottom": 83,
+      "height": 54,
+      "left": 490.5,
+      "right": 1473,
+      "top": 29,
+      "width": 982.5,
+      "x": 490.5,
+      "y": 29
+    },
+    "visible": true
+  },
+  "submenu": {
+    "client": 1905,
+    "font": "20px",
+    "open": true,
+    "rect": {
+      "bottom": 501,
+      "height": 414,
+      "left": 473.5,
+      "right": 763.5,
+      "top": 87,
+      "width": 290,
+      "x": 473.5,
+      "y": 87
+    }
+  },
+  "mobileMenu": {
+    "focused": "Products",
+    "font": "20px",
+    "menuWidth": 390,
+    "outline": "rgb(23, 9, 5) solid 3px",
+    "overflow": false
+  },
+  "cardFocus": [
+    {
+      "actionColor": "rgb(163, 53, 35)",
+      "client": 305,
+      "left": 12,
+      "outline": "rgb(58, 23, 13) solid 3px",
+      "right": 293,
+      "scrollLeft": 0,
+      "tag": "A",
+      "title": "Wellness"
+    },
+    {
+      "actionColor": "rgb(153, 50, 33)",
+      "client": 305,
+      "left": 12,
+      "outline": "rgb(58, 23, 13) solid 3px",
+      "right": 293,
+      "scrollLeft": 0,
+      "tag": "A",
+      "title": "One Shot Depositing"
+    },
+    {
+      "actionColor": "rgb(153, 50, 33)",
+      "client": 305,
+      "left": 12,
+      "outline": "rgb(58, 23, 13) solid 3px",
+      "right": 293,
+      "scrollLeft": 0,
+      "tag": "A",
+      "title": "Hollow Moulding"
+    },
+    {
+      "actionColor": "rgb(179, 58, 39)",
+      "client": 305,
+      "left": 12,
+      "outline": "rgb(58, 23, 13) solid 3px",
+      "right": 293,
+      "scrollLeft": 0,
+      "tag": "A",
+      "title": "Mixing"
+    },
+    {
+      "actionColor": "rgb(103, 36, 23)",
+      "client": 305,
+      "left": 12,
+      "outline": "rgb(58, 23, 13) solid 3px",
+      "right": 293,
+      "scrollLeft": 0,
+      "tag": "A",
+      "title": "Dry Filling"
+    }
+  ],
+  "arrowRight": {
+    "scrollLeft": 0,
+    "tag": "A",
+    "title": "Wellness"
+  },
+  "arrowLeft": {
+    "scrollLeft": 0,
+    "tag": "A",
+    "title": "Dry Filling"
+  },
+  "mobilePages": [
+    {
+      "body": "16px",
+      "buttons": [
+        "16px"
+      ],
+      "categories": [
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "../work-with-us/?topic=Chocolate%20%26%20products#inquiry",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "../work-with-us/?topic=Chocolate%20%26%20products#inquiry",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "../work-with-us/?topic=Chocolate%20%26%20products#inquiry",
+          "imageBG": "rgb(160, 182, 92)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "../work-with-us/?topic=Chocolate%20%26%20products#inquiry",
+          "imageBG": "rgb(242, 201, 193)",
+          "nested": 0,
+          "tag": "A"
+        },
+        {
+          "actionFont": "16px",
+          "actionTag": "SPAN",
+          "bodyBG": "rgb(255, 255, 255)",
+          "href": "../work-with-us/?topic=Chocolate%20%26%20products#inquiry",
+          "imageBG": "rgb(255, 190, 74)",
+          "nested": 0,
+          "tag": "A"
+        }
+      ],
+      "client": 305,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 16,
+      "overflow": false,
+      "root": "16px",
+      "route": "/products/",
+      "subFont": "20px",
+      "width": 320
+    },
+    {
+      "body": "16px",
+      "buttons": [
+        "16px"
+      ],
+      "categories": [],
+      "client": 305,
+      "eyebrows": [
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        },
+        {
+          "color": "rgb(184, 59, 40)",
+          "font": "20px"
+        }
+      ],
+      "minOrdinary": 16,
+      "overflow": false,
+      "root": "16px",
+      "route": "/work-with-us/",
+      "subFont": "20px",
+      "width": 320
+    }
+  ],
+  "consoleErrors": []
+}

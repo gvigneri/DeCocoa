@@ -1,0 +1,22 @@
+{
+  "method": "Built-in image_gen; two background-extraction edits derived from the supplied Pretzels.png comparison render. Not pixel-identical source exports: hidden product edges reconstructed.",
+  "input": "assets/images/inspect-Pretzels.jpg",
+  "original": "brand/source/Decocoa Get Started/images/Pretzels.png",
+  "outputs": [
+    {
+      "path": "assets/images/pretzel-red-drizzle-r6.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. Asset type: separate transparent product cutout for an existing DeCocoa website animation. Input image is the edit target, a composition of three chocolate dipped pretzels. Extract ONLY the large milk-chocolate pretzel with red icing drizzle at the TOP LEFT. Remove every other pretzel and all background. Preserve this exact pretzel's silhouette, perspective, orientation, chocolate color and red drizzle placement as faithfully as possible. Restore only the small lower-right portion currently hidden behind the other pretzel, by continuing the same chocolate surface and smooth complete edge. One single whole pretzel, isolated and centered, fully visible with 8% transparent padding, no cropped edges. Genuine transparent background and transparent holes through the pretzel. No added shadow plane, no text, no new garnish. Do not include the dark pretzel or red/green decorations."
+    },
+    {
+      "path": "assets/images/pretzel-chunky-sprinkles-r6.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. Asset type: separate transparent product cutout for an existing DeCocoa website animation. Input image is the edit target, a composition of three chocolate dipped pretzels. Extract ONLY the large dark-chocolate pretzel covered with chunky red and green holiday sprinkles in the MIDDLE RIGHT. Remove every other pretzel and all background. Preserve this exact pretzel's silhouette, three-quarter perspective, diagonal orientation, dark chocolate color, rough sprinkle sizes and red/green sprinkle distribution as faithfully as possible. Restore only the small lower-left/bottom portion currently hidden behind the beaded pretzel, by continuing the same chocolate surface with a complete edge. One single whole pretzel, isolated and centered, fully visible with 8% transparent padding, no cropped edges. Genuine transparent background and transparent holes through the pretzel. No added shadow plane, no text, no new garnish. Do not include the milk chocolate red-drizzle pretzel or the pretzel with round sugar beads."
+    }
+  ],
+  "third": "assets/images/dipped-pretzel.webp remains source-derived",
+  "originals": "Unchanged",
+  "web_exports": [
+    "assets/images/pretzel-red-drizzle-r6.webp",
+    "assets/images/pretzel-chunky-sprinkles-r6.webp"
+  ],
+  "web_export_operation": "Mechanical WebP quality94 compression, no crop/resize/retouch. Implementation confirmed byte-identical alpha. Full generated PNGs retained in workspace; optimized WebP files included in portable site."
+}

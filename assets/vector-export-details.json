@@ -1,0 +1,147 @@
+[
+  {
+    "source": "DeCocoa_BrandPatterns_Circles_Pattern.ai",
+    "export": "assets\\patterns\\circles-master.svg",
+    "viewBox": [
+      0,
+      0,
+      1600.0,
+      900.0
+    ],
+    "painted_paths": 867,
+    "clips": 2,
+    "source_colors": [
+      "#512316",
+      "#e87933",
+      "#f4f4ef",
+      "#ffffff"
+    ]
+  },
+  {
+    "source": "DeCocoa_BrandPatterns_FlowerOfLife_Pattern.ai",
+    "export": "assets\\patterns\\floweroflife-master.svg",
+    "viewBox": [
+      0,
+      0,
+      1600.0,
+      900.0
+    ],
+    "painted_paths": 56,
+    "clips": 1,
+    "source_colors": [
+      "#512316",
+      "#e87933"
+    ]
+  },
+  {
+    "source": "DeCocoa_BrandPatterns_Growth_Pattern.ai",
+    "export": "assets\\patterns\\growth-master.svg",
+    "viewBox": [
+      0,
+      0,
+      1600.0,
+      900.0
+    ],
+    "painted_paths": 173,
+    "clips": 1,
+    "source_colors": [
+      "#512316",
+      "#e87933",
+      "#f7efe6"
+    ]
+  },
+  {
+    "source": "DeCocoa_BrandPatterns_Luxury_Pattern.ai",
+    "export": "assets\\patterns\\luxury-master.svg",
+    "viewBox": [
+      0,
+      0,
+      1600.0,
+      900.0
+    ],
+    "painted_paths": 154,
+    "clips": 1,
+    "source_colors": [
+      "#512316",
+      "#e87933"
+    ]
+  },
+  {
+    "source": "DeCocoa_BrandPatterns_Rings_Pattern.ai",
+    "export": "assets\\patterns\\rings-master.svg",
+    "viewBox": [
+      0,
+      0,
+      1600.0,
+      900.0
+    ],
+    "painted_paths": 136,
+    "clips": 3,
+    "source_colors": [
+      "#512316",
+      "#e87933"
+    ]
+  },
+  {
+    "source": "DeCocoa_BrandPatterns_Stripes_Pattern.ai",
+    "export": "assets\\patterns\\stripes-master.svg",
+    "viewBox": [
+      0,
+      0,
+      1600.0,
+      900.0
+    ],
+    "painted_paths": 187,
+    "clips": 1,
+    "source_colors": [
+      "#512316",
+      "#f7efe6"
+    ]
+  },
+  {
+    "source": "DeCocoa_Logo_RGB_LightBG_Horiztonal.ai",
+    "export": "assets\\logos\\decocoa-horizontal.svg",
+    "viewBox": [
+      484.66830000000004,
+      544.6252,
+      3527.8149000000003,
+      910.75
+    ],
+    "painted_paths": 9,
+    "clips": 1,
+    "source_colors": [
+      "#582011"
+    ]
+  },
+  {
+    "source": "DeCocoa_Logo_RGB_LightBG_Brandmark.ai",
+    "export": "assets\\logos\\decocoa-brandmark.svg",
+    "viewBox": [
+      345.16179999999986,
+      244.16820000000007,
+      1309.6760000000002,
+      1511.664
+    ],
+    "painted_paths": 1,
+    "clips": 1,
+    "source_colors": [
+      "#582011"
+    ]
+  },
+  {
+    "source": "DeCocoa_Logo_RGB_DarkBG_Badge.ai",
+    "export": "assets\\logos\\decocoa-dark-badge.svg",
+    "viewBox": [
+      283.6911,
+      283.6911,
+      1432.618,
+      1432.618
+    ],
+    "painted_paths": 31,
+    "clips": 1,
+    "source_colors": [
+      "#fa7110",
+      "#faf0e6"
+    ]
+  }
+]

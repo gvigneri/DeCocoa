@@ -1,0 +1,745 @@
+{
+  "date": "2026-10-25",
+  "browser": "Hidden IAB through CUA",
+  "visible": false,
+  "layout": [
+    {
+      "buttons": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary header-contact",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let's Talk"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(58, 23, 13)",
+          "class": "button button-secondary button-scroll-contact header-contact",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(58, 23, 13)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let's Talk"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-secondary",
+          "color": "rgb(247, 239, 230)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let’s Craft Something Together"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore Our Products"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Meet Our People"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-secondary",
+          "color": "rgb(247, 239, 230)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore Our Craft"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore the Experience Center"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary preview-message",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Send Message"
+        }
+      ],
+      "clientWidth": 1905,
+      "craft": {
+        "bg": "rgb(232, 121, 51)",
+        "motifFill": "rgb(58, 23, 13)"
+      },
+      "documentWidth": 1905,
+      "people": {
+        "copy": {
+          "bottom": 960.796875,
+          "height": 481.3125,
+          "left": 310.5,
+          "right": 913.984375,
+          "top": 479.484375,
+          "width": 603.484375,
+          "x": 310.5,
+          "y": 479.484375
+        },
+        "copyOverlapsMask": false,
+        "cropCenterDelta": 0,
+        "mask": {
+          "bottom": 1251.078125,
+          "height": 1061.875,
+          "left": 1178.5,
+          "right": 2098.5,
+          "top": 189.203125,
+          "width": 920,
+          "x": 1178.5,
+          "y": 189.203125
+        },
+        "overflow": "hidden",
+        "panel": {
+          "bottom": 1295.078125,
+          "height": 1149.875,
+          "left": 266.5,
+          "right": 1638.5,
+          "top": 145.203125,
+          "width": 1372,
+          "x": 266.5,
+          "y": 145.203125
+        },
+        "paragraphMaxWidth": "none"
+      },
+      "width": 1920
+    },
+    {
+      "buttons": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary header-contact",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let's Talk"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(58, 23, 13)",
+          "class": "button button-secondary button-scroll-contact header-contact",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(58, 23, 13)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let's Talk"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-secondary",
+          "color": "rgb(247, 239, 230)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let’s Craft Something Together"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore Our Products"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Meet Our People"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-secondary",
+          "color": "rgb(247, 239, 230)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore Our Craft"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore the Experience Center"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary preview-message",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Send Message"
+        }
+      ],
+      "clientWidth": 1425,
+      "craft": {
+        "bg": "rgb(232, 121, 51)",
+        "motifFill": "rgb(58, 23, 13)"
+      },
+      "documentWidth": 1425,
+      "people": {
+        "copy": {
+          "bottom": 1081.984375,
+          "height": 466.5,
+          "left": 104.46875,
+          "right": 676.015625,
+          "top": 615.484375,
+          "width": 571.546875,
+          "x": 104.46875,
+          "y": 615.484375
+        },
+        "copyOverlapsMask": false,
+        "cropCenterDelta": 0,
+        "mask": {
+          "bottom": 1379.671875,
+          "height": 1061.875,
+          "left": 904.53125,
+          "right": 1824.53125,
+          "top": 317.796875,
+          "width": 920,
+          "x": 904.53125,
+          "y": 317.796875
+        },
+        "overflow": "hidden",
+        "panel": {
+          "bottom": 1423.671875,
+          "height": 1149.875,
+          "left": 60.46875,
+          "right": 1364.53125,
+          "top": 273.796875,
+          "width": 1304.0625,
+          "x": 60.46875,
+          "y": 273.796875
+        },
+        "paragraphMaxWidth": "none"
+      },
+      "width": 1440
+    },
+    {
+      "buttons": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary header-contact",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let's Talk"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(58, 23, 13)",
+          "class": "button button-secondary button-scroll-contact header-contact",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(58, 23, 13)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let's Talk"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-secondary",
+          "color": "rgb(247, 239, 230)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let’s Craft Something Together"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore Our Products"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Meet Our People"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-secondary",
+          "color": "rgb(247, 239, 230)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore Our Craft"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore the Experience Center"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary preview-message",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Send Message"
+        }
+      ],
+      "clientWidth": 753,
+      "craft": {
+        "bg": "rgb(232, 121, 51)",
+        "motifFill": "rgb(58, 23, 13)"
+      },
+      "documentWidth": 753,
+      "people": {
+        "copy": {
+          "bottom": 917.5,
+          "height": 371.140625,
+          "left": 64.25,
+          "right": 688.75,
+          "top": 546.359375,
+          "width": 624.5,
+          "x": 64.25,
+          "y": 546.359375
+        },
+        "copyOverlapsMask": false,
+        "cropCenterDelta": 0,
+        "mask": {
+          "bottom": 1922.046875,
+          "height": 969.546875,
+          "left": 300.75,
+          "right": 1140.75,
+          "top": 952.5,
+          "width": 840,
+          "x": 300.75,
+          "y": 952.5
+        },
+        "overflow": "hidden",
+        "panel": {
+          "bottom": 1954.046875,
+          "height": 1439.6875,
+          "left": 32.25,
+          "right": 720.75,
+          "top": 514.359375,
+          "width": 688.5,
+          "x": 32.25,
+          "y": 514.359375
+        },
+        "paragraphMaxWidth": "none"
+      },
+      "width": 768
+    },
+    {
+      "buttons": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary header-contact",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let's Talk"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(58, 23, 13)",
+          "class": "button button-secondary button-scroll-contact header-contact",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(58, 23, 13)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let's Talk"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-secondary",
+          "color": "rgb(247, 239, 230)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let’s Craft Something Together"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore Our Products"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Meet Our People"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-secondary",
+          "color": "rgb(247, 239, 230)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore Our Craft"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore the Experience Center"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary preview-message",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Send Message"
+        }
+      ],
+      "clientWidth": 375,
+      "craft": {
+        "bg": "rgb(232, 121, 51)",
+        "motifFill": "rgb(58, 23, 13)"
+      },
+      "documentWidth": 375,
+      "people": {
+        "copy": {
+          "bottom": 1430.75,
+          "height": 415.28125,
+          "left": 48,
+          "right": 327,
+          "top": 1015.46875,
+          "width": 279,
+          "x": 48,
+          "y": 1015.46875
+        },
+        "copyOverlapsMask": false,
+        "cropCenterDelta": 0,
+        "mask": {
+          "bottom": 2104.796875,
+          "height": 644.046875,
+          "left": 72,
+          "right": 630,
+          "top": 1460.75,
+          "width": 558,
+          "x": 72,
+          "y": 1460.75
+        },
+        "overflow": "hidden",
+        "panel": {
+          "bottom": 2128.796875,
+          "height": 1137.328125,
+          "left": 24,
+          "right": 351,
+          "top": 991.46875,
+          "width": 327,
+          "x": 24,
+          "y": 991.46875
+        },
+        "paragraphMaxWidth": "none"
+      },
+      "width": 390
+    },
+    {
+      "buttons": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary header-contact",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let's Talk"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(58, 23, 13)",
+          "class": "button button-secondary button-scroll-contact header-contact",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(58, 23, 13)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let's Talk"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-secondary",
+          "color": "rgb(247, 239, 230)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Let’s Craft Something Together"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore Our Products"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Meet Our People"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-secondary",
+          "color": "rgb(247, 239, 230)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore Our Craft"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Explore the Experience Center"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "border": "rgb(232, 121, 51)",
+          "class": "button button-primary preview-message",
+          "color": "rgb(58, 23, 13)",
+          "innerBorder": "rgb(232, 121, 51)",
+          "insetBg": "rgba(0, 0, 0, 0)",
+          "text": "Send Message"
+        }
+      ],
+      "clientWidth": 305,
+      "craft": {
+        "bg": "rgb(232, 121, 51)",
+        "motifFill": "rgb(58, 23, 13)"
+      },
+      "documentWidth": 305,
+      "people": {
+        "copy": {
+          "bottom": 1611.90625,
+          "height": 423.921875,
+          "left": 44,
+          "right": 261,
+          "top": 1187.984375,
+          "width": 217,
+          "x": 44,
+          "y": 1187.984375
+        },
+        "copyOverlapsMask": false,
+        "cropCenterDelta": 0,
+        "mask": {
+          "bottom": 2142.828125,
+          "height": 500.921875,
+          "left": 68,
+          "right": 502,
+          "top": 1641.90625,
+          "width": 434,
+          "x": 68,
+          "y": 1641.90625
+        },
+        "overflow": "hidden",
+        "panel": {
+          "bottom": 2166.828125,
+          "height": 1002.84375,
+          "left": 20,
+          "right": 285,
+          "top": 1163.984375,
+          "width": 265,
+          "x": 20,
+          "y": 1163.984375
+        },
+        "paragraphMaxWidth": "none"
+      },
+      "width": 320
+    }
+  ],
+  "fields": [
+    {
+      "border": "rgb(232, 121, 51)",
+      "id": "contact-name",
+      "label": "rgb(232, 121, 51)",
+      "outline": "rgb(58, 23, 13) solid 2px",
+      "text": "rgb(58, 23, 13)",
+      "url": "/"
+    },
+    {
+      "arrow": "rgb(232, 121, 51)",
+      "arrowPointerEvents": "none",
+      "border": "rgb(232, 121, 51)",
+      "formOwner": null,
+      "id": "contact-reason",
+      "label": "rgb(232, 121, 51)",
+      "outline": "rgb(58, 23, 13) solid 2px",
+      "text": "rgb(58, 23, 13)",
+      "url": "/"
+    },
+    {
+      "border": "rgb(232, 121, 51)",
+      "buttons": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "class": "button button-primary preview-message",
+          "color": "rgb(58, 23, 13)"
+        }
+      ],
+      "clientWidth": 375,
+      "documentWidth": 375,
+      "id": "contact-message",
+      "label": "rgb(232, 121, 51)",
+      "outline": "rgb(58, 23, 13) solid 2px",
+      "text": "rgb(58, 23, 13)",
+      "url": "/lets-talk/"
+    },
+    {
+      "arrow": "rgb(232, 121, 51)",
+      "border": "rgb(232, 121, 51)",
+      "id": "contact-product",
+      "label": "rgb(232, 121, 51)",
+      "text": "rgb(58, 23, 13)",
+      "url": "/lets-talk/"
+    }
+  ],
+  "interactions": {
+    "scrollCTA": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "border": "rgb(58, 23, 13)",
+      "innerBorder": "rgb(58, 23, 13)",
+      "text": "rgb(58, 23, 13)"
+    },
+    "shadowRules": [
+      {
+        "selector": "button:focus-visible, a:focus-visible, [tabindex=\"-1\"]:focus-visible",
+        "shadow": "0 0 0 8px var(--focus-light)"
+      },
+      {
+        "selector": ".button:hover:not(:disabled)",
+        "shadow": "6px 6px 0 var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": ".submenu",
+        "shadow": "0 0 0 var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": "0%",
+        "shadow": "transparent 10px 10px 0px"
+      },
+      {
+        "selector": "100%",
+        "shadow": "6px 6px 0 var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": ".button:hover",
+        "shadow": "none"
+      },
+      {
+        "selector": ".reduce-motion .button:hover",
+        "shadow": "none"
+      },
+      {
+        "selector": ".hero-copy :focus-visible, .site-footer a:focus-visible",
+        "shadow": "0 0 0 8px var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": ".category-card:focus-visible",
+        "shadow": "6px 6px 0 var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": ".discovery-card:hover",
+        "shadow": "6px 6px 0 var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": ".discovery-card:focus-visible",
+        "shadow": "6px 6px 0 var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": ".category-card:hover",
+        "shadow": "6px 6px 0 var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": ".submenu:not([hidden])",
+        "shadow": "6px 6px 0 var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": ".reduce-motion .submenu:not([hidden])",
+        "shadow": "6px 6px 0 var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": ".craft.pattern-section :focus-visible",
+        "shadow": "0 0 0 8px var(--decocoa-brown-dark)"
+      },
+      {
+        "selector": ".fragment-arrival-quiet[tabindex=\"-1\"]:focus",
+        "shadow": "none"
+      }
+    ],
+    "submenuShadow": "rgb(23, 9, 5) 6px 6px 0px 0px",
+    "submenuTransform": "matrix(1, 0, 0, 1, -4, -4)",
+    "focusReturn": {
+      "expanded": "false",
+      "text": "Our Chocolate"
+    }
+  },
+  "validation": {
+    "emptySendErrors": 3,
+    "focus": "contact-name",
+    "formCount": 0
+  },
+  "console": [],
+  "limits": [
+    "Hover styles inspected through CSSOM; submenu animation inspected live.",
+    "Reduced-motion and forced-colors behavior source-checked; preferences not switched."
+  ],
+  "screenshots": [
+    "dark-brown-people-desktop.png",
+    "dark-brown-people-mobile.png",
+    "dark-brown-craft-desktop.png",
+    "dark-brown-inquiry-focus-desktop.png",
+    "dark-brown-inquiry-mobile.png"
+  ]
+}

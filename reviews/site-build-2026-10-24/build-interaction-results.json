@@ -1,0 +1,156 @@
+{
+  "scope": "Coordinator CUA browser implementation checks; not an independent review or accessibility certification",
+  "mobile390": [
+    {
+      "overlap": false,
+      "text": "Products"
+    },
+    {
+      "overlap": false,
+      "text": "Gifting"
+    },
+    {
+      "overlap": false,
+      "text": "Craft Your Own"
+    },
+    {
+      "overlap": false,
+      "text": "Chocolate Bar"
+    },
+    {
+      "overlap": false,
+      "text": "Basket"
+    },
+    {
+      "overlap": false,
+      "text": "Fundraising"
+    },
+    {
+      "overlap": false,
+      "text": "Wholesale / B2B"
+    },
+    {
+      "overlap": false,
+      "text": "Our People"
+    },
+    {
+      "overlap": false,
+      "text": "Our Craft"
+    },
+    {
+      "overlap": false,
+      "text": "Experience Center"
+    },
+    {
+      "overlap": false,
+      "text": "Work With Us"
+    },
+    {
+      "overlap": false,
+      "text": "Let's Talk"
+    },
+    {
+      "overlap": false,
+      "text": "Pause motion"
+    },
+    {
+      "overlap": false,
+      "text": "Menu"
+    },
+    {
+      "overlap": false,
+      "text": "Our Chocolate"
+    }
+  ],
+  "mobile320": [
+    {
+      "overlap": false,
+      "text": "Products"
+    },
+    {
+      "overlap": false,
+      "text": "Gifting"
+    },
+    {
+      "overlap": false,
+      "text": "Craft Your Own"
+    },
+    {
+      "overlap": false,
+      "text": "Chocolate Bar"
+    },
+    {
+      "overlap": false,
+      "text": "Basket"
+    },
+    {
+      "overlap": false,
+      "text": "Fundraising"
+    },
+    {
+      "overlap": false,
+      "text": "Wholesale / B2B"
+    },
+    {
+      "overlap": false,
+      "text": "Our People"
+    },
+    {
+      "overlap": false,
+      "text": "Our Craft"
+    },
+    {
+      "overlap": false,
+      "text": "Experience Center"
+    },
+    {
+      "overlap": false,
+      "text": "Work With Us"
+    },
+    {
+      "overlap": false,
+      "text": "Let's Talk"
+    },
+    {
+      "overlap": false,
+      "text": "Pause motion"
+    },
+    {
+      "overlap": false,
+      "text": "Menu"
+    },
+    {
+      "overlap": false,
+      "text": "Our Chocolate"
+    }
+  ],
+  "products": [
+    {
+      "product": "chocolate-bar",
+      "topic": "Chocolate & products"
+    },
+    {
+      "product": "chocolate-drizzle",
+      "topic": "Chocolate & products"
+    }
+  ],
+  "passes": [
+    "Home to Products to Filled Chocolate to contextual inquiry",
+    "All three product detail inquiry contexts",
+    "Empty/invalid/valid local validation with honest unavailable-delivery status",
+    "Topic changes and Back/Forward preserve private input and selected product",
+    "Desktop dropdown ArrowDown and Escape",
+    "Mobile ordered Tab/ShiftTab, Escape from pause, focus return",
+    "Scroll header shows down, hides up, inactive navigation inert after focus leaves",
+    "Saved motion pause persists with static entrances; resume and offscreen pause"
+  ],
+  "notTested": [
+    "Runtime reduced-motion preference switching",
+    "Hidden-tab runtime switching",
+    "200% text resizing",
+    "Screen-reader announcements",
+    "WebKit/Safari",
+    "WordPress integration",
+    "Message delivery"
+  ]
+}

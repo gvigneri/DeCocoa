@@ -1,0 +1,519 @@
+{
+  "date": "2026-10-25",
+  "hidden": true,
+  "stickyBaseline": {
+    "buttons": [
+      {
+        "inner": "6px",
+        "radius": "12px"
+      },
+      {
+        "inner": "6px",
+        "radius": "12px"
+      },
+      {
+        "inner": "6px",
+        "radius": "12px"
+      }
+    ],
+    "header": {
+      "bottom": 125.46875,
+      "height": 125.46875,
+      "left": 0,
+      "right": 375,
+      "top": 0,
+      "width": 375,
+      "x": 0,
+      "y": 0
+    },
+    "hero": {
+      "bottom": 844,
+      "height": 718.53125,
+      "left": 0,
+      "right": 375,
+      "top": 125.46875,
+      "width": 375,
+      "x": 0,
+      "y": 125.46875
+    },
+    "pretzels": [
+      {
+        "class": "pretzel-drop pretzel-drizzle",
+        "left": "-11.25px",
+        "rect": {
+          "bottom": 391.328125,
+          "height": 323.328125,
+          "left": -11.25,
+          "right": 243.75,
+          "top": 68,
+          "width": 255,
+          "x": -11.25,
+          "y": 68
+        },
+        "top": "-57.4688px"
+      },
+      {
+        "class": "pretzel-drop pretzel-chunky",
+        "left": "168.75px",
+        "rect": {
+          "bottom": 434.4375,
+          "height": 323.328125,
+          "left": 168.75,
+          "right": 423.75,
+          "top": 111.109375,
+          "width": 255,
+          "x": 168.75,
+          "y": 111.109375
+        },
+        "top": "-14.3594px"
+      },
+      {
+        "class": "pretzel-drop pretzel-sprinkles",
+        "left": "33.75px",
+        "rect": {
+          "bottom": 578.125,
+          "height": 337.703125,
+          "left": 33.75,
+          "right": 288.75,
+          "top": 240.421875,
+          "width": 255,
+          "x": 33.75,
+          "y": 240.421875
+        },
+        "top": "114.953px"
+      }
+    ]
+  },
+  "stickyAfter390": {
+    "buttons": [
+      {
+        "inner": "2px",
+        "radius": "8px"
+      },
+      {
+        "inner": "2px",
+        "radius": "8px"
+      },
+      {
+        "inner": "2px",
+        "radius": "8px"
+      },
+      {
+        "inner": "2px",
+        "radius": "8px"
+      }
+    ],
+    "header": {
+      "bottom": 125.46875,
+      "height": 125.46875,
+      "left": 0,
+      "right": 375,
+      "top": 0,
+      "width": 375,
+      "x": 0,
+      "y": 0
+    },
+    "headerPosition": "sticky",
+    "hero": {
+      "bottom": 844,
+      "height": 718.53125,
+      "left": 0,
+      "right": 375,
+      "top": 125.46875,
+      "width": 375,
+      "x": 0,
+      "y": 125.46875
+    },
+    "menu": {
+      "bottom": 125.46875,
+      "height": 51.1875,
+      "left": 0,
+      "right": 375,
+      "top": 74.28125,
+      "width": 375,
+      "x": 0,
+      "y": 74.28125
+    },
+    "overflow": 0,
+    "pretzels": [
+      {
+        "class": "pretzel-drop pretzel-drizzle",
+        "left": "-26.25px",
+        "rect": {
+          "bottom": 166.59243774414062,
+          "height": 339.51385498046875,
+          "left": -36.681640625,
+          "right": 239.181640625,
+          "top": -172.92141723632812,
+          "width": 275.86328125,
+          "x": -36.681640625,
+          "y": -172.92141723632812
+        },
+        "top": "-71.8438px"
+      },
+      {
+        "class": "pretzel-drop pretzel-chunky",
+        "left": "183.75px",
+        "rect": {
+          "bottom": 72.16314697265625,
+          "height": 351.21923828125,
+          "left": 165.5238037109375,
+          "right": 456.9761962890625,
+          "top": -279.05609130859375,
+          "width": 291.452392578125,
+          "x": 165.5238037109375,
+          "y": -279.05609130859375
+        },
+        "top": "0px"
+      },
+      {
+        "class": "pretzel-drop pretzel-sprinkles",
+        "left": "33.75px",
+        "rect": {
+          "bottom": 206.085693359375,
+          "height": 369.90576171875,
+          "left": 11.491225242614746,
+          "right": 311.00880336761475,
+          "top": -163.820068359375,
+          "width": 299.517578125,
+          "x": 11.491225242614746,
+          "y": -163.820068359375
+        },
+        "top": "186.812px"
+      }
+    ],
+    "scrollHeader": {
+      "aria": "true",
+      "display": "none",
+      "inert": true
+    }
+  },
+  "settledHero390": {
+    "card": {
+      "bottom": 828,
+      "height": 399.25,
+      "left": 16,
+      "right": 359,
+      "top": 428.75,
+      "width": 343,
+      "x": 16,
+      "y": 428.75
+    },
+    "pretzels": [
+      {
+        "play": "running",
+        "rect": {
+          "bottom": 376.953125,
+          "height": 323.328125,
+          "left": -26.25,
+          "right": 228.75,
+          "top": 53.625,
+          "width": 255,
+          "x": -26.25,
+          "y": 53.625
+        },
+        "transform": "none",
+        "translate": "0px"
+      },
+      {
+        "play": "running",
+        "rect": {
+          "bottom": 448.796875,
+          "height": 323.328125,
+          "left": 183.75,
+          "right": 438.75,
+          "top": 125.46875,
+          "width": 255,
+          "x": 183.75,
+          "y": 125.46875
+        },
+        "transform": "none",
+        "translate": "0px"
+      },
+      {
+        "play": "running",
+        "rect": {
+          "bottom": 649.984375,
+          "height": 337.703125,
+          "left": 33.75,
+          "right": 288.75,
+          "top": 312.28125,
+          "width": 255,
+          "x": 33.75,
+          "y": 312.28125
+        },
+        "transform": "none",
+        "translate": "0px"
+      }
+    ]
+  },
+  "topDrawer390": {
+    "bottomBorder": "0px",
+    "contactDisplay": "none",
+    "menu": "Close",
+    "rect": {
+      "bottom": 844,
+      "height": 718.53125,
+      "left": 0,
+      "right": 390,
+      "top": 125.46875,
+      "width": 390,
+      "x": 0,
+      "y": 125.46875
+    }
+  },
+  "submenuExitKeyboard": {
+    "animation": "phone-submenu-exit",
+    "aria": "true",
+    "className": "submenu is-closing",
+    "duration": "0.18s",
+    "expanded": "false",
+    "hidden": false,
+    "inert": true,
+    "translate": "0px"
+  },
+  "drawerExit": {
+    "animation": "phone-drawer-exit",
+    "aria": "true",
+    "className": "main-navigation is-open is-closing",
+    "duration": "0.24s",
+    "expanded": "false",
+    "inert": true,
+    "toggle": "Menu",
+    "translate": "0px 0%"
+  },
+  "exitSettled": {
+    "bodyOverflow": "",
+    "drawerClass": "main-navigation",
+    "drawerDisplay": "none",
+    "focus": "menu-toggle"
+  },
+  "rapidMenu": {
+    "bodyOverflow": "hidden",
+    "className": "main-navigation is-open",
+    "expanded": "true",
+    "inert": false
+  },
+  "rapidSub": {
+    "className": "submenu",
+    "expanded": "true",
+    "hidden": false,
+    "inert": false
+  },
+  "pinnedClean390": {
+    "header": {
+      "bottom": 51.1875,
+      "height": 125.46875,
+      "left": 0,
+      "right": 375,
+      "top": -74.28125,
+      "width": 375,
+      "x": 0,
+      "y": -74.28125
+    },
+    "menu": {
+      "bottom": 51.1875,
+      "height": 51.1875,
+      "left": 0,
+      "right": 375,
+      "top": 0,
+      "width": 375,
+      "x": 0,
+      "y": 0
+    },
+    "menuText": "Menu",
+    "originalInert": false,
+    "scrollDisplay": "none",
+    "scrollInert": true,
+    "scrollMargin": "69.1875px",
+    "target": 69,
+    "y": 775
+  },
+  "pinnedDrawer390": {
+    "bottomBorder": "0px",
+    "contactDisplay": "none",
+    "drawer": {
+      "bottom": 844,
+      "height": 792.8125,
+      "left": 0,
+      "right": 390,
+      "top": 51.1875,
+      "width": 390,
+      "x": 0,
+      "y": 51.1875
+    },
+    "menu": {
+      "bottom": 51.1875,
+      "height": 51.1875,
+      "left": 0,
+      "right": 390,
+      "top": 0,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    }
+  },
+  "pinnedDrawer320": {
+    "clientHeight": 668,
+    "drawer": {
+      "bottom": 720,
+      "height": 668.8125,
+      "left": 0,
+      "right": 320,
+      "top": 51.1875,
+      "width": 320,
+      "x": 0,
+      "y": 51.1875
+    },
+    "menu": {
+      "bottom": 51.1875,
+      "height": 51.1875,
+      "left": 0,
+      "right": 320,
+      "top": 0,
+      "width": 320,
+      "x": 0,
+      "y": 0
+    },
+    "overflow": 0,
+    "scrollHeight": 668
+  },
+  "lastMobileControl": {
+    "aria": "false",
+    "focus": "Experience Center"
+  },
+  "tabWrap": {
+    "className": "menu-toggle",
+    "focus": "Close"
+  },
+  "resizeCleanup": {
+    "bodyOverflow": "",
+    "className": "main-navigation",
+    "closing": 0,
+    "headerPosition": "relative",
+    "inert": false,
+    "menuText": "Menu",
+    "scrollDisplay": "block"
+  },
+  "stickyWidths": [
+    {
+      "buttonInner": "6px",
+      "buttonRadius": "12px",
+      "headerHeight": 262.9375,
+      "headerPosition": "relative",
+      "height": 1080,
+      "heroHeight": 740,
+      "overflow": 0,
+      "scrollDisplay": "block",
+      "width": 1920
+    },
+    {
+      "buttonInner": "6px",
+      "buttonRadius": "12px",
+      "headerHeight": 262.9375,
+      "headerPosition": "relative",
+      "height": 900,
+      "heroHeight": 740,
+      "overflow": 0,
+      "scrollDisplay": "block",
+      "width": 1440
+    },
+    {
+      "buttonInner": "6px",
+      "buttonRadius": "12px",
+      "headerHeight": 175.390625,
+      "headerPosition": "relative",
+      "height": 1024,
+      "heroHeight": 650,
+      "overflow": 0,
+      "scrollDisplay": "block",
+      "width": 768
+    },
+    {
+      "buttonInner": "2px",
+      "buttonRadius": "8px",
+      "headerHeight": 125.46875,
+      "headerPosition": "sticky",
+      "height": 844,
+      "heroHeight": 718.53125,
+      "overflow": 0,
+      "scrollDisplay": "none",
+      "width": 390
+    },
+    {
+      "buttonInner": "2px",
+      "buttonRadius": "8px",
+      "headerHeight": 118.296875,
+      "headerPosition": "sticky",
+      "height": 720,
+      "heroHeight": 601.703125,
+      "overflow": 0,
+      "scrollDisplay": "none",
+      "width": 320
+    }
+  ],
+  "mobileJourney": {
+    "bodyOverflow": "",
+    "expanded": "false",
+    "focus": "our-roots-title",
+    "hash": "#our-roots",
+    "menu": {
+      "bottom": 51.1875,
+      "height": 51.1875,
+      "left": 0,
+      "right": 305,
+      "top": 0,
+      "width": 305,
+      "x": 0,
+      "y": 0
+    },
+    "path": "/our-people/",
+    "scrollHidden": "true",
+    "target": 69.390625
+  },
+  "shortDrawer": {
+    "clientHeight": 348,
+    "drawer": {
+      "bottom": 400,
+      "height": 348.8125,
+      "left": 0,
+      "right": 320,
+      "top": 51.1875,
+      "width": 320,
+      "x": 0,
+      "y": 51.1875
+    },
+    "last": {
+      "bottom": 383.1875,
+      "height": 64,
+      "left": 16,
+      "right": 289,
+      "top": 319.1875,
+      "width": 273,
+      "x": 16,
+      "y": 319.1875
+    },
+    "menu": {
+      "bottom": 51.1875,
+      "height": 51.1875,
+      "left": 0,
+      "right": 320,
+      "top": 0,
+      "width": 320,
+      "x": 0,
+      "y": 0
+    },
+    "scrollHeight": 659,
+    "scrollTop": 304
+  },
+  "stickyDesktopKeyboard": {
+    "expanded": "true",
+    "focus": "Products"
+  },
+  "stickyDesktopEscape": {
+    "expanded": "false",
+    "focus": "Our Chocolate"
+  },
+  "stickyConsole": [],
+  "limits": "Hidden Chromium implementation checks. Reduced-motion exit rules and immediate JS cleanup source-checked; runtime media preference switching unavailable."
+}

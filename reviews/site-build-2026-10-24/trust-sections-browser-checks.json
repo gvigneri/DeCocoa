@@ -1,0 +1,743 @@
+{
+  "date": "2026-10-25",
+  "browser": "Hidden IAB",
+  "hidden": true,
+  "sectionOrder": [
+    "home",
+    "products",
+    "people",
+    "partners",
+    "craft",
+    "certifications",
+    "experience",
+    "talk"
+  ],
+  "widths": [
+    {
+      "documentWidth": 1905,
+      "duplicateIds": [],
+      "h1": 1,
+      "sections": [
+        {
+          "bg": "rgb(247, 239, 230)",
+          "id": "partners",
+          "intro": {
+            "align": "center",
+            "width": 700
+          },
+          "logos": [
+            {
+              "alt": "Puratos",
+              "complete": true,
+              "natural": [
+                456,
+                320
+              ],
+              "rect": {
+                "height": 230,
+                "width": 420.65625,
+                "x": 266.5,
+                "y": -1513.765625
+              }
+            },
+            {
+              "alt": "Wegmans",
+              "complete": true,
+              "natural": [
+                1000,
+                379
+              ],
+              "rect": {
+                "height": 230,
+                "width": 420.671875,
+                "x": 742.15625,
+                "y": -1513.765625
+              }
+            },
+            {
+              "alt": "Guittard",
+              "complete": true,
+              "natural": [
+                540,
+                320
+              ],
+              "rect": {
+                "height": 230,
+                "width": 420.65625,
+                "x": 1217.828125,
+                "y": -1513.765625
+              }
+            }
+          ],
+          "width": 1905
+        },
+        {
+          "bg": "rgb(247, 239, 230)",
+          "id": "certifications",
+          "intro": {
+            "align": "center",
+            "width": 700
+          },
+          "logos": [
+            {
+              "alt": "OU Kosher",
+              "complete": true,
+              "natural": [
+                654,
+                651
+              ],
+              "rect": {
+                "height": 190,
+                "width": 155,
+                "x": 304.1875,
+                "y": 474.609375
+              }
+            },
+            {
+              "alt": "SQF Institute",
+              "complete": true,
+              "natural": [
+                640,
+                280
+              ],
+              "rect": {
+                "height": 190,
+                "width": 230.40625,
+                "x": 551.890625,
+                "y": 474.609375
+              }
+            },
+            {
+              "alt": "HACCP",
+              "complete": true,
+              "natural": [
+                690,
+                706
+              ],
+              "rect": {
+                "height": 190,
+                "width": 190,
+                "x": 857.484375,
+                "y": 474.609375
+              }
+            },
+            {
+              "alt": "Rainforest Alliance People & Nature",
+              "complete": true,
+              "natural": [
+                640,
+                640
+              ],
+              "rect": {
+                "height": 190,
+                "width": 190,
+                "x": 1142.890625,
+                "y": 474.609375
+              }
+            },
+            {
+              "alt": "Cacao-Trace",
+              "complete": true,
+              "natural": [
+                640,
+                519
+              ],
+              "rect": {
+                "height": 190,
+                "width": 200,
+                "x": 1423.28125,
+                "y": 474.609375
+              }
+            }
+          ],
+          "width": 1905
+        }
+      ],
+      "viewport": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "documentWidth": 1425,
+      "duplicateIds": [],
+      "h1": 1,
+      "sections": [
+        {
+          "bg": "rgb(247, 239, 230)",
+          "id": "partners",
+          "intro": {
+            "align": "center",
+            "width": 700
+          },
+          "logos": [
+            {
+              "alt": "Puratos",
+              "complete": true,
+              "natural": [
+                456,
+                320
+              ],
+              "rect": {
+                "height": 230,
+                "width": 398.015625,
+                "x": 60.46875,
+                "y": -1513.640625
+              }
+            },
+            {
+              "alt": "Wegmans",
+              "complete": true,
+              "natural": [
+                1000,
+                379
+              ],
+              "rect": {
+                "height": 230,
+                "width": 398.015625,
+                "x": 513.484375,
+                "y": -1513.640625
+              }
+            },
+            {
+              "alt": "Guittard",
+              "complete": true,
+              "natural": [
+                540,
+                320
+              ],
+              "rect": {
+                "height": 230,
+                "width": 398.03125,
+                "x": 966.5,
+                "y": -1513.640625
+              }
+            }
+          ],
+          "width": 1425
+        },
+        {
+          "bg": "rgb(247, 239, 230)",
+          "id": "certifications",
+          "intro": {
+            "align": "center",
+            "width": 700
+          },
+          "logos": [
+            {
+              "alt": "OU Kosher",
+              "complete": true,
+              "natural": [
+                654,
+                651
+              ],
+              "rect": {
+                "height": 190,
+                "width": 155,
+                "x": 96.09375,
+                "y": 532.203125
+              }
+            },
+            {
+              "alt": "SQF Institute",
+              "complete": true,
+              "natural": [
+                640,
+                280
+              ],
+              "rect": {
+                "height": 190,
+                "width": 226.265625,
+                "x": 329.90625,
+                "y": 532.203125
+              }
+            },
+            {
+              "alt": "HACCP",
+              "complete": true,
+              "natural": [
+                690,
+                706
+              ],
+              "rect": {
+                "height": 190,
+                "width": 190,
+                "x": 617.484375,
+                "y": 532.203125
+              }
+            },
+            {
+              "alt": "Rainforest Alliance People & Nature",
+              "complete": true,
+              "natural": [
+                640,
+                640
+              ],
+              "rect": {
+                "height": 190,
+                "width": 190,
+                "x": 886.9375,
+                "y": 532.203125
+              }
+            },
+            {
+              "alt": "Cacao-Trace",
+              "complete": true,
+              "natural": [
+                640,
+                519
+              ],
+              "rect": {
+                "height": 190,
+                "width": 200,
+                "x": 1151.390625,
+                "y": 532.203125
+              }
+            }
+          ],
+          "width": 1425
+        }
+      ],
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "documentWidth": 753,
+      "duplicateIds": [],
+      "h1": 1,
+      "sections": [
+        {
+          "bg": "rgb(247, 239, 230)",
+          "id": "partners",
+          "intro": {
+            "align": "center",
+            "width": 688.5
+          },
+          "logos": [
+            {
+              "alt": "Puratos",
+              "complete": true,
+              "natural": [
+                456,
+                320
+              ],
+              "rect": {
+                "height": 200,
+                "width": 280,
+                "x": 77.5,
+                "y": -1075.609375
+              }
+            },
+            {
+              "alt": "Wegmans",
+              "complete": true,
+              "natural": [
+                1000,
+                379
+              ],
+              "rect": {
+                "height": 200,
+                "width": 280,
+                "x": 395.5,
+                "y": -1075.609375
+              }
+            },
+            {
+              "alt": "Guittard",
+              "complete": true,
+              "natural": [
+                540,
+                320
+              ],
+              "rect": {
+                "height": 200,
+                "width": 280,
+                "x": 236.5,
+                "y": -845.609375
+              }
+            }
+          ],
+          "width": 753
+        },
+        {
+          "bg": "rgb(247, 239, 230)",
+          "id": "certifications",
+          "intro": {
+            "align": "center",
+            "width": 688.5
+          },
+          "logos": [
+            {
+              "alt": "OU Kosher",
+              "complete": true,
+              "natural": [
+                654,
+                651
+              ],
+              "rect": {
+                "height": 190,
+                "width": 155,
+                "x": 117.375,
+                "y": 1207.046875
+              }
+            },
+            {
+              "alt": "SQF Institute",
+              "complete": true,
+              "natural": [
+                640,
+                280
+              ],
+              "rect": {
+                "height": 190,
+                "width": 325.25,
+                "x": 395.5,
+                "y": 1207.046875
+              }
+            },
+            {
+              "alt": "HACCP",
+              "complete": true,
+              "natural": [
+                690,
+                706
+              ],
+              "rect": {
+                "height": 190,
+                "width": 190,
+                "x": 99.875,
+                "y": 1427.046875
+              }
+            },
+            {
+              "alt": "Rainforest Alliance People & Nature",
+              "complete": true,
+              "natural": [
+                640,
+                640
+              ],
+              "rect": {
+                "height": 190,
+                "width": 190,
+                "x": 463.125,
+                "y": 1427.046875
+              }
+            },
+            {
+              "alt": "Cacao-Trace",
+              "complete": true,
+              "natural": [
+                640,
+                519
+              ],
+              "rect": {
+                "height": 190,
+                "width": 200,
+                "x": 276.5,
+                "y": 1647.046875
+              }
+            }
+          ],
+          "width": 753
+        }
+      ],
+      "viewport": [
+        768,
+        1024
+      ]
+    },
+    {
+      "documentWidth": 375,
+      "duplicateIds": [],
+      "h1": 1,
+      "sections": [
+        {
+          "bg": "rgb(247, 239, 230)",
+          "id": "partners",
+          "intro": {
+            "align": "center",
+            "width": 327
+          },
+          "logos": [
+            {
+              "alt": "Puratos",
+              "complete": true,
+              "natural": [
+                456,
+                320
+              ],
+              "rect": {
+                "height": 190,
+                "width": 270,
+                "x": 52.5,
+                "y": -710.625
+              }
+            },
+            {
+              "alt": "Wegmans",
+              "complete": true,
+              "natural": [
+                1000,
+                379
+              ],
+              "rect": {
+                "height": 190,
+                "width": 270,
+                "x": 52.5,
+                "y": -495.625
+              }
+            },
+            {
+              "alt": "Guittard",
+              "complete": true,
+              "natural": [
+                540,
+                320
+              ],
+              "rect": {
+                "height": 190,
+                "width": 270,
+                "x": 52.5,
+                "y": -280.625
+              }
+            }
+          ],
+          "width": 375
+        },
+        {
+          "bg": "rgb(247, 239, 230)",
+          "id": "certifications",
+          "intro": {
+            "align": "center",
+            "width": 327
+          },
+          "logos": [
+            {
+              "alt": "OU Kosher",
+              "complete": true,
+              "natural": [
+                654,
+                651
+              ],
+              "rect": {
+                "height": 140,
+                "width": 151,
+                "x": 24,
+                "y": 1920.453125
+              }
+            },
+            {
+              "alt": "SQF Institute",
+              "complete": true,
+              "natural": [
+                640,
+                280
+              ],
+              "rect": {
+                "height": 140,
+                "width": 151,
+                "x": 200,
+                "y": 1920.453125
+              }
+            },
+            {
+              "alt": "HACCP",
+              "complete": true,
+              "natural": [
+                690,
+                706
+              ],
+              "rect": {
+                "height": 140,
+                "width": 151,
+                "x": 24,
+                "y": 2085.453125
+              }
+            },
+            {
+              "alt": "Rainforest Alliance People & Nature",
+              "complete": true,
+              "natural": [
+                640,
+                640
+              ],
+              "rect": {
+                "height": 140,
+                "width": 151,
+                "x": 200,
+                "y": 2085.453125
+              }
+            },
+            {
+              "alt": "Cacao-Trace",
+              "complete": true,
+              "natural": [
+                640,
+                519
+              ],
+              "rect": {
+                "height": 140,
+                "width": 151,
+                "x": 112,
+                "y": 2250.453125
+              }
+            }
+          ],
+          "width": 375
+        }
+      ],
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "documentWidth": 305,
+      "duplicateIds": [],
+      "h1": 1,
+      "sections": [
+        {
+          "bg": "rgb(247, 239, 230)",
+          "id": "partners",
+          "intro": {
+            "align": "center",
+            "width": 265
+          },
+          "logos": [
+            {
+              "alt": "Puratos",
+              "complete": true,
+              "natural": [
+                456,
+                320
+              ],
+              "rect": {
+                "height": 190,
+                "width": 265,
+                "x": 20,
+                "y": -711.4375
+              }
+            },
+            {
+              "alt": "Wegmans",
+              "complete": true,
+              "natural": [
+                1000,
+                379
+              ],
+              "rect": {
+                "height": 190,
+                "width": 265,
+                "x": 20,
+                "y": -496.4375
+              }
+            },
+            {
+              "alt": "Guittard",
+              "complete": true,
+              "natural": [
+                540,
+                320
+              ],
+              "rect": {
+                "height": 190,
+                "width": 265,
+                "x": 20,
+                "y": -281.4375
+              }
+            }
+          ],
+          "width": 305
+        },
+        {
+          "bg": "rgb(247, 239, 230)",
+          "id": "certifications",
+          "intro": {
+            "align": "center",
+            "width": 265
+          },
+          "logos": [
+            {
+              "alt": "OU Kosher",
+              "complete": true,
+              "natural": [
+                654,
+                651
+              ],
+              "rect": {
+                "height": 140,
+                "width": 120,
+                "x": 20,
+                "y": 2234.765625
+              }
+            },
+            {
+              "alt": "SQF Institute",
+              "complete": true,
+              "natural": [
+                640,
+                280
+              ],
+              "rect": {
+                "height": 140,
+                "width": 120,
+                "x": 165,
+                "y": 2234.765625
+              }
+            },
+            {
+              "alt": "HACCP",
+              "complete": true,
+              "natural": [
+                690,
+                706
+              ],
+              "rect": {
+                "height": 140,
+                "width": 120,
+                "x": 20,
+                "y": 2399.765625
+              }
+            },
+            {
+              "alt": "Rainforest Alliance People & Nature",
+              "complete": true,
+              "natural": [
+                640,
+                640
+              ],
+              "rect": {
+                "height": 140,
+                "width": 120,
+                "x": 165,
+                "y": 2399.765625
+              }
+            },
+            {
+              "alt": "Cacao-Trace",
+              "complete": true,
+              "natural": [
+                640,
+                519
+              ],
+              "rect": {
+                "height": 140,
+                "width": 120,
+                "x": 92.5,
+                "y": 2564.765625
+              }
+            }
+          ],
+          "width": 305
+        }
+      ],
+      "viewport": [
+        320,
+        720
+      ]
+    }
+  ],
+  "console": []
+}

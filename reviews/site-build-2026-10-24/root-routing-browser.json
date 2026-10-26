@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-24",
+  "scope": "Targeted CUA Chrome routing smoke after root-mount correction; existing 50-layout matrix not repeated.",
+  "checks": [
+    {
+      "brokenEagerImages": [],
+      "step": "products via home action",
+      "title": "Our Chocolate | DeCocoa",
+      "url": "http://127.0.0.1:4174/products/"
+    },
+    {
+      "brokenEagerImages": [],
+      "step": "detail via product card",
+      "title": "Filled Chocolate | DeCocoa",
+      "url": "http://127.0.0.1:4174/products/filled-chocolate/"
+    },
+    {
+      "product": "filled-chocolate",
+      "step": "inquiry via detail action",
+      "topic": "Chocolate & products",
+      "url": "http://127.0.0.1:4174/work-with-us/?topic=Chocolate%20%26%20products&product=filled-chocolate#inquiry"
+    },
+    {
+      "product": "chocolate-bar",
+      "step": "legacy redirect preserves query and fragment",
+      "topic": "Chocolate & products",
+      "url": "http://127.0.0.1:4174/work-with-us/?topic=Chocolate%20%26%20products&product=chocolate-bar#inquiry"
+    },
+    {
+      "brokenEagerImages": [],
+      "home": "http://127.0.0.1:4174/",
+      "step": "nested missing page",
+      "stylesheet": "http://127.0.0.1:4174/assets/fonts/montserrat.css",
+      "title": "Page Not Found | DeCocoa",
+      "url": "http://127.0.0.1:4174/not-a-page/nested/"
+    },
+    {
+      "step": "recovery home action",
+      "title": "Experience. Chocolate. | DeCocoa",
+      "url": "http://127.0.0.1:4174/"
+    }
+  ]
+}

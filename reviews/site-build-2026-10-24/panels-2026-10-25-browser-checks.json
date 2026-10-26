@@ -1,0 +1,357 @@
+{
+  "date": "2026-10-25",
+  "browser": "hidden IAB",
+  "hidden": true,
+  "responsive": [
+    {
+      "craftHeadingSize": "56px",
+      "craftIcons": 3,
+      "craftImageCount": 0,
+      "documentWidth": 1905,
+      "gif": {
+        "fallback": "assets/images/decocoa-factory-still.png",
+        "loaded": true,
+        "source": "assets/images/decocoa-factory.gif"
+      },
+      "panels": [
+        {
+          "background": "rgb(247, 239, 230)",
+          "border": "0px",
+          "columns": "603.484px 603.484px",
+          "height": 618.9375,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".people-panel",
+          "width": 1372
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "border": "0px",
+          "columns": "548.609px 658.344px",
+          "height": 724.78125,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".craft-card",
+          "width": 1372
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "border": "0px",
+          "columns": "632.219px 574.75px",
+          "height": 462.875,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".experience-panel",
+          "width": 1372
+        }
+      ],
+      "peopleImage": {
+        "inside": true,
+        "loaded": false,
+        "mask": "url(\"http://127.0.0.1:4174/assets/logos/decocoa-brandmark-silhouette.svg\")"
+      },
+      "ripe": "#B83B28",
+      "viewport": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "craftHeadingSize": "56px",
+      "craftIcons": 3,
+      "craftImageCount": 0,
+      "documentWidth": 1425,
+      "gif": {
+        "fallback": "assets/images/decocoa-factory-still.png",
+        "loaded": true,
+        "source": "assets/images/decocoa-factory.gif"
+      },
+      "panels": [
+        {
+          "background": "rgb(247, 239, 230)",
+          "border": "0px",
+          "columns": "571.547px 571.562px",
+          "height": 618.9375,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".people-panel",
+          "width": 1304.0625
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "border": "0px",
+          "columns": "519.594px 623.516px",
+          "height": 792.78125,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".craft-card",
+          "width": 1304.0625
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "border": "0px",
+          "columns": "598.766px 544.344px",
+          "height": 453,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".experience-panel",
+          "width": 1304.0625
+        }
+      ],
+      "peopleImage": {
+        "inside": true,
+        "loaded": false,
+        "mask": "url(\"http://127.0.0.1:4174/assets/logos/decocoa-brandmark-silhouette.svg\")"
+      },
+      "ripe": "#B83B28",
+      "viewport": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "craftHeadingSize": "34px",
+      "craftIcons": 3,
+      "craftImageCount": 0,
+      "documentWidth": 753,
+      "gif": {
+        "fallback": "assets/images/decocoa-factory-still.png",
+        "loaded": true,
+        "source": "assets/images/decocoa-factory.gif"
+      },
+      "panels": [
+        {
+          "background": "rgb(247, 239, 230)",
+          "border": "0px",
+          "columns": "624.5px",
+          "height": 954.90625,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".people-panel",
+          "width": 688.5
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "border": "0px",
+          "columns": "624.5px",
+          "height": 982.546875,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".craft-card",
+          "width": 688.5
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "border": "0px",
+          "columns": "624.5px",
+          "height": 637.234375,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".experience-panel",
+          "width": 688.5
+        }
+      ],
+      "peopleImage": {
+        "inside": true,
+        "loaded": false,
+        "mask": "url(\"http://127.0.0.1:4174/assets/logos/decocoa-brandmark-silhouette.svg\")"
+      },
+      "ripe": "#B83B28",
+      "viewport": [
+        768,
+        1024
+      ]
+    },
+    {
+      "craftHeadingSize": "34px",
+      "craftIcons": 3,
+      "craftImageCount": 0,
+      "documentWidth": 375,
+      "gif": {
+        "fallback": "assets/images/decocoa-factory-still.png",
+        "loaded": true,
+        "source": "assets/images/decocoa-factory.gif"
+      },
+      "panels": [
+        {
+          "background": "rgb(247, 239, 230)",
+          "border": "0px",
+          "columns": "279px",
+          "height": 815.296875,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".people-panel",
+          "width": 327
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "border": "0px",
+          "columns": "279px",
+          "height": 1520.609375,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".craft-card",
+          "width": 327
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "border": "0px",
+          "columns": "279px",
+          "height": 544.953125,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".experience-panel",
+          "width": 327
+        }
+      ],
+      "peopleImage": {
+        "inside": true,
+        "loaded": false,
+        "mask": "url(\"http://127.0.0.1:4174/assets/logos/decocoa-brandmark-silhouette.svg\")"
+      },
+      "ripe": "#B83B28",
+      "viewport": [
+        390,
+        844
+      ]
+    },
+    {
+      "craftHeadingSize": "32px",
+      "craftIcons": 3,
+      "craftImageCount": 0,
+      "documentWidth": 305,
+      "gif": {
+        "fallback": "assets/images/decocoa-factory-still.png",
+        "loaded": true,
+        "source": "assets/images/decocoa-factory.gif"
+      },
+      "panels": [
+        {
+          "background": "rgb(247, 239, 230)",
+          "border": "0px",
+          "columns": "217px",
+          "height": 752.375,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".people-panel",
+          "width": 265
+        },
+        {
+          "background": "rgb(58, 23, 13)",
+          "border": "0px",
+          "columns": "217px",
+          "height": 1738.171875,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".craft-card",
+          "width": 265
+        },
+        {
+          "background": "rgb(247, 239, 230)",
+          "border": "0px",
+          "columns": "217px",
+          "height": 588.96875,
+          "outlyingChildren": [],
+          "overflowingText": [],
+          "selector": ".experience-panel",
+          "width": 265
+        }
+      ],
+      "peopleImage": {
+        "inside": true,
+        "loaded": false,
+        "mask": "url(\"http://127.0.0.1:4174/assets/logos/decocoa-brandmark-silhouette.svg\")"
+      },
+      "ripe": "#B83B28",
+      "viewport": [
+        320,
+        720
+      ]
+    }
+  ],
+  "craftDestinations": [
+    {
+      "focus": "promise-title",
+      "hash": "#promise",
+      "outline": "rgb(58, 23, 13) none 0px",
+      "path": "/our-craft/",
+      "quiet": true
+    },
+    {
+      "focus": "sustainability-title",
+      "hash": "#sustainability",
+      "outline": "rgb(58, 23, 13) none 0px",
+      "path": "/our-craft/",
+      "quiet": true
+    },
+    {
+      "focus": "our-segments-title",
+      "hash": "#our-segments",
+      "outline": "rgb(58, 23, 13) none 0px",
+      "path": "/our-craft/",
+      "quiet": true
+    }
+  ],
+  "shadows": {
+    "brownShadows": [
+      {
+        "selector": ".button:hover:not(:disabled)",
+        "value": "6px 6px 0 var(--chocolate)"
+      },
+      {
+        "selector": ".submenu",
+        "value": "0 0 0 var(--chocolate)"
+      },
+      {
+        "selector": "100%",
+        "value": "6px 6px 0 var(--chocolate)"
+      },
+      {
+        "selector": ".category-card:focus-visible",
+        "value": "6px 6px 0 var(--chocolate)"
+      },
+      {
+        "selector": ".discovery-card:hover",
+        "value": "6px 6px 0 var(--chocolate)"
+      },
+      {
+        "selector": ".discovery-card:focus-visible",
+        "value": "6px 6px 0 var(--chocolate)"
+      },
+      {
+        "selector": ".category-card:hover",
+        "value": "6px 6px 0 var(--chocolate)"
+      },
+      {
+        "selector": ".submenu:not([hidden])",
+        "value": "6px 6px 0 var(--chocolate)"
+      },
+      {
+        "selector": ".reduce-motion .submenu:not([hidden])",
+        "value": "6px 6px 0 var(--chocolate)"
+      }
+    ],
+    "menu": {
+      "open": true,
+      "shadow": "rgb(58, 23, 13) 6px 6px 0px 0px",
+      "transform": "matrix(1, 0, 0, 1, -4, -4)"
+    },
+    "ripeShadows": [],
+    "ripeText": "rgb(184, 59, 40)"
+  },
+  "keyboard": {
+    "craftFirstLink": {
+      "outline": "3px solid Cream",
+      "separation": "8px Dark Brown",
+      "settledTop": 371.1875,
+      "settledBottom": 415.1875,
+      "viewportHeight": 720
+    },
+    "experienceCTA": {
+      "outline": "3px solid Dark Brown",
+      "href": "experience-center/"
+    }
+  },
+  "console": [],
+  "reducedMotion": "Picture source and HTTP-checked PNG fallback inspected; system preference was not switched."
+}

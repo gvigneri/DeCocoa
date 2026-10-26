@@ -1,0 +1,62 @@
+[
+  {
+    "source": "brand/source/Decocoa Get Started/images/Wellness.png",
+    "source_sha256": "d2c4483e85883d6d646fa61e23af21e849e601d0521d4890165d65ac208e145c",
+    "web": "assets/images/chocolate-drizzle.webp",
+    "web_sha256": "fb6add532b0d20931fcf31a25fe7df7d2d2d5893bc43203faf4fff057d115733",
+    "dimensions": [
+      1500,
+      1486
+    ],
+    "operation": "Original alpha-bounds crop and proportional resize; RGBA WebP. No generated art, recoloring or retouching.",
+    "new_export": false
+  },
+  {
+    "source": "brand/source/Decocoa Get Started/images/Bark filled.png",
+    "source_sha256": "cfe6fbf002421f2178d50092723f88c01e336a50aef68af84b4c92848f4a857a",
+    "web": "assets/images/filled-chocolate.webp",
+    "web_sha256": "89cd56eb57ad1b91ba9fd53f14a09e5713cb92625ea1a569387b51e404b9e5aa",
+    "dimensions": [
+      872,
+      496
+    ],
+    "operation": "Original alpha-bounds crop and proportional resize; RGBA WebP. No generated art, recoloring or retouching.",
+    "new_export": false
+  },
+  {
+    "source": "brand/source/Decocoa Get Started/images/Bunny 2.png",
+    "source_sha256": "b0e1a1f638e6660b6b17409494d34bd9ca5868b3b17d23ad80142688e85ddb95",
+    "web": "assets/images/hollow-chocolate-figure.webp",
+    "web_sha256": "317e99695f2f7adf40ca7b3953c33ac4f72084411441d693f1ac3e0184170053",
+    "dimensions": [
+      746,
+      1200
+    ],
+    "operation": "Original alpha-bounds crop and proportional resize; RGBA WebP. No generated art, recoloring or retouching.",
+    "new_export": true
+  },
+  {
+    "source": "brand/source/Decocoa Get Started/images/Nuts Upscale.png",
+    "source_sha256": "caeb0873e8d94cfd98b5ae8600ab1cd262937744ce81a19de88de2e42e5e1296",
+    "web": "assets/images/nuts-and-chocolate.webp",
+    "web_sha256": "8eef1fcd328890ed3b7b25fc9a85be0cd185d7d55f84413e4f5fb7611da18d96",
+    "dimensions": [
+      1500,
+      876
+    ],
+    "operation": "Original alpha-bounds crop and proportional resize; RGBA WebP. No generated art, recoloring or retouching.",
+    "new_export": false
+  },
+  {
+    "source": "brand/source/Decocoa Get Started/images/Chocolate Powder.png",
+    "source_sha256": "47b5af80c6e191bf00c429fba09074025a608001d2952b3dc5333e3eb710d1a6",
+    "web": "assets/images/cocoa-powder.webp",
+    "web_sha256": "a1ef7c882e0bce1ac744aa948379743a0df6e3c294b6d8116338c8ba50d6a0fd",
+    "dimensions": [
+      1500,
+      642
+    ],
+    "operation": "Original alpha-bounds crop and proportional resize; RGBA WebP. No generated art, recoloring or retouching.",
+    "new_export": false
+  }
+]

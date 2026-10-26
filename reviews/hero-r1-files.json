@@ -1,0 +1,125 @@
+{
+  "version": "hero-r1",
+  "files": [
+    {
+      "path": "assets\\export-details.json",
+      "sha256": "7841CFC6BFCEEBC636A89D447A73B009C03999386FA39E696E5A97C2D93138E1"
+    },
+    {
+      "path": "assets\\fonts\\montserrat-1.woff2",
+      "sha256": "0F7F5F2FBB4EAE126790FE6F01659AB3EE0806E8038A941908E893020569F51A"
+    },
+    {
+      "path": "assets\\fonts\\montserrat-2.woff2",
+      "sha256": "A187B077090FE8AE3FD2D7496AABBEAE604819C718A282E0AFC92DF72B450766"
+    },
+    {
+      "path": "assets\\fonts\\montserrat-3.woff2",
+      "sha256": "26B2403F995ED65FB49037A6498C074D3EC3C36031A69FC368C4C2180E2C01FA"
+    },
+    {
+      "path": "assets\\fonts\\montserrat-4.woff2",
+      "sha256": "54D9A78B7FF60B689AD9F3017FFAC8547B5D871AFEC733F6C1C3AE36577EE504"
+    },
+    {
+      "path": "assets\\fonts\\montserrat-5.woff2",
+      "sha256": "06B16DB7A969135D48D38C49183BE7FB88D4452E2A3011957C7851941F4E4879"
+    },
+    {
+      "path": "assets\\fonts\\Montserrat-OFL.txt",
+      "sha256": "EEA2531F8465EA6A4442B47AD40F4360CC4495C61ABDF7600719789D778504D9"
+    },
+    {
+      "path": "assets\\fonts\\montserrat.css",
+      "sha256": "9327D40F13768BB975A7FA00C691828933F3D3B953F9821A4AA983C1A50E627E"
+    },
+    {
+      "path": "assets\\fonts\\provenance.json",
+      "sha256": "7C77DF0714D3F4B9147BAFBDF540C890C34E6BB60C8F1AA055C27215990F7DA1"
+    },
+    {
+      "path": "assets\\images\\chocolate-bar.webp",
+      "sha256": "77DAB355D1A33615C19657AC007D04DD5C80228BDBE6F6CF403858EFAAC3F3C1"
+    },
+    {
+      "path": "assets\\images\\chocolate-drizzle.webp",
+      "sha256": "FB6ADD532B0D20931FCF31A25FE7DF7D2D2D5893BC43203FAF4FFF057D115733"
+    },
+    {
+      "path": "assets\\images\\cocoa-powder.webp",
+      "sha256": "A1EF7C882E0BCE1AC744AA948379743A0DF6E3C294B6D8116338C8BA50D6A0FD"
+    },
+    {
+      "path": "assets\\images\\filled-chocolate-on-cream.jpg",
+      "sha256": "105CE510707BF55728FA8A9736DF3069871966E0CEE2B930CC6FEED613B33065"
+    },
+    {
+      "path": "assets\\images\\filled-chocolate.webp",
+      "sha256": "89CD56EB57AD1B91BA9FD53F14A09E5713CB92625EA1A569387B51E404B9E5AA"
+    },
+    {
+      "path": "assets\\images\\nuts-and-chocolate.webp",
+      "sha256": "8EEF1FCD328890ED3B7B25FC9A85BE0CD185D7D55F84413E4F5FB7611DA18D96"
+    },
+    {
+      "path": "assets\\logos\\decocoa-horizontal.svg",
+      "sha256": "C3DB8176DAB2559D937AD427C1933539FED3D1CA8C1377E5AB7498C58EC3D860"
+    },
+    {
+      "path": "assets\\logos\\horizontal-source-cropped.png",
+      "sha256": "A427B61CFC4F8CC9CD3858EAC833C8FBDB71C78E122072BAEDCA343725C7DEB7"
+    },
+    {
+      "path": "assets\\logos\\horizontal-source-render.png",
+      "sha256": "9389614F39E930AA32A91784BC08A1F70F8D758A9192BBEF5D9F981CBFA537E2"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_Circles_Pattern.png",
+      "sha256": "787F9AD06AF2BACDB3D8C0C154A82BCD3392705E22DE1F2484F145F6EFCBE3A1"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_FlowerOfLife_Pattern.png",
+      "sha256": "6CD9BFB17F8927F93E24B317F68D548ADFCC7D6D495ACA17F5B0D99D809C3250"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_Growth_Pattern.png",
+      "sha256": "52D3483747058910403E28D5FF22B043C5DADF5F7231B10C31A37F2062FA4171"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_Luxury_Pattern.png",
+      "sha256": "038CD0A38D45C3A1C1E07949561200A124568B4D687468A57FD8F92F0E202246"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_Rings_Pattern.png",
+      "sha256": "32C888A802C63923DDE30A8D435FF3AC22D817DE0CB816EA203F9FA3AA3E9EC1"
+    },
+    {
+      "path": "assets\\patterns\\DeCocoa_BrandPatterns_Stripes_Pattern.png",
+      "sha256": "A2878E4EF9F5992D7D20C35370DD156D57C3818C25459298B7999AB5B3FB2E79"
+    },
+    {
+      "path": "assets\\patterns\\growth-source-render.png",
+      "sha256": "F0574F23679B38508280939174A9A65EF63FB429794043D81DFC5BEDD4379CCF"
+    },
+    {
+      "path": "assets\\patterns\\pattern-contact-sheet.jpg",
+      "sha256": "EC3E1F5C3655DB152CEA02A05FFCA72ABC25A0B0389BC571D33BBF95BA2A1B06"
+    },
+    {
+      "path": "assets\\patterns\\stripes.png",
+      "sha256": "E57B69C974D4904F7ADC7A7AB80A7EDDFDE637A2F8F303E20E197C3888EBC139"
+    },
+    {
+      "path": "prototype\\index.html",
+      "sha256": "109A4197C0810F70D4D0B80A3A2C467854789DDC3A8B4E5D1E1219F014A25E03"
+    },
+    {
+      "path": "prototype\\script.js",
+      "sha256": "5FCFF5CFB329DFBF7E942E85502E2D46B15BEDF29C8BB811FA84A44045CAC74F"
+    },
+    {
+      "path": "prototype\\styles.css",
+      "sha256": "051941A0DA5460B3CC6C43174286546ECFFEB744593215A9045FF06B3AE145B4"
+    }
+  ]
+}

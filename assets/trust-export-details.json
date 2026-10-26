@@ -1,0 +1,200 @@
+[
+  {
+    "name": "wegmans",
+    "source_page": "https://www.wegmans.com/news-media/photo-logo-gallery",
+    "asset_url": "https://images.wegmans.com/is/image/wegmanscsprod/media-Wegmans-Logo-color-p?fmt=png-alpha&hei=379&wid=1000",
+    "source": "assets/source-external/trust/wegmans.png",
+    "source_sha256": "759133af4de5ccddef279a330ebc6c9a38175f81a7162a66baac3e991cd9c5f4",
+    "web": "assets/images/partner-wegmans-official.png",
+    "web_sha256": "759133af4de5ccddef279a330ebc6c9a38175f81a7162a66baac3e991cd9c5f4",
+    "dimensions": [
+      1000,
+      379
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "operation": "Unmodified PNG copied byte-for-byte. No recoloring, tracing, cropping or background removal.",
+    "retrieved": "2026-10-25",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "official"
+  },
+  {
+    "name": "wegmans-supplied",
+    "source_page": "User-supplied attachment, October 25, 2026",
+    "asset_url": "C:/Users/guyta/Desktop/626950-h-media-logo-fyfga.webp",
+    "source": "assets/source-external/user-attachments/626950-h-media-logo-fyfga.webp",
+    "source_sha256": "46aa4f2538544f46aa9abd6627eae5ab132f8184b2feff7b81efad58564178fd",
+    "web": "assets/images/partner-wegmans-supplied-626950.webp",
+    "web_sha256": "46aa4f2538544f46aa9abd6627eae5ab132f8184b2feff7b81efad58564178fd",
+    "dimensions": [
+      1280,
+      1000
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "operation": "Supplied WebP copied byte-for-byte; original transparency, artwork, colors and geometry unchanged.",
+    "retrieved": "2026-10-25",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "user-supplied replacement, explicitly authorized October 25, 2026"
+  },
+  {
+    "name": "haccp-plants",
+    "source_page": "https://www.plants2market.com/en/qualitatsmanagement",
+    "asset_url": "https://www.plants2market.com/web/image/112969-49256f38/HACCP%20Blau%20auf%20transparent.png",
+    "source": "assets/source-external/trust/haccp-plants.png",
+    "source_sha256": "b788ae11997dc92cd7721653538d324efea4f40b206e4cb0d9026392c9882bec",
+    "web": "assets/images/certification-haccp.png",
+    "web_sha256": "b788ae11997dc92cd7721653538d324efea4f40b206e4cb0d9026392c9882bec",
+    "dimensions": [
+      690,
+      706
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "operation": "Unmodified PNG copied byte-for-byte. No recoloring, tracing, cropping or background removal.",
+    "retrieved": "2026-10-25",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "third-party generic draft reference; issuer unknown; replace after verification"
+  },
+  {
+    "name": "sqf-site",
+    "source_page": "https://www.sqfi.com/integrity-program/logo-rules-of-use",
+    "asset_url": "https://www.sqfi.com/images/sqfilibraries/theme/sqfilogo.svg",
+    "source": "assets/source-external/trust/sqf-site.svg",
+    "source_sha256": "7680f3f1f2d7e39f358432b445ce95646f3468503bfd48401350d8840803d60d",
+    "web": "assets/images/certification-sqf.png",
+    "web_sha256": "31740b11dbfd3ee2971e0911fda27fb59b2dd99928873e34b0e5def1d3fdbeb6",
+    "dimensions": [
+      640,
+      280
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "operation": "Exact SVG rendered to transparent 640px-wide PNG with Sharp; XML declaration normalized in renderer memory only. Original fills, paths, transforms and proportions retained.",
+    "retrieved": "2026-10-25",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "official complete SQF Institute identity"
+  },
+  {
+    "name": "ou-commons",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ou_kosher.svg",
+    "asset_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Ou_kosher.svg",
+    "source": "assets/source-external/trust/ou-commons.svg",
+    "source_sha256": "23133168d9afbd5241a75faa62362acd5d1f90f2b18af73c560680482e5f185f",
+    "web": "assets/images/certification-ou-kosher.png",
+    "web_sha256": "4fb0b2da010bf35f7338ad3cf653589a92f6486cba59d00988cbe4143b542766",
+    "dimensions": [
+      654,
+      651
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "operation": "Exact SVG rendered to transparent 1280px-wide PNG with Sharp; XML declaration normalized in renderer memory only. Original fills, paths, transforms and proportions retained. Empty transparent canvas trimmed to alpha bounds, then40px transparent clear space added; mark pixels unaltered.",
+    "retrieved": "2026-10-25",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "third-party vector recreation by Messedrocker per Commons description; PD-textlogo, trademark retained; local draft fallback, not issuer master"
+  },
+  {
+    "name": "rainforest-seal",
+    "source_page": "https://www.rainforest-alliance.org/business/marketing-sustainability/using-our-logo-and-seal/",
+    "asset_url": "https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg",
+    "source": "assets/source-external/trust/rainforest-seal.svg",
+    "source_sha256": "13eb6f678b59d56508969bcd5dbf70fefba485d6c658b258560e65d64d9939e2",
+    "web": "assets/images/certification-rainforest-alliance.png",
+    "web_sha256": "a02b39be75742c758aaa2d2c21b22e6a787fd6616af146d7f8ca897322ed9221",
+    "dimensions": [
+      640,
+      640
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "operation": "Exact SVG rendered to transparent 640px-wide PNG with Sharp; XML declaration normalized in renderer memory only. Original fills, paths, transforms and proportions retained.",
+    "retrieved": "2026-10-25",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "official People & Nature seal; not Regenerative program"
+  },
+  {
+    "name": "cacao-trace",
+    "source_page": "https://www.cacaotrace.com/",
+    "asset_url": "https://www.cacaotrace.com/ (inline header SVG)",
+    "source": "assets/source-external/trust/cacao-trace.svg",
+    "source_sha256": "3d889177d4e66dfc0ecabd27bc35d35a369da438acbbafe99e18ddcae512be52",
+    "web": "assets/images/certification-cacao-trace.png",
+    "web_sha256": "9d4f54ac30f600b1d3b5c761e3d0f1d7b470cf9a8533197a76d1dec12f2366e7",
+    "dimensions": [
+      640,
+      519
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "operation": "Exact SVG rendered to transparent 640px-wide PNG with Sharp; XML declaration normalized in renderer memory only. Original fills, paths, transforms and proportions retained.",
+    "retrieved": "2026-10-25",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "official inline header SVG"
+  },
+  {
+    "name": "puratos",
+    "source_page": "Existing supplied wireframe imagery",
+    "asset_url": "Preserved existing partner PNG",
+    "source": "assets/images/partner-puratos.png",
+    "source_sha256": "31deb4cfcef999ab6da76cd3d2933e77de63fbb99fd4f5f745b8b84c1fbfa681",
+    "web": "assets/images/partner-puratos.png",
+    "web_sha256": "31deb4cfcef999ab6da76cd3d2933e77de63fbb99fd4f5f745b8b84c1fbfa681",
+    "dimensions": [
+      456,
+      320
+    ],
+    "mode": "RGB",
+    "alpha_extrema": [
+      255,
+      255
+    ],
+    "operation": "Existing supplied PNG used unchanged. Its exact Cream raster backdrop matches website Cream(247,239,230); no background removal or recoloring.",
+    "retrieved": "2026-10-25",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "existing local draft reference from supplied wireframe"
+  },
+  {
+    "name": "guittard",
+    "source_page": "Existing supplied wireframe imagery",
+    "asset_url": "Preserved existing partner PNG",
+    "source": "assets/images/partner-guittard.png",
+    "source_sha256": "45f12cb652f3ee300f5ebf0a024120713a3de4a8ed97d2159905dbd32bf7a9c4",
+    "web": "assets/images/partner-guittard.png",
+    "web_sha256": "45f12cb652f3ee300f5ebf0a024120713a3de4a8ed97d2159905dbd32bf7a9c4",
+    "dimensions": [
+      540,
+      320
+    ],
+    "mode": "RGB",
+    "alpha_extrema": [
+      255,
+      255
+    ],
+    "operation": "Existing supplied PNG used unchanged. Its exact Cream raster backdrop matches website Cream(247,239,230); no background removal or recoloring.",
+    "retrieved": "2026-10-25",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "existing local draft reference from supplied wireframe"
+  }
+]

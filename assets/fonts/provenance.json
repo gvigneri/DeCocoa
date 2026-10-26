@@ -1,0 +1,43 @@
+{
+  "family": "Montserrat",
+  "weights": [
+    300,
+    400,
+    700
+  ],
+  "license": "SIL Open Font License 1.1",
+  "stylesheet_source": "https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap",
+  "license_source": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/OFL.txt",
+  "files": [
+    {
+      "file": "montserrat-1.woff2",
+      "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+      "bytes": 26368,
+      "sha256": "0F7F5F2FBB4EAE126790FE6F01659AB3EE0806E8038A941908E893020569F51A"
+    },
+    {
+      "file": "montserrat-2.woff2",
+      "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+      "bytes": 23828,
+      "sha256": "A187B077090FE8AE3FD2D7496AABBEAE604819C718A282E0AFC92DF72B450766"
+    },
+    {
+      "file": "montserrat-3.woff2",
+      "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+      "bytes": 12928,
+      "sha256": "26B2403F995ED65FB49037A6498C074D3EC3C36031A69FC368C4C2180E2C01FA"
+    },
+    {
+      "file": "montserrat-4.woff2",
+      "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+      "bytes": 70688,
+      "sha256": "54D9A78B7FF60B689AD9F3017FFAC8547B5D871AFEC733F6C1C3AE36577EE504"
+    },
+    {
+      "file": "montserrat-5.woff2",
+      "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+      "bytes": 37956,
+      "sha256": "06B16DB7A969135D48D38C49183BE7FB88D4452E2A3011957C7851941F4E4879"
+    }
+  ]
+}

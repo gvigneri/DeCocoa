@@ -1,0 +1,44 @@
+{
+  "source": "brand\\source\\Decocoa Get Started\\images\\Pretzels.png",
+  "source_dimensions": [
+    3232,
+    4576
+  ],
+  "selection_polygon_source_pixels": [
+    [
+      0,
+      0
+    ],
+    [
+      1974,
+      0
+    ],
+    [
+      1974,
+      1058
+    ],
+    [
+      3232,
+      1058
+    ],
+    [
+      3232,
+      4576
+    ],
+    [
+      0,
+      4576
+    ]
+  ],
+  "alpha_bounds": [
+    223,
+    562,
+    3166,
+    4397
+  ],
+  "export_dimensions": [
+    1305,
+    1700
+  ],
+  "operation": "Excludes isolated faint tiny duplicate only. Three-piece core retains original pixels, alpha, overlap and edges; proportional resize and WebP."
+}

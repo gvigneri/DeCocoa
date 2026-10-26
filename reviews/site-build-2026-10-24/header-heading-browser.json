@@ -1,0 +1,1341 @@
+{
+  "responsive": [
+    {
+      "client": 1905,
+      "eyebrows": [
+        {
+          "heading": "Chocolate crafters Experience.Chocolate.",
+          "parent": "H1",
+          "style": {
+            "bottom": 465.140625,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 592.40625,
+            "textAlign": "start",
+            "top": 429.140625,
+            "width": 293.90625,
+            "x": 298.5
+          },
+          "text": "Chocolate crafters"
+        },
+        {
+          "heading": "Our Chocolate Chocolate possibilities. Crafted with curiosity.",
+          "parent": "H2",
+          "style": {
+            "bottom": 1133.9375,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 1063.8125,
+            "textAlign": "center",
+            "top": 1097.9375,
+            "width": 222.625,
+            "x": 841.1875
+          },
+          "text": "Our Chocolate"
+        },
+        {
+          "heading": "Our People The heartbehind thechocolate.",
+          "parent": "H2",
+          "style": {
+            "bottom": 3006.203125,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 482.1875,
+            "textAlign": "start",
+            "top": 2970.203125,
+            "width": 171.6875,
+            "x": 310.5
+          },
+          "text": "Our People"
+        },
+        {
+          "heading": "Our Craft Curiosity inthe making.",
+          "parent": "H2",
+          "style": {
+            "bottom": 3751.515625,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 421.640625,
+            "textAlign": "start",
+            "top": 3715.515625,
+            "width": 155.140625,
+            "x": 266.5
+          },
+          "text": "Our Craft"
+        },
+        {
+          "heading": "Connections & commitments Our Partners",
+          "parent": "H2",
+          "style": {
+            "bottom": 4709.078125,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 645.8125,
+            "textAlign": "start",
+            "top": 4643.078125,
+            "width": 379.3125,
+            "x": 266.5
+          },
+          "text": "Connections & commitments"
+        },
+        {
+          "heading": "Experience Center Come curious.Think chocolate.",
+          "parent": "H2",
+          "style": {
+            "bottom": 5288,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 577.6875,
+            "textAlign": "start",
+            "top": 5252,
+            "width": 269.1875,
+            "x": 308.5
+          },
+          "text": "Experience Center"
+        },
+        {
+          "heading": "Work With Us A chocolate idea starts here.",
+          "parent": "H2",
+          "style": {
+            "bottom": 5963.09375,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 470.765625,
+            "textAlign": "start",
+            "top": 5927.09375,
+            "width": 204.265625,
+            "x": 266.5
+          },
+          "text": "Work With Us"
+        },
+        {
+          "heading": "Let's Talk Tell us whatyou have in mind.",
+          "parent": "H2",
+          "style": {
+            "bottom": 6380.84375,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 415.515625,
+            "textAlign": "start",
+            "top": 6344.84375,
+            "width": 149.015625,
+            "x": 266.5
+          },
+          "text": "Let's Talk"
+        }
+      ],
+      "h1Count": 1,
+      "headerCtas": [
+        {
+          "bottom": 96,
+          "fontSize": "16px",
+          "paddingLeft": "27px",
+          "paddingRight": "27px",
+          "right": 1638.5,
+          "textAlign": "center",
+          "top": 36,
+          "width": 136,
+          "x": 1502.5
+        },
+        {
+          "bottom": -37.19999694824219,
+          "fontSize": "16px",
+          "paddingLeft": "22px",
+          "paddingRight": "22px",
+          "right": 1638.5,
+          "textAlign": "center",
+          "top": -97.1999969482422,
+          "width": 126,
+          "x": 1512.5
+        }
+      ],
+      "logo": {
+        "bottom": 143.9375,
+        "fontSize": "20px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px",
+        "right": 1132.5,
+        "textAlign": "start",
+        "top": 51,
+        "width": 360,
+        "x": 772.5
+      },
+      "logoLink": {
+        "bottom": 191.9375,
+        "fontSize": "20px",
+        "paddingLeft": "48px",
+        "paddingRight": "48px",
+        "right": 1180.5,
+        "textAlign": "start",
+        "top": 3,
+        "width": 456,
+        "x": 724.5
+      },
+      "overflow": false,
+      "paragraphEyebrows": 0,
+      "width": 1920
+    },
+    {
+      "client": 1425,
+      "eyebrows": [
+        {
+          "heading": "Chocolate crafters Experience.Chocolate.",
+          "parent": "H1",
+          "style": {
+            "bottom": 460.75,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 386.375,
+            "textAlign": "start",
+            "top": 424.75,
+            "width": 293.90625,
+            "x": 92.46875
+          },
+          "text": "Chocolate crafters"
+        },
+        {
+          "heading": "Our Chocolate Chocolate possibilities. Crafted with curiosity.",
+          "parent": "H2",
+          "style": {
+            "bottom": 1133.9375,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 823.8125,
+            "textAlign": "center",
+            "top": 1097.9375,
+            "width": 222.625,
+            "x": 601.1875
+          },
+          "text": "Our Chocolate"
+        },
+        {
+          "heading": "Our People The heartbehind thechocolate.",
+          "parent": "H2",
+          "style": {
+            "bottom": 3036.796875,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 276.15625,
+            "textAlign": "start",
+            "top": 3000.796875,
+            "width": 171.6875,
+            "x": 104.46875
+          },
+          "text": "Our People"
+        },
+        {
+          "heading": "Our Craft Curiosity inthe making.",
+          "parent": "H2",
+          "style": {
+            "bottom": 3767.296875,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 215.609375,
+            "textAlign": "start",
+            "top": 3731.296875,
+            "width": 155.140625,
+            "x": 60.46875
+          },
+          "text": "Our Craft"
+        },
+        {
+          "heading": "Connections & commitments Our Partners",
+          "parent": "H2",
+          "style": {
+            "bottom": 4688.5,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 421,
+            "textAlign": "start",
+            "top": 4622.5,
+            "width": 360.53125,
+            "x": 60.46875
+          },
+          "text": "Connections & commitments"
+        },
+        {
+          "heading": "Experience Center Come curious.Think chocolate.",
+          "parent": "H2",
+          "style": {
+            "bottom": 5253.8125,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 371.65625,
+            "textAlign": "start",
+            "top": 5217.8125,
+            "width": 269.1875,
+            "x": 102.46875
+          },
+          "text": "Experience Center"
+        },
+        {
+          "heading": "Work With Us A chocolate idea starts here.",
+          "parent": "H2",
+          "style": {
+            "bottom": 5907.421875,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 264.734375,
+            "textAlign": "start",
+            "top": 5871.421875,
+            "width": 204.265625,
+            "x": 60.46875
+          },
+          "text": "Work With Us"
+        },
+        {
+          "heading": "Let's Talk Tell us whatyou have in mind.",
+          "parent": "H2",
+          "style": {
+            "bottom": 6325.171875,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 209.484375,
+            "textAlign": "start",
+            "top": 6289.171875,
+            "width": 149.015625,
+            "x": 60.46875
+          },
+          "text": "Let's Talk"
+        }
+      ],
+      "h1Count": 1,
+      "headerCtas": [
+        {
+          "bottom": 96,
+          "fontSize": "16px",
+          "paddingLeft": "27px",
+          "paddingRight": "27px",
+          "right": 1364.53125,
+          "textAlign": "center",
+          "top": 36,
+          "width": 136,
+          "x": 1228.53125
+        },
+        {
+          "bottom": -37.19999694824219,
+          "fontSize": "16px",
+          "paddingLeft": "22px",
+          "paddingRight": "22px",
+          "right": 1364.53125,
+          "textAlign": "center",
+          "top": -97.1999969482422,
+          "width": 126,
+          "x": 1238.53125
+        }
+      ],
+      "logo": {
+        "bottom": 143.9375,
+        "fontSize": "20px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px",
+        "right": 892.5,
+        "textAlign": "start",
+        "top": 51,
+        "width": 360,
+        "x": 532.5
+      },
+      "logoLink": {
+        "bottom": 191.9375,
+        "fontSize": "20px",
+        "paddingLeft": "48px",
+        "paddingRight": "48px",
+        "right": 940.5,
+        "textAlign": "start",
+        "top": 3,
+        "width": 456,
+        "x": 484.5
+      },
+      "overflow": false,
+      "paragraphEyebrows": 0,
+      "width": 1440
+    },
+    {
+      "client": 753,
+      "eyebrows": [
+        {
+          "heading": "Chocolate crafters Experience.Chocolate.",
+          "parent": "H1",
+          "style": {
+            "bottom": 343.234375,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 346.09375,
+            "textAlign": "start",
+            "top": 277.234375,
+            "width": 291.84375,
+            "x": 54.25
+          },
+          "text": "Chocolate crafters"
+        },
+        {
+          "heading": "Our Chocolate Chocolate possibilities. Crafted with curiosity.",
+          "parent": "H2",
+          "style": {
+            "bottom": 881,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 487.8125,
+            "textAlign": "center",
+            "top": 845,
+            "width": 222.625,
+            "x": 265.1875
+          },
+          "text": "Our Chocolate"
+        },
+        {
+          "heading": "Our People The heartbehind thechocolate.",
+          "parent": "H2",
+          "style": {
+            "bottom": 3208.359375,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 263.1875,
+            "textAlign": "start",
+            "top": 3172.359375,
+            "width": 171.6875,
+            "x": 91.5
+          },
+          "text": "Our People"
+        },
+        {
+          "heading": "Our Craft Curiosity inthe making.",
+          "parent": "H2",
+          "style": {
+            "bottom": 4167.703125,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 187.390625,
+            "textAlign": "start",
+            "top": 4131.703125,
+            "width": 155.140625,
+            "x": 32.25
+          },
+          "text": "Our Craft"
+        },
+        {
+          "heading": "Connections & commitments Our Partners",
+          "parent": "H2",
+          "style": {
+            "bottom": 5458,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 433.125,
+            "textAlign": "start",
+            "top": 5422,
+            "width": 400.875,
+            "x": 32.25
+          },
+          "text": "Connections & commitments"
+        },
+        {
+          "heading": "Experience Center Come curious.Think chocolate.",
+          "parent": "H2",
+          "style": {
+            "bottom": 6060,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 364.6875,
+            "textAlign": "start",
+            "top": 6024,
+            "width": 269.1875,
+            "x": 95.5
+          },
+          "text": "Experience Center"
+        },
+        {
+          "heading": "Work With Us A chocolate idea starts here.",
+          "parent": "H2",
+          "style": {
+            "bottom": 7082.015625,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 236.515625,
+            "textAlign": "start",
+            "top": 7046.015625,
+            "width": 204.265625,
+            "x": 32.25
+          },
+          "text": "Work With Us"
+        },
+        {
+          "heading": "Let's Talk Tell us whatyou have in mind.",
+          "parent": "H2",
+          "style": {
+            "bottom": 7442.21875,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 181.265625,
+            "textAlign": "start",
+            "top": 7406.21875,
+            "width": 149.015625,
+            "x": 32.25
+          },
+          "text": "Let's Talk"
+        }
+      ],
+      "h1Count": 1,
+      "headerCtas": [
+        {
+          "bottom": 66,
+          "fontSize": "16px",
+          "paddingLeft": "20px",
+          "paddingRight": "20px",
+          "right": 720.75,
+          "textAlign": "center",
+          "top": 16,
+          "width": 122,
+          "x": 598.75
+        },
+        {
+          "bottom": -32.400001525878906,
+          "fontSize": "16px",
+          "paddingLeft": "22px",
+          "paddingRight": "22px",
+          "right": 720.75,
+          "textAlign": "center",
+          "top": -92.4000015258789,
+          "width": 126,
+          "x": 594.75
+        }
+      ],
+      "logo": {
+        "bottom": 136.203125,
+        "fontSize": "16px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px",
+        "right": 481.5,
+        "textAlign": "start",
+        "top": 82,
+        "width": 210,
+        "x": 271.5
+      },
+      "logoLink": {
+        "bottom": 164.203125,
+        "fontSize": "16px",
+        "paddingLeft": "28px",
+        "paddingRight": "28px",
+        "right": 509.5,
+        "textAlign": "start",
+        "top": 54,
+        "width": 266,
+        "x": 243.5
+      },
+      "overflow": false,
+      "paragraphEyebrows": 0,
+      "width": 768
+    },
+    {
+      "client": 375,
+      "eyebrows": [
+        {
+          "heading": "Chocolate crafters Experience.Chocolate.",
+          "parent": "H1",
+          "style": {
+            "bottom": 302,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 329,
+            "textAlign": "start",
+            "top": 236,
+            "width": 283,
+            "x": 46
+          },
+          "text": "Chocolate crafters"
+        },
+        {
+          "heading": "Our Chocolate Chocolate possibilities. Crafted with curiosity.",
+          "parent": "H2",
+          "style": {
+            "bottom": 1256.0625,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 298.8125,
+            "textAlign": "center",
+            "top": 1220.0625,
+            "width": 222.625,
+            "x": 76.1875
+          },
+          "text": "Our Chocolate"
+        },
+        {
+          "heading": "Our People The heartbehind thechocolate.",
+          "parent": "H2",
+          "style": {
+            "bottom": 3672.28125,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 225.6875,
+            "textAlign": "start",
+            "top": 3636.28125,
+            "width": 171.6875,
+            "x": 54
+          },
+          "text": "Our People"
+        },
+        {
+          "heading": "Our Craft Curiosity inthe making.",
+          "parent": "H2",
+          "style": {
+            "bottom": 4454.125,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 179.140625,
+            "textAlign": "start",
+            "top": 4418.125,
+            "width": 155.140625,
+            "x": 24
+          },
+          "text": "Our Craft"
+        },
+        {
+          "heading": "Connections & commitments Our Partners",
+          "parent": "H2",
+          "style": {
+            "bottom": 5576.265625,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 351,
+            "textAlign": "start",
+            "top": 5510.265625,
+            "width": 327,
+            "x": 24
+          },
+          "text": "Connections & commitments"
+        },
+        {
+          "heading": "Experience Center Come curious.Think chocolate.",
+          "parent": "H2",
+          "style": {
+            "bottom": 6078.34375,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 322,
+            "textAlign": "start",
+            "top": 6012.34375,
+            "width": 269,
+            "x": 53
+          },
+          "text": "Experience Center"
+        },
+        {
+          "heading": "Work With Us A chocolate idea starts here.",
+          "parent": "H2",
+          "style": {
+            "bottom": 7041.84375,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 228.265625,
+            "textAlign": "start",
+            "top": 7005.84375,
+            "width": 204.265625,
+            "x": 24
+          },
+          "text": "Work With Us"
+        },
+        {
+          "heading": "Let's Talk Tell us whatyou have in mind.",
+          "parent": "H2",
+          "style": {
+            "bottom": 7496.75,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 173.015625,
+            "textAlign": "start",
+            "top": 7460.75,
+            "width": 149.015625,
+            "x": 24
+          },
+          "text": "Let's Talk"
+        }
+      ],
+      "h1Count": 1,
+      "headerCtas": [
+        {
+          "bottom": 66,
+          "fontSize": "16px",
+          "paddingLeft": "20px",
+          "paddingRight": "20px",
+          "right": 351,
+          "textAlign": "center",
+          "top": 16,
+          "width": 122,
+          "x": 229
+        },
+        {
+          "bottom": -28.926559448242188,
+          "fontSize": "16px",
+          "paddingLeft": "17px",
+          "paddingRight": "17px",
+          "right": 351,
+          "textAlign": "center",
+          "top": -78.92655944824219,
+          "width": 116,
+          "x": 235
+        }
+      ],
+      "logo": {
+        "bottom": 128.46875,
+        "fontSize": "16px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px",
+        "right": 277.5,
+        "textAlign": "start",
+        "top": 82,
+        "width": 180,
+        "x": 97.5
+      },
+      "logoLink": {
+        "bottom": 152.46875,
+        "fontSize": "16px",
+        "paddingLeft": "24px",
+        "paddingRight": "24px",
+        "right": 301.5,
+        "textAlign": "start",
+        "top": 58,
+        "width": 228,
+        "x": 73.5
+      },
+      "overflow": false,
+      "paragraphEyebrows": 0,
+      "width": 390
+    },
+    {
+      "client": 305,
+      "eyebrows": [
+        {
+          "heading": "Chocolate crafters Experience.Chocolate.",
+          "parent": "H1",
+          "style": {
+            "bottom": 292,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 271,
+            "textAlign": "start",
+            "top": 226,
+            "width": 237,
+            "x": 34
+          },
+          "text": "Chocolate crafters"
+        },
+        {
+          "heading": "Our Chocolate Chocolate possibilities. Crafted with curiosity.",
+          "parent": "H2",
+          "style": {
+            "bottom": 1165.6875,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 263.8125,
+            "textAlign": "center",
+            "top": 1129.6875,
+            "width": 222.625,
+            "x": 41.1875
+          },
+          "text": "Our Chocolate"
+        },
+        {
+          "heading": "Our People The heartbehind thechocolate.",
+          "parent": "H2",
+          "style": {
+            "bottom": 3813.796875,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 218.6875,
+            "textAlign": "start",
+            "top": 3777.796875,
+            "width": 171.6875,
+            "x": 47
+          },
+          "text": "Our People"
+        },
+        {
+          "heading": "Our Craft Curiosity inthe making.",
+          "parent": "H2",
+          "style": {
+            "bottom": 4568.125,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 175.140625,
+            "textAlign": "start",
+            "top": 4532.125,
+            "width": 155.140625,
+            "x": 20
+          },
+          "text": "Our Craft"
+        },
+        {
+          "heading": "Connections & commitments Our Partners",
+          "parent": "H2",
+          "style": {
+            "bottom": 5719.09375,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 285,
+            "textAlign": "start",
+            "top": 5653.09375,
+            "width": 265,
+            "x": 20
+          },
+          "text": "Connections & commitments"
+        },
+        {
+          "heading": "Experience Center Come curious.Think chocolate.",
+          "parent": "H2",
+          "style": {
+            "bottom": 6209.140625,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 259,
+            "textAlign": "start",
+            "top": 6143.140625,
+            "width": 213,
+            "x": 46
+          },
+          "text": "Experience Center"
+        },
+        {
+          "heading": "Work With Us A chocolate idea starts here.",
+          "parent": "H2",
+          "style": {
+            "bottom": 7088.671875,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 224.265625,
+            "textAlign": "start",
+            "top": 7052.671875,
+            "width": 204.265625,
+            "x": 20
+          },
+          "text": "Work With Us"
+        },
+        {
+          "heading": "Let's Talk Tell us whatyou have in mind.",
+          "parent": "H2",
+          "style": {
+            "bottom": 7570.765625,
+            "fontSize": "20px",
+            "paddingLeft": "9px",
+            "paddingRight": "9px",
+            "right": 169.015625,
+            "textAlign": "start",
+            "top": 7534.765625,
+            "width": 149.015625,
+            "x": 20
+          },
+          "text": "Let's Talk"
+        }
+      ],
+      "h1Count": 1,
+      "headerCtas": [
+        {
+          "bottom": 66,
+          "fontSize": "16px",
+          "paddingLeft": "17px",
+          "paddingRight": "17px",
+          "right": 285,
+          "textAlign": "center",
+          "top": 16,
+          "width": 116,
+          "x": 169
+        },
+        {
+          "bottom": -28.606246948242188,
+          "fontSize": "16px",
+          "paddingLeft": "18px",
+          "paddingRight": "18px",
+          "right": 285,
+          "textAlign": "center",
+          "top": -76.60624694824219,
+          "width": 118,
+          "x": 167
+        }
+      ],
+      "logo": {
+        "bottom": 122.84375,
+        "fontSize": "16px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px",
+        "right": 235.5,
+        "textAlign": "start",
+        "top": 80,
+        "width": 166,
+        "x": 69.5
+      },
+      "logoLink": {
+        "bottom": 144.84375,
+        "fontSize": "16px",
+        "paddingLeft": "22px",
+        "paddingRight": "22px",
+        "right": 257.5,
+        "textAlign": "start",
+        "top": 58,
+        "width": 210,
+        "x": 47.5
+      },
+      "overflow": false,
+      "paragraphEyebrows": 0,
+      "width": 320
+    }
+  ],
+  "routes": [
+    {
+      "h1Count": 1,
+      "overflow": false,
+      "pairs": [
+        {
+          "id": "hero-title",
+          "size": "20px",
+          "tag": "H1",
+          "text": "Chocolate crafters",
+          "title": "Experience.\nChocolate."
+        },
+        {
+          "id": "products-title",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Our Chocolate",
+          "title": "Chocolate possibilities. Crafted with curiosity."
+        },
+        {
+          "id": "people-title",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Our People",
+          "title": "The heart\nbehind the\nchocolate."
+        },
+        {
+          "id": "craft-title",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Our Craft",
+          "title": "Curiosity in\nthe making."
+        },
+        {
+          "id": "",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Connections & commitments",
+          "title": "Our Partners"
+        },
+        {
+          "id": "experience-title",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Experience Center",
+          "title": "Come curious.\nThink chocolate."
+        },
+        {
+          "id": "work-title",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Work With Us",
+          "title": "A chocolate idea starts here."
+        },
+        {
+          "id": "talk-title",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Let's Talk",
+          "title": "Tell us what\nyou have in mind."
+        }
+      ],
+      "paragraphEyebrows": 0,
+      "route": "/",
+      "axHeadings": []
+    },
+    {
+      "h1Count": 1,
+      "overflow": false,
+      "pairs": [
+        {
+          "id": "page-title",
+          "size": "20px",
+          "tag": "H1",
+          "text": "Our Chocolate",
+          "title": "Chocolate possibilities."
+        }
+      ],
+      "paragraphEyebrows": 0,
+      "route": "/products/",
+      "axHeadings": [
+        "\t\t\t14 heading OUR CHOCOLATE Chocolate possibilities., Value: 1, ID: page-title",
+        "\t\t\t\t23 heading A closer look at chocolate., Value: 2, ID: examples-title",
+        "\t\t\t33 heading Explore, Value: 2",
+        "\t\t\t40 heading Chocolate possibilities, Value: 2",
+        "\t\t\t46 heading Get in touch, Value: 2"
+      ]
+    },
+    {
+      "h1Count": 1,
+      "overflow": false,
+      "pairs": [
+        {
+          "id": "page-title",
+          "size": "20px",
+          "tag": "H1",
+          "text": "Our Chocolate",
+          "title": "Filled Chocolate"
+        },
+        {
+          "id": "more-title",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Keep exploring",
+          "title": "More chocolate possibilities."
+        }
+      ],
+      "paragraphEyebrows": 0,
+      "route": "/products/filled-chocolate/",
+      "axHeadings": [
+        "\t\t\t\t20 heading OUR CHOCOLATE Filled Chocolate, Value: 1, ID: page-title",
+        "\t\t\t\t27 heading KEEP EXPLORING More chocolate possibilities., Value: 2, ID: more-title",
+        "\t\t\t35 heading Explore, Value: 2",
+        "\t\t\t42 heading Chocolate possibilities, Value: 2",
+        "\t\t\t48 heading Get in touch, Value: 2"
+      ]
+    },
+    {
+      "h1Count": 1,
+      "overflow": false,
+      "pairs": [
+        {
+          "id": "page-title",
+          "size": "20px",
+          "tag": "H1",
+          "text": "Our Chocolate",
+          "title": "Chocolate Bar"
+        },
+        {
+          "id": "more-title",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Keep exploring",
+          "title": "More chocolate possibilities."
+        }
+      ],
+      "paragraphEyebrows": 0,
+      "route": "/products/chocolate-bar/",
+      "axHeadings": [
+        "~\t\t\t\t20 heading OUR CHOCOLATE Chocolate Bar, Value: 1, ID: page-title"
+      ]
+    },
+    {
+      "h1Count": 1,
+      "overflow": false,
+      "pairs": [
+        {
+          "id": "page-title",
+          "size": "20px",
+          "tag": "H1",
+          "text": "Our Chocolate",
+          "title": "Chocolate Drizzle"
+        },
+        {
+          "id": "more-title",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Keep exploring",
+          "title": "More chocolate possibilities."
+        }
+      ],
+      "paragraphEyebrows": 0,
+      "route": "/products/chocolate-drizzle/",
+      "axHeadings": [
+        "~\t\t\t\t20 heading OUR CHOCOLATE Chocolate Drizzle, Value: 1, ID: page-title"
+      ]
+    },
+    {
+      "h1Count": 1,
+      "overflow": false,
+      "pairs": [
+        {
+          "id": "page-title",
+          "size": "20px",
+          "tag": "H1",
+          "text": "Our People",
+          "title": "The heart behind the chocolate."
+        }
+      ],
+      "paragraphEyebrows": 0,
+      "route": "/our-people/",
+      "axHeadings": [
+        "\t\t\t\t15 heading OUR PEOPLE The heart behind the chocolate., Value: 1, ID: page-title",
+        "\t\t\t\t24 heading Our roots, Value: 2, ID: story-title",
+        "\t\t\t\t29 heading Our pillars, Value: 2, ID: pillars-title",
+        "\t\t\t\t34 heading Our values, Value: 2, ID: values-title",
+        "\t\t\t44 heading Explore, Value: 2",
+        "\t\t\t51 heading Chocolate possibilities, Value: 2",
+        "\t\t\t57 heading Get in touch, Value: 2"
+      ]
+    },
+    {
+      "h1Count": 1,
+      "overflow": false,
+      "pairs": [
+        {
+          "id": "page-title",
+          "size": "20px",
+          "tag": "H1",
+          "text": "Our Craft",
+          "title": "Curiosity in the making."
+        }
+      ],
+      "paragraphEyebrows": 0,
+      "route": "/our-craft/",
+      "axHeadings": [
+        "\t\t\t\t15 heading OUR CRAFT Curiosity in the making., Value: 1, ID: page-title",
+        "\t\t\t\t24 heading Our approach, Value: 2, ID: approach-title",
+        "\t\t\t\t29 heading Process & capabilities, Value: 2, ID: capabilities-title",
+        "\t\t\t\t\t33 heading Mixing, Value: 3",
+        "\t\t\t\t\t37 heading One Shot Depositing, Value: 3",
+        "\t\t\t\t\t41 heading Hollow Moulding, Value: 3",
+        "\t\t\t\t45 heading Our segments, Value: 2, ID: segments-title",
+        "\t\t\t\t\t49 heading DeCocoa Decor, Value: 3",
+        "\t\t\t\t\t53 heading Food & gourmet fulfillment, Value: 3",
+        "\t\t\t62 heading Explore, Value: 2",
+        "\t\t\t69 heading Chocolate possibilities, Value: 2",
+        "\t\t\t75 heading Get in touch, Value: 2"
+      ]
+    },
+    {
+      "h1Count": 1,
+      "overflow": false,
+      "pairs": [
+        {
+          "id": "page-title",
+          "size": "20px",
+          "tag": "H1",
+          "text": "Experience Center",
+          "title": "Come curious. Think chocolate."
+        }
+      ],
+      "paragraphEyebrows": 0,
+      "route": "/experience-center/",
+      "axHeadings": [
+        "\t\t\t\t15 heading EXPERIENCE CENTER Come curious. Think chocolate., Value: 1, ID: page-title",
+        "\t\t\t\t24 heading Craft Your Own, Value: 2, ID: craft-your-own-title",
+        "\t\t\t\t29 heading Museum & virtual exhibition, Value: 2, ID: exhibition-title",
+        "\t\t\t\t34 heading Tours & classes, Value: 2, ID: tours-title",
+        "\t\t\t44 heading Explore, Value: 2",
+        "\t\t\t51 heading Chocolate possibilities, Value: 2",
+        "\t\t\t57 heading Get in touch, Value: 2"
+      ]
+    },
+    {
+      "h1Count": 1,
+      "overflow": false,
+      "pairs": [
+        {
+          "id": "page-title",
+          "size": "20px",
+          "tag": "H1",
+          "text": "Work With Us",
+          "title": "What do you have in mind?"
+        },
+        {
+          "id": "talk-title",
+          "size": "20px",
+          "tag": "H2",
+          "text": "Let's Talk",
+          "title": "Tell us what you\nhave in mind."
+        }
+      ],
+      "paragraphEyebrows": 0,
+      "route": "/work-with-us/",
+      "axHeadings": [
+        "\t\t\t\t15 heading WORK WITH US What do you have in mind?, Value: 1, ID: page-title",
+        "\t\t\t\t20 heading Gifting & corporate gifts, Value: 2, ID: gifting-title",
+        "\t\t\t\t25 heading Craft Your Own, Value: 2, ID: craft-your-own-title",
+        "\t\t\t\t\t29 heading Chocolate Bar, Value: 3",
+        "\t\t\t\t\t33 heading Basket, Value: 3",
+        "\t\t\t\t38 heading Fundraising, Value: 2, ID: fundraising-title",
+        "\t\t\t\t43 heading Wholesale / B2B, Value: 2, ID: business-title",
+        "\t\t\t\t48 heading Start with your idea., Value: 2, ID: begin-title",
+        "\t\t\t\t53 heading LET'S TALK Tell us what you have in mind., Value: 2, ID: talk-title",
+        "\t\t\t95 heading Explore, Value: 2",
+        "\t\t\t102 heading Chocolate possibilities, Value: 2",
+        "\t\t\t108 heading Get in touch, Value: 2"
+      ]
+    },
+    {
+      "h1Count": 1,
+      "overflow": false,
+      "pairs": [
+        {
+          "id": "page-title",
+          "size": "20px",
+          "tag": "H1",
+          "text": "Page not found",
+          "title": "Something is missing."
+        }
+      ],
+      "paragraphEyebrows": 0,
+      "route": "/404.html",
+      "axHeadings": [
+        "\t\t\t14 heading PAGE NOT FOUND Something is missing., Value: 1, ID: page-title",
+        "\t\t\t23 heading Explore, Value: 2",
+        "\t\t\t30 heading Chocolate possibilities, Value: 2",
+        "\t\t\t36 heading Get in touch, Value: 2"
+      ]
+    }
+  ],
+  "mobileEscape": {
+    "focus": "Our Chocolate",
+    "submenu": "false"
+  },
+  "mobileMenuClose": {
+    "focus": "Menu",
+    "menu": "false"
+  },
+  "scrollNav": {
+    "cta": {
+      "right": 1638.5,
+      "width": 126,
+      "x": 1512.5
+    },
+    "gaps": [
+      82.6875,
+      82.671875,
+      82.6875,
+      82.671875
+    ],
+    "justify": "space-between",
+    "logo": {
+      "right": 470.5,
+      "width": 228,
+      "x": 242.5
+    },
+    "nav": {
+      "right": 1492.5,
+      "width": 1002,
+      "x": 490.5
+    },
+    "positions": [
+      {
+        "align": "left",
+        "lineHeight": "2px",
+        "lineLeft": "0px",
+        "lineRight": "0px",
+        "padding": "0px",
+        "right": 634.859375,
+        "text": "Our Chocolate",
+        "width": 144.359375,
+        "x": 490.5
+      },
+      {
+        "align": "left",
+        "lineHeight": "2px",
+        "lineLeft": "0px",
+        "lineRight": "0px",
+        "padding": "0px",
+        "right": 830.78125,
+        "text": "Our People",
+        "width": 113.234375,
+        "x": 717.546875
+      },
+      {
+        "align": "left",
+        "lineHeight": "2px",
+        "lineLeft": "0px",
+        "lineRight": "0px",
+        "padding": "0px",
+        "right": 1005.03125,
+        "text": "Our Craft",
+        "width": 91.578125,
+        "x": 913.453125
+      },
+      {
+        "align": "left",
+        "lineHeight": "2px",
+        "lineLeft": "0px",
+        "lineRight": "0px",
+        "padding": "0px",
+        "right": 1271.546875,
+        "text": "Experience Center",
+        "width": 183.828125,
+        "x": 1087.71875
+      },
+      {
+        "align": "left",
+        "lineHeight": "2px",
+        "lineLeft": "0px",
+        "lineRight": "0px",
+        "padding": "0px",
+        "right": 1492.5,
+        "text": "Work With Us",
+        "width": 138.28125,
+        "x": 1354.21875
+      }
+    ],
+    "visible": true
+  },
+  "scrollHover": {
+    "color": "rgb(247, 239, 230)",
+    "expanded": "true",
+    "hover": true,
+    "lineColor": "rgb(247, 239, 230)",
+    "lineOrigin": "0px 1px",
+    "lineTransform": "matrix(1, 0, 0, 1, 0, 0)",
+    "panelBorder": "0px"
+  },
+  "craftLayout": {
+    "eyebrowX": 586.5,
+    "headingDisplay": "grid",
+    "headingText": "OUR CRAFT\nCuriosity in\nthe making.",
+    "titleSize": "68px",
+    "titleX": 1117
+  },
+  "logs": [
+    {
+      "level": "error",
+      "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+      "timestamp": "2026-10-24T19:47:12.580Z",
+      "url": "http://127.0.0.1:4174/#products"
+    },
+    {
+      "level": "error",
+      "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+      "timestamp": "2026-10-24T19:47:12.580Z",
+      "url": "http://127.0.0.1:4174/#products"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "layouts": [
+    {
+      "background": "rgb(232, 121, 51)",
+      "card": {
+        "background": "rgb(58, 23, 13)",
+        "border": "0px",
+        "color": "rgb(247, 239, 230)"
+      },
+      "cta": {
+        "background": "rgb(58, 23, 13)",
+        "class": "button button-secondary",
+        "color": "rgb(247, 239, 230)",
+        "href": "lets-talk/#inquiry",
+        "text": "Let’s Craft Something Together"
+      },
+      "eyebrow": "rgb(247, 239, 230)",
+      "otherPatterns": [
+        "pattern-row",
+        "pattern-row, pattern-highlight"
+      ],
+      "overflow": false,
+      "patternBackground": "rgb(232, 121, 51)",
+      "patternStyles": [
+        "{\"fill\":\"rgb(58, 23, 13)\",\"animation\":\"none\",\"transform\":\"none\"}"
+      ],
+      "pretzelAnimation": [
+        {
+          "delay": "0s",
+          "duration": "2.9s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "name": "pretzel-fall"
+        },
+        {
+          "delay": "0.18s",
+          "duration": "3.15s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "name": "pretzel-fall"
+        },
+        {
+          "delay": "0.36s",
+          "duration": "3.35s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "name": "pretzel-fall"
+        }
+      ],
+      "width": 2560
+    },
+    {
+      "background": "rgb(232, 121, 51)",
+      "card": {
+        "background": "rgb(58, 23, 13)",
+        "border": "0px",
+        "color": "rgb(247, 239, 230)"
+      },
+      "cta": {
+        "background": "rgb(58, 23, 13)",
+        "class": "button button-secondary",
+        "color": "rgb(247, 239, 230)",
+        "href": "lets-talk/#inquiry",
+        "text": "Let’s Craft Something Together"
+      },
+      "eyebrow": "rgb(247, 239, 230)",
+      "otherPatterns": [
+        "pattern-row",
+        "pattern-row, pattern-highlight"
+      ],
+      "overflow": false,
+      "patternBackground": "rgb(232, 121, 51)",
+      "patternStyles": [
+        "{\"fill\":\"rgb(58, 23, 13)\",\"animation\":\"none\",\"transform\":\"none\"}"
+      ],
+      "pretzelAnimation": [
+        {
+          "delay": "0s",
+          "duration": "2.9s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "name": "pretzel-fall"
+        },
+        {
+          "delay": "0.18s",
+          "duration": "3.15s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "name": "pretzel-fall"
+        },
+        {
+          "delay": "0.36s",
+          "duration": "3.35s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "name": "pretzel-fall"
+        }
+      ],
+      "width": 320
+    }
+  ],
+  "focus": {
+    "bottom": 589.875,
+    "cardBackground": "rgb(58, 23, 13)",
+    "focusVisible": true,
+    "left": 30,
+    "outline": "rgb(247, 239, 230) solid 3px",
+    "right": 275,
+    "shadow": "rgb(23, 9, 5) 0px 0px 0px 8px",
+    "text": "Let’s Craft Something Together",
+    "top": 505.875
+  },
+  "console": []
+}

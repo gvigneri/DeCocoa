@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-25",
+  "browser": "Hidden IAB through CUA",
+  "visible": false,
+  "layout": [
+    {
+      "clientWidth": 1905,
+      "documentWidth": 1905,
+      "labels": [
+        "700",
+        "700",
+        "700",
+        "700",
+        "700"
+      ],
+      "people": {
+        "copyImageOverlap": false,
+        "heading": "The heart behind the chocolate.",
+        "headingBreaks": 0,
+        "imageWidth": 460,
+        "paragraphMaxWidth": "none",
+        "transform": "matrix(1, 0, 0, 1, -345, 0)",
+        "visibleFraction": 0.75
+      },
+      "wegmans": {
+        "loaded": true,
+        "naturalHeight": 1000,
+        "naturalWidth": 1280,
+        "src": "assets/images/partner-wegmans-supplied-626950.webp"
+      },
+      "width": 1920
+    },
+    {
+      "clientWidth": 1425,
+      "documentWidth": 1425,
+      "labels": [
+        "700",
+        "700",
+        "700",
+        "700",
+        "700"
+      ],
+      "people": {
+        "copyImageOverlap": false,
+        "heading": "The heart behind the chocolate.",
+        "headingBreaks": 0,
+        "imageWidth": 460,
+        "paragraphMaxWidth": "none",
+        "transform": "matrix(1, 0, 0, 1, -345, 0)",
+        "visibleFraction": 0.75
+      },
+      "wegmans": {
+        "loaded": true,
+        "naturalHeight": 1000,
+        "naturalWidth": 1280,
+        "src": "assets/images/partner-wegmans-supplied-626950.webp"
+      },
+      "width": 1440
+    },
+    {
+      "clientWidth": 753,
+      "documentWidth": 753,
+      "labels": [
+        "700",
+        "700",
+        "700",
+        "700",
+        "700"
+      ],
+      "people": {
+        "copyImageOverlap": false,
+        "heading": "The heart behind the chocolate.",
+        "headingBreaks": 0,
+        "imageWidth": 420,
+        "paragraphMaxWidth": "none",
+        "transform": "matrix(1, 0, 0, 1, -315, 0)",
+        "visibleFraction": 0.75
+      },
+      "wegmans": {
+        "loaded": true,
+        "naturalHeight": 1000,
+        "naturalWidth": 1280,
+        "src": "assets/images/partner-wegmans-supplied-626950.webp"
+      },
+      "width": 768
+    },
+    {
+      "clientWidth": 375,
+      "documentWidth": 375,
+      "labels": [
+        "700",
+        "700",
+        "700",
+        "700",
+        "700"
+      ],
+      "people": {
+        "copyImageOverlap": false,
+        "heading": "The heart behind the chocolate.",
+        "headingBreaks": 0,
+        "imageWidth": 279,
+        "paragraphMaxWidth": "none",
+        "transform": "matrix(1, 0, 0, 1, -209.25, 0)",
+        "visibleFraction": 0.75
+      },
+      "wegmans": {
+        "loaded": true,
+        "naturalHeight": 1000,
+        "naturalWidth": 1280,
+        "src": "assets/images/partner-wegmans-supplied-626950.webp"
+      },
+      "width": 390
+    },
+    {
+      "clientWidth": 305,
+      "documentWidth": 305,
+      "labels": [
+        "700",
+        "700",
+        "700",
+        "700",
+        "700"
+      ],
+      "people": {
+        "copyImageOverlap": false,
+        "heading": "The heart behind the chocolate.",
+        "headingBreaks": 0,
+        "imageWidth": 217,
+        "paragraphMaxWidth": "none",
+        "transform": "matrix(1, 0, 0, 1, -162.75, 0)",
+        "visibleFraction": 0.75
+      },
+      "wegmans": {
+        "loaded": true,
+        "naturalHeight": 1000,
+        "naturalWidth": 1280,
+        "src": "assets/images/partner-wegmans-supplied-626950.webp"
+      },
+      "width": 320
+    }
+  ],
+  "focus": [
+    {
+      "bottomBorder": "2px solid rgb(232, 121, 51)",
+      "id": "contact-name",
+      "labelColor": "rgb(232, 121, 51)",
+      "labelWeight": "700",
+      "outline": "rgb(58, 23, 13) none 3px",
+      "path": "/",
+      "shadow": "none"
+    },
+    {
+      "arrowColor": "rgb(232, 121, 51)",
+      "bottomBorder": "2px solid rgb(232, 121, 51)",
+      "id": "contact-reason",
+      "labelColor": "rgb(232, 121, 51)",
+      "labelWeight": "700",
+      "outline": "rgb(58, 23, 13) none 3px",
+      "path": "/",
+      "shadow": "none"
+    },
+    {
+      "bottomBorder": "2px solid rgb(232, 121, 51)",
+      "clientWidth": 375,
+      "documentWidth": 375,
+      "id": "contact-message",
+      "labelWeight": "700",
+      "outline": "rgb(58, 23, 13) none 3px",
+      "path": "/lets-talk/",
+      "shadow": "none"
+    },
+    {
+      "keyboardFocus": true,
+      "outline": "rgb(58, 23, 13) none 3px",
+      "path": "/lets-talk/",
+      "shadow": "none",
+      "structuralBorder": "2px solid rgb(232, 121, 51)",
+      "text": "Send Message",
+      "underline": "underline"
+    },
+    {
+      "id": "people-title",
+      "outline": "rgb(58, 23, 13) none 0px",
+      "path": "/",
+      "shadow": "none"
+    }
+  ],
+  "interactions": {
+    "shadowRules": [
+      {
+        "selector": ".button:hover:not(:disabled)",
+        "shadow": "6px 6px 0 var(--ripe)"
+      },
+      {
+        "selector": ".submenu",
+        "shadow": "0 0 0 var(--ripe)"
+      },
+      {
+        "selector": "0%",
+        "shadow": "transparent 10px 10px 0px"
+      },
+      {
+        "selector": "100%",
+        "shadow": "6px 6px 0 var(--ripe)"
+      },
+      {
+        "selector": ".button:hover",
+        "shadow": "none"
+      },
+      {
+        "selector": ".reduce-motion .button:hover",
+        "shadow": "none"
+      },
+      {
+        "selector": ".discovery-card:hover",
+        "shadow": "6px 6px 0 var(--ripe)"
+      },
+      {
+        "selector": ".category-card:hover",
+        "shadow": "6px 6px 0 var(--ripe)"
+      },
+      {
+        "selector": ".submenu:not([hidden])",
+        "shadow": "6px 6px 0 var(--ripe)"
+      },
+      {
+        "selector": ".reduce-motion .submenu:not([hidden])",
+        "shadow": "6px 6px 0 var(--ripe)"
+      },
+      {
+        "selector": ".fragment-arrival-quiet[tabindex=\"-1\"]:focus",
+        "shadow": "none"
+      }
+    ],
+    "submenuShadow": "rgb(184, 59, 40) 6px 6px 0px 0px",
+    "submenuTransform": "matrix(1, 0, 0, 1, -4, -4)",
+    "triggerOutline": "none",
+    "triggerShadow": "none",
+    "focusReturn": {
+      "expanded": "false",
+      "text": "Our Chocolate"
+    }
+  },
+  "copy": {
+    "mojibake": false,
+    "partners": "Good chocolate brings people together. Discover the ingredient specialists and food brands connected to DeCOCOA’s chocolate craft.",
+    "people": "The heart behind the chocolate."
+  },
+  "console": [],
+  "limits": [
+    "Button/card hover rules source/CSSOM checked; submenu shadow verified live.",
+    "Reduced-motion/forced-colors preference switching and screen-reader announcements not retested."
+  ],
+  "screenshots": [
+    "refinement-people-desktop.png",
+    "refinement-people-mobile.png",
+    "refinement-partners-desktop.png",
+    "refinement-inquiry-desktop.png",
+    "refinement-inquiry-mobile.png"
+  ]
+}

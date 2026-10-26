@@ -1,0 +1,23 @@
+{
+  "source_original": "C:\\Users\\guyta\\Downloads\\DeCocoa-Factory.gif",
+  "preserved": "assets/source-external/user-attachments/DeCocoa-Factory.gif",
+  "source_sha256": "930a1bc748f01167cb404a4c46cd59075c3890e47bfa22cd4f8a26bf0cd7028a",
+  "web": "assets/images/decocoa-factory.gif",
+  "web_sha256": "930a1bc748f01167cb404a4c46cd59075c3890e47bfa22cd4f8a26bf0cd7028a",
+  "dimensions": [
+    1200,
+    422
+  ],
+  "frames": 160,
+  "frame_durations_ms": [
+    50
+  ],
+  "duration_ms": 8000,
+  "loop": 0,
+  "operation": "GIF preserved and copied byte-for-byte; no frame, palette, geometry or timing edits.",
+  "reduced_motion": {
+    "file": "assets/images/decocoa-factory-still.png",
+    "sha256": "f1109f604083124b6f421b364aa29453f42e1d5220f91e78bdbc589b42d5371b",
+    "operation": "Lossless RGBA PNG of composited first frame; original dimensions and colors."
+  }
+}

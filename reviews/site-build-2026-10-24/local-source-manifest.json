@@ -1,0 +1,737 @@
+{
+  "id": "DC-LOCAL-INTAKE-2026-10-24",
+  "timestamp_utc": "2026-10-24T12:18:14Z",
+  "scope": "Historical local prototype, assets, scripts and original source files only; not the current WordPress baseline",
+  "files": [
+    {
+      "path": "prototype/copy-changes-r3.md",
+      "bytes": 734,
+      "sha256": "B7A55F1EFED1F4362FF9DD553666CA0A62F075D768C59A81BB164BA103D862A8"
+    },
+    {
+      "path": "prototype/homepage.template.html",
+      "bytes": 12989,
+      "sha256": "ABB6DE778638CF6818468D920779263E7AC8CED68420CFE88435C7FD3EA89100"
+    },
+    {
+      "path": "prototype/implementation-checks-r4.md",
+      "bytes": 6041,
+      "sha256": "D2E29667B6E28B2A38DE5C3B9A9B9631C1B51EF1B8C13FF7CFC3416E936792D4"
+    },
+    {
+      "path": "prototype/implementation-checks-r5.md",
+      "bytes": 4385,
+      "sha256": "BF9442B7360533EC6A6422DD31FC7CC825B3F12EF85EBC9A6174DE88ACFCD890"
+    },
+    {
+      "path": "prototype/implementation-checks-r6.md",
+      "bytes": 5084,
+      "sha256": "83077BFE73DBBDAD80002B20FDD507D0890CCF42D6719CF19F825A41B9E10B14"
+    },
+    {
+      "path": "prototype/index.html",
+      "bytes": 905265,
+      "sha256": "823AF4B54D0673482903FD9456E59C145CE2393CECABE2AF64E4C73C76EE108D"
+    },
+    {
+      "path": "prototype/repair-checks-r3.md",
+      "bytes": 2088,
+      "sha256": "EC49DDB5781BF4805E15A302C071E3152A25CE637C53B1C17D113316574787BF"
+    },
+    {
+      "path": "prototype/script.js",
+      "bytes": 8238,
+      "sha256": "DE620EE24418249EBED60844A6C0FD055CD0D99A26485FECD7DB3E9C0DB1C68D"
+    },
+    {
+      "path": "prototype/source-checks.json",
+      "bytes": 2936,
+      "sha256": "DCACC215F0CA0837B2554CECE71B1D052E217782F002698E7E689353C2362B78"
+    },
+    {
+      "path": "prototype/styles.css",
+      "bytes": 24555,
+      "sha256": "E6092FCE673645E6CF5BB39CC2556C55887C934EF1E7E6C49FE702676BAED5B0"
+    },
+    {
+      "path": "prototype/qa-r5/badge-source-comparison.jpg",
+      "bytes": 104573,
+      "sha256": "502DBAE8FA8299338F378161D4F3C9210F3E214850186321ABC8C6CA3F9ECC78"
+    },
+    {
+      "path": "prototype/qa-r5/footer-1920.jpg",
+      "bytes": 78655,
+      "sha256": "4234AE31EE47F2DA3BBAB498E7FC4D14272415992CCC27E064A679AD5A4F3682"
+    },
+    {
+      "path": "prototype/qa-r5/hero-1440.jpg",
+      "bytes": 166280,
+      "sha256": "2645D091E3601ACFBCBBD8E280AD16928019CB330B3C30916514DF8CEDAEBCAB"
+    },
+    {
+      "path": "prototype/qa-r5/hero-1920.jpg",
+      "bytes": 203929,
+      "sha256": "CEAB070329B0273EFCA10D25965B8CC880ED1B9D5A220C4B478F3C7C36489BF3"
+    },
+    {
+      "path": "prototype/qa-r5/hero-320.jpg",
+      "bytes": 42100,
+      "sha256": "56465D9CF8452CD878B1285513E8D6FBC5E1243466E5D2BCACCD6D0725FE8618"
+    },
+    {
+      "path": "prototype/qa-r5/hero-390.jpg",
+      "bytes": 41456,
+      "sha256": "09EE311B3A852E73905487D18B3D06534C91BF9A5412D1A4D06E63D092F6AB3C"
+    },
+    {
+      "path": "prototype/qa-r5/hero-768.jpg",
+      "bytes": 97472,
+      "sha256": "12C4DB61371501A6B47C4268ECDF16DB8437445233A9C4A76142E1E582199644"
+    },
+    {
+      "path": "prototype/qa-r5/menu-390.jpg",
+      "bytes": 30719,
+      "sha256": "8DF7684C8DB8CD1AF6C87B568CF2B48EAA1D7130D2569D9F9645B75C5EFC98E3"
+    },
+    {
+      "path": "prototype/qa-r5/pretzel-trio-320.jpg",
+      "bytes": 44121,
+      "sha256": "6A37EB6673BA53FBCF7FFF0593F61B85B65D9B477317E8DB37FA5A20EE8EC87F"
+    },
+    {
+      "path": "prototype/qa-r5/pretzel-trio-390.jpg",
+      "bytes": 48087,
+      "sha256": "B59B6EB2F297AE9F3E6324F0FE49516CC82FF7147E7AAE0DA8D892C2FE5F2134"
+    },
+    {
+      "path": "prototype/qa-r6/dimensions.json",
+      "bytes": 493,
+      "sha256": "5BFBFF78EB67D06DE5A7D6A666F3CC12A622BFD84821D82F3DE056EEC575F266"
+    },
+    {
+      "path": "prototype/qa-r6/hero-1440.jpg",
+      "bytes": 166379,
+      "sha256": "39AC0150D013FCC834475F5A02E4009D41EE2D1321B52117D9E2DCC629E4E354"
+    },
+    {
+      "path": "prototype/qa-r6/hero-1920.jpg",
+      "bytes": 205279,
+      "sha256": "6FDC2F9A0FEA64F0CD317B9DFC6918D6410AE0D103CF5AB82BDAE40AD9CC40FB"
+    },
+    {
+      "path": "prototype/qa-r6/hero-320.jpg",
+      "bytes": 41526,
+      "sha256": "0B19E4D505140B9B2B296866F50C649B01ADC57814269F1AA12889C9FB3C62CE"
+    },
+    {
+      "path": "prototype/qa-r6/hero-390.jpg",
+      "bytes": 42677,
+      "sha256": "266193D8643E2FE8CF85C7591B46D754F93C76A3E2DF59713B6E23C78828878C"
+    },
+    {
+      "path": "prototype/qa-r6/hero-768.jpg",
+      "bytes": 99518,
+      "sha256": "60E474FC524235E60EF77E9A49CCB07D6010A335B3C078317452ACCA8BFEDE43"
+    },
+    {
+      "path": "prototype/qa-r6/people-1920.jpg",
+      "bytes": 231674,
+      "sha256": "D7258B162DB7E6787F15BBE07911531C499AE401D14F81B83738B612D6058E7D"
+    },
+    {
+      "path": "prototype/qa-r6/pretzels-320.jpg",
+      "bytes": 42443,
+      "sha256": "D6128127C492A4D7D361B916C7A9A5FD92952F2775F890A08F6DAED6A3E0C42F"
+    },
+    {
+      "path": "prototype/qa-r6/pretzels-390.jpg",
+      "bytes": 47439,
+      "sha256": "0387C5332533473EE23CE79C7449A1B58C732E0B2BAEC0F8DD0C71D0F1744EA9"
+    },
+    {
+      "path": "prototype/qa-r6/products-1920.jpg",
+      "bytes": 126790,
+      "sha256": "738E33A2859D939C8F162BDF60715C14B542ADE764BA70A9266C0B297E4FF174"
+    },
+    {
+      "path": "prototype/qa-r6/products-320.jpg",
+      "bytes": 32688,
+      "sha256": "A30BEE222D0730EC745CA3F9ECFCD3707D4716EB74C56ED088CD4662750D71A7"
+    },
+    {
+      "path": "assets/export-details.json",
+      "bytes": 1837,
+      "sha256": "66AEDD4BA398C7571AF8D8ADF053AE2C67F0A06C1F70BE58C9D69D4EC3DBA4C2"
+    },
+    {
+      "path": "assets/pretzel-trio-export-details.json",
+      "bytes": 685,
+      "sha256": "08BB4792FB87B7A187EF284F5808595922837F8B113B2293B39FAC039168071F"
+    },
+    {
+      "path": "assets/r6-cutout-export-details.json",
+      "bytes": 1155,
+      "sha256": "544311FCDABAC4632DECB5232116C2FEECCA866C738A7DE2A6C5701380D59B4D"
+    },
+    {
+      "path": "assets/vector-export-details.json",
+      "bytes": 2892,
+      "sha256": "0DC9CA342B926CD43CCBDA5B7DD1C644CF3CCAD7A79887E9579C4655912B38DA"
+    },
+    {
+      "path": "assets/fonts/montserrat-1.woff2",
+      "bytes": 26368,
+      "sha256": "0F7F5F2FBB4EAE126790FE6F01659AB3EE0806E8038A941908E893020569F51A"
+    },
+    {
+      "path": "assets/fonts/montserrat-2.woff2",
+      "bytes": 23828,
+      "sha256": "A187B077090FE8AE3FD2D7496AABBEAE604819C718A282E0AFC92DF72B450766"
+    },
+    {
+      "path": "assets/fonts/montserrat-3.woff2",
+      "bytes": 12928,
+      "sha256": "26B2403F995ED65FB49037A6498C074D3EC3C36031A69FC368C4C2180E2C01FA"
+    },
+    {
+      "path": "assets/fonts/montserrat-4.woff2",
+      "bytes": 70688,
+      "sha256": "54D9A78B7FF60B689AD9F3017FFAC8547B5D871AFEC733F6C1C3AE36577EE504"
+    },
+    {
+      "path": "assets/fonts/montserrat-5.woff2",
+      "bytes": 37956,
+      "sha256": "06B16DB7A969135D48D38C49183BE7FB88D4452E2A3011957C7851941F4E4879"
+    },
+    {
+      "path": "assets/fonts/Montserrat-OFL.txt",
+      "bytes": 4402,
+      "sha256": "EEA2531F8465EA6A4442B47AD40F4360CC4495C61ABDF7600719789D778504D9"
+    },
+    {
+      "path": "assets/fonts/montserrat.css",
+      "bytes": 4814,
+      "sha256": "9327D40F13768BB975A7FA00C691828933F3D3B953F9821A4AA983C1A50E627E"
+    },
+    {
+      "path": "assets/fonts/provenance.json",
+      "bytes": 1636,
+      "sha256": "7C77DF0714D3F4B9147BAFBDF540C890C34E6BB60C8F1AA055C27215990F7DA1"
+    },
+    {
+      "path": "assets/images/certification-reference-a.jpg",
+      "bytes": 49331,
+      "sha256": "B834987BB26F2273F7132A3651715514A6818C5979E6B84EFF0D4D841C886945"
+    },
+    {
+      "path": "assets/images/certification-reference-b.jpg",
+      "bytes": 31381,
+      "sha256": "5AFE6F19F6ED2644E7FA46154F86213EDE32BD241E820503F8F5C3627616E8D4"
+    },
+    {
+      "path": "assets/images/chocolate-bar.webp",
+      "bytes": 238230,
+      "sha256": "77DAB355D1A33615C19657AC007D04DD5C80228BDBE6F6CF403858EFAAC3F3C1"
+    },
+    {
+      "path": "assets/images/chocolate-craft.webp",
+      "bytes": 72190,
+      "sha256": "33083A81D60A730F74E22F39D59F1BD963A35161EE2C9B7AAB10B3345A5FC8FD"
+    },
+    {
+      "path": "assets/images/chocolate-drizzle.webp",
+      "bytes": 448240,
+      "sha256": "FB6ADD532B0D20931FCF31A25FE7DF7D2D2D5893BC43203FAF4FFF057D115733"
+    },
+    {
+      "path": "assets/images/cocoa-powder.webp",
+      "bytes": 260434,
+      "sha256": "A1EF7C882E0BCE1AC744AA948379743A0DF6E3C294B6D8116338C8BA50D6A0FD"
+    },
+    {
+      "path": "assets/images/dipped-pretzel-trio.webp",
+      "bytes": 477524,
+      "sha256": "70FE62C15ED524E951C641C7FB5DA508C3EA7B883B8EC3359133FCDCFD097C37"
+    },
+    {
+      "path": "assets/images/dipped-pretzel.webp",
+      "bytes": 301956,
+      "sha256": "236B7B30A790E463605A6DC5FC241FFE433AC88BBE03E8C6D8C3A6D15F587CB9"
+    },
+    {
+      "path": "assets/images/dipped-pretzels.webp",
+      "bytes": 396388,
+      "sha256": "5428CE2ACCF64EFF3E6BAC9104E7BAEF8481C15552CC862D72AF56A64655053C"
+    },
+    {
+      "path": "assets/images/filled-chocolate-on-cream.jpg",
+      "bytes": 64014,
+      "sha256": "105CE510707BF55728FA8A9736DF3069871966E0CEE2B930CC6FEED613B33065"
+    },
+    {
+      "path": "assets/images/filled-chocolate.webp",
+      "bytes": 108636,
+      "sha256": "89CD56EB57AD1B91BA9FD53F14A09E5713CB92625EA1A569387B51E404B9E5AA"
+    },
+    {
+      "path": "assets/images/inspect-Blue-Stripes.jpg",
+      "bytes": 42877,
+      "sha256": "A8660528E77F64ABBB88B29A666716E8BC09389919AA1766E545CF44B0F95D85"
+    },
+    {
+      "path": "assets/images/inspect-Pretzels.jpg",
+      "bytes": 56291,
+      "sha256": "544A9BEB3CFABFCF8AC03CF167DFB28B8E1AD57ABD7D87C7105145A810B022A5"
+    },
+    {
+      "path": "assets/images/nuts-and-chocolate.webp",
+      "bytes": 247454,
+      "sha256": "8EEF1FCD328890ED3B7B25FC9A85BE0CD185D7D55F84413E4F5FB7611DA18D96"
+    },
+    {
+      "path": "assets/images/partner-guittard.png",
+      "bytes": 55098,
+      "sha256": "45F12CB652F3EE300F5EBF0A024120713A3DE4A8ED97D2159905DBD32BF7A9C4"
+    },
+    {
+      "path": "assets/images/partner-puratos.png",
+      "bytes": 21859,
+      "sha256": "31DEB4CFCEF999AB6DA76CD3D2933E77DE63FBB99FD4F5F745B8B84C1FBFA681"
+    },
+    {
+      "path": "assets/images/partner-region-inspection.png",
+      "bytes": 103800,
+      "sha256": "521EE24A20ACA5E52649B795E65539E3D9B892DE80C1BA463983FB0CEFEB03C3"
+    },
+    {
+      "path": "assets/images/partner-wegmans.png",
+      "bytes": 84186,
+      "sha256": "B7F82D78B99646CEAE595147DF3A15F845A129B0E412268ED1D30D3742FB29F9"
+    },
+    {
+      "path": "assets/images/people-at-work.webp",
+      "bytes": 90468,
+      "sha256": "E411970B0AE92E0D1C60D79CC1E89AD05AAE08EDD8941E12DA126989715A3630"
+    },
+    {
+      "path": "assets/images/pretzel-chunky-sprinkles-r6.png",
+      "bytes": 1936868,
+      "sha256": "21850441131B9FC05D91E18F6501C0EC6E23C863EB76D9604877A6E42AAC1068"
+    },
+    {
+      "path": "assets/images/pretzel-chunky-sprinkles-r6.webp",
+      "bytes": 495236,
+      "sha256": "55CFE4D8247F1199B0EE64468ADE6C36426D18C732221B5B2E828DCD56395A8E"
+    },
+    {
+      "path": "assets/images/pretzel-compositing-check.jpg",
+      "bytes": 170373,
+      "sha256": "0269ED6B855ED67BDA16E0850A8869B59C766B29361DD053C630161C7034DB10"
+    },
+    {
+      "path": "assets/images/pretzel-red-drizzle-r6.png",
+      "bytes": 1510620,
+      "sha256": "32DC1245113A96AC7883D7C794E7894F0EF200AA926DD1FC08386F61A289CE10"
+    },
+    {
+      "path": "assets/images/pretzel-red-drizzle-r6.webp",
+      "bytes": 298158,
+      "sha256": "C068C705D7A301D0B61ED39DC798D51D0A16049C1B1CDCD25101DCEFFA9890FF"
+    },
+    {
+      "path": "assets/images/pretzel-trio-export-proof.jpg",
+      "bytes": 203650,
+      "sha256": "5D19CCA1E8099978DE724F9B9BF5306769444EC3FF540CA4E0CF63FFE169F541"
+    },
+    {
+      "path": "assets/logos/brandmark-source-render.png",
+      "bytes": 23802,
+      "sha256": "1D59F4932986A2386388D0873E34DFE75C4763472DA71E67F2AA8B08F456A2F1"
+    },
+    {
+      "path": "assets/logos/dark-badge-source-brown.png",
+      "bytes": 98149,
+      "sha256": "41A49110143ED2D5A61638B0551710010E423D180E5117D5833B9FE0100CD702"
+    },
+    {
+      "path": "assets/logos/dark-badge-source-render.png",
+      "bytes": 46271,
+      "sha256": "3769C3C6BC567407CB6097B7B09F09D68650AC2BF6454EB539D1A5FAB734D669"
+    },
+    {
+      "path": "assets/logos/decocoa-brandmark-silhouette.svg",
+      "bytes": 913,
+      "sha256": "8795BEB3F7CEEF3528AEA6E99B8A7504A1B8E3EE4EDD3CD0FFB760B83B555A0A"
+    },
+    {
+      "path": "assets/logos/decocoa-brandmark.svg",
+      "bytes": 8313,
+      "sha256": "45137B2C629D32CAC320BFCE89E522BAA1B82F7804B726DD66B5E0A4BD5E4DBC"
+    },
+    {
+      "path": "assets/logos/decocoa-dark-badge.svg",
+      "bytes": 41181,
+      "sha256": "4AED6B6F912B737949EF49C67356D00F42D53620E0F42C50CDB796FDEEE06A39"
+    },
+    {
+      "path": "assets/logos/decocoa-horizontal.svg",
+      "bytes": 19756,
+      "sha256": "8CFB6F63F632B8F26CFE4FBC3A5F1E238ACD7DE7E8B30F511FBB1A1B8F34DF39"
+    },
+    {
+      "path": "assets/logos/horizontal-source-cropped.png",
+      "bytes": 41511,
+      "sha256": "A427B61CFC4F8CC9CD3858EAC833C8FBDB71C78E122072BAEDCA343725C7DEB7"
+    },
+    {
+      "path": "assets/logos/horizontal-source-render.png",
+      "bytes": 47536,
+      "sha256": "9389614F39E930AA32A91784BC08A1F70F8D758A9192BBEF5D9F981CBFA537E2"
+    },
+    {
+      "path": "assets/patterns/circles-master.svg",
+      "bytes": 930676,
+      "sha256": "55CE301328BFDC300FC5D8EE94CA17A8ECAB6AD81E1E1AD0007BAEA4EAAB7089"
+    },
+    {
+      "path": "assets/patterns/DeCocoa_BrandPatterns_Circles_Pattern.png",
+      "bytes": 99355,
+      "sha256": "787F9AD06AF2BACDB3D8C0C154A82BCD3392705E22DE1F2484F145F6EFCBE3A1"
+    },
+    {
+      "path": "assets/patterns/DeCocoa_BrandPatterns_FlowerOfLife_Pattern.png",
+      "bytes": 104536,
+      "sha256": "6CD9BFB17F8927F93E24B317F68D548ADFCC7D6D495ACA17F5B0D99D809C3250"
+    },
+    {
+      "path": "assets/patterns/DeCocoa_BrandPatterns_Growth_Pattern.png",
+      "bytes": 82317,
+      "sha256": "52D3483747058910403E28D5FF22B043C5DADF5F7231B10C31A37F2062FA4171"
+    },
+    {
+      "path": "assets/patterns/DeCocoa_BrandPatterns_Luxury_Pattern.png",
+      "bytes": 94340,
+      "sha256": "038CD0A38D45C3A1C1E07949561200A124568B4D687468A57FD8F92F0E202246"
+    },
+    {
+      "path": "assets/patterns/DeCocoa_BrandPatterns_Rings_Pattern.png",
+      "bytes": 76478,
+      "sha256": "32C888A802C63923DDE30A8D435FF3AC22D817DE0CB816EA203F9FA3AA3E9EC1"
+    },
+    {
+      "path": "assets/patterns/DeCocoa_BrandPatterns_Stripes_Pattern.png",
+      "bytes": 50052,
+      "sha256": "A2878E4EF9F5992D7D20C35370DD156D57C3818C25459298B7999AB5B3FB2E79"
+    },
+    {
+      "path": "assets/patterns/floweroflife-master.svg",
+      "bytes": 423583,
+      "sha256": "E225FCFE076DB5C71C754C71EF3210FC4C10F1812A9187268DE32DB13B350810"
+    },
+    {
+      "path": "assets/patterns/floweroflife-website.svg",
+      "bytes": 427009,
+      "sha256": "789FCBC980619E62ED99879647E0E449D65BD624BDE0BA206A8141521E1B2B67"
+    },
+    {
+      "path": "assets/patterns/growth-master.svg",
+      "bytes": 219523,
+      "sha256": "C06F32F436DD146F576F64DD35F5C09FDCA86408B9B45027C1AE4873360431C9"
+    },
+    {
+      "path": "assets/patterns/growth-source-render.png",
+      "bytes": 254962,
+      "sha256": "F0574F23679B38508280939174A9A65EF63FB429794043D81DFC5BEDD4379CCF"
+    },
+    {
+      "path": "assets/patterns/growth-website.svg",
+      "bytes": 231408,
+      "sha256": "7278E62538B6E92CDDEDDF533682D701E753381331710FB399ED3FDD4E8B3272"
+    },
+    {
+      "path": "assets/patterns/luxury-master.svg",
+      "bytes": 397857,
+      "sha256": "72B7A1225DF2243A08EF2DC1594FC90EA4ACCAF3C58A398CCD1F4B62980058B9"
+    },
+    {
+      "path": "assets/patterns/pattern-contact-sheet.jpg",
+      "bytes": 276311,
+      "sha256": "EC3E1F5C3655DB152CEA02A05FFCA72ABC25A0B0389BC571D33BBF95BA2A1B06"
+    },
+    {
+      "path": "assets/patterns/rings-master.svg",
+      "bytes": 208236,
+      "sha256": "22E27FFACFD12EE48CDB65935960AB5D35B37C067CCEB532D0B41893DDBA61D1"
+    },
+    {
+      "path": "assets/patterns/stripes-master.svg",
+      "bytes": 223320,
+      "sha256": "9353D9376D47E7CE35E4D44AEEBDFB41C876116B4054257670EEC1030F365EA2"
+    },
+    {
+      "path": "assets/patterns/stripes-website.svg",
+      "bytes": 233914,
+      "sha256": "7CC9238175B181FB62448B11C593E8D3593690B851E016BC8EECD15186ACB615"
+    },
+    {
+      "path": "assets/patterns/stripes.png",
+      "bytes": 172700,
+      "sha256": "E57B69C974D4904F7ADC7A7AB80A7EDDFDE637A2F8F303E20E197C3888EBC139"
+    },
+    {
+      "path": "scripts/badge-qa.html",
+      "bytes": 462,
+      "sha256": "CBB4CF96A397FA3D419C423D8DB12AA4E58651CD60347E26444E2B9EBED9096E"
+    },
+    {
+      "path": "scripts/build_homepage.py",
+      "bytes": 1739,
+      "sha256": "8158BDF74280866ED6016AD02D4C65CB387D6C6394D6CDF26B7C7C6240E62493"
+    },
+    {
+      "path": "scripts/check_homepage.py",
+      "bytes": 6789,
+      "sha256": "31D4759610B5444CD0A4F0D105962A06155EC0EAEADB71A888A044646F484A03"
+    },
+    {
+      "path": "scripts/export_vectors.py",
+      "bytes": 5552,
+      "sha256": "35EF9C2E9F33948FF043626E71D682BCB7297B4E147A5C2278729381C5CAB486"
+    },
+    {
+      "path": "scripts/prepare_assets.py",
+      "bytes": 1942,
+      "sha256": "D0EFF03DA631B4A0B32B2C68C6A1E1A2E8FE0B879BE0FE5D6A1D58E57C1E6B1D"
+    },
+    {
+      "path": "scripts/prepare_pretzel_trio.py",
+      "bytes": 1642,
+      "sha256": "FCC2B94464ECADA9EFE13909E96C33537F388CB42DCEC8DB2CDEA507BF101548"
+    },
+    {
+      "path": "scripts/prepare_r6_cutouts.py",
+      "bytes": 1219,
+      "sha256": "D0D8668AD981D12CB2A4A483598C285A6B39FF73731B626091646E80453962F1"
+    },
+    {
+      "path": "scripts/prepare_reference_marks.py",
+      "bytes": 1209,
+      "sha256": "19DF2749E730BB7D6ECC375C3C76D9CFCDC5CFCE5B08B32651150671EAB0EF5F"
+    },
+    {
+      "path": "scripts/vector-qa.html",
+      "bytes": 1914,
+      "sha256": "78B175496CE8B14AE8BA003E945FAFE785EA8D6DCED1280D1900B1A488C16E28"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/Decocoa 2026 Wireframe + Branded.pdf",
+      "bytes": 40892950,
+      "sha256": "258C2D2F38E8FFF2053E13ECAA9159A2EB41DE61ABCB8F763BBECE8CA6E7C983"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_BrandManual.pdf",
+      "bytes": 7845454,
+      "sha256": "AD013BBF7E0795064AE74DEEEF8D1476F9B43C717E7C8F8715C8F328C9017069"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_BrandPatterns_Circles_Pattern.ai",
+      "bytes": 877061,
+      "sha256": "42E9A9223743D4B13E2653F70BF019FF0507407B34365F6821233B91F382E198"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_BrandPatterns_FlowerOfLife_Pattern.ai",
+      "bytes": 589137,
+      "sha256": "DF0CC10CFB0C61142D70E046CF4734046296EDE50159D16B5692C848AAB6EE8E"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_BrandPatterns_Growth_Pattern.ai",
+      "bytes": 632227,
+      "sha256": "586A07593F4B97FA1E5FB8BCB114984E9D772D22521E382379E70DF72081FCF0"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_BrandPatterns_Luxury_Pattern.ai",
+      "bytes": 597536,
+      "sha256": "B067D837BD0A8F4ED02D6AD8AEDDE2801BD2A5201D4F956AF25BD5ECCB01BFA1"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_BrandPatterns_Rings_Pattern.ai",
+      "bytes": 794120,
+      "sha256": "7AA6419966ABB28FE4AC540A28DE63D2BCE6A3675BA88ACFD9000BBB01181261"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_BrandPatterns_Stripes_Pattern.ai",
+      "bytes": 564471,
+      "sha256": "C11F0E7332DC948B09FF5F9CADD425332612A3E95C218553B85A419B06DFA6A8"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_Black_Badge.ai",
+      "bytes": 392244,
+      "sha256": "7CBDFE530ABBB053832C3A662B8F60E8ADCC66EB1BB528F1336839B4597442E5"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_Black_Brandmark.ai",
+      "bytes": 364382,
+      "sha256": "007184B5575D32D9969FE179DE1474E09F48C9CB3BB3DF88133E2B7235F1249E"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_Black_Horizontal.ai",
+      "bytes": 371512,
+      "sha256": "BC7E2876B8C29952C241506E9D28383CCDFCF9A4A148EDC8C851EDB1FA7EDED3"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_Black_Vertical.ai",
+      "bytes": 372118,
+      "sha256": "C4271BF514D31A2293D3DC355F7C09C6965AC6A13C29C814D9B103A5E66A6AD6"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_DarkBG_Badge.ai",
+      "bytes": 392564,
+      "sha256": "1C60C0A19418819494FBD3F9945F869162D1AF041F5389A7B66DC176CF82C754"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_DarkBG_Brandmark.ai",
+      "bytes": 364661,
+      "sha256": "649DFEA3114BF78610DB1E2800DBBC710C5B016249B24A71C44DD829138CDA19"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_DarkBG_Horiztonal.ai",
+      "bytes": 371514,
+      "sha256": "FE38C917983F91891E5C41F381D070C355B9CA20B67F93D1747D296A7516BF08"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_DarkBG_Vertical.ai",
+      "bytes": 372164,
+      "sha256": "810C3A85BE4DF7DE6350ECF451F6AA207CEE64490D8F374EA61855353CF42E5D"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_LightBG_Badge.ai",
+      "bytes": 391422,
+      "sha256": "643C5A33AEA514B39ED2E7AF5349C5DB97BBE7F491669639ED461106CF80E686"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_LightBG_Brandmark.ai",
+      "bytes": 351022,
+      "sha256": "C6A2087B38998E5E0C83D777E5342FEDBD2E955ED16B50F984FC38A4A1651BED"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_LightBG_Horiztonal.ai",
+      "bytes": 371196,
+      "sha256": "F0C1A60964280B7F1DC349974C0C4BD49EE277529B6545F724761508851FC387"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_LightBG_Vertical.ai",
+      "bytes": 372003,
+      "sha256": "952E43716C064C5EDF26EC2492010D9736B6E35D8FACC885F004AB148F73C93E"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_White_Badge.ai",
+      "bytes": 391712,
+      "sha256": "4F3123C6B74B1D8E05FFB6BAD820AF7D704883A6E79E1AAB10C6C8BCB4528442"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_White_Brandmark.ai",
+      "bytes": 363876,
+      "sha256": "6C57D2C6CDD4D88DD2CC7D4BF08474DC5533BDA0715D5D39CF9A7CE82F0E774E"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_White_Horizontal.ai",
+      "bytes": 371277,
+      "sha256": "3A9941A9530E8A932F4B84F864DD1D3C3FCCAC0900963A9B8B44C17E7FEE1156"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/DeCocoa_Logo_RGB_White_Vertical.ai",
+      "bytes": 371860,
+      "sha256": "54C10432E46B6CBF7464A1185134223DF08D937012EF5B44030A4BBA9B500CDA"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/bag.png",
+      "bytes": 6756596,
+      "sha256": "34BF5ABB2324B6F0E53561F914430A1AE39F87B9F0AF75FFFD05D85A73A448DC"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Bark filled.png",
+      "bytes": 607972,
+      "sha256": "CFE6FBF002421F2178D50092723F88C01E336A50AEF68AF84B4C92848F4A857A"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Bark.png",
+      "bytes": 28614926,
+      "sha256": "518CA59873D70CA45156537E0E9950E1F1FF05DA390FFF3EB471C327424DDD7D"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Blue Stripes.png",
+      "bytes": 10789991,
+      "sha256": "7C47BAE6B44A108FA2E40C1B8A3FB8FF2141EF1C525CDC1D4E4A9DC91E31E49A"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Box Transparent Wrap_2.png",
+      "bytes": 14284202,
+      "sha256": "477FC24336D9762B74052FA665449564BEDCD5EB9F0061A9BB8E5DB1A1706BD3"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Box Transparent Wrap.png",
+      "bytes": 654980,
+      "sha256": "F06441786CC50B9A9C207E16A5FEAC4CC9C22115D19F520B7D81BAB0DC49B05A"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Box.png",
+      "bytes": 6149442,
+      "sha256": "34949B1F22A9ECEE6596F626083F8440D9740D0D9E41BAB1FD188AC46EA6659C"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Bunny 1.png",
+      "bytes": 480918,
+      "sha256": "A95A76E4DD2C3FD2CD4C382E5ED1A2C8D5B1D5D1C2D6FD2B5229C8F041D509D1"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Bunny 2.png",
+      "bytes": 9267246,
+      "sha256": "B0E1A1F638E6660B6B17409494D34BD9CA5868B3B17D23AD80142688E85DDB95"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Chocolate Powder.png",
+      "bytes": 4006010,
+      "sha256": "47B5AF80C6E191BF00C429FBA09074025A608001D2952B3DC5333E3EB710D1A6"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/DEfi.png",
+      "bytes": 12400533,
+      "sha256": "16FCD79437BCF7DE66885BDBBD23C4FDF94FF58BE6A0E44C1F695A064E382DD4"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/ENrobed nuts.png",
+      "bytes": 2579250,
+      "sha256": "2DD660681BB5ABEBE0816E6CFC4F9C6DEE1114E6CD3130536B551283803019B5"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Hot Cocoa Tin.png",
+      "bytes": 5421768,
+      "sha256": "F34165304AA7803167C40335DD06EE086B58E9B021A76A454F656993F8A2A230"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Nuts Upscale.png",
+      "bytes": 1980377,
+      "sha256": "CAEB0873E8D94CFD98B5AE8600AB1CD262937744CE81A19DE88DE2E42E5E1296"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Pretzel + RedGreen sprinkles.png",
+      "bytes": 1658951,
+      "sha256": "98E62DEE12EB57C413DB365D18EDF9A88026630E9850F06C378E78036F8B564B"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Pretzels.png",
+      "bytes": 10984097,
+      "sha256": "B5AB57B44ED77BABAFE88EC55E31E110E25DD8668C636EF0442B5BE9F5868A04"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Wegmans Bark.png",
+      "bytes": 9055552,
+      "sha256": "0ECE474A29D9026C1D06582380A12CB87D85F9CA03157AD520083DC1BF97EC6A"
+    },
+    {
+      "path": "brand/source/Decocoa Get Started/images/Wellness.png",
+      "bytes": 5650969,
+      "sha256": "D2C4483E85883D6D646FA61E23AF21E849E601D0521D4890165D65AC208E145C"
+    }
+  ]
+}

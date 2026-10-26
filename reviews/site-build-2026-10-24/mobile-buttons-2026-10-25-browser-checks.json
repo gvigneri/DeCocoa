@@ -1,0 +1,467 @@
+{
+  "date": "2026-10-25",
+  "hidden": true,
+  "buttonBaseline": [
+    {
+      "inner": "2px",
+      "outer": "8px",
+      "parentWidth": 375,
+      "text": "Let's Talk",
+      "width": 106
+    },
+    {
+      "inner": "2px",
+      "outer": "8px",
+      "parentWidth": 307,
+      "text": "Let’s Craft Something Together",
+      "width": 307
+    },
+    {
+      "inner": "2px",
+      "outer": "8px",
+      "parentWidth": 327,
+      "text": "Explore Our Products",
+      "width": 237.6875
+    },
+    {
+      "inner": "2px",
+      "outer": "8px",
+      "parentWidth": 279,
+      "text": "Meet Our People",
+      "width": 198.953125
+    },
+    {
+      "inner": "2px",
+      "outer": "8px",
+      "parentWidth": 279,
+      "text": "Explore Our Craft",
+      "width": 202.671875
+    },
+    {
+      "inner": "2px",
+      "outer": "8px",
+      "parentWidth": 279,
+      "text": "Explore the Experience Center",
+      "width": 279
+    },
+    {
+      "inner": "2px",
+      "outer": "8px",
+      "parentWidth": 327,
+      "text": "Send Message",
+      "width": 178.625
+    }
+  ],
+  "mobileButtonChecks": [
+    {
+      "buttons": [
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "16px",
+          "parentPaddingRight": "16px",
+          "parentWidth": 375,
+          "text": "Let's Talk",
+          "width": 106
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 307,
+          "text": "Let’s Craft Something Together",
+          "width": 307
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 327,
+          "text": "Explore Our Products",
+          "width": 327
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 279,
+          "text": "Meet Our People",
+          "width": 279
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 279,
+          "text": "Explore Our Craft",
+          "width": 279
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 279,
+          "text": "Explore the Experience Center",
+          "width": 279
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 327,
+          "text": "Send Message",
+          "width": 327
+        }
+      ],
+      "overflow": 0,
+      "width": 390
+    },
+    {
+      "buttons": [
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "16px",
+          "parentPaddingRight": "16px",
+          "parentWidth": 305,
+          "text": "Let's Talk",
+          "width": 106
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 253,
+          "text": "Let’s Craft Something Together",
+          "width": 253
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 265,
+          "text": "Explore Our Products",
+          "width": 265
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 217,
+          "text": "Meet Our People",
+          "width": 217
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 217,
+          "text": "Explore Our Craft",
+          "width": 217
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 217,
+          "text": "Explore the Experience Center",
+          "width": 217
+        },
+        {
+          "inner": "4px",
+          "outer": "8px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 265,
+          "text": "Send Message",
+          "width": 265
+        }
+      ],
+      "overflow": 0,
+      "width": 320
+    },
+    {
+      "buttons": [
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "32.256px",
+          "parentPaddingRight": "32.256px",
+          "parentWidth": 753,
+          "text": "Let's Talk",
+          "width": 116
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "32.256px",
+          "parentPaddingRight": "32.256px",
+          "parentWidth": 753,
+          "text": "Let's Talk",
+          "width": 106
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 300,
+          "text": "Let’s Craft Something Together",
+          "width": 299.84375
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 650,
+          "text": "Explore Our Products",
+          "width": 237.6875
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 625,
+          "text": "Meet Our People",
+          "width": 198.953125
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 625,
+          "text": "Explore Our Craft",
+          "width": 202.671875
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 625,
+          "text": "Explore the Experience Center",
+          "width": 312.828125
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 689,
+          "text": "Send Message",
+          "width": 178.625
+        }
+      ],
+      "overflow": 0,
+      "width": 768
+    },
+    {
+      "buttons": [
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "60.48px",
+          "parentPaddingRight": "60.48px",
+          "parentWidth": 1425,
+          "text": "Let's Talk",
+          "width": 136
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "60.48px",
+          "parentPaddingRight": "60.48px",
+          "parentWidth": 1425,
+          "text": "Let's Talk",
+          "width": 106
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 555,
+          "text": "Let’s Craft Something Together",
+          "width": 385.703125
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 650,
+          "text": "Explore Our Products",
+          "width": 282.609375
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 572,
+          "text": "Meet Our People",
+          "width": 234.1875
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 520,
+          "text": "Explore Our Craft",
+          "width": 238.84375
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 544,
+          "text": "Explore the Experience Center",
+          "width": 376.53125
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 800,
+          "text": "Send Message",
+          "width": 208.78125
+        }
+      ],
+      "overflow": 0,
+      "width": 1440
+    },
+    {
+      "buttons": [
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "64px",
+          "parentPaddingRight": "64px",
+          "parentWidth": 1500,
+          "text": "Let's Talk",
+          "width": 136
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "64px",
+          "parentPaddingRight": "64px",
+          "parentWidth": 1500,
+          "text": "Let's Talk",
+          "width": 126
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 587,
+          "text": "Let’s Craft Something Together",
+          "width": 385.703125
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 650,
+          "text": "Explore Our Products",
+          "width": 282.609375
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 603,
+          "text": "Meet Our People",
+          "width": 234.1875
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 549,
+          "text": "Explore Our Craft",
+          "width": 238.84375
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 575,
+          "text": "Explore the Experience Center",
+          "width": 376.53125
+        },
+        {
+          "inner": "6px",
+          "outer": "12px",
+          "parentPaddingLeft": "0px",
+          "parentPaddingRight": "0px",
+          "parentWidth": 800,
+          "text": "Send Message",
+          "width": 208.78125
+        }
+      ],
+      "overflow": 0,
+      "width": 1920
+    }
+  ],
+  "interiorButtonChecks": {
+    "buttons": [
+      {
+        "className": "button button-primary header-contact",
+        "inner": "4px",
+        "outer": "8px",
+        "parentWidth": 375,
+        "text": "Let's Talk",
+        "width": 106
+      },
+      {
+        "className": "button button-primary",
+        "inner": "4px",
+        "outer": "8px",
+        "parentWidth": 327,
+        "text": "Ask About Sweet Careers",
+        "width": 327
+      },
+      {
+        "className": "button button-primary",
+        "inner": "4px",
+        "outer": "8px",
+        "parentWidth": 327,
+        "text": "Explore Our Craft",
+        "width": 327
+      },
+      {
+        "className": "button button-primary button-talk",
+        "inner": "4px",
+        "outer": "8px",
+        "parentWidth": 327,
+        "text": "Let's Talk",
+        "width": 136
+      }
+    ],
+    "overflow": 0
+  },
+  "buttonConsole": []
+}

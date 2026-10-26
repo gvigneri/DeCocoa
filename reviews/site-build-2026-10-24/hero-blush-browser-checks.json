@@ -1,0 +1,642 @@
+{
+  "layouts": [
+    {
+      "card": {
+        "afterContent": "none",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px",
+        "bottom": 882.734375,
+        "color": "rgb(58, 23, 13)",
+        "left": 266.5,
+        "right": 909,
+        "top": 383.140625
+      },
+      "ctaFits": true,
+      "ctas": [
+        {
+          "href": "lets-talk/#inquiry",
+          "text": "Let’s Craft Something Together"
+        }
+      ],
+      "documentWidth": 1905,
+      "eyebrow": "rgb(184, 59, 40)",
+      "hero": {
+        "background": "rgb(242, 201, 193)",
+        "bottom": 1002.9375,
+        "height": 740,
+        "top": 262.9375
+      },
+      "overflow": false,
+      "patternBackground": "rgb(242, 201, 193)",
+      "patternColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "pretzels": [
+        {
+          "bottom": 684.9375,
+          "class": "pretzel-drop pretzel-drizzle",
+          "delay": "0s",
+          "duration": "2.9s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 442,
+          "imageBottom": 767.9293823242188,
+          "imageTop": 159.94561767578125,
+          "left": 923.40625,
+          "playState": "running",
+          "right": 1530.546875,
+          "rotate": "0deg",
+          "top": 242.9375,
+          "translate": "0px",
+          "width": 607.140625
+        },
+        {
+          "bottom": 892.9375,
+          "class": "pretzel-drop pretzel-chunky",
+          "delay": "0.18s",
+          "duration": "3.15s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 442,
+          "imageBottom": 955.5617980957032,
+          "imageTop": 388.3132629394531,
+          "left": 1314.671875,
+          "playState": "running",
+          "right": 1921.8125,
+          "rotate": "0deg",
+          "top": 450.9375,
+          "translate": "0px",
+          "width": 607.140625
+        },
+        {
+          "bottom": 1178.9375,
+          "class": "pretzel-drop pretzel-sprinkles",
+          "delay": "0.36s",
+          "duration": "3.35s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 455,
+          "imageBottom": 1228.1956787109375,
+          "imageTop": 674.6793212890625,
+          "left": 990.859375,
+          "playState": "running",
+          "right": 1598,
+          "rotate": "0deg",
+          "top": 723.9375,
+          "translate": "0px",
+          "width": 607.140625
+        }
+      ],
+      "subtitle": "At DeCOCOA, every chocolate is handcrafted with care using the world’s finest sustainably sourced cocoa.",
+      "titleOverflow": false,
+      "width": 1920
+    },
+    {
+      "card": {
+        "afterContent": "none",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px",
+        "bottom": 871.125,
+        "color": "rgb(58, 23, 13)",
+        "left": 60.46875,
+        "right": 671.140625,
+        "top": 394.75
+      },
+      "ctaFits": true,
+      "ctas": [
+        {
+          "href": "lets-talk/#inquiry",
+          "text": "Let’s Craft Something Together"
+        }
+      ],
+      "documentWidth": 1425,
+      "eyebrow": "rgb(184, 59, 40)",
+      "hero": {
+        "background": "rgb(242, 201, 193)",
+        "bottom": 1002.9375,
+        "height": 740,
+        "top": 262.9375
+      },
+      "overflow": false,
+      "patternBackground": "rgb(242, 201, 193)",
+      "patternColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "pretzels": [
+        {
+          "bottom": 684.9375,
+          "class": "pretzel-drop pretzel-drizzle",
+          "delay": "0s",
+          "duration": "2.9s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 442,
+          "imageBottom": 763.2868499755859,
+          "imageTop": 164.58811950683594,
+          "left": 684.828125,
+          "playState": "running",
+          "right": 1261.921875,
+          "rotate": "0deg",
+          "top": 242.9375,
+          "translate": "0px",
+          "width": 577.09375
+        },
+        {
+          "bottom": 892.9375,
+          "class": "pretzel-drop pretzel-chunky",
+          "delay": "0.18s",
+          "duration": "3.15s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 442,
+          "imageBottom": 952.1822509765624,
+          "imageTop": 391.69281005859375,
+          "left": 1056.71875,
+          "playState": "running",
+          "right": 1633.8125,
+          "rotate": "0deg",
+          "top": 450.9375,
+          "translate": "0px",
+          "width": 577.09375
+        },
+        {
+          "bottom": 1178.9375,
+          "class": "pretzel-drop pretzel-sprinkles",
+          "delay": "0.36s",
+          "duration": "3.35s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 455,
+          "imageBottom": 1225.5869140625,
+          "imageTop": 677.2880859375,
+          "left": 748.9375,
+          "playState": "running",
+          "right": 1326.03125,
+          "rotate": "0deg",
+          "top": 723.9375,
+          "translate": "0px",
+          "width": 577.09375
+        }
+      ],
+      "subtitle": "At DeCOCOA, every chocolate is handcrafted with care using the world’s finest sustainably sourced cocoa.",
+      "titleOverflow": false,
+      "width": 1440
+    },
+    {
+      "card": {
+        "afterContent": "none",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px",
+        "bottom": 723.359375,
+        "color": "rgb(58, 23, 13)",
+        "left": 32.25,
+        "right": 368.09375,
+        "top": 296.640625
+      },
+      "ctaFits": true,
+      "ctas": [
+        {
+          "href": "lets-talk/#inquiry",
+          "text": "Let’s Craft Something Together"
+        }
+      ],
+      "documentWidth": 753,
+      "eyebrow": "rgb(184, 59, 40)",
+      "hero": {
+        "background": "rgb(242, 201, 193)",
+        "bottom": 835,
+        "height": 650,
+        "top": 185
+      },
+      "overflow": false,
+      "patternBackground": "rgb(242, 201, 193)",
+      "patternColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "pretzels": [
+        {
+          "bottom": 554.796875,
+          "class": "pretzel-drop pretzel-drizzle",
+          "delay": "0s",
+          "duration": "2.9s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 380.796875,
+          "imageBottom": 594.5177001953125,
+          "imageTop": 134.27920532226562,
+          "left": 346.9375,
+          "playState": "running",
+          "right": 664.328125,
+          "rotate": "0deg",
+          "top": 174,
+          "translate": "0px",
+          "width": 317.390625
+        },
+        {
+          "bottom": 733.984375,
+          "class": "pretzel-drop pretzel-chunky",
+          "delay": "0.18s",
+          "duration": "3.15s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 380.796875,
+          "imageBottom": 764.8031616210938,
+          "imageTop": 322.36871337890625,
+          "left": 551.46875,
+          "playState": "running",
+          "right": 868.859375,
+          "rotate": "0deg",
+          "top": 353.1875,
+          "translate": "0px",
+          "width": 317.390625
+        },
+        {
+          "bottom": 980.390625,
+          "class": "pretzel-drop pretzel-sprinkles",
+          "delay": "0.36s",
+          "duration": "3.35s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 392,
+          "imageBottom": 1004.9700927734376,
+          "imageTop": 563.8111572265625,
+          "left": 382.1875,
+          "playState": "running",
+          "right": 699.578125,
+          "rotate": "0deg",
+          "top": 588.390625,
+          "translate": "0px",
+          "width": 317.390625
+        }
+      ],
+      "subtitle": "At DeCOCOA, every chocolate is handcrafted with care using the world’s finest sustainably sourced cocoa.",
+      "titleOverflow": false,
+      "width": 768
+    },
+    {
+      "card": {
+        "afterContent": "none",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px",
+        "bottom": 651.25,
+        "color": "rgb(58, 23, 13)",
+        "left": 24,
+        "right": 351,
+        "top": 210
+      },
+      "ctaFits": true,
+      "ctas": [
+        {
+          "href": "lets-talk/#inquiry",
+          "text": "Let’s Craft Something Together"
+        }
+      ],
+      "documentWidth": 375,
+      "eyebrow": "rgb(184, 59, 40)",
+      "hero": {
+        "background": "rgb(242, 201, 193)",
+        "bottom": 1165.25,
+        "height": 989.25,
+        "top": 176
+      },
+      "overflow": false,
+      "patternBackground": "rgb(242, 201, 193)",
+      "patternColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "pretzels": [
+        {
+          "bottom": 938.046875,
+          "class": "pretzel-drop pretzel-drizzle",
+          "delay": "0s",
+          "duration": "2.9s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 312.796875,
+          "imageBottom": 975.863525390625,
+          "imageTop": 587.433349609375,
+          "left": 4.390625,
+          "playState": "running",
+          "right": 298.6875,
+          "rotate": "0deg",
+          "top": 625.25,
+          "translate": "0px",
+          "width": 294.296875
+        },
+        {
+          "bottom": 1085.234375,
+          "class": "pretzel-drop pretzel-chunky",
+          "delay": "0.18s",
+          "duration": "3.15s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 312.796875,
+          "imageBottom": 1114.3271484375,
+          "imageTop": 743.3447875976562,
+          "left": 194.03125,
+          "playState": "running",
+          "right": 488.328125,
+          "rotate": "0deg",
+          "top": 772.4375,
+          "translate": "0px",
+          "width": 294.296875
+        },
+        {
+          "bottom": 1287.640625,
+          "class": "pretzel-drop pretzel-sprinkles",
+          "delay": "0.36s",
+          "duration": "3.35s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 322,
+          "imageBottom": 1310.7467041015625,
+          "imageTop": 942.5345458984376,
+          "left": 37.078125,
+          "playState": "running",
+          "right": 331.375,
+          "rotate": "0deg",
+          "top": 965.640625,
+          "translate": "0px",
+          "width": 294.296875
+        }
+      ],
+      "subtitle": "At DeCOCOA, every chocolate is handcrafted with care using the world’s finest sustainably sourced cocoa.",
+      "titleOverflow": false,
+      "width": 390
+    },
+    {
+      "card": {
+        "afterContent": "none",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px",
+        "bottom": 630.875,
+        "color": "rgb(58, 23, 13)",
+        "left": 20,
+        "right": 285,
+        "top": 202
+      },
+      "ctaFits": true,
+      "ctas": [
+        {
+          "href": "lets-talk/#inquiry",
+          "text": "Let’s Craft Something Together"
+        }
+      ],
+      "documentWidth": 305,
+      "eyebrow": "rgb(184, 59, 40)",
+      "hero": {
+        "background": "rgb(242, 201, 193)",
+        "bottom": 1104.875,
+        "height": 936.875,
+        "top": 168
+      },
+      "overflow": false,
+      "patternBackground": "rgb(242, 201, 193)",
+      "patternColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "pretzels": [
+        {
+          "bottom": 894.46875,
+          "class": "pretzel-drop pretzel-drizzle",
+          "delay": "0s",
+          "duration": "2.9s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 285.59375,
+          "imageBottom": 924.330078125,
+          "imageTop": 579.013671875,
+          "left": 4.109375,
+          "playState": "running",
+          "right": 242.609375,
+          "rotate": "0deg",
+          "top": 608.875,
+          "translate": "0px",
+          "width": 238.5
+        },
+        {
+          "bottom": 1028.859375,
+          "class": "pretzel-drop pretzel-chunky",
+          "delay": "0.18s",
+          "duration": "3.15s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 285.59375,
+          "imageBottom": 1052.02490234375,
+          "imageTop": 720.10009765625,
+          "left": 157.796875,
+          "playState": "running",
+          "right": 396.296875,
+          "rotate": "0deg",
+          "top": 743.265625,
+          "translate": "0px",
+          "width": 238.5
+        },
+        {
+          "bottom": 1213.671875,
+          "class": "pretzel-drop pretzel-sprinkles",
+          "delay": "0.36s",
+          "duration": "3.35s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 294,
+          "imageBottom": 1232.1461181640625,
+          "imageTop": 901.1975708007812,
+          "left": 30.59375,
+          "playState": "running",
+          "right": 269.09375,
+          "rotate": "0deg",
+          "top": 919.671875,
+          "translate": "0px",
+          "width": 238.5
+        }
+      ],
+      "subtitle": "At DeCOCOA, every chocolate is handcrafted with care using the world’s finest sustainably sourced cocoa.",
+      "titleOverflow": false,
+      "width": 320
+    }
+  ],
+  "motion": [
+    {
+      "card": {
+        "afterContent": "none",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px",
+        "bottom": 882.734375,
+        "color": "rgb(58, 23, 13)",
+        "left": 586.5,
+        "right": 1229,
+        "top": 383.140625
+      },
+      "ctaFits": true,
+      "ctas": [
+        {
+          "href": "lets-talk/#inquiry",
+          "text": "Let’s Craft Something Together"
+        }
+      ],
+      "documentWidth": 2545,
+      "eyebrow": "rgb(184, 59, 40)",
+      "hero": {
+        "background": "rgb(242, 201, 193)",
+        "bottom": 1002.9375,
+        "height": 740,
+        "top": 262.9375
+      },
+      "overflow": false,
+      "patternBackground": "rgb(242, 201, 193)",
+      "patternColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "pretzels": [
+        {
+          "bottom": -302.22613525390625,
+          "class": "pretzel-drop pretzel-drizzle",
+          "delay": "0s",
+          "duration": "2.9s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 517.0115356445312,
+          "imageBottom": -230.7197265625,
+          "imageTop": -890.744140625,
+          "left": 1217.30712890625,
+          "playState": "running",
+          "right": 1876.64599609375,
+          "rotate": "-7.45214deg",
+          "top": -819.2376708984375,
+          "translate": "0px -1024.67px",
+          "width": 659.3388671875
+        },
+        {
+          "bottom": -166.96441650390625,
+          "class": "pretzel-drop pretzel-chunky",
+          "delay": "0.18s",
+          "duration": "3.15s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 522.1961669921875,
+          "imageBottom": -181.44558715820312,
+          "imageTop": -674.679443359375,
+          "left": 1606.868896484375,
+          "playState": "running",
+          "right": 2269.615478515625,
+          "rotate": "-8deg",
+          "top": -689.1605834960938,
+          "translate": "0px -1100px",
+          "width": 662.74658203125
+        },
+        {
+          "bottom": 118.9722900390625,
+          "class": "pretzel-drop pretzel-sprinkles",
+          "delay": "0.36s",
+          "duration": "3.35s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 535.069580078125,
+          "imageBottom": 161.61126708984375,
+          "imageTop": -458.73626708984375,
+          "left": 1282.15185546875,
+          "playState": "running",
+          "right": 1946.70751953125,
+          "rotate": "-8deg",
+          "top": -416.0972900390625,
+          "translate": "0px -1100px",
+          "width": 664.5556640625
+        }
+      ],
+      "subtitle": "At DeCOCOA, every chocolate is handcrafted with care using the world’s finest sustainably sourced cocoa.",
+      "titleOverflow": false,
+      "width": 2560
+    },
+    {
+      "card": {
+        "afterContent": "none",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px",
+        "bottom": 882.734375,
+        "color": "rgb(58, 23, 13)",
+        "left": 586.5,
+        "right": 1229,
+        "top": 383.140625
+      },
+      "ctaFits": true,
+      "ctas": [
+        {
+          "href": "lets-talk/#inquiry",
+          "text": "Let’s Craft Something Together"
+        }
+      ],
+      "documentWidth": 2545,
+      "eyebrow": "rgb(184, 59, 40)",
+      "hero": {
+        "background": "rgb(242, 201, 193)",
+        "bottom": 1002.9375,
+        "height": 740,
+        "top": 262.9375
+      },
+      "overflow": false,
+      "patternBackground": "rgb(242, 201, 193)",
+      "patternColors": [
+        "rgb(247, 239, 230)"
+      ],
+      "pretzels": [
+        {
+          "bottom": 684.9375,
+          "class": "pretzel-drop pretzel-drizzle",
+          "delay": "0s",
+          "duration": "2.9s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 442,
+          "imageBottom": 767.9293823242188,
+          "imageTop": 159.94561767578125,
+          "left": 1243.40625,
+          "playState": "running",
+          "right": 1850.546875,
+          "rotate": "0deg",
+          "top": 242.9375,
+          "translate": "0px",
+          "width": 607.140625
+        },
+        {
+          "bottom": 892.9375,
+          "class": "pretzel-drop pretzel-chunky",
+          "delay": "0.18s",
+          "duration": "3.15s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 442,
+          "imageBottom": 955.5617980957032,
+          "imageTop": 388.3132629394531,
+          "left": 1634.671875,
+          "playState": "running",
+          "right": 2241.8125,
+          "rotate": "0deg",
+          "top": 450.9375,
+          "translate": "0px",
+          "width": 607.140625
+        },
+        {
+          "bottom": 1178.9375,
+          "class": "pretzel-drop pretzel-sprinkles",
+          "delay": "0.36s",
+          "duration": "3.35s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "height": 455,
+          "imageBottom": 1228.1956787109375,
+          "imageTop": 674.6793212890625,
+          "left": 1310.859375,
+          "playState": "running",
+          "right": 1918,
+          "rotate": "0deg",
+          "top": 723.9375,
+          "translate": "0px",
+          "width": 607.140625
+        }
+      ],
+      "subtitle": "At DeCOCOA, every chocolate is handcrafted with care using the world’s finest sustainably sourced cocoa.",
+      "titleOverflow": false,
+      "width": 2560
+    }
+  ],
+  "focus": {
+    "bottom": 607.875,
+    "focusVisible": true,
+    "left": 30,
+    "outlineColor": "rgb(23, 9, 5)",
+    "outlineOffset": "5px",
+    "outlineWidth": "3px",
+    "right": 275,
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "stickyBottom": -13.199996948242188,
+    "stickyVisible": false,
+    "text": "Let’s Craft Something Together",
+    "top": 523.875
+  },
+  "cta": {
+    "focus": "talk-title",
+    "heading": "Let's Talk Tell us what youhave in mind.",
+    "url": "http://127.0.0.1:4174/lets-talk/#inquiry"
+  },
+  "console": []
+}
