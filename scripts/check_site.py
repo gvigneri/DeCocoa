@@ -76,7 +76,7 @@ def run():
         title=re.search('<title>(.*?)</title>',html).group(1);titles.append(title)
         if collections.Counter(scan.nav_links['original'])!=collections.Counter(scan.nav_links['scroll']):errors.append([name,'header destination mismatch'])
         scripts=[a for tag,a in scan.tags if tag=='script']
-        expected_scripts=2 if PAGE_ROUTES[path]=='/' else 1
+        expected_scripts=2 if PAGE_ROUTES[path] in ('/','/experience-center/') else 1
         if len(scripts)!=expected_scripts or any(not script.get('src') for script in scripts) or len({script.get('src') for script in scripts})!=expected_scripts:errors.append([name,'script ownership'])
         forms=count('form');all_forms.append(forms)
         if forms:errors.append([name,'unexpected native form'])

@@ -53,6 +53,13 @@
       "sha256": "44fd5217fb99f55dd649bdd65ad526b298b41d93dfe9539f4adc30387358132f",
       "license": "CC BY 4.0",
       "changes": "None; original SVG file and attribution retained. Embedded instances add presentation attributes only."
+    },
+    {
+      "file": "assets/icons/fontawesome-free-6.7.2/arrow-right-long.svg",
+      "source_url": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/arrow-right-long.svg",
+      "sha256": "641e36ebd65ab04f8e84a1eaa48c35d6e4df4ad70571394a3868c0391a5e2e06",
+      "license": "CC BY 4.0",
+      "changes": "None; original SVG file and attribution retained. Embedded instances add presentation attributes only."
     }
   ]
 }

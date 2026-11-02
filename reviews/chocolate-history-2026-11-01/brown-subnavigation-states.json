@@ -1,0 +1,25 @@
+{
+  "rest": [
+    {
+      "color": "rgb(58, 23, 13)",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "How It’s Made"
+    },
+    {
+      "color": "rgb(58, 23, 13)",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Museum & Virtual Exhibition"
+    },
+    {
+      "color": "rgb(58, 23, 13)",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Tours and Classes"
+    }
+  ],
+  "focus": {
+    "color": "rgb(184, 59, 40)",
+    "height": "2px",
+    "line": "matrix(1, 0, 0, 1, 0, 0)",
+    "text": "How It’s Made"
+  }
+}

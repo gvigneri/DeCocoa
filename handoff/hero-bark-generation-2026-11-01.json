@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-01",
+  "tool": "built-in image_gen",
+  "use_case": "product-mockup",
+  "reference": "C:/Users/guyta/Desktop/chocolate-bark-no-shadow.webp",
+  "reference_role": "Subject, chocolate materials and photo style guide; original preserved.",
+  "transparent_background": true,
+  "assets": [
+    {
+      "name": "nut-bark",
+      "prompt": "Use case: product-mockup. Asset type: one isolated chocolate bark piece for an animated website hero. Input image 1 is a subject/material/photo-style reference, not a composition to copy: the final output must contain only ONE separate bark shard, not the stacked tower. Match the reference's appetizing photoreal chocolate, natural nuts/inclusions, rich brown tones, glossy highlights and irregular broken edges. Studio macro product photography, crisp high detail, soft upper-left light. Show the whole piece, including all broken edges, at a three-quarter elevated angle so both top face and thickness are visible. Centered large on a square transparent canvas with at least 8 percent clear breathing room on every side. True alpha transparency. No cast shadow, no drop shadow, no floor, no plate, no background, no text or branding, no hands, no detached crumbs or extra pieces. Subject: one broad irregular triangular piece of milk chocolate bark, with clearly recognizable hazelnut halves and almond pieces embedded through its broken front edge and subtly visible on the top, inspired by the lower nut-filled layers in the reference. Its top face is fairly smooth and gently rippled, with a natural asymmetrical silhouette. The long edge runs roughly lower-left to upper-right.",
+      "generated_original": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-a014f3d9-d58d-429e-b384-0b23909cbc2f.png",
+      "selected": true
+    },
+    {
+      "name": "pistachio-bark",
+      "prompt": "Use case: product-mockup. Asset type: one isolated chocolate bark piece for an animated website hero. Input image 1 is a subject/material/photo-style reference, not a composition to copy: the final output must contain only ONE separate bark shard, not the stacked tower. Match the reference's appetizing photoreal chocolate, natural nuts/inclusions, rich brown tones, glossy highlights and irregular broken edges. Studio macro product photography, crisp high detail, soft upper-left light. Show the whole piece, including all broken edges, at a three-quarter elevated angle so both top face and thickness are visible. Centered large on a square transparent canvas with at least 8 percent clear breathing room on every side. True alpha transparency. No cast shadow, no drop shadow, no floor, no plate, no background, no text or branding, no hands, no detached crumbs or extra pieces. Subject: one irregular roughly quadrilateral dark chocolate bark piece with green pistachio and pale almond fragments embedded in the cut and broken edge, inspired by the top mixed-nut slab in the reference. Broad chocolate top face with a few rounded nut bumps, elegant glossy chocolate rather than heavily sprinkled toppings. Its longest diagonal runs roughly upper-left to lower-right.",
+      "generated_original": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-23920235-fc54-43e4-984f-9cc6fea6292c.png",
+      "selected": true
+    },
+    {
+      "name": "crisp-bark",
+      "prompt": "Use case: product-mockup. Asset type: one isolated chocolate bark piece for an animated website hero. Input image 1 is a subject/material/photo-style reference, not a composition to copy: the final output must contain only ONE separate bark shard, not the stacked tower. Match the reference's appetizing photoreal chocolate, natural nuts/inclusions, rich brown tones, glossy highlights and irregular broken edges. Studio macro product photography, crisp high detail, soft upper-left light. Show the whole piece, including all broken edges, at a three-quarter elevated angle so both top face and thickness are visible. Centered large on a square transparent canvas with at least 8 percent clear breathing room on every side. True alpha transparency. No cast shadow, no drop shadow, no floor, no plate, no background, no text or branding, no hands, no detached crumbs or extra pieces. Subject: one broad irregular milk-chocolate bark shard with a thin visible layer of golden crisp wafer flakes, inspired by the second layer from the top in the reference. Show rich chocolate on the top, a lively jagged crunchy edge, and some naturally embedded golden flakes. A distinctly different asymmetrical broken silhouette from a regular chocolate bar, long edge nearly horizontal with a slight tilt.",
+      "generated_original": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-381c3313-34a6-44d7-979a-fe720f6cf04f.png",
+      "selected": true
+    }
+  ],
+  "notes": "Illustrative hero assets based on the supplied guide. These are not documentation of specific products, recipes or ingredient claims."
+}

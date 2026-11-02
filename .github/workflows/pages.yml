@@ -27,6 +27,8 @@ jobs:
           python3 scripts/check_site.py
           node --check prototype/script.js
           node --check assets/js/category-motion.js
+          node --check assets/js/chocolate-history.js
+          node scripts/check_chocolate_history.js
           python3 scripts/export_pages.py --base-path /DeCocoa/
           python3 scripts/check_pages_export.py --base-path /DeCocoa/
       - uses: actions/upload-pages-artifact@v4

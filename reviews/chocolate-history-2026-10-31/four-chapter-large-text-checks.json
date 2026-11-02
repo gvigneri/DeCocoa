@@ -1,0 +1,110 @@
+[
+  {
+    "chapters": [
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1081.984375,
+        "overlap": false,
+        "title": "Ancient Origins"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 865.984375,
+        "overlap": false,
+        "title": "The Aztec Empire"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1081.984375,
+        "overlap": false,
+        "title": "Chocolate Comes to Europe"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1145.984375,
+        "overlap": false,
+        "title": "A Taste Spreads"
+      }
+    ],
+    "client": 1425,
+    "rootSize": "32px",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "chapters": [
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1403.21875,
+        "overlap": false,
+        "title": "Ancient Origins"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1064.0625,
+        "overlap": false,
+        "title": "The Aztec Empire"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1601.78125,
+        "overlap": false,
+        "title": "Chocolate Comes to Europe"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1508.796875,
+        "overlap": false,
+        "title": "A Taste Spreads"
+      }
+    ],
+    "client": 375,
+    "rootSize": "32px",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "chapters": [
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 1748.78125,
+        "overlap": false,
+        "title": "Ancient Origins"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 1435.40625,
+        "overlap": false,
+        "title": "The Aztec Empire"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 1944.140625,
+        "overlap": false,
+        "title": "Chocolate Comes to Europe"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 2020.734375,
+        "overlap": false,
+        "title": "A Taste Spreads"
+      }
+    ],
+    "client": 305,
+    "rootSize": "32px",
+    "scrollWidth": 305,
+    "width": 320
+  }
+]

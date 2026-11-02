@@ -32,7 +32,7 @@ The homepage separates Partners after Our People and Certifications after Our Cr
 | `certification-cacao-trace.png` | [Cacao-Trace](https://www.cacaotrace.com/), inline header vector | Transparent PNG export, 640×519; geometry, colors and proportions preserved. |
 | `partner-puratos.png`, `partner-guittard.png` | Existing supplied wireframe exports | Unchanged PNGs; their raster backdrop is exactly website Cream #F7EFE6, so it blends without background removal. |
 
-Logo sourcing does not establish DeCOCOA's certification, partnership, product scope or permission for public use. Existing production confirmation requirements remain. The local draft is not published. Candidate files with opaque backdrops, White lettering, unrelated social icons or an unsupported HACCP issuer were rejected and are not runtime assets.
+Logo sourcing does not establish DeCocoa's certification, partnership, product scope or permission for public use. Existing production confirmation requirements remain. The local draft is not published. Candidate files with opaque backdrops, White lettering, unrelated social icons or an unsupported HACCP issuer were rejected and are not runtime assets.
 
 October 24 category revision: Wellness reuses the Wellness.png export; One Shot Depositing reuses Bark filled.png; Hollow Moulding adds a proportional alpha-cropped WebP from Bunny 2.png; Mixing reuses Nuts Upscale.png; Dry Filling reuses Chocolate Powder.png. Original sources remain unchanged. Dimensions, operations and SHA256 hashes are recorded in [category-export-details.json](../assets/category-export-details.json). Image selection is illustrative draft mapping, not ingredient or availability confirmation.
 

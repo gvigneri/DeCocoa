@@ -1,0 +1,2386 @@
+{
+  "processing": "Crop surplus alpha padding with up to 8px retained margin; proportionate Lanczos downsampling; lossless PNG encoding. Sources unchanged.",
+  "assets": [
+    {
+      "chapter": "01-origins",
+      "role": "main",
+      "decorative": false,
+      "alt": "Illustration of cacao pods, one opened to reveal pale pulp, with green cacao leaves.",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "placement": {
+        "width": "88%",
+        "x": "12%",
+        "y": "0%",
+        "rotation": "0deg",
+        "z": 1,
+        "width-tablet": "88%",
+        "x-tablet": "12%",
+        "y-tablet": "0%",
+        "width-mobile": "88%",
+        "x-mobile": "12%",
+        "y-mobile": "0%"
+      },
+      "interpretation": "Interpretive cacao illustration.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-69b447b9-6a06-4ecd-9198-a53c7cd4cec2.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          0,
+          1254,
+          1254
+        ],
+        "bytes": 2413799,
+        "sha256": "8a5dd1437c6082463caf441d863b4f0f72092ce6e748555b65bf80495f975145"
+      },
+      "crop_box": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/01-origins/cacao-pods-and-leaves.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          0,
+          1254,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 2317821,
+        "sha256": "da92e8ae921f88c2aab56e8ae3c020820b5bb27adf929701bde675aabdbd3ea0"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/01-origins/cacao-pods-and-leaves-640.png",
+        "width": 640,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          0,
+          640,
+          631
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 661265,
+        "sha256": "48534a0c9c730a404625f730dc97ef3055f190be22cd06e05368ac318cd11dc9"
+      },
+      "placements": [
+        {
+          "chapter": "01-origins",
+          "role": "main",
+          "decorative": false,
+          "alt": "Illustration of cacao pods, one opened to reveal pale pulp, with green cacao leaves.",
+          "placement": {
+            "width": "88%",
+            "x": "12%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "88%",
+            "x-tablet": "12%",
+            "y-tablet": "0%",
+            "width-mobile": "88%",
+            "x-mobile": "12%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "chapter": "07-global",
+          "role": "botanical",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "35%",
+            "x": "0%",
+            "y": "61%",
+            "rotation": "-8deg",
+            "z": 3,
+            "width-tablet": "35%",
+            "x-tablet": "0%",
+            "y-tablet": "61%",
+            "width-mobile": "35%",
+            "x-mobile": "0%",
+            "y-mobile": "61%"
+          }
+        }
+      ],
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/01-origins/cacao-pods-and-leaves-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          0,
+          1254,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 2413799,
+        "sha256": "8a5dd1437c6082463caf441d863b4f0f72092ce6e748555b65bf80495f975145"
+      }
+    },
+    {
+      "chapter": "01-origins",
+      "role": "vessel",
+      "decorative": true,
+      "alt": "",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "placement": {
+        "width": "45%",
+        "x": "0%",
+        "y": "63%",
+        "rotation": "-5deg",
+        "z": 3,
+        "width-tablet": "45%",
+        "x-tablet": "0%",
+        "y-tablet": "63%",
+        "width-mobile": "45%",
+        "x-mobile": "0%",
+        "y-mobile": "63%"
+      },
+      "interpretation": "Generic interpretive vessel, not a verified historical replica.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-d363653a-e3a2-4afa-9390-f4a8153755a9.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          43,
+          21,
+          1208,
+          1228
+        ],
+        "bytes": 1406366,
+        "sha256": "fab8babe721a40e2c86a5fdda4fb8b1b98dedd2fc810af1c16084c440d7f517a"
+      },
+      "crop_box": [
+        35,
+        13,
+        1216,
+        1236
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/01-origins/ceramic-bowl.png",
+        "width": 579,
+        "height": 600,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          5,
+          52,
+          576,
+          573
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 328240,
+        "sha256": "d40255468147cab25d23f0021b8c72d001ec549f707b1198fc95e6e3dca55ced"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/01-origins/ceramic-bowl-300.png",
+        "width": 290,
+        "height": 300,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          1,
+          38,
+          290,
+          274
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 82233,
+        "sha256": "1da05a760cd30a1699ef5942953610002c37cad1f2650a86faa84d7a1805715a"
+      },
+      "placements": [
+        {
+          "chapter": "01-origins",
+          "role": "vessel",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "45%",
+            "x": "0%",
+            "y": "63%",
+            "rotation": "-5deg",
+            "z": 3,
+            "width-tablet": "45%",
+            "x-tablet": "0%",
+            "y-tablet": "63%",
+            "width-mobile": "45%",
+            "x-mobile": "0%",
+            "y-mobile": "63%"
+          }
+        },
+        {
+          "chapter": "02-aztec-empire",
+          "role": "vessel",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "34%",
+            "x": "0%",
+            "y": "75%",
+            "rotation": "-5deg",
+            "z": 3,
+            "width-tablet": "34%",
+            "x-tablet": "0%",
+            "y-tablet": "75%",
+            "width-mobile": "34%",
+            "x-mobile": "0%",
+            "y-mobile": "75%"
+          }
+        }
+      ],
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/01-origins/ceramic-bowl-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          43,
+          21,
+          1208,
+          1228
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1406366,
+        "sha256": "fab8babe721a40e2c86a5fdda4fb8b1b98dedd2fc810af1c16084c440d7f517a"
+      }
+    },
+    {
+      "chapter": "01-origins",
+      "role": "beans",
+      "decorative": true,
+      "alt": "",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "placement": {
+        "width": "32%",
+        "x": "62%",
+        "y": "74%",
+        "rotation": "8deg",
+        "z": 4,
+        "width-tablet": "32%",
+        "x-tablet": "62%",
+        "y-tablet": "74%",
+        "width-mobile": "32%",
+        "x-mobile": "62%",
+        "y-mobile": "74%"
+      },
+      "interpretation": "Interpretive cacao illustration.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-66946a6c-16c4-4c42-9f49-e18b0641f500.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          33,
+          9,
+          1248,
+          1254
+        ],
+        "bytes": 1492808,
+        "sha256": "2e18c47abf37d168bc232040101f2f70f001224b0a5aa7e9f8069c33048a569d"
+      },
+      "crop_box": [
+        25,
+        1,
+        1254,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/01-origins/cacao-beans.png",
+        "width": 392,
+        "height": 400,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          4,
+          11,
+          383,
+          382
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 159039,
+        "sha256": "c4e23116032612e8995ab3e6a7abc182688d0893f6d531f5fa1cc9fafed63aa4"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/01-origins/cacao-beans-200.png",
+        "width": 196,
+        "height": 200,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          1,
+          38,
+          193,
+          181
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 43277,
+        "sha256": "43e6d6abd137d808e75f89d110fe644a1e05dfe6d3c3efdff7e80214ca7460cb"
+      },
+      "placements": [
+        {
+          "chapter": "01-origins",
+          "role": "beans",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "32%",
+            "x": "62%",
+            "y": "74%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "62%",
+            "y-tablet": "74%",
+            "width-mobile": "32%",
+            "x-mobile": "62%",
+            "y-mobile": "74%"
+          }
+        },
+        {
+          "chapter": "02-aztec-empire",
+          "role": "beans",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "32%",
+            "x": "64%",
+            "y": "75%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "64%",
+            "y-tablet": "75%",
+            "width-mobile": "32%",
+            "x-mobile": "64%",
+            "y-mobile": "75%"
+          }
+        },
+        {
+          "chapter": "03-europe",
+          "role": "beans",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "26%",
+            "x": "68%",
+            "y": "79%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "26%",
+            "x-tablet": "68%",
+            "y-tablet": "79%",
+            "width-mobile": "26%",
+            "x-mobile": "68%",
+            "y-mobile": "79%"
+          }
+        },
+        {
+          "chapter": "05-industry",
+          "role": "beans",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "30%",
+            "x": "65%",
+            "y": "76%",
+            "rotation": "10deg",
+            "z": 4,
+            "width-tablet": "30%",
+            "x-tablet": "65%",
+            "y-tablet": "76%",
+            "width-mobile": "30%",
+            "x-mobile": "65%",
+            "y-mobile": "76%"
+          }
+        },
+        {
+          "chapter": "09-growing",
+          "role": "beans",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "30%",
+            "x": "65%",
+            "y": "77%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "30%",
+            "x-tablet": "65%",
+            "y-tablet": "77%",
+            "width-mobile": "30%",
+            "x-mobile": "65%",
+            "y-mobile": "77%"
+          }
+        }
+      ],
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/01-origins/cacao-beans-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          33,
+          9,
+          1248,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1492808,
+        "sha256": "2e18c47abf37d168bc232040101f2f70f001224b0a5aa7e9f8069c33048a569d"
+      }
+    },
+    {
+      "chapter": "03-europe",
+      "role": "main",
+      "decorative": false,
+      "alt": "Illustration of a wooden sailing ship with cream sails and detailed rigging.",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive early sailing ship; not a reconstruction of a named vessel.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-92cf0fc0-104f-48fc-9cf3-5e5ecf3e0def.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          8,
+          1254,
+          1254
+        ],
+        "bytes": 2293906,
+        "sha256": "a168fd8a63cfd51a771232e2fe24a202593bf1c76956abf94554b9b0e4ce53f3"
+      },
+      "crop_box": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/03-europe/sailing-ship.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          8,
+          1254,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 2161295,
+        "sha256": "fc938df1338a20827f647ed35bbae87c0c90204e5fd7428ed6e5ad52b06428e2"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/03-europe/sailing-ship-640.png",
+        "width": 640,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          3,
+          637,
+          627
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 600136,
+        "sha256": "c9334f4aba28890484e018a2965512e9e4d1f9ee4bb135e3d9d1a6352edd5f55"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/03-europe/sailing-ship-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          8,
+          1254,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 2293906,
+        "sha256": "a168fd8a63cfd51a771232e2fe24a202593bf1c76956abf94554b9b0e4ce53f3"
+      },
+      "placements": [
+        {
+          "chapter": "03-europe",
+          "role": "main",
+          "decorative": false,
+          "alt": "Illustration of a wooden sailing ship with cream sails and detailed rigging.",
+          "placement": {
+            "width": "93%",
+            "x": "6%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "93%",
+            "x-tablet": "6%",
+            "y-tablet": "0%",
+            "width-mobile": "93%",
+            "x-mobile": "6%",
+            "y-mobile": "0%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "93%",
+        "x": "6%",
+        "y": "0%",
+        "rotation": "0deg",
+        "z": 1,
+        "width-tablet": "93%",
+        "x-tablet": "6%",
+        "y-tablet": "0%",
+        "width-mobile": "93%",
+        "x-mobile": "6%",
+        "y-mobile": "0%"
+      }
+    },
+    {
+      "chapter": "03-europe",
+      "role": "sack",
+      "decorative": true,
+      "alt": "",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive sack of cacao beans; not a verified historical artifact.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-b753b183-d730-43af-854f-01dbedaaff05.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          55,
+          1196,
+          1254
+        ],
+        "bytes": 2413590,
+        "sha256": "03a2ffb8c040ac89a0815303045142f0948555ea251441f057d2e565efc34520"
+      },
+      "crop_box": [
+        0,
+        47,
+        1204,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/03-europe/cacao-sack.png",
+        "width": 599,
+        "height": 600,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          13,
+          595,
+          592
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 611447,
+        "sha256": "0ade147302d52e5827f4a31cd99162e9518edead7c671f6b59b7b096ff9faf1f"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/03-europe/cacao-sack-300.png",
+        "width": 299,
+        "height": 300,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          15,
+          5,
+          298,
+          296
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 161865,
+        "sha256": "e268f1e965c4e26a898560bbbd1c4c64a8485b8f3873a3b725fa9a2fdf8869c8"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/03-europe/cacao-sack-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          55,
+          1196,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 2413590,
+        "sha256": "03a2ffb8c040ac89a0815303045142f0948555ea251441f057d2e565efc34520"
+      },
+      "placements": [
+        {
+          "chapter": "03-europe",
+          "role": "sack",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "38%",
+            "x": "0%",
+            "y": "65%",
+            "rotation": "-6deg",
+            "z": 3,
+            "width-tablet": "38%",
+            "x-tablet": "0%",
+            "y-tablet": "65%",
+            "width-mobile": "38%",
+            "x-mobile": "0%",
+            "y-mobile": "65%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "38%",
+        "x": "0%",
+        "y": "65%",
+        "rotation": "-6deg",
+        "z": 3,
+        "width-tablet": "38%",
+        "x-tablet": "0%",
+        "y-tablet": "65%",
+        "width-mobile": "38%",
+        "x-mobile": "0%",
+        "y-mobile": "65%"
+      }
+    },
+    {
+      "chapter": "04-taste-spreads",
+      "role": "main",
+      "decorative": false,
+      "alt": "Illustration of a seated woman in European court dress drinking chocolate from a porcelain cup.",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive European court vignette; not a portrait of a named historical person.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-baff2633-1655-4351-8f99-480719f62859.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          20,
+          1248,
+          1254
+        ],
+        "bytes": 1688507,
+        "sha256": "5c7490133ad2c8f520326db7bc887ecbb43bebea78bf3d225739cebb4e0d59bf"
+      },
+      "crop_box": [
+        0,
+        12,
+        1254,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/04-taste-spreads/chocolate-at-court.png",
+        "width": 1254,
+        "height": 1242,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          8,
+          1248,
+          1242
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1632330,
+        "sha256": "eb11599ff7a3be9f5c36611951e3df97cb22ff24d4a1733b6c5aafb607b116d8"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/04-taste-spreads/chocolate-at-court-640.png",
+        "width": 640,
+        "height": 634,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          25,
+          4,
+          635,
+          627
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 477704,
+        "sha256": "1a5224920451d7b6cff983a8d70668b83f44ff097fd557443c65ec60ef1b476d"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/04-taste-spreads/chocolate-at-court-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          20,
+          1248,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1688507,
+        "sha256": "5c7490133ad2c8f520326db7bc887ecbb43bebea78bf3d225739cebb4e0d59bf"
+      },
+      "placements": [
+        {
+          "chapter": "04-taste-spreads",
+          "role": "main",
+          "decorative": false,
+          "alt": "Illustration of a seated woman in European court dress drinking chocolate from a porcelain cup.",
+          "placement": {
+            "width": "92%",
+            "x": "5%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "92%",
+            "x-tablet": "5%",
+            "y-tablet": "0%",
+            "width-mobile": "92%",
+            "x-mobile": "5%",
+            "y-mobile": "0%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "92%",
+        "x": "5%",
+        "y": "0%",
+        "rotation": "0deg",
+        "z": 1,
+        "width-tablet": "92%",
+        "x-tablet": "5%",
+        "y-tablet": "0%",
+        "width-mobile": "92%",
+        "x-mobile": "5%",
+        "y-mobile": "0%"
+      }
+    },
+    {
+      "chapter": "04-taste-spreads",
+      "role": "service",
+      "decorative": true,
+      "alt": "",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive chocolate pot and porcelain cup; not a verified artifact reconstruction.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-463d1c80-be5b-45f8-b8a0-9c88fb681f77.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          35,
+          10,
+          1240,
+          1254
+        ],
+        "bytes": 1696278,
+        "sha256": "f66a2e5f2e5e3cffeea33eb70982406d4118d8f76790fab97e4bb166dce88685"
+      },
+      "crop_box": [
+        27,
+        2,
+        1248,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup.png",
+        "width": 585,
+        "height": 600,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          9,
+          3,
+          578,
+          592
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 418018,
+        "sha256": "29bcee89035b8cf7c3393cfc17bc0bef37515a914330cca5ce04edc650784b5b"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup-300.png",
+        "width": 293,
+        "height": 300,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          4,
+          0,
+          288,
+          294
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 116584,
+        "sha256": "525a6de015f0b4f80b89220bd68b561e80371c3b925cc7e7e35fc9ce7d4743f9"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/04-taste-spreads/chocolate-pot-and-cup-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          35,
+          10,
+          1240,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1696278,
+        "sha256": "f66a2e5f2e5e3cffeea33eb70982406d4118d8f76790fab97e4bb166dce88685"
+      },
+      "placements": [
+        {
+          "chapter": "04-taste-spreads",
+          "role": "service",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "35%",
+            "x": "0%",
+            "y": "65%",
+            "rotation": "-4deg",
+            "z": 3,
+            "width-tablet": "35%",
+            "x-tablet": "0%",
+            "y-tablet": "65%",
+            "width-mobile": "35%",
+            "x-mobile": "0%",
+            "y-mobile": "65%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "35%",
+        "x": "0%",
+        "y": "65%",
+        "rotation": "-4deg",
+        "z": 3,
+        "width-tablet": "35%",
+        "x-tablet": "0%",
+        "y-tablet": "65%",
+        "width-mobile": "35%",
+        "x-mobile": "0%",
+        "y-mobile": "65%"
+      }
+    },
+    {
+      "chapter": "04-taste-spreads",
+      "role": "spices",
+      "decorative": true,
+      "alt": "",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive cacao pod, cinnamon and vanilla grouping.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-8415c7ee-ddea-4471-b963-dcdcf91e5d00.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          31,
+          19,
+          1253,
+          1254
+        ],
+        "bytes": 1591988,
+        "sha256": "6ab5f65297f9f5ef9a70e30934ce15a7edca754870e85c0a1454a99e19c6f20d"
+      },
+      "crop_box": [
+        23,
+        11,
+        1254,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/04-taste-spreads/cacao-and-spices.png",
+        "width": 396,
+        "height": 400,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          10,
+          26,
+          387,
+          388
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 174478,
+        "sha256": "411a9e13a8c1b108513d1aba1901bf2ccb1efd7c509e6d5b21d65866154ec630"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/04-taste-spreads/cacao-and-spices-200.png",
+        "width": 198,
+        "height": 200,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          8,
+          14,
+          193,
+          194
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 48338,
+        "sha256": "25c952d3071918e02c17c11a2b92033e87e60bf6711ab515bd988c848391165b"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/04-taste-spreads/cacao-and-spices-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          31,
+          19,
+          1253,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1591988,
+        "sha256": "6ab5f65297f9f5ef9a70e30934ce15a7edca754870e85c0a1454a99e19c6f20d"
+      },
+      "placements": [
+        {
+          "chapter": "04-taste-spreads",
+          "role": "spices",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "32%",
+            "x": "64%",
+            "y": "70%",
+            "rotation": "10deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "64%",
+            "y-tablet": "70%",
+            "width-mobile": "32%",
+            "x-mobile": "64%",
+            "y-mobile": "70%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "32%",
+        "x": "64%",
+        "y": "70%",
+        "rotation": "10deg",
+        "z": 4,
+        "width-tablet": "32%",
+        "x-tablet": "64%",
+        "y-tablet": "70%",
+        "width-mobile": "32%",
+        "x-mobile": "64%",
+        "y-mobile": "70%"
+      }
+    },
+    {
+      "chapter": "02-aztec-empire",
+      "role": "main",
+      "decorative": false,
+      "alt": "Interpretive illustration of an Aztec cacao drinker seated with a ceramic cup.",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive Aztec cacao-drinking vignette; not a verified costume or artifact reconstruction. Margin-corrected generation preserves full feather and foot silhouette.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-e333b1eb-eca3-4433-b3a3-4f5efb67d733.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          30,
+          1202,
+          1244
+        ],
+        "bytes": 1570733,
+        "sha256": "bafa8afb1a3d7e5d688063454f7d104b01e2bc901133e7511962659c02ecadb1"
+      },
+      "crop_box": [
+        0,
+        22,
+        1210,
+        1252
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/02-aztec-empire/cacao-drinker.png",
+        "width": 1210,
+        "height": 1230,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          8,
+          1202,
+          1222
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1474143,
+        "sha256": "6623c95ace70c085508a0dd62ecce32122fecd9de9112f7e5ae87747ea405704"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/02-aztec-empire/cacao-drinker-640.png",
+        "width": 630,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          3,
+          626,
+          627
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 431752,
+        "sha256": "9cb5457777ceb6875816c111360929703fde27bc4b1338e46077d8c1970bf57b"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/02-aztec-empire/cacao-drinker-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          30,
+          1202,
+          1244
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1570733,
+        "sha256": "bafa8afb1a3d7e5d688063454f7d104b01e2bc901133e7511962659c02ecadb1"
+      },
+      "placements": [
+        {
+          "chapter": "02-aztec-empire",
+          "role": "main",
+          "decorative": false,
+          "alt": "Interpretive illustration of an Aztec cacao drinker seated with a ceramic cup.",
+          "placement": {
+            "width": "90%",
+            "x": "7%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "90%",
+            "x-tablet": "7%",
+            "y-tablet": "0%",
+            "width-mobile": "90%",
+            "x-mobile": "7%",
+            "y-mobile": "0%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "90%",
+        "x": "7%",
+        "y": "0%",
+        "rotation": "0deg",
+        "z": 1,
+        "width-tablet": "90%",
+        "x-tablet": "7%",
+        "y-tablet": "0%",
+        "width-mobile": "90%",
+        "x-mobile": "7%",
+        "y-mobile": "0%"
+      }
+    },
+    {
+      "chapter": "05-industry",
+      "role": "main",
+      "decorative": false,
+      "alt": "Illustration of a copper-and-iron cacao mill with beans in its hopper.",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive industrial machinery; not a reconstruction of a verified historical device.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-5d0826d4-3e93-4e00-84fe-21ebb49c17b8.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          4,
+          1240,
+          1254
+        ],
+        "bytes": 2228715,
+        "sha256": "a62dac88fe535def6a59eb054dcfe51e222c0965b214d4a73a784fe49d5e4f12"
+      },
+      "crop_box": [
+        0,
+        0,
+        1248,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/05-industry/industrial-cacao-mill.png",
+        "width": 1248,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          4,
+          1240,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 2122532,
+        "sha256": "7e0df3c5682f303d9cd1b55d53f3f2a08d68bf4321b566fa05f82b09211bba8a"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/05-industry/industrial-cacao-mill-640.png",
+        "width": 637,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          22,
+          630,
+          629
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 581453,
+        "sha256": "893d83263e8a636567332c2856ae8f363580e2216e1d9bcf9ec0bedd36a4c5ee"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/05-industry/industrial-cacao-mill-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          4,
+          1240,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 2228715,
+        "sha256": "a62dac88fe535def6a59eb054dcfe51e222c0965b214d4a73a784fe49d5e4f12"
+      },
+      "placements": [
+        {
+          "chapter": "05-industry",
+          "role": "main",
+          "decorative": false,
+          "alt": "Illustration of a copper-and-iron cacao mill with beans in its hopper.",
+          "placement": {
+            "width": "90%",
+            "x": "7%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "90%",
+            "x-tablet": "7%",
+            "y-tablet": "0%",
+            "width-mobile": "90%",
+            "x-mobile": "7%",
+            "y-mobile": "0%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "90%",
+        "x": "7%",
+        "y": "0%",
+        "rotation": "0deg",
+        "z": 1,
+        "width-tablet": "90%",
+        "x-tablet": "7%",
+        "y-tablet": "0%",
+        "width-mobile": "90%",
+        "x-mobile": "7%",
+        "y-mobile": "0%"
+      }
+    },
+    {
+      "chapter": "06-innovation",
+      "role": "main",
+      "decorative": false,
+      "alt": "Illustration of a chocolate assortment box and unbranded wrapped chocolate bars.",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive chocolate packaging and assortment; no third-party brands or logos.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-e9a32a9b-eb68-4e74-a8c0-a6a499a13d71.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          26,
+          1241,
+          1254
+        ],
+        "bytes": 2265092,
+        "sha256": "bdf706e8a095a6911c7abad9fb4f756f61edd343bd2d4c27a58fa2cc6fccfebf"
+      },
+      "crop_box": [
+        0,
+        18,
+        1249,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/06-innovation/chocolate-packaging.png",
+        "width": 1249,
+        "height": 1236,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          8,
+          1241,
+          1236
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 2138421,
+        "sha256": "085a5c781191cd662197c0e4c2cdabb807507650778fa31bf1e5846789b721a1"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/06-innovation/chocolate-packaging-640.png",
+        "width": 640,
+        "height": 633,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          16,
+          23,
+          637,
+          625
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 592972,
+        "sha256": "ffdcb2e665aced868d51bd8dd6b9e2b66fe02c9fbff5a747d2b0eb35f642507a"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/06-innovation/chocolate-packaging-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          26,
+          1241,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 2265092,
+        "sha256": "bdf706e8a095a6911c7abad9fb4f756f61edd343bd2d4c27a58fa2cc6fccfebf"
+      },
+      "placements": [
+        {
+          "chapter": "06-innovation",
+          "role": "main",
+          "decorative": false,
+          "alt": "Illustration of a chocolate assortment box and unbranded wrapped chocolate bars.",
+          "placement": {
+            "width": "90%",
+            "x": "7%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "90%",
+            "x-tablet": "7%",
+            "y-tablet": "0%",
+            "width-mobile": "90%",
+            "x-mobile": "7%",
+            "y-mobile": "0%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "90%",
+        "x": "7%",
+        "y": "0%",
+        "rotation": "0deg",
+        "z": 1,
+        "width-tablet": "90%",
+        "x-tablet": "7%",
+        "y-tablet": "0%",
+        "width-mobile": "90%",
+        "x-mobile": "7%",
+        "y-mobile": "0%"
+      }
+    },
+    {
+      "chapter": "07-global",
+      "role": "main",
+      "decorative": false,
+      "alt": "Illustration of a decorative globe with gold landforms on a dark blue sphere.",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Decorative globe, not a scientific or cartographic reference.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-08211fa8-bb70-424f-914b-42f443fffcab.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          49,
+          5,
+          1234,
+          1240
+        ],
+        "bytes": 1675411,
+        "sha256": "df8afb308f250ed726e881ae84653727ce1042c96ba7ffe82edc56d14902cb61"
+      },
+      "crop_box": [
+        41,
+        0,
+        1242,
+        1248
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/07-global/decorative-globe.png",
+        "width": 1201,
+        "height": 1248,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          8,
+          5,
+          1193,
+          1240
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1597237,
+        "sha256": "696f4faad0e863d239d121e8c0908f3190adfd1afd94fd9d3dbc62d2d95f190a"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/07-global/decorative-globe-640.png",
+        "width": 616,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          13,
+          3,
+          611,
+          636
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 436717,
+        "sha256": "6111158d5d7b2d4e9ddd75604f55ee7f241fb33e5c8bb95da16dc8b3d8b333f5"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/07-global/decorative-globe-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          49,
+          5,
+          1234,
+          1240
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1675411,
+        "sha256": "df8afb308f250ed726e881ae84653727ce1042c96ba7ffe82edc56d14902cb61"
+      },
+      "placements": [
+        {
+          "chapter": "07-global",
+          "role": "main",
+          "decorative": false,
+          "alt": "Illustration of a decorative globe with gold landforms on a dark blue sphere.",
+          "placement": {
+            "width": "85%",
+            "x": "10%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "85%",
+            "x-tablet": "10%",
+            "y-tablet": "0%",
+            "width-mobile": "85%",
+            "x-mobile": "10%",
+            "y-mobile": "0%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "85%",
+        "x": "10%",
+        "y": "0%",
+        "rotation": "0deg",
+        "z": 1,
+        "width-tablet": "85%",
+        "x-tablet": "10%",
+        "y-tablet": "0%",
+        "width-mobile": "85%",
+        "x-mobile": "10%",
+        "y-mobile": "0%"
+      }
+    },
+    {
+      "chapter": "08-craft",
+      "role": "main",
+      "decorative": false,
+      "alt": "Illustration of a chocolatier dipping chocolates at a wooden worktable.",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive chocolatier vignette. Corrected generation preserves the complete head and table legs.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-ecf0195c-d67c-4d20-838d-e334cfb02e70.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          25,
+          16,
+          1228,
+          1241
+        ],
+        "bytes": 1245315,
+        "sha256": "a807771c282c561bdfc76ff4c13f7013a564faa1c61622562f24cb482039e1bf"
+      },
+      "crop_box": [
+        17,
+        8,
+        1236,
+        1249
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/08-craft/chocolatier-at-work.png",
+        "width": 1219,
+        "height": 1241,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          8,
+          8,
+          1211,
+          1233
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1205620,
+        "sha256": "f0329ec71586db0ae31d652479378a027683d79d3c72d94d6036284abc75da52"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/08-craft/chocolatier-at-work-640.png",
+        "width": 629,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          4,
+          4,
+          625,
+          637
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 355978,
+        "sha256": "6fb80f6567ab97a3739a537f9f8668345d8f0d66a03f55eb0444838095657cca"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/08-craft/chocolatier-at-work-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          25,
+          16,
+          1228,
+          1241
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1245315,
+        "sha256": "a807771c282c561bdfc76ff4c13f7013a564faa1c61622562f24cb482039e1bf"
+      },
+      "placements": [
+        {
+          "chapter": "08-craft",
+          "role": "main",
+          "decorative": false,
+          "alt": "Illustration of a chocolatier dipping chocolates at a wooden worktable.",
+          "placement": {
+            "width": "92%",
+            "x": "4%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "92%",
+            "x-tablet": "4%",
+            "y-tablet": "0%",
+            "width-mobile": "92%",
+            "x-mobile": "4%",
+            "y-mobile": "0%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "92%",
+        "x": "4%",
+        "y": "0%",
+        "rotation": "0deg",
+        "z": 1,
+        "width-tablet": "92%",
+        "x-tablet": "4%",
+        "y-tablet": "0%",
+        "width-mobile": "92%",
+        "x-mobile": "4%",
+        "y-mobile": "0%"
+      }
+    },
+    {
+      "chapter": "09-growing",
+      "role": "main",
+      "decorative": false,
+      "alt": "Illustration of a cacao tree with green leaves and ripe red and yellow pods.",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive cacao botanical illustration.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-21546bf3-9a1a-49cc-8bc9-44523c2886b5.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          10,
+          1240,
+          1254
+        ],
+        "bytes": 2078013,
+        "sha256": "ba29b606cc0f25244a06ca10f9b81687e379c0a2007d33fd85787f08b9c9b501"
+      },
+      "crop_box": [
+        0,
+        2,
+        1248,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/09-growing/fruiting-cacao-tree.png",
+        "width": 1248,
+        "height": 1252,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          8,
+          1240,
+          1252
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1959745,
+        "sha256": "03f21537e3b0ca8409674c7113b17ff4f2b47205dccc20f520bf33224f30d336"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/09-growing/fruiting-cacao-tree-640.png",
+        "width": 638,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          15,
+          3,
+          634,
+          636
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 567708,
+        "sha256": "8d43e31b7115417ccfc818883f246be83165beceae794615105aa1ff0229ff01"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/09-growing/fruiting-cacao-tree-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          10,
+          1240,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 2078013,
+        "sha256": "ba29b606cc0f25244a06ca10f9b81687e379c0a2007d33fd85787f08b9c9b501"
+      },
+      "placements": [
+        {
+          "chapter": "09-growing",
+          "role": "main",
+          "decorative": false,
+          "alt": "Illustration of a cacao tree with green leaves and ripe red and yellow pods.",
+          "placement": {
+            "width": "91%",
+            "x": "6%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "91%",
+            "x-tablet": "6%",
+            "y-tablet": "0%",
+            "width-mobile": "91%",
+            "x-mobile": "6%",
+            "y-mobile": "0%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "91%",
+        "x": "6%",
+        "y": "0%",
+        "rotation": "0deg",
+        "z": 1,
+        "width-tablet": "91%",
+        "x-tablet": "6%",
+        "y-tablet": "0%",
+        "width-mobile": "91%",
+        "x-mobile": "6%",
+        "y-mobile": "0%"
+      }
+    },
+    {
+      "chapter": "10-today",
+      "role": "main",
+      "decorative": false,
+      "alt": "Illustration of an abstract ribbon sculpture made from chocolate.",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive contemporary chocolate sculpture; not an existing named work.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-f313dedb-12d6-40cb-b70b-8bd2382caf7a.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          61,
+          31,
+          1224,
+          1254
+        ],
+        "bytes": 1176133,
+        "sha256": "ca0898bf1ce629881b94de00dbed70f8fba9f3f20939298ce911143b32afd01e"
+      },
+      "crop_box": [
+        53,
+        23,
+        1232,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/10-today/chocolate-sculpture.png",
+        "width": 1179,
+        "height": 1231,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          8,
+          8,
+          1171,
+          1231
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1112626,
+        "sha256": "0d4c0759ed898719ab09b85196b96a77d23fcbb9ac4c71c982b5afce1204388f"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/10-today/chocolate-sculpture-640.png",
+        "width": 613,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          4,
+          4,
+          609,
+          622
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 323411,
+        "sha256": "4681dfd083c52e0e53b4bbdcdc9f0b864a2adb9fc7cde81c07a072d6ae251818"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/10-today/chocolate-sculpture-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          61,
+          31,
+          1224,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1176133,
+        "sha256": "ca0898bf1ce629881b94de00dbed70f8fba9f3f20939298ce911143b32afd01e"
+      },
+      "placements": [
+        {
+          "chapter": "10-today",
+          "role": "main",
+          "decorative": false,
+          "alt": "Illustration of an abstract ribbon sculpture made from chocolate.",
+          "placement": {
+            "width": "83%",
+            "x": "10%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "83%",
+            "x-tablet": "10%",
+            "y-tablet": "0%",
+            "width-mobile": "83%",
+            "x-mobile": "10%",
+            "y-mobile": "0%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "83%",
+        "x": "10%",
+        "y": "0%",
+        "rotation": "0deg",
+        "z": 1,
+        "width-tablet": "83%",
+        "x-tablet": "10%",
+        "y-tablet": "0%",
+        "width-mobile": "83%",
+        "x-mobile": "10%",
+        "y-mobile": "0%"
+      }
+    },
+    {
+      "chapter": "shared",
+      "role": "bar",
+      "decorative": true,
+      "alt": "",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Unbranded segmented chocolate bar, reusable decorative support.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-7d27498a-fe25-4558-abc2-65e892b63f54.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          21,
+          1246,
+          1254
+        ],
+        "bytes": 1500275,
+        "sha256": "88685657b679a6fdc04091cf6e8d1362d46943a90835ab6967b3e2c96886f33a"
+      },
+      "crop_box": [
+        0,
+        13,
+        1254,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/shared/segmented-chocolate-bar.png",
+        "width": 600,
+        "height": 594,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          45,
+          596,
+          589
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 347420,
+        "sha256": "c887586e7a95416a95ddbdd6c1452570c2310b67d39a7d25a2679f7d2325a662"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/shared/segmented-chocolate-bar-300.png",
+        "width": 300,
+        "height": 297,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          4,
+          44,
+          298,
+          295
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 94227,
+        "sha256": "726125bb9f1191401ee899da73de860df19f40982f5889b73e3283e619dae00d"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/shared/segmented-chocolate-bar-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          21,
+          1246,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1500275,
+        "sha256": "88685657b679a6fdc04091cf6e8d1362d46943a90835ab6967b3e2c96886f33a"
+      },
+      "placements": [
+        {
+          "chapter": "05-industry",
+          "role": "bar",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "41%",
+            "x": "0%",
+            "y": "66%",
+            "rotation": "-7deg",
+            "z": 3,
+            "width-tablet": "41%",
+            "x-tablet": "0%",
+            "y-tablet": "66%",
+            "width-mobile": "41%",
+            "x-mobile": "0%",
+            "y-mobile": "66%"
+          }
+        },
+        {
+          "chapter": "06-innovation",
+          "role": "bar",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "43%",
+            "x": "0%",
+            "y": "68%",
+            "rotation": "-5deg",
+            "z": 3,
+            "width-tablet": "43%",
+            "x-tablet": "0%",
+            "y-tablet": "68%",
+            "width-mobile": "43%",
+            "x-mobile": "0%",
+            "y-mobile": "68%"
+          }
+        },
+        {
+          "chapter": "08-craft",
+          "role": "bar",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "40%",
+            "x": "0%",
+            "y": "68%",
+            "rotation": "-6deg",
+            "z": 3,
+            "width-tablet": "40%",
+            "x-tablet": "0%",
+            "y-tablet": "68%",
+            "width-mobile": "40%",
+            "x-mobile": "0%",
+            "y-mobile": "68%"
+          }
+        },
+        {
+          "chapter": "10-today",
+          "role": "bar",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "40%",
+            "x": "0%",
+            "y": "69%",
+            "rotation": "-5deg",
+            "z": 3,
+            "width-tablet": "40%",
+            "x-tablet": "0%",
+            "y-tablet": "69%",
+            "width-mobile": "40%",
+            "x-mobile": "0%",
+            "y-mobile": "69%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "41%",
+        "x": "0%",
+        "y": "66%",
+        "rotation": "-7deg",
+        "z": 3,
+        "width-tablet": "41%",
+        "x-tablet": "0%",
+        "y-tablet": "66%",
+        "width-mobile": "41%",
+        "x-mobile": "0%",
+        "y-mobile": "66%"
+      }
+    },
+    {
+      "chapter": "shared",
+      "role": "truffles",
+      "decorative": true,
+      "alt": "",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Unbranded assorted chocolates, reusable decorative support.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-d8cb6e75-6d30-49e5-a4fa-d254c31edc58.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          29,
+          1224,
+          1254
+        ],
+        "bytes": 1657837,
+        "sha256": "9d5ae3c09c813d7e2e66237abc3f17fbcea2aa573862d01d1ada06dcc873f1f1"
+      },
+      "crop_box": [
+        0,
+        21,
+        1232,
+        1254
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/shared/assorted-truffles.png",
+        "width": 600,
+        "height": 600,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          18,
+          33,
+          596,
+          518
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 407123,
+        "sha256": "6999cdf09a10b572be581a2892b9ba72452f86806e9d1ff31d93b935434ff775"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/shared/assorted-truffles-300.png",
+        "width": 300,
+        "height": 300,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          8,
+          35,
+          298,
+          260
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 110666,
+        "sha256": "929488470e028af3b2b87816566165638deef99b63f1b06c5a8f07484d103788"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/shared/assorted-truffles-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          29,
+          1224,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1657837,
+        "sha256": "9d5ae3c09c813d7e2e66237abc3f17fbcea2aa573862d01d1ada06dcc873f1f1"
+      },
+      "placements": [
+        {
+          "chapter": "06-innovation",
+          "role": "truffles",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "32%",
+            "x": "65%",
+            "y": "71%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "65%",
+            "y-tablet": "71%",
+            "width-mobile": "32%",
+            "x-mobile": "65%",
+            "y-mobile": "71%"
+          }
+        },
+        {
+          "chapter": "07-global",
+          "role": "truffles",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "32%",
+            "x": "65%",
+            "y": "72%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "65%",
+            "y-tablet": "72%",
+            "width-mobile": "32%",
+            "x-mobile": "65%",
+            "y-mobile": "72%"
+          }
+        },
+        {
+          "chapter": "08-craft",
+          "role": "truffles",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "31%",
+            "x": "66%",
+            "y": "75%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "31%",
+            "x-tablet": "66%",
+            "y-tablet": "75%",
+            "width-mobile": "31%",
+            "x-mobile": "66%",
+            "y-mobile": "75%"
+          }
+        },
+        {
+          "chapter": "10-today",
+          "role": "truffles",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "34%",
+            "x": "63%",
+            "y": "71%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "34%",
+            "x-tablet": "63%",
+            "y-tablet": "71%",
+            "width-mobile": "34%",
+            "x-mobile": "63%",
+            "y-mobile": "71%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "32%",
+        "x": "65%",
+        "y": "71%",
+        "rotation": "8deg",
+        "z": 4,
+        "width-tablet": "32%",
+        "x-tablet": "65%",
+        "y-tablet": "71%",
+        "width-mobile": "32%",
+        "x-mobile": "65%",
+        "y-mobile": "71%"
+      }
+    },
+    {
+      "chapter": "09-growing",
+      "role": "seedling",
+      "decorative": true,
+      "alt": "",
+      "generation_status": "generated original; implementation visually checked; pending Guy artwork approval",
+      "placement_source": "prototype/chocolate-history.json",
+      "interpretation": "Interpretive cacao seedling, decorative support.",
+      "source": {
+        "file": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-55c08705-103f-4242-b6be-46c2352cc480.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          17,
+          12,
+          1238,
+          1236
+        ],
+        "bytes": 1365941,
+        "sha256": "752fe7b40fd6f476fc9648c535a9143eae26658b62ec60e71635aa64dbdb612c"
+      },
+      "crop_box": [
+        9,
+        4,
+        1246,
+        1244
+      ],
+      "production": {
+        "file": "assets/images/chocolate-history/09-growing/cacao-seedling.png",
+        "width": 399,
+        "height": 400,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          4,
+          6,
+          395,
+          398
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 161555,
+        "sha256": "ecd2ca4ad0363f00610608951ed018b33fcbb5b1ec95de426d7ba645c578b0a1"
+      },
+      "small": {
+        "file": "assets/images/chocolate-history/09-growing/cacao-seedling-200.png",
+        "width": 200,
+        "height": 200,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          2,
+          4,
+          197,
+          200
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 47583,
+        "sha256": "83b8765f8e07b04d08cb35c9c39c8672a14e8161113d7b9382ad5bbc2e441051"
+      },
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/09-growing/cacao-seedling-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          17,
+          12,
+          1238,
+          1236
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1365941,
+        "sha256": "752fe7b40fd6f476fc9648c535a9143eae26658b62ec60e71635aa64dbdb612c"
+      },
+      "placements": [
+        {
+          "chapter": "09-growing",
+          "role": "seedling",
+          "decorative": true,
+          "alt": "",
+          "placement": {
+            "width": "31%",
+            "x": "0%",
+            "y": "67%",
+            "rotation": "-7deg",
+            "z": 3,
+            "width-tablet": "31%",
+            "x-tablet": "0%",
+            "y-tablet": "67%",
+            "width-mobile": "31%",
+            "x-mobile": "0%",
+            "y-mobile": "67%"
+          }
+        }
+      ],
+      "placement": {
+        "width": "31%",
+        "x": "0%",
+        "y": "67%",
+        "rotation": "-7deg",
+        "z": 3,
+        "width-tablet": "31%",
+        "x-tablet": "0%",
+        "y-tablet": "67%",
+        "width-mobile": "31%",
+        "x-mobile": "0%",
+        "y-mobile": "67%"
+      }
+    }
+  ],
+  "input_manifest": "prototype/chocolate-history-artwork.json",
+  "rejected_sources": [
+    {
+      "source": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-d187766a-7205-4307-a62c-53cc5373d80d.png",
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/02-aztec-empire/cacao-drinker-rejected-framing-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          0,
+          1244,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1695330,
+        "sha256": "4d3db99b026f6a84c250be16704760e289b314c83b312679403e382ebf5a5004"
+      },
+      "status": "Rejected framing; replaced by margin-corrected cacao-drinker production source. No runtime use."
+    },
+    {
+      "source": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-c567df55-e52f-4347-8f3a-0b67c90673d7.png",
+      "archive": {
+        "file": "brand/source/chocolate-history-2026-10-31/08-craft/chocolatier-at-work-rejected-framing-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          0,
+          1234,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1743444,
+        "sha256": "fbaa4d6751f1b0c89ecd8ac7b6dd0a47119c20aa79c3798750c08b6d36515e02"
+      },
+      "status": "Superseded framing with clipped head and table legs; replaced by corrected chocolatier-at-work source. No runtime use."
+    }
+  ]
+}

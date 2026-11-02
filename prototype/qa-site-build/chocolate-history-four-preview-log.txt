@@ -1,0 +1,385 @@
+{
+  "scope": "Real HTTP requests to an ephemeral 127.0.0.1 preview; no browser or external traffic.",
+  "duplicate_port_checks": [
+    {
+      "scenario": "second preview on preview port",
+      "rejected": true
+    },
+    {
+      "scenario": "generic reuse listener on preview port",
+      "rejected": true
+    },
+    {
+      "scenario": "preview on existing generic-server port",
+      "rejected": true
+    }
+  ],
+  "public_pages": 18,
+  "public_runtime_assets": 54,
+  "public_file_responses": [
+    {
+      "request": "/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/products/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/products/filled-chocolate/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/products/chocolate-bar/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/products/chocolate-drizzle/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/our-people/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/our-craft/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/experience-center/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/gifting/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/craft-your-own/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/fundraising/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/wholesale/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/b2b/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/lets-talk/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/privacy-policy/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/terms-and-conditions/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/accessibility/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/404.html",
+      "status": 404,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/logos/decocoa-dark-badge.svg",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/logos/decocoa-horizontal.svg",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/logos/decocoa-brandmark.svg",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/script.js",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/styles.css",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/logos/decocoa-brandmark-silhouette.svg",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/fonts/montserrat.css",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/fonts/montserrat-5.woff2",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/fonts/montserrat-4.woff2",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/fonts/montserrat-3.woff2",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/fonts/montserrat-2.woff2",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/fonts/montserrat-1.woff2",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-craft.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/nuts-and-chocolate.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/filled-chocolate.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-bar.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/04-taste-spreads/cacao-and-spices.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/04-taste-spreads/cacao-and-spices-200.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup-300.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/04-taste-spreads/chocolate-at-court.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/04-taste-spreads/chocolate-at-court-640.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/01-origins/cacao-beans.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/01-origins/cacao-beans-200.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/03-europe/cacao-sack.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/03-europe/cacao-sack-300.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/03-europe/sailing-ship.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/03-europe/sailing-ship-640.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/01-origins/ceramic-bowl.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/01-origins/ceramic-bowl-300.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/02-aztec-empire/cacao-drinker.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/02-aztec-empire/cacao-drinker-640.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/01-origins/cacao-pods-and-leaves.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-history/01-origins/cacao-pods-and-leaves-640.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/js/chocolate-history.js",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/css/chocolate-history.css",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/people-at-work.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-drizzle.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/cocoa-powder.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/hollow-chocolate-figure.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/decocoa-factory.gif",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/decocoa-factory-still.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/certification-cacao-trace.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/certification-rainforest-alliance.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/certification-haccp.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/certification-sqf.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/certification-ou-kosher.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/partner-guittard.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/partner-wegmans-supplied-626950.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/partner-puratos.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/dipped-pretzel.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/pretzel-chunky-sprinkles-r6.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/pretzel-red-drizzle-r6.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/js/category-motion.js",
+      "status": 200,
+      "matches_generated_file": true
+    }
+  ],
+  "legacy_context_redirects": 18,
+  "root_and_nested_recovery": "pass",
+  "source_directories_and_unreferenced_assets": "not served",
+  "errors": []
+}

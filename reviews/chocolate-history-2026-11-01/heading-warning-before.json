@@ -1,0 +1,1009 @@
+{
+  "candidates": [
+    {
+      "class": "history-era",
+      "size": 20,
+      "style": "normal",
+      "text": "1500 BCE–900 CE",
+      "weight": "700"
+    },
+    {
+      "class": "history-location",
+      "size": 20,
+      "style": "normal",
+      "text": "Mesoamerica",
+      "weight": "400"
+    },
+    {
+      "class": "history-era",
+      "size": 20,
+      "style": "normal",
+      "text": "1428–1521 CE",
+      "weight": "700"
+    },
+    {
+      "class": "history-location",
+      "size": 20,
+      "style": "normal",
+      "text": "Central Mexico",
+      "weight": "400"
+    },
+    {
+      "class": "history-era",
+      "size": 20,
+      "style": "normal",
+      "text": "1500s",
+      "weight": "700"
+    },
+    {
+      "class": "history-location",
+      "size": 20,
+      "style": "normal",
+      "text": "From the Americas to Europe",
+      "weight": "400"
+    },
+    {
+      "class": "history-era",
+      "size": 20,
+      "style": "normal",
+      "text": "1600s–1700s",
+      "weight": "700"
+    },
+    {
+      "class": "history-location",
+      "size": 20,
+      "style": "normal",
+      "text": "European courts and chocolate houses",
+      "weight": "400"
+    },
+    {
+      "class": "history-era",
+      "size": 20,
+      "style": "normal",
+      "text": "1800s",
+      "weight": "700"
+    },
+    {
+      "class": "history-location",
+      "size": 20,
+      "style": "normal",
+      "text": "Factories and new technology",
+      "weight": "400"
+    },
+    {
+      "class": "history-era",
+      "size": 20,
+      "style": "normal",
+      "text": "1900s",
+      "weight": "700"
+    },
+    {
+      "class": "history-location",
+      "size": 20,
+      "style": "normal",
+      "text": "New recipes, familiar names",
+      "weight": "400"
+    },
+    {
+      "class": "history-era",
+      "size": 20,
+      "style": "normal",
+      "text": "Mid 1900s",
+      "weight": "700"
+    },
+    {
+      "class": "history-location",
+      "size": 20,
+      "style": "normal",
+      "text": "Chocolate around the world",
+      "weight": "400"
+    },
+    {
+      "class": "history-era",
+      "size": 20,
+      "style": "normal",
+      "text": "Late 1900s",
+      "weight": "700"
+    },
+    {
+      "class": "history-location",
+      "size": 20,
+      "style": "normal",
+      "text": "Origin, flavor and craftsmanship",
+      "weight": "400"
+    },
+    {
+      "class": "history-era",
+      "size": 20,
+      "style": "normal",
+      "text": "2000s",
+      "weight": "700"
+    },
+    {
+      "class": "history-location",
+      "size": 20,
+      "style": "normal",
+      "text": "Cacao communities and ecosystems",
+      "weight": "400"
+    },
+    {
+      "class": "history-era",
+      "size": 20,
+      "style": "normal",
+      "text": "Today & Tomorrow",
+      "weight": "700"
+    },
+    {
+      "class": "history-location",
+      "size": 20,
+      "style": "normal",
+      "text": "Creativity and the future of chocolate",
+      "weight": "400"
+    },
+    {
+      "class": "",
+      "size": 20,
+      "style": "normal",
+      "text": "What will your chocolate story look like?",
+      "weight": "400"
+    }
+  ],
+  "styles": [
+    {
+      "chapters": [
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "1500 BCE–900 CE",
+            "tracking": "0.64px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 2132.046875
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32.1875,
+            "lineHeight": "32.2px",
+            "size": "28px",
+            "tag": "H3",
+            "text": "Ancient Origins",
+            "tracking": "-1.54px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 2173.640625
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "Mesoamerica",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 231,
+            "x": 54,
+            "y": 2221.828125
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "1428–1521 CE",
+            "tracking": "0.64px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 2966.09375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 64.375,
+            "lineHeight": "32.2px",
+            "size": "28px",
+            "tag": "H3",
+            "text": "The Aztec Empire",
+            "tracking": "-1.54px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 3007.6875
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "Central Mexico",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 231,
+            "x": 54,
+            "y": 3088.0625
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "1500s",
+            "tracking": "0.64px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 3745.9375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 64.375,
+            "lineHeight": "32.2px",
+            "size": "28px",
+            "tag": "H3",
+            "text": "Chocolate Comes to Europe",
+            "tracking": "-1.54px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 3787.53125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 51.1875,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "From the Americas to Europe",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 231,
+            "x": 54,
+            "y": 3867.90625
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "1600s–1700s",
+            "tracking": "0.64px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 4637.765625
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32.1875,
+            "lineHeight": "32.2px",
+            "size": "28px",
+            "tag": "H3",
+            "text": "A Taste Spreads",
+            "tracking": "-1.54px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 4679.359375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 51.1875,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "European courts and chocolate houses",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 231,
+            "x": 54,
+            "y": 4727.546875
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "1800s",
+            "tracking": "0.64px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 5524.59375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 64.375,
+            "lineHeight": "32.2px",
+            "size": "28px",
+            "tag": "H3",
+            "text": "The Industrial Revolution",
+            "tracking": "-1.54px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 5566.1875
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 51.1875,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "Factories and new technology",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 231,
+            "x": 54,
+            "y": 5646.5625
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "1900s",
+            "tracking": "0.64px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 6558.796875
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 64.375,
+            "lineHeight": "32.2px",
+            "size": "28px",
+            "tag": "H3",
+            "text": "Innovation and Iconic Brands",
+            "tracking": "-1.54px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 6600.390625
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "New recipes, familiar names",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 231,
+            "x": 54,
+            "y": 6680.765625
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "Mid 1900s",
+            "tracking": "0.64px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 7452.21875
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 64.375,
+            "lineHeight": "32.2px",
+            "size": "28px",
+            "tag": "H3",
+            "text": "A Global Obsession",
+            "tracking": "-1.54px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 7493.8125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "Chocolate around the world",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 231,
+            "x": 54,
+            "y": 7574.1875
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "Late 1900s",
+            "tracking": "0.64px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 8403.234375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 64.375,
+            "lineHeight": "32.2px",
+            "size": "28px",
+            "tag": "H3",
+            "text": "Craft and Fine Chocolate",
+            "tracking": "-1.54px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 8444.828125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 51.1875,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "Origin, flavor and craftsmanship",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 231,
+            "x": 54,
+            "y": 8525.203125
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "2000s",
+            "tracking": "0.64px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 9427.109375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 64.375,
+            "lineHeight": "32.2px",
+            "size": "28px",
+            "tag": "H3",
+            "text": "Sustainability and Impact",
+            "tracking": "-1.54px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 9468.703125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 51.1875,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "Cacao communities and ecosystems",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 231,
+            "x": 54,
+            "y": 9549.078125
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 25.59375,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "Today & Tomorrow",
+            "tracking": "0.64px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 10434.125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 64.375,
+            "lineHeight": "32.2px",
+            "size": "28px",
+            "tag": "H3",
+            "text": "A Sweeter Tomorrow",
+            "tracking": "-1.54px",
+            "weight": "700",
+            "width": 231,
+            "x": 54,
+            "y": 10475.71875
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 51.1875,
+            "lineHeight": "25.6px",
+            "size": "16px",
+            "tag": "P",
+            "text": "Creativity and the future of chocolate",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 231,
+            "x": 54,
+            "y": 10556.09375
+          }
+        ]
+      ],
+      "invitation": {
+        "color": "rgb(58, 23, 13)",
+        "height": 54.375,
+        "lineHeight": "27.2px",
+        "size": "16px",
+        "tag": "P",
+        "text": "What will your chocolate story look like?",
+        "tracking": "normal",
+        "weight": "400",
+        "width": 231,
+        "x": 54,
+        "y": 11379.546875
+      },
+      "width": 320
+    },
+    {
+      "chapters": [
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "1500 BCE–900 CE",
+            "tracking": "0.8px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 1885.171875
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 52.984375,
+            "lineHeight": "52.992px",
+            "size": "46.08px",
+            "tag": "H3",
+            "text": "Ancient Origins",
+            "tracking": "-2.5344px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 1933.171875
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "Mesoamerica",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 2002.15625
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "1428–1521 CE",
+            "tracking": "0.8px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 2651.125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 52.984375,
+            "lineHeight": "52.992px",
+            "size": "46.08px",
+            "tag": "H3",
+            "text": "The Aztec Empire",
+            "tracking": "-2.5344px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 2699.125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "Central Mexico",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 2768.109375
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "1500s",
+            "tracking": "0.8px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 3417.078125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 52.984375,
+            "lineHeight": "52.992px",
+            "size": "46.08px",
+            "tag": "H3",
+            "text": "Chocolate Comes to Europe",
+            "tracking": "-2.5344px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 3465.078125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "From the Americas to Europe",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 3534.0625
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "1600s–1700s",
+            "tracking": "0.8px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 4183.03125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 52.984375,
+            "lineHeight": "52.992px",
+            "size": "46.08px",
+            "tag": "H3",
+            "text": "A Taste Spreads",
+            "tracking": "-2.5344px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 4231.03125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "European courts and chocolate houses",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 4300.015625
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "1800s",
+            "tracking": "0.8px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 4948.984375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 52.984375,
+            "lineHeight": "52.992px",
+            "size": "46.08px",
+            "tag": "H3",
+            "text": "The Industrial Revolution",
+            "tracking": "-2.5344px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 4996.984375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "Factories and new technology",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 5065.96875
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "1900s",
+            "tracking": "0.8px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 5714.9375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 105.96875,
+            "lineHeight": "52.992px",
+            "size": "46.08px",
+            "tag": "H3",
+            "text": "Innovation and Iconic Brands",
+            "tracking": "-2.5344px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 5762.9375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "New recipes, familiar names",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 5884.90625
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "Mid 1900s",
+            "tracking": "0.8px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 6480.890625
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 52.984375,
+            "lineHeight": "52.992px",
+            "size": "46.08px",
+            "tag": "H3",
+            "text": "A Global Obsession",
+            "tracking": "-2.5344px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 6528.890625
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "Chocolate around the world",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 6597.875
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "Late 1900s",
+            "tracking": "0.8px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 7246.84375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 52.984375,
+            "lineHeight": "52.992px",
+            "size": "46.08px",
+            "tag": "H3",
+            "text": "Craft and Fine Chocolate",
+            "tracking": "-2.5344px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 7294.84375
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "Origin, flavor and craftsmanship",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 7363.828125
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "2000s",
+            "tracking": "0.8px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 8062.078125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 52.984375,
+            "lineHeight": "52.992px",
+            "size": "46.08px",
+            "tag": "H3",
+            "text": "Sustainability and Impact",
+            "tracking": "-2.5344px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 8110.078125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "Cacao communities and ecosystems",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 616.03125,
+            "x": 60.46875,
+            "y": 8179.0625
+          }
+        ],
+        [
+          {
+            "color": "rgb(184, 59, 40)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "Today & Tomorrow",
+            "tracking": "0.8px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 8828.03125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 52.984375,
+            "lineHeight": "52.992px",
+            "size": "46.08px",
+            "tag": "H3",
+            "text": "A Sweeter Tomorrow",
+            "tracking": "-2.5344px",
+            "weight": "700",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 8876.03125
+          },
+          {
+            "color": "rgb(58, 23, 13)",
+            "height": 32,
+            "lineHeight": "32px",
+            "size": "20px",
+            "tag": "P",
+            "text": "Creativity and the future of chocolate",
+            "tracking": "normal",
+            "weight": "400",
+            "width": 616.03125,
+            "x": 748.5,
+            "y": 8945.015625
+          }
+        ]
+      ],
+      "invitation": {
+        "color": "rgb(58, 23, 13)",
+        "height": 34,
+        "lineHeight": "34px",
+        "size": "20px",
+        "tag": "P",
+        "text": "What will your chocolate story look like?",
+        "tracking": "normal",
+        "weight": "400",
+        "width": 720,
+        "x": 352.5,
+        "y": 9593.984375
+      },
+      "width": 1440
+    }
+  ]
+}

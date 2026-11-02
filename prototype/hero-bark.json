@@ -1,0 +1,61 @@
+{
+  "images": [
+    {
+      "id": "nut-bark",
+      "motion_class": "pretzel-drizzle",
+      "image": "images/hero-bark/nut-bark.webp",
+      "width": 1254,
+      "height": 1254,
+      "alt": "Chocolate bark with almonds and hazelnuts.",
+      "variants": [
+        {
+          "image": "images/hero-bark/nut-bark-640.webp",
+          "width": 640
+        },
+        {
+          "image": "images/hero-bark/nut-bark.webp",
+          "width": 1254
+        }
+      ],
+      "sizes": "(min-width:1500px) 660px, (min-width:601px) 48vw, 78vw"
+    },
+    {
+      "id": "pistachio-bark",
+      "motion_class": "pretzel-chunky",
+      "image": "images/hero-bark/pistachio-bark.webp",
+      "width": 1254,
+      "height": 1254,
+      "alt": "Chocolate bark with pistachios and almonds.",
+      "variants": [
+        {
+          "image": "images/hero-bark/pistachio-bark-640.webp",
+          "width": 640
+        },
+        {
+          "image": "images/hero-bark/pistachio-bark.webp",
+          "width": 1254
+        }
+      ],
+      "sizes": "(min-width:1500px) 660px, (min-width:601px) 48vw, 78vw"
+    },
+    {
+      "id": "crisp-bark",
+      "motion_class": "pretzel-sprinkles",
+      "image": "images/hero-bark/crisp-bark.webp",
+      "width": 1254,
+      "height": 1254,
+      "alt": "Chocolate bark with a crisp golden filling.",
+      "variants": [
+        {
+          "image": "images/hero-bark/crisp-bark-640.webp",
+          "width": 640
+        },
+        {
+          "image": "images/hero-bark/crisp-bark.webp",
+          "width": 1254
+        }
+      ],
+      "sizes": "(min-width:1500px) 660px, (min-width:601px) 48vw, 78vw"
+    }
+  ]
+}

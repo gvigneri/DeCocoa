@@ -1,0 +1,52 @@
+{
+  "chapters": 10,
+  "rendered_heading_order": [
+    [
+      "01-origins",
+      "Ancient Origins"
+    ],
+    [
+      "02-aztec-empire",
+      "The Aztec Empire"
+    ],
+    [
+      "03-europe",
+      "Chocolate Comes to Europe"
+    ],
+    [
+      "04-taste-spreads",
+      "A Taste Spreads"
+    ],
+    [
+      "05-industry",
+      "The Industrial Revolution"
+    ],
+    [
+      "06-innovation",
+      "Innovation and Iconic Brands"
+    ],
+    [
+      "07-global",
+      "A Global Obsession"
+    ],
+    [
+      "08-craft",
+      "Craft and Fine Chocolate"
+    ],
+    [
+      "09-growing",
+      "Sustainability and Impact"
+    ],
+    [
+      "10-today",
+      "A Sweeter Tomorrow"
+    ]
+  ],
+  "rendered_images": 30,
+  "meaningful_main_images": 10,
+  "first_four_content_and_layout": "pass",
+  "prior_pngs_verified": 18,
+  "production_variants_verified": 36,
+  "source_archives_verified": 20,
+  "errors": []
+}

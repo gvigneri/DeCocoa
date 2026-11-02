@@ -1,0 +1,576 @@
+{
+  "checks": [
+    {
+      "documentWidth": 1425,
+      "focusId": "how-its-made-title",
+      "h1s": [
+        "Experience Center"
+      ],
+      "intro": [
+        "Visit our Craft your own Chocolate Bar and experience a world of chocolate.",
+        "Let our Chocolate Crafters introduce you to the art of the chocolatier.",
+        "Be sure to craft your own chocolate bar and build your own Gift Box."
+      ],
+      "jumps": [
+        {
+          "href": "#experience-overview",
+          "targetExists": true,
+          "text": "Experience Center"
+        },
+        {
+          "href": "#how-its-made",
+          "targetExists": true,
+          "text": "How its Made"
+        },
+        {
+          "href": "#museum-virtual-exhibition",
+          "targetExists": true,
+          "text": "Museum & Virtual Exhibition"
+        },
+        {
+          "href": "#tours-and-classes",
+          "targetExists": true,
+          "text": "Tours and Classes"
+        }
+      ],
+      "overview": {
+        "paragraphs": [
+          "Experience our virtual self guided exhibition to learn interesting facts about the History of Chocolate and how it is made.",
+          "Be sure to experience our Green Screen Photo Room and choose a selection of backdrops to choose from."
+        ],
+        "title": "Experience Center"
+      },
+      "photoLoaded": true,
+      "process": {
+        "listTag": "OL",
+        "paragraphs": 0,
+        "steps": [
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Ripe cocoa pods are cut by hand. Only ready pods are chosen. The tree is protected.",
+            "title": "Picking"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Pods are gathered and carried from the field. Freshness matters. Flavor starts now.",
+            "title": "Harversting"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans are removed and left to ferment. Heat builds. Flavor develops.",
+            "title": "Fermentation"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans dry in the sun. Moisture fades. The flavor settles.",
+            "title": "Drying"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Heat unlocks cocoa flavor.Aromas deepen. Character forms.",
+            "title": "Roasting"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans become chocolate. Time creates smooth texture. Flavor finds balance.",
+            "title": "Griding and Coaching"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Chocolate is heated and cooled. It gains shine and snap. Ready to enjoy.",
+            "title": "Tempering"
+          }
+        ],
+        "title": "How its Made"
+      },
+      "timelineItems": 10,
+      "tours": {
+        "paragraphs": [
+          "Book for a Factory tour or Chocolate Crafting Classes & tasting sessions and let our Chocolate Crafters introduce you to the art of Chocolate Crafting."
+        ],
+        "title": "Tours and Classes"
+      },
+      "width": 1440
+    },
+    {
+      "documentWidth": 1905,
+      "focusId": "how-its-made-title",
+      "h1s": [
+        "Experience Center"
+      ],
+      "intro": [
+        "Visit our Craft your own Chocolate Bar and experience a world of chocolate.",
+        "Let our Chocolate Crafters introduce you to the art of the chocolatier.",
+        "Be sure to craft your own chocolate bar and build your own Gift Box."
+      ],
+      "jumps": [
+        {
+          "href": "#experience-overview",
+          "targetExists": true,
+          "text": "Experience Center"
+        },
+        {
+          "href": "#how-its-made",
+          "targetExists": true,
+          "text": "How its Made"
+        },
+        {
+          "href": "#museum-virtual-exhibition",
+          "targetExists": true,
+          "text": "Museum & Virtual Exhibition"
+        },
+        {
+          "href": "#tours-and-classes",
+          "targetExists": true,
+          "text": "Tours and Classes"
+        }
+      ],
+      "overview": {
+        "paragraphs": [
+          "Experience our virtual self guided exhibition to learn interesting facts about the History of Chocolate and how it is made.",
+          "Be sure to experience our Green Screen Photo Room and choose a selection of backdrops to choose from."
+        ],
+        "title": "Experience Center"
+      },
+      "photoLoaded": true,
+      "process": {
+        "listTag": "OL",
+        "paragraphs": 0,
+        "steps": [
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Ripe cocoa pods are cut by hand. Only ready pods are chosen. The tree is protected.",
+            "title": "Picking"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Pods are gathered and carried from the field. Freshness matters. Flavor starts now.",
+            "title": "Harversting"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans are removed and left to ferment. Heat builds. Flavor develops.",
+            "title": "Fermentation"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans dry in the sun. Moisture fades. The flavor settles.",
+            "title": "Drying"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Heat unlocks cocoa flavor.Aromas deepen. Character forms.",
+            "title": "Roasting"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans become chocolate. Time creates smooth texture. Flavor finds balance.",
+            "title": "Griding and Coaching"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Chocolate is heated and cooled. It gains shine and snap. Ready to enjoy.",
+            "title": "Tempering"
+          }
+        ],
+        "title": "How its Made"
+      },
+      "timelineItems": 10,
+      "tours": {
+        "paragraphs": [
+          "Book for a Factory tour or Chocolate Crafting Classes & tasting sessions and let our Chocolate Crafters introduce you to the art of Chocolate Crafting."
+        ],
+        "title": "Tours and Classes"
+      },
+      "width": 1920
+    },
+    {
+      "documentWidth": 753,
+      "focusId": "how-its-made-title",
+      "h1s": [
+        "Experience Center"
+      ],
+      "intro": [
+        "Visit our Craft your own Chocolate Bar and experience a world of chocolate.",
+        "Let our Chocolate Crafters introduce you to the art of the chocolatier.",
+        "Be sure to craft your own chocolate bar and build your own Gift Box."
+      ],
+      "jumps": [
+        {
+          "href": "#experience-overview",
+          "targetExists": true,
+          "text": "Experience Center"
+        },
+        {
+          "href": "#how-its-made",
+          "targetExists": true,
+          "text": "How its Made"
+        },
+        {
+          "href": "#museum-virtual-exhibition",
+          "targetExists": true,
+          "text": "Museum & Virtual Exhibition"
+        },
+        {
+          "href": "#tours-and-classes",
+          "targetExists": true,
+          "text": "Tours and Classes"
+        }
+      ],
+      "overview": {
+        "paragraphs": [
+          "Experience our virtual self guided exhibition to learn interesting facts about the History of Chocolate and how it is made.",
+          "Be sure to experience our Green Screen Photo Room and choose a selection of backdrops to choose from."
+        ],
+        "title": "Experience Center"
+      },
+      "photoLoaded": true,
+      "process": {
+        "listTag": "OL",
+        "paragraphs": 0,
+        "steps": [
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Ripe cocoa pods are cut by hand. Only ready pods are chosen. The tree is protected.",
+            "title": "Picking"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Pods are gathered and carried from the field. Freshness matters. Flavor starts now.",
+            "title": "Harversting"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans are removed and left to ferment. Heat builds. Flavor develops.",
+            "title": "Fermentation"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans dry in the sun. Moisture fades. The flavor settles.",
+            "title": "Drying"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Heat unlocks cocoa flavor.Aromas deepen. Character forms.",
+            "title": "Roasting"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans become chocolate. Time creates smooth texture. Flavor finds balance.",
+            "title": "Griding and Coaching"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Chocolate is heated and cooled. It gains shine and snap. Ready to enjoy.",
+            "title": "Tempering"
+          }
+        ],
+        "title": "How its Made"
+      },
+      "timelineItems": 10,
+      "tours": {
+        "paragraphs": [
+          "Book for a Factory tour or Chocolate Crafting Classes & tasting sessions and let our Chocolate Crafters introduce you to the art of Chocolate Crafting."
+        ],
+        "title": "Tours and Classes"
+      },
+      "width": 768
+    },
+    {
+      "documentWidth": 305,
+      "focusId": "how-its-made-title",
+      "h1s": [
+        "Experience Center"
+      ],
+      "intro": [
+        "Visit our Craft your own Chocolate Bar and experience a world of chocolate.",
+        "Let our Chocolate Crafters introduce you to the art of the chocolatier.",
+        "Be sure to craft your own chocolate bar and build your own Gift Box."
+      ],
+      "jumps": [
+        {
+          "href": "#experience-overview",
+          "targetExists": true,
+          "text": "Experience Center"
+        },
+        {
+          "href": "#how-its-made",
+          "targetExists": true,
+          "text": "How its Made"
+        },
+        {
+          "href": "#museum-virtual-exhibition",
+          "targetExists": true,
+          "text": "Museum & Virtual Exhibition"
+        },
+        {
+          "href": "#tours-and-classes",
+          "targetExists": true,
+          "text": "Tours and Classes"
+        }
+      ],
+      "overview": {
+        "paragraphs": [
+          "Experience our virtual self guided exhibition to learn interesting facts about the History of Chocolate and how it is made.",
+          "Be sure to experience our Green Screen Photo Room and choose a selection of backdrops to choose from."
+        ],
+        "title": "Experience Center"
+      },
+      "photoLoaded": true,
+      "process": {
+        "listTag": "OL",
+        "paragraphs": 0,
+        "steps": [
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Ripe cocoa pods are cut by hand. Only ready pods are chosen. The tree is protected.",
+            "title": "Picking"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Pods are gathered and carried from the field. Freshness matters. Flavor starts now.",
+            "title": "Harversting"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans are removed and left to ferment. Heat builds. Flavor develops.",
+            "title": "Fermentation"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans dry in the sun. Moisture fades. The flavor settles.",
+            "title": "Drying"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Heat unlocks cocoa flavor.Aromas deepen. Character forms.",
+            "title": "Roasting"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans become chocolate. Time creates smooth texture. Flavor finds balance.",
+            "title": "Griding and Coaching"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Chocolate is heated and cooled. It gains shine and snap. Ready to enjoy.",
+            "title": "Tempering"
+          }
+        ],
+        "title": "How its Made"
+      },
+      "timelineItems": 10,
+      "tours": {
+        "paragraphs": [
+          "Book for a Factory tour or Chocolate Crafting Classes & tasting sessions and let our Chocolate Crafters introduce you to the art of Chocolate Crafting."
+        ],
+        "title": "Tours and Classes"
+      },
+      "width": 320
+    },
+    {
+      "documentWidth": 375,
+      "focusId": "how-its-made-title",
+      "h1s": [
+        "Experience Center"
+      ],
+      "intro": [
+        "Visit our Craft your own Chocolate Bar and experience a world of chocolate.",
+        "Let our Chocolate Crafters introduce you to the art of the chocolatier.",
+        "Be sure to craft your own chocolate bar and build your own Gift Box."
+      ],
+      "jumps": [
+        {
+          "href": "#experience-overview",
+          "targetExists": true,
+          "text": "Experience Center"
+        },
+        {
+          "href": "#how-its-made",
+          "targetExists": true,
+          "text": "How its Made"
+        },
+        {
+          "href": "#museum-virtual-exhibition",
+          "targetExists": true,
+          "text": "Museum & Virtual Exhibition"
+        },
+        {
+          "href": "#tours-and-classes",
+          "targetExists": true,
+          "text": "Tours and Classes"
+        }
+      ],
+      "overview": {
+        "paragraphs": [
+          "Experience our virtual self guided exhibition to learn interesting facts about the History of Chocolate and how it is made.",
+          "Be sure to experience our Green Screen Photo Room and choose a selection of backdrops to choose from."
+        ],
+        "title": "Experience Center"
+      },
+      "photoLoaded": true,
+      "process": {
+        "listTag": "OL",
+        "paragraphs": 0,
+        "steps": [
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Ripe cocoa pods are cut by hand. Only ready pods are chosen. The tree is protected.",
+            "title": "Picking"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Pods are gathered and carried from the field. Freshness matters. Flavor starts now.",
+            "title": "Harversting"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans are removed and left to ferment. Heat builds. Flavor develops.",
+            "title": "Fermentation"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans dry in the sun. Moisture fades. The flavor settles.",
+            "title": "Drying"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Heat unlocks cocoa flavor.Aromas deepen. Character forms.",
+            "title": "Roasting"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Beans become chocolate. Time creates smooth texture. Flavor finds balance.",
+            "title": "Griding and Coaching"
+          },
+          {
+            "contained": true,
+            "headingTag": "H3",
+            "text": "Chocolate is heated and cooled. It gains shine and snap. Ready to enjoy.",
+            "title": "Tempering"
+          }
+        ],
+        "title": "How its Made"
+      },
+      "timelineItems": 10,
+      "tours": {
+        "paragraphs": [
+          "Book for a Factory tour or Chocolate Crafting Classes & tasting sessions and let our Chocolate Crafters introduce you to the art of Chocolate Crafting."
+        ],
+        "title": "Tours and Classes"
+      },
+      "width": 390
+    }
+  ],
+  "parity": [
+    {
+      "width": 1440,
+      "noOverflow": true,
+      "exactHeading": true,
+      "exactIntro": true,
+      "exactOverview": true,
+      "exactProcess": true,
+      "semanticSteps": true,
+      "stepsContained": true,
+      "introDeferred": true,
+      "exactTours": true,
+      "allJumpTargets": true,
+      "timelineItems": 10,
+      "photoLoaded": true
+    },
+    {
+      "width": 1920,
+      "noOverflow": true,
+      "exactHeading": true,
+      "exactIntro": true,
+      "exactOverview": true,
+      "exactProcess": true,
+      "semanticSteps": true,
+      "stepsContained": true,
+      "introDeferred": true,
+      "exactTours": true,
+      "allJumpTargets": true,
+      "timelineItems": 10,
+      "photoLoaded": true
+    },
+    {
+      "width": 768,
+      "noOverflow": true,
+      "exactHeading": true,
+      "exactIntro": true,
+      "exactOverview": true,
+      "exactProcess": true,
+      "semanticSteps": true,
+      "stepsContained": true,
+      "introDeferred": true,
+      "exactTours": true,
+      "allJumpTargets": true,
+      "timelineItems": 10,
+      "photoLoaded": true
+    },
+    {
+      "width": 320,
+      "noOverflow": true,
+      "exactHeading": true,
+      "exactIntro": true,
+      "exactOverview": true,
+      "exactProcess": true,
+      "semanticSteps": true,
+      "stepsContained": true,
+      "introDeferred": true,
+      "exactTours": true,
+      "allJumpTargets": true,
+      "timelineItems": 10,
+      "photoLoaded": true
+    },
+    {
+      "width": 390,
+      "noOverflow": true,
+      "exactHeading": true,
+      "exactIntro": true,
+      "exactOverview": true,
+      "exactProcess": true,
+      "semanticSteps": true,
+      "stepsContained": true,
+      "introDeferred": true,
+      "exactTours": true,
+      "allJumpTargets": true,
+      "timelineItems": 10,
+      "photoLoaded": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "path": "prototype/chocolate-history.json",
+    "sha256": "653B97CB27479FD1C13B280BCB89F2349FB8AEF542EA2945EF0B08934D8867D0"
+  },
+  {
+    "path": "assets/chocolate-history-assets.json",
+    "sha256": "A5FFC75A4F49FFD86CB68373BCD900EB5EC4FF08C497D88FD1BEF3301E78C0D1"
+  },
+  {
+    "path": "assets/js/chocolate-history.js",
+    "sha256": "54A77DE17BE20E89FC26CE4864B41924FC00C40A387B9298817F4E4D3E6D9BA5"
+  },
+  {
+    "path": "prototype/script.js",
+    "sha256": "DDD435C098A6F966B6E87E6D14C10B973B45DACE2401B7151E8883A8BFBD5447"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "during": {
+    "color": "rgb(184, 59, 40)",
+    "focusVisible": true,
+    "line": {
+      "height": "2px",
+      "origin": "0px 1px",
+      "transform": "matrix(0.518968, 0, 0, 1, 0, 0)",
+      "transition": "0.22s"
+    },
+    "text": "Explore the history",
+    "underline": "none"
+  },
+  "after": {
+    "line": "matrix(1, 0, 0, 1, 0, 0)",
+    "text": "Explore the history"
+  }
+}

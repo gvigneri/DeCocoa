@@ -1,0 +1,236 @@
+[
+  {
+    "chapters": [
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1081.984375,
+        "overlap": false,
+        "title": "Ancient Origins"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 865.984375,
+        "overlap": false,
+        "title": "The Aztec Empire"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1081.984375,
+        "overlap": false,
+        "title": "Chocolate Comes to Europe"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1145.984375,
+        "overlap": false,
+        "title": "A Taste Spreads"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1437.984375,
+        "overlap": false,
+        "title": "The Industrial Revolution"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1274.96875,
+        "overlap": false,
+        "title": "Innovation and Iconic Brands"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1221.984375,
+        "overlap": false,
+        "title": "A Global Obsession"
+      },
+      {
+        "artHeight": 739.234375,
+        "captionSize": "40px",
+        "copyHeight": 1501.984375,
+        "overlap": false,
+        "title": "Craft and Fine Chocolate"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1433.984375,
+        "overlap": false,
+        "title": "Sustainability and Impact"
+      },
+      {
+        "artHeight": 689.953125,
+        "captionSize": "40px",
+        "copyHeight": 1289.984375,
+        "overlap": false,
+        "title": "A Sweeter Tomorrow"
+      }
+    ],
+    "client": 1425,
+    "rootSize": "32px",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "chapters": [
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1403.21875,
+        "overlap": false,
+        "title": "Ancient Origins"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1064.0625,
+        "overlap": false,
+        "title": "The Aztec Empire"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1601.78125,
+        "overlap": false,
+        "title": "Chocolate Comes to Europe"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1508.796875,
+        "overlap": false,
+        "title": "A Taste Spreads"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 2062.53125,
+        "overlap": false,
+        "title": "The Industrial Revolution"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1547.390625,
+        "overlap": false,
+        "title": "Innovation and Iconic Brands"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1687.984375,
+        "overlap": false,
+        "title": "A Global Obsession"
+      },
+      {
+        "artHeight": 351.59375,
+        "captionSize": "32px",
+        "copyHeight": 1892.953125,
+        "overlap": false,
+        "title": "Craft and Fine Chocolate"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1947.34375,
+        "overlap": false,
+        "title": "Sustainability and Impact"
+      },
+      {
+        "artHeight": 328.15625,
+        "captionSize": "32px",
+        "copyHeight": 1793.5625,
+        "overlap": false,
+        "title": "A Sweeter Tomorrow"
+      }
+    ],
+    "client": 375,
+    "rootSize": "32px",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "chapters": [
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 1748.78125,
+        "overlap": false,
+        "title": "Ancient Origins"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 1435.40625,
+        "overlap": false,
+        "title": "The Aztec Empire"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 1944.140625,
+        "overlap": false,
+        "title": "Chocolate Comes to Europe"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 2020.734375,
+        "overlap": false,
+        "title": "A Taste Spreads"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 2632.0625,
+        "overlap": false,
+        "title": "The Industrial Revolution"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 2113.71875,
+        "overlap": false,
+        "title": "Innovation and Iconic Brands"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 2116.921875,
+        "overlap": false,
+        "title": "A Global Obsession"
+      },
+      {
+        "artHeight": 277.1875,
+        "captionSize": "32px",
+        "copyHeight": 2347.296875,
+        "overlap": false,
+        "title": "Craft and Fine Chocolate"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 2516.875,
+        "overlap": false,
+        "title": "Sustainability and Impact"
+      },
+      {
+        "artHeight": 258.71875,
+        "captionSize": "32px",
+        "copyHeight": 2171.3125,
+        "overlap": false,
+        "title": "A Sweeter Tomorrow"
+      }
+    ],
+    "client": 305,
+    "rootSize": "32px",
+    "scrollWidth": 305,
+    "width": 320
+  }
+]

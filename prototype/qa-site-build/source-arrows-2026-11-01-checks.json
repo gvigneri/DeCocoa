@@ -1,0 +1,22 @@
+{
+  "metadata_date_region_title": 10,
+  "decorative_source_icons": 10,
+  "other_pages_main_ctas_unchanged": 17,
+  "experience_main_ctas": [
+    {
+      "href": "../our-craft/",
+      "text": "Explore Our Craft"
+    },
+    {
+      "href": "../craft-your-own/#chocolate-bars",
+      "text": "Craft Your Own Chocolate Bar"
+    },
+    {
+      "href": "../lets-talk/?topic=Experience%20Center#inquiry",
+      "text": "Ask About the Experience Center"
+    }
+  ],
+  "how_its_made_paragraphs": 4,
+  "arrow_sha256": "641e36ebd65ab04f8e84a1eaa48c35d6e4df4ad70571394a3868c0391a5e2e06",
+  "errors": []
+}

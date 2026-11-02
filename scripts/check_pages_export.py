@@ -153,7 +153,9 @@ console.log(JSON.stringify({compatibility_context_cases:cases.length,legacy_cont
                     if response.status!=status or response.read()!=path.read_bytes():
                         errors.append(['project-prefix HTTP response mismatch',route,response.status])
                     http_checked+=1
-            for route,destination in (('/',base),(base+'products?topic=Gifting',base+'products/?topic=Gifting')):
+            directory_redirects=[('/',base)] if base!='/' else []
+            directory_redirects.append((base+'products?topic=Gifting',base+'products/?topic=Gifting'))
+            for route,destination in directory_redirects:
                 with closing(http.client.HTTPConnection('127.0.0.1',server.server_port,timeout=10)) as connection:
                     connection.request('GET',route)
                     response=connection.getresponse();response.read()

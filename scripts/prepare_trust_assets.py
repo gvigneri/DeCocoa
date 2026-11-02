@@ -68,6 +68,11 @@ def main():
         destination=WEB/('partner-'+name+'.png')
         record=entry(name,'Existing supplied wireframe imagery','Preserved existing partner PNG',destination,destination,'Existing supplied PNG used unchanged. Its exact Cream raster backdrop matches website Cream(247,239,230); no background removal or recoloring.')
         record['source_status']='existing local draft reference from supplied wireframe';entries.append(record)
-    (ROOT/'assets/trust-export-details.json').write_text(json.dumps(entries,indent=2)+'\n',encoding='utf-8')
+    # Preserve separately prepared official marks when refreshing this intake set.
+    record_path=ROOT/'assets/trust-export-details.json'
+    prior=json.loads(record_path.read_text(encoding='utf-8')) if record_path.exists() else []
+    merged={record['web']:record for record in prior}
+    merged.update({record['web']:record for record in entries})
+    record_path.write_text(json.dumps(list(merged.values()),indent=2)+'\n',encoding='utf-8')
     print(json.dumps(entries,indent=2))
 if __name__=='__main__':main()

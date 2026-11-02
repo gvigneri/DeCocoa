@@ -16,7 +16,7 @@ class ExportSite:
         parts = urlsplit(request)
         path = unquote(parts.path)
         query = '?' + parts.query if parts.query else ''
-        if path in ('/', self.base.rstrip('/')):
+        if self.base != '/' and path in ('/', self.base.rstrip('/')):
             return 308, None, self.base + query
         invalid = '\\' in path or any(ord(c) < 32 for c in path) or any(p in ('.', '..') for p in path.split('/'))
         if invalid or not path.startswith(self.base):

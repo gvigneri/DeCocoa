@@ -1,0 +1,2082 @@
+[
+  {
+    "bodyTalk": 0,
+    "centerOffset": 0,
+    "chapters": [
+      {
+        "date": {
+          "bottom": 491.171875,
+          "h": 32,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 459.171875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1500 BCE–900 CE",
+          "H3:Ancient Origins",
+          "P:Mesoamerica"
+        ],
+        "region": {
+          "bottom": 608.15625,
+          "h": 32,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 576.15625
+        },
+        "title": "Ancient Origins",
+        "titleBox": {
+          "bottom": 560.15625,
+          "h": 52.984375,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 507.171875
+        }
+      },
+      {
+        "date": {
+          "bottom": 1257.125,
+          "h": 32,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 1225.125
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1428–1521 CE",
+          "H3:The Aztec Empire",
+          "P:Central Mexico"
+        ],
+        "region": {
+          "bottom": 1374.109375,
+          "h": 32,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 1342.109375
+        },
+        "title": "The Aztec Empire",
+        "titleBox": {
+          "bottom": 1326.109375,
+          "h": 52.984375,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 1273.125
+        }
+      },
+      {
+        "date": {
+          "bottom": 2023.078125,
+          "h": 32,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 1991.078125
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1500s",
+          "H3:Chocolate Comes to Europe",
+          "P:From the Americas to Europe"
+        ],
+        "region": {
+          "bottom": 2140.0625,
+          "h": 32,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 2108.0625
+        },
+        "title": "Chocolate Comes to Europe",
+        "titleBox": {
+          "bottom": 2092.0625,
+          "h": 52.984375,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 2039.078125
+        }
+      },
+      {
+        "date": {
+          "bottom": 2789.03125,
+          "h": 32,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 2757.03125
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1600s–1700s",
+          "H3:A Taste Spreads",
+          "P:European courts and chocolate houses"
+        ],
+        "region": {
+          "bottom": 2906.015625,
+          "h": 32,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 2874.015625
+        },
+        "title": "A Taste Spreads",
+        "titleBox": {
+          "bottom": 2858.015625,
+          "h": 52.984375,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 2805.03125
+        }
+      },
+      {
+        "date": {
+          "bottom": 3554.984375,
+          "h": 32,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 3522.984375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1800s",
+          "H3:The Industrial Revolution",
+          "P:Factories and new technology"
+        ],
+        "region": {
+          "bottom": 3671.96875,
+          "h": 32,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 3639.96875
+        },
+        "title": "The Industrial Revolution",
+        "titleBox": {
+          "bottom": 3623.96875,
+          "h": 52.984375,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 3570.984375
+        }
+      },
+      {
+        "date": {
+          "bottom": 4320.9375,
+          "h": 32,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 4288.9375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1900s",
+          "H3:Innovation and Iconic Brands",
+          "P:New recipes, familiar names"
+        ],
+        "region": {
+          "bottom": 4490.90625,
+          "h": 32,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 4458.90625
+        },
+        "title": "Innovation and Iconic Brands",
+        "titleBox": {
+          "bottom": 4442.90625,
+          "h": 105.96875,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 4336.9375
+        }
+      },
+      {
+        "date": {
+          "bottom": 5086.890625,
+          "h": 32,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 5054.890625
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Mid 1900s",
+          "H3:A Global Obsession",
+          "P:Chocolate around the world"
+        ],
+        "region": {
+          "bottom": 5203.875,
+          "h": 32,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 5171.875
+        },
+        "title": "A Global Obsession",
+        "titleBox": {
+          "bottom": 5155.875,
+          "h": 52.984375,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 5102.890625
+        }
+      },
+      {
+        "date": {
+          "bottom": 5852.84375,
+          "h": 32,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 5820.84375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Late 1900s",
+          "H3:Craft and Fine Chocolate",
+          "P:Origin, flavor and craftsmanship"
+        ],
+        "region": {
+          "bottom": 5969.828125,
+          "h": 32,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 5937.828125
+        },
+        "title": "Craft and Fine Chocolate",
+        "titleBox": {
+          "bottom": 5921.828125,
+          "h": 52.984375,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 5868.84375
+        }
+      },
+      {
+        "date": {
+          "bottom": 6668.078125,
+          "h": 32,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 6636.078125
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:2000s",
+          "H3:Sustainability and Impact",
+          "P:Cacao communities and ecosystems"
+        ],
+        "region": {
+          "bottom": 6785.0625,
+          "h": 32,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 6753.0625
+        },
+        "title": "Sustainability and Impact",
+        "titleBox": {
+          "bottom": 6737.0625,
+          "h": 52.984375,
+          "right": 676.5,
+          "w": 616.03125,
+          "x": 60.46875,
+          "y": 6684.078125
+        }
+      },
+      {
+        "date": {
+          "bottom": 7434.03125,
+          "h": 32,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 7402.03125
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Today & Tomorrow",
+          "H3:A Sweeter Tomorrow",
+          "P:Creativity and the future of chocolate"
+        ],
+        "region": {
+          "bottom": 7551.015625,
+          "h": 32,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 7519.015625
+        },
+        "title": "A Sweeter Tomorrow",
+        "titleBox": {
+          "bottom": 7503.015625,
+          "h": 52.984375,
+          "right": 1364.53125,
+          "w": 616.03125,
+          "x": 748.5,
+          "y": 7450.03125
+        }
+      }
+    ],
+    "contextCount": 0,
+    "eyebrow": {
+      "bottom": 192.453125,
+      "h": 30,
+      "right": 905,
+      "w": 385,
+      "x": 520,
+      "y": 162.453125
+    },
+    "intro": {
+      "bottom": 355.171875,
+      "h": 192.71875,
+      "right": 1082.5,
+      "w": 740,
+      "x": 342.5,
+      "y": 162.453125
+    },
+    "scrollWidth": 1425,
+    "sections": [
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": ""
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "how-its-made"
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "museum-virtual-exhibition"
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "tours-and-classes"
+      }
+    ],
+    "tours": "Tours and ClassesContinue the chocolate story at the DeCocoa Experience Center. The museum and virtual exhibition explore chocolate’s history and how it is made, while factory tours, chocolate crafting classes and tasting sessions invite a closer look at the craft.The Green Screen Photo Room adds another way to explore the experience. Ask about the activities, visit arrangements and details that interest you before making plans.Ask About the Experience Center",
+    "width": 1440
+  },
+  {
+    "bodyTalk": 0,
+    "centerOffset": 0,
+    "chapters": [
+      {
+        "date": {
+          "bottom": 495.171875,
+          "h": 32,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 463.171875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1500 BCE–900 CE",
+          "H3:Ancient Origins",
+          "P:Mesoamerica"
+        ],
+        "region": {
+          "bottom": 614.359375,
+          "h": 32,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 582.359375
+        },
+        "title": "Ancient Origins",
+        "titleBox": {
+          "bottom": 566.359375,
+          "h": 55.1875,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 511.171875
+        }
+      },
+      {
+        "date": {
+          "bottom": 1294.6875,
+          "h": 32,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 1262.6875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1428–1521 CE",
+          "H3:The Aztec Empire",
+          "P:Central Mexico"
+        ],
+        "region": {
+          "bottom": 1413.875,
+          "h": 32,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 1381.875
+        },
+        "title": "The Aztec Empire",
+        "titleBox": {
+          "bottom": 1365.875,
+          "h": 55.1875,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 1310.6875
+        }
+      },
+      {
+        "date": {
+          "bottom": 2094.203125,
+          "h": 32,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 2062.203125
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1500s",
+          "H3:Chocolate Comes to Europe",
+          "P:From the Americas to Europe"
+        ],
+        "region": {
+          "bottom": 2213.390625,
+          "h": 32,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 2181.390625
+        },
+        "title": "Chocolate Comes to Europe",
+        "titleBox": {
+          "bottom": 2165.390625,
+          "h": 55.1875,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 2110.203125
+        }
+      },
+      {
+        "date": {
+          "bottom": 2893.71875,
+          "h": 32,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 2861.71875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1600s–1700s",
+          "H3:A Taste Spreads",
+          "P:European courts and chocolate houses"
+        ],
+        "region": {
+          "bottom": 3012.90625,
+          "h": 32,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 2980.90625
+        },
+        "title": "A Taste Spreads",
+        "titleBox": {
+          "bottom": 2964.90625,
+          "h": 55.1875,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 2909.71875
+        }
+      },
+      {
+        "date": {
+          "bottom": 3693.234375,
+          "h": 32,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 3661.234375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1800s",
+          "H3:The Industrial Revolution",
+          "P:Factories and new technology"
+        ],
+        "region": {
+          "bottom": 3812.421875,
+          "h": 32,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 3780.421875
+        },
+        "title": "The Industrial Revolution",
+        "titleBox": {
+          "bottom": 3764.421875,
+          "h": 55.1875,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 3709.234375
+        }
+      },
+      {
+        "date": {
+          "bottom": 4492.75,
+          "h": 32,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 4460.75
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1900s",
+          "H3:Innovation and Iconic Brands",
+          "P:New recipes, familiar names"
+        ],
+        "region": {
+          "bottom": 4667.125,
+          "h": 32,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 4635.125
+        },
+        "title": "Innovation and Iconic Brands",
+        "titleBox": {
+          "bottom": 4619.125,
+          "h": 110.375,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 4508.75
+        }
+      },
+      {
+        "date": {
+          "bottom": 5292.265625,
+          "h": 32,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 5260.265625
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Mid 1900s",
+          "H3:A Global Obsession",
+          "P:Chocolate around the world"
+        ],
+        "region": {
+          "bottom": 5411.453125,
+          "h": 32,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 5379.453125
+        },
+        "title": "A Global Obsession",
+        "titleBox": {
+          "bottom": 5363.453125,
+          "h": 55.1875,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 5308.265625
+        }
+      },
+      {
+        "date": {
+          "bottom": 6091.78125,
+          "h": 32,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 6059.78125
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Late 1900s",
+          "H3:Craft and Fine Chocolate",
+          "P:Origin, flavor and craftsmanship"
+        ],
+        "region": {
+          "bottom": 6210.96875,
+          "h": 32,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 6178.96875
+        },
+        "title": "Craft and Fine Chocolate",
+        "titleBox": {
+          "bottom": 6162.96875,
+          "h": 55.1875,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 6107.78125
+        }
+      },
+      {
+        "date": {
+          "bottom": 6942.96875,
+          "h": 32,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 6910.96875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:2000s",
+          "H3:Sustainability and Impact",
+          "P:Cacao communities and ecosystems"
+        ],
+        "region": {
+          "bottom": 7062.15625,
+          "h": 32,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 7030.15625
+        },
+        "title": "Sustainability and Impact",
+        "titleBox": {
+          "bottom": 7014.15625,
+          "h": 55.1875,
+          "right": 912.5,
+          "w": 646,
+          "x": 266.5,
+          "y": 6958.96875
+        }
+      },
+      {
+        "date": {
+          "bottom": 7742.484375,
+          "h": 32,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 7710.484375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Today & Tomorrow",
+          "H3:A Sweeter Tomorrow",
+          "P:Creativity and the future of chocolate"
+        ],
+        "region": {
+          "bottom": 7861.671875,
+          "h": 32,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 7829.671875
+        },
+        "title": "A Sweeter Tomorrow",
+        "titleBox": {
+          "bottom": 7813.671875,
+          "h": 55.1875,
+          "right": 1638.5,
+          "w": 646,
+          "x": 992.5,
+          "y": 7758.484375
+        }
+      }
+    ],
+    "contextCount": 0,
+    "eyebrow": {
+      "bottom": 192.453125,
+      "h": 30,
+      "right": 1145,
+      "w": 385,
+      "x": 760,
+      "y": 162.453125
+    },
+    "intro": {
+      "bottom": 355.171875,
+      "h": 192.71875,
+      "right": 1322.5,
+      "w": 740,
+      "x": 582.5,
+      "y": 162.453125
+    },
+    "scrollWidth": 1905,
+    "sections": [
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": ""
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "how-its-made"
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "museum-virtual-exhibition"
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "tours-and-classes"
+      }
+    ],
+    "tours": "Tours and ClassesContinue the chocolate story at the DeCocoa Experience Center. The museum and virtual exhibition explore chocolate’s history and how it is made, while factory tours, chocolate crafting classes and tasting sessions invite a closer look at the craft.The Green Screen Photo Room adds another way to explore the experience. Ask about the activities, visit arrangements and details that interest you before making plans.Ask About the Experience Center",
+    "width": 1920
+  },
+  {
+    "bodyTalk": 0,
+    "centerOffset": 0,
+    "chapters": [
+      {
+        "date": {
+          "bottom": 409.59375,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 384
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1500 BCE–900 CE",
+          "H3:Ancient Origins",
+          "P:Mesoamerica"
+        ],
+        "region": {
+          "bottom": 501.6875,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 476.09375
+        },
+        "title": "Ancient Origins",
+        "titleBox": {
+          "bottom": 460.09375,
+          "h": 34.5,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 425.59375
+        }
+      },
+      {
+        "date": {
+          "bottom": 909.84375,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 884.25
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1428–1521 CE",
+          "H3:The Aztec Empire",
+          "P:Central Mexico"
+        ],
+        "region": {
+          "bottom": 1001.9375,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 976.34375
+        },
+        "title": "The Aztec Empire",
+        "titleBox": {
+          "bottom": 960.34375,
+          "h": 34.5,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 925.84375
+        }
+      },
+      {
+        "date": {
+          "bottom": 1352.5,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 1326.90625
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1500s",
+          "H3:Chocolate Comes to Europe",
+          "P:From the Americas to Europe"
+        ],
+        "region": {
+          "bottom": 1479.09375,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 1453.5
+        },
+        "title": "Chocolate Comes to Europe",
+        "titleBox": {
+          "bottom": 1437.5,
+          "h": 69,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 1368.5
+        }
+      },
+      {
+        "date": {
+          "bottom": 1887.25,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 1861.65625
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1600s–1700s",
+          "H3:A Taste Spreads",
+          "P:European courts and chocolate houses"
+        ],
+        "region": {
+          "bottom": 1979.34375,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 1953.75
+        },
+        "title": "A Taste Spreads",
+        "titleBox": {
+          "bottom": 1937.75,
+          "h": 34.5,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 1903.25
+        }
+      },
+      {
+        "date": {
+          "bottom": 2387.5,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 2361.90625
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1800s",
+          "H3:The Industrial Revolution",
+          "P:Factories and new technology"
+        ],
+        "region": {
+          "bottom": 2514.09375,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 2488.5
+        },
+        "title": "The Industrial Revolution",
+        "titleBox": {
+          "bottom": 2472.5,
+          "h": 69,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 2403.5
+        }
+      },
+      {
+        "date": {
+          "bottom": 3008.640625,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 2983.046875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1900s",
+          "H3:Innovation and Iconic Brands",
+          "P:New recipes, familiar names"
+        ],
+        "region": {
+          "bottom": 3135.234375,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 3109.640625
+        },
+        "title": "Innovation and Iconic Brands",
+        "titleBox": {
+          "bottom": 3093.640625,
+          "h": 69,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 3024.640625
+        }
+      },
+      {
+        "date": {
+          "bottom": 3543.390625,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 3517.796875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Mid 1900s",
+          "H3:A Global Obsession",
+          "P:Chocolate around the world"
+        ],
+        "region": {
+          "bottom": 3635.484375,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 3609.890625
+        },
+        "title": "A Global Obsession",
+        "titleBox": {
+          "bottom": 3593.890625,
+          "h": 34.5,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 3559.390625
+        }
+      },
+      {
+        "date": {
+          "bottom": 4072.4375,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 4046.84375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Late 1900s",
+          "H3:Craft and Fine Chocolate",
+          "P:Origin, flavor and craftsmanship"
+        ],
+        "region": {
+          "bottom": 4199.03125,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 4173.4375
+        },
+        "title": "Craft and Fine Chocolate",
+        "titleBox": {
+          "bottom": 4157.4375,
+          "h": 69,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 4088.4375
+        }
+      },
+      {
+        "date": {
+          "bottom": 4664.78125,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 4639.1875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:2000s",
+          "H3:Sustainability and Impact",
+          "P:Cacao communities and ecosystems"
+        ],
+        "region": {
+          "bottom": 4791.375,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 4765.78125
+        },
+        "title": "Sustainability and Impact",
+        "titleBox": {
+          "bottom": 4749.78125,
+          "h": 69,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 4680.78125
+        }
+      },
+      {
+        "date": {
+          "bottom": 5257.125,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 5231.53125
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Today & Tomorrow",
+          "H3:A Sweeter Tomorrow",
+          "P:Creativity and the future of chocolate"
+        ],
+        "region": {
+          "bottom": 5349.21875,
+          "h": 25.59375,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 5323.625
+        },
+        "title": "A Sweeter Tomorrow",
+        "titleBox": {
+          "bottom": 5307.625,
+          "h": 34.5,
+          "right": 388.421875,
+          "w": 312.171875,
+          "x": 76.25,
+          "y": 5273.125
+        }
+      }
+    ],
+    "contextCount": 0,
+    "eyebrow": {
+      "bottom": 183.546875,
+      "h": 30,
+      "right": 569,
+      "w": 385,
+      "x": 184,
+      "y": 153.546875
+    },
+    "intro": {
+      "bottom": 308,
+      "h": 154.453125,
+      "right": 720.75,
+      "w": 688.5,
+      "x": 32.25,
+      "y": 153.546875
+    },
+    "scrollWidth": 753,
+    "sections": [
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": ""
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "how-its-made"
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "museum-virtual-exhibition"
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "tours-and-classes"
+      }
+    ],
+    "tours": "Tours and ClassesContinue the chocolate story at the DeCocoa Experience Center. The museum and virtual exhibition explore chocolate’s history and how it is made, while factory tours, chocolate crafting classes and tasting sessions invite a closer look at the craft.The Green Screen Photo Room adds another way to explore the experience. Ask about the activities, visit arrangements and details that interest you before making plans.Ask About the Experience Center",
+    "width": 768
+  },
+  {
+    "bodyTalk": 0,
+    "centerOffset": 0,
+    "chapters": [
+      {
+        "date": {
+          "bottom": 682.296875,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 656.703125
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1500 BCE–900 CE",
+          "H3:Ancient Origins",
+          "P:Mesoamerica"
+        ],
+        "region": {
+          "bottom": 772.078125,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 746.484375
+        },
+        "title": "Ancient Origins",
+        "titleBox": {
+          "bottom": 730.484375,
+          "h": 32.1875,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 698.296875
+        }
+      },
+      {
+        "date": {
+          "bottom": 1528.1875,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 1502.59375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1428–1521 CE",
+          "H3:The Aztec Empire",
+          "P:Central Mexico"
+        ],
+        "region": {
+          "bottom": 1617.96875,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 1592.375
+        },
+        "title": "The Aztec Empire",
+        "titleBox": {
+          "bottom": 1576.375,
+          "h": 32.1875,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 1544.1875
+        }
+      },
+      {
+        "date": {
+          "bottom": 2287.6875,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 2262.09375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1500s",
+          "H3:Chocolate Comes to Europe",
+          "P:From the Americas to Europe"
+        ],
+        "region": {
+          "bottom": 2409.65625,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 2384.0625
+        },
+        "title": "Chocolate Comes to Europe",
+        "titleBox": {
+          "bottom": 2368.0625,
+          "h": 64.375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 2303.6875
+        }
+      },
+      {
+        "date": {
+          "bottom": 3136.96875,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 3111.375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1600s–1700s",
+          "H3:A Taste Spreads",
+          "P:European courts and chocolate houses"
+        ],
+        "region": {
+          "bottom": 3252.34375,
+          "h": 51.1875,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 3201.15625
+        },
+        "title": "A Taste Spreads",
+        "titleBox": {
+          "bottom": 3185.15625,
+          "h": 32.1875,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 3152.96875
+        }
+      },
+      {
+        "date": {
+          "bottom": 4008.453125,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 3982.859375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1800s",
+          "H3:The Industrial Revolution",
+          "P:Factories and new technology"
+        ],
+        "region": {
+          "bottom": 4130.421875,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 4104.828125
+        },
+        "title": "The Industrial Revolution",
+        "titleBox": {
+          "bottom": 4088.828125,
+          "h": 64.375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 4024.453125
+        }
+      },
+      {
+        "date": {
+          "bottom": 4971.3125,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 4945.71875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1900s",
+          "H3:Innovation and Iconic Brands",
+          "P:New recipes, familiar names"
+        ],
+        "region": {
+          "bottom": 5093.28125,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 5067.6875
+        },
+        "title": "Innovation and Iconic Brands",
+        "titleBox": {
+          "bottom": 5051.6875,
+          "h": 64.375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 4987.3125
+        }
+      },
+      {
+        "date": {
+          "bottom": 5849.390625,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 5823.796875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Mid 1900s",
+          "H3:A Global Obsession",
+          "P:Chocolate around the world"
+        ],
+        "region": {
+          "bottom": 5939.171875,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 5913.578125
+        },
+        "title": "A Global Obsession",
+        "titleBox": {
+          "bottom": 5897.578125,
+          "h": 32.1875,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 5865.390625
+        }
+      },
+      {
+        "date": {
+          "bottom": 6724.078125,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 6698.484375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Late 1900s",
+          "H3:Craft and Fine Chocolate",
+          "P:Origin, flavor and craftsmanship"
+        ],
+        "region": {
+          "bottom": 6846.046875,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 6820.453125
+        },
+        "title": "Craft and Fine Chocolate",
+        "titleBox": {
+          "bottom": 6804.453125,
+          "h": 64.375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 6740.078125
+        }
+      },
+      {
+        "date": {
+          "bottom": 7683.1875,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 7657.59375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:2000s",
+          "H3:Sustainability and Impact",
+          "P:Cacao communities and ecosystems"
+        ],
+        "region": {
+          "bottom": 7830.75,
+          "h": 51.1875,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 7779.5625
+        },
+        "title": "Sustainability and Impact",
+        "titleBox": {
+          "bottom": 7763.5625,
+          "h": 64.375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 7699.1875
+        }
+      },
+      {
+        "date": {
+          "bottom": 8673.25,
+          "h": 25.59375,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 8647.65625
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Today & Tomorrow",
+          "H3:A Sweeter Tomorrow",
+          "P:Creativity and the future of chocolate"
+        ],
+        "region": {
+          "bottom": 8788.625,
+          "h": 51.1875,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 8737.4375
+        },
+        "title": "A Sweeter Tomorrow",
+        "titleBox": {
+          "bottom": 8721.4375,
+          "h": 32.1875,
+          "right": 351,
+          "w": 293,
+          "x": 58,
+          "y": 8689.25
+        }
+      }
+    ],
+    "contextCount": 0,
+    "eyebrow": {
+      "bottom": 408.984375,
+      "h": 24,
+      "right": 341.5,
+      "w": 308,
+      "x": 33.5,
+      "y": 384.984375
+    },
+    "intro": {
+      "bottom": 598.703125,
+      "h": 213.71875,
+      "right": 351,
+      "w": 327,
+      "x": 24,
+      "y": 384.984375
+    },
+    "scrollWidth": 375,
+    "sections": [
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": ""
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "how-its-made"
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "museum-virtual-exhibition"
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "tours-and-classes"
+      }
+    ],
+    "tours": "Tours and ClassesContinue the chocolate story at the DeCocoa Experience Center. The museum and virtual exhibition explore chocolate’s history and how it is made, while factory tours, chocolate crafting classes and tasting sessions invite a closer look at the craft.The Green Screen Photo Room adds another way to explore the experience. Ask about the activities, visit arrangements and details that interest you before making plans.Ask About the Experience Center",
+    "width": 390
+  },
+  {
+    "bodyTalk": 0,
+    "centerOffset": 0,
+    "chapters": [
+      {
+        "date": {
+          "bottom": 731.640625,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 706.046875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1500 BCE–900 CE",
+          "H3:Ancient Origins",
+          "P:Mesoamerica"
+        ],
+        "region": {
+          "bottom": 821.421875,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 795.828125
+        },
+        "title": "Ancient Origins",
+        "titleBox": {
+          "bottom": 779.828125,
+          "h": 32.1875,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 747.640625
+        }
+      },
+      {
+        "date": {
+          "bottom": 1565.6875,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 1540.09375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1428–1521 CE",
+          "H3:The Aztec Empire",
+          "P:Central Mexico"
+        ],
+        "region": {
+          "bottom": 1687.65625,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 1662.0625
+        },
+        "title": "The Aztec Empire",
+        "titleBox": {
+          "bottom": 1646.0625,
+          "h": 64.375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 1581.6875
+        }
+      },
+      {
+        "date": {
+          "bottom": 2345.53125,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 2319.9375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1500s",
+          "H3:Chocolate Comes to Europe",
+          "P:From the Americas to Europe"
+        ],
+        "region": {
+          "bottom": 2493.09375,
+          "h": 51.1875,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 2441.90625
+        },
+        "title": "Chocolate Comes to Europe",
+        "titleBox": {
+          "bottom": 2425.90625,
+          "h": 64.375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 2361.53125
+        }
+      },
+      {
+        "date": {
+          "bottom": 3237.359375,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 3211.765625
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1600s–1700s",
+          "H3:A Taste Spreads",
+          "P:European courts and chocolate houses"
+        ],
+        "region": {
+          "bottom": 3352.734375,
+          "h": 51.1875,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 3301.546875
+        },
+        "title": "A Taste Spreads",
+        "titleBox": {
+          "bottom": 3285.546875,
+          "h": 32.1875,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 3253.359375
+        }
+      },
+      {
+        "date": {
+          "bottom": 4124.1875,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 4098.59375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1800s",
+          "H3:The Industrial Revolution",
+          "P:Factories and new technology"
+        ],
+        "region": {
+          "bottom": 4271.75,
+          "h": 51.1875,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 4220.5625
+        },
+        "title": "The Industrial Revolution",
+        "titleBox": {
+          "bottom": 4204.5625,
+          "h": 64.375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 4140.1875
+        }
+      },
+      {
+        "date": {
+          "bottom": 5158.390625,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 5132.796875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:1900s",
+          "H3:Innovation and Iconic Brands",
+          "P:New recipes, familiar names"
+        ],
+        "region": {
+          "bottom": 5280.359375,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 5254.765625
+        },
+        "title": "Innovation and Iconic Brands",
+        "titleBox": {
+          "bottom": 5238.765625,
+          "h": 64.375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 5174.390625
+        }
+      },
+      {
+        "date": {
+          "bottom": 6051.8125,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 6026.21875
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Mid 1900s",
+          "H3:A Global Obsession",
+          "P:Chocolate around the world"
+        ],
+        "region": {
+          "bottom": 6173.78125,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 6148.1875
+        },
+        "title": "A Global Obsession",
+        "titleBox": {
+          "bottom": 6132.1875,
+          "h": 64.375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 6067.8125
+        }
+      },
+      {
+        "date": {
+          "bottom": 7002.828125,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 6977.234375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Late 1900s",
+          "H3:Craft and Fine Chocolate",
+          "P:Origin, flavor and craftsmanship"
+        ],
+        "region": {
+          "bottom": 7150.390625,
+          "h": 51.1875,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 7099.203125
+        },
+        "title": "Craft and Fine Chocolate",
+        "titleBox": {
+          "bottom": 7083.203125,
+          "h": 64.375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 7018.828125
+        }
+      },
+      {
+        "date": {
+          "bottom": 8026.703125,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 8001.109375
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:2000s",
+          "H3:Sustainability and Impact",
+          "P:Cacao communities and ecosystems"
+        ],
+        "region": {
+          "bottom": 8174.265625,
+          "h": 51.1875,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 8123.078125
+        },
+        "title": "Sustainability and Impact",
+        "titleBox": {
+          "bottom": 8107.078125,
+          "h": 64.375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 8042.703125
+        }
+      },
+      {
+        "date": {
+          "bottom": 9033.71875,
+          "h": 25.59375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 9008.125
+        },
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "P:Today & Tomorrow",
+          "H3:A Sweeter Tomorrow",
+          "P:Creativity and the future of chocolate"
+        ],
+        "region": {
+          "bottom": 9181.28125,
+          "h": 51.1875,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 9130.09375
+        },
+        "title": "A Sweeter Tomorrow",
+        "titleBox": {
+          "bottom": 9114.09375,
+          "h": 64.375,
+          "right": 285,
+          "w": 231,
+          "x": 54,
+          "y": 9049.71875
+        }
+      }
+    ],
+    "contextCount": 0,
+    "eyebrow": {
+      "bottom": 431.140625,
+      "h": 48,
+      "right": 285,
+      "w": 265,
+      "x": 20,
+      "y": 383.140625
+    },
+    "intro": {
+      "bottom": 648.046875,
+      "h": 264.90625,
+      "right": 285,
+      "w": 265,
+      "x": 20,
+      "y": 383.140625
+    },
+    "scrollWidth": 305,
+    "sections": [
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": ""
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "how-its-made"
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "museum-virtual-exhibition"
+      },
+      {
+        "borders": [
+          "0px",
+          "0px"
+        ],
+        "id": "tours-and-classes"
+      }
+    ],
+    "tours": "Tours and ClassesContinue the chocolate story at the DeCocoa Experience Center. The museum and virtual exhibition explore chocolate’s history and how it is made, while factory tours, chocolate crafting classes and tasting sessions invite a closer look at the craft.The Green Screen Photo Room adds another way to explore the experience. Ask about the activities, visit arrangements and details that interest you before making plans.Ask About the Experience Center",
+    "width": 320
+  }
+]

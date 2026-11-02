@@ -1,0 +1,476 @@
+{
+  "chapters": [
+    {
+      "id": "01-origins",
+      "side": "left",
+      "era": "1500 BCE\u2013900 CE",
+      "location": "Mesoamerica",
+      "title": "Ancient Origins",
+      "caption": "Olmec and Maya peoples cultivated cacao in Mesoamerica. For the Maya, cacao was a sacred gift from the gods. Used in rituals and ceremonies, cacao drinks became symbols of life, power and connection, long before chocolate took the familiar form of bars and confections.",
+      "source": "https://nhmu.utah.edu/articles/chocolate-its-origins",
+      "source_label": "Explore the history",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/01-origins/cacao-pods-and-leaves.png",
+          "width": 1254,
+          "height": 1254,
+          "decorative": false,
+          "alt": "Illustration of cacao pods, one opened to reveal pale pulp, with green cacao leaves.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-pods-and-leaves-640.png",
+              "width": 640
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-pods-and-leaves.png",
+              "width": 1254
+            }
+          ],
+          "sizes": "(min-width: 1500px) 590px, (min-width: 1051px) 42vw, (min-width: 701px) 40vw, 78vw",
+          "placement": {
+            "width": "88%",
+            "x": "12%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "88%",
+            "x-tablet": "12%",
+            "y-tablet": "0%",
+            "width-mobile": "88%",
+            "x-mobile": "12%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "vessel",
+          "asset": "images/chocolate-history/01-origins/ceramic-bowl.png",
+          "width": 579,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/ceramic-bowl-300.png",
+              "width": 290
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/ceramic-bowl.png",
+              "width": 579
+            }
+          ],
+          "sizes": "(min-width: 1500px) 300px, (min-width: 1051px) 22vw, (min-width: 701px) 20vw, 40vw",
+          "placement": {
+            "width": "45%",
+            "x": "0%",
+            "y": "63%",
+            "rotation": "-5deg",
+            "z": 3,
+            "width-tablet": "45%",
+            "x-tablet": "0%",
+            "y-tablet": "63%",
+            "width-mobile": "45%",
+            "x-mobile": "0%",
+            "y-mobile": "63%"
+          }
+        },
+        {
+          "role": "beans",
+          "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+          "width": 392,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans-200.png",
+              "width": 196
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+              "width": 392
+            }
+          ],
+          "sizes": "(min-width: 1500px) 215px, (min-width: 1051px) 15vw, (min-width: 701px) 14vw, 28vw",
+          "placement": {
+            "width": "32%",
+            "x": "62%",
+            "y": "74%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "62%",
+            "y-tablet": "74%",
+            "width-mobile": "32%",
+            "x-mobile": "62%",
+            "y-mobile": "74%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-aztec-empire",
+      "side": "right",
+      "era": "1428\u20131521 CE",
+      "location": "Central Mexico",
+      "title": "The Aztec Empire",
+      "caption": "The Aztecs considered cacao a sacred and valuable substance. Cacao drinks were associated with rituals, warriors and special occasions, while cacao beans also served as a form of currency.",
+      "source": "https://www.si.edu/object/nmah_835166",
+      "source_label": "Explore cacao as currency",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/02-aztec-empire/cacao-drinker.png",
+          "width": 1210,
+          "height": 1230,
+          "decorative": false,
+          "alt": "Interpretive illustration of an Aztec cacao drinker seated with a ceramic cup.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/02-aztec-empire/cacao-drinker-640.png",
+              "width": 630
+            },
+            {
+              "asset": "images/chocolate-history/02-aztec-empire/cacao-drinker.png",
+              "width": 1210
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "90%",
+            "x": "7%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "90%",
+            "x-tablet": "7%",
+            "y-tablet": "0%",
+            "width-mobile": "90%",
+            "x-mobile": "7%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "vessel",
+          "asset": "images/chocolate-history/01-origins/ceramic-bowl.png",
+          "width": 579,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/ceramic-bowl-300.png",
+              "width": 290
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/ceramic-bowl.png",
+              "width": 579
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "34%",
+            "x": "0%",
+            "y": "75%",
+            "rotation": "-5deg",
+            "z": 3,
+            "width-tablet": "34%",
+            "x-tablet": "0%",
+            "y-tablet": "75%",
+            "width-mobile": "34%",
+            "x-mobile": "0%",
+            "y-mobile": "75%"
+          }
+        },
+        {
+          "role": "beans",
+          "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+          "width": 392,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans-200.png",
+              "width": 196
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+              "width": 392
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "32%",
+            "x": "64%",
+            "y": "75%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "64%",
+            "y-tablet": "75%",
+            "width-mobile": "32%",
+            "x-mobile": "64%",
+            "y-mobile": "75%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-europe",
+      "side": "left",
+      "era": "1500s",
+      "location": "From the Americas to Europe",
+      "title": "Chocolate Comes to Europe",
+      "caption": "Spanish travellers brought cacao to Europe in the 1500s. Over time, drinking chocolate became a rare and fashionable luxury among royalty and the elite. Adapted with sugar and spices, it introduced European drinkers to a taste already deeply rooted in Mesoamerican life.",
+      "source": "https://www.alimentarium.org/en/fact-sheet/chocolate-europe",
+      "source_label": "Explore chocolate in Europe",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/03-europe/sailing-ship.png",
+          "width": 1254,
+          "height": 1254,
+          "decorative": false,
+          "alt": "Illustration of a wooden sailing ship with cream sails and detailed rigging.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/03-europe/sailing-ship-640.png",
+              "width": 640
+            },
+            {
+              "asset": "images/chocolate-history/03-europe/sailing-ship.png",
+              "width": 1254
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "93%",
+            "x": "6%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "93%",
+            "x-tablet": "6%",
+            "y-tablet": "0%",
+            "width-mobile": "93%",
+            "x-mobile": "6%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "sack",
+          "asset": "images/chocolate-history/03-europe/cacao-sack.png",
+          "width": 599,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/03-europe/cacao-sack-300.png",
+              "width": 299
+            },
+            {
+              "asset": "images/chocolate-history/03-europe/cacao-sack.png",
+              "width": 599
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "38%",
+            "x": "0%",
+            "y": "65%",
+            "rotation": "-6deg",
+            "z": 3,
+            "width-tablet": "38%",
+            "x-tablet": "0%",
+            "y-tablet": "65%",
+            "width-mobile": "38%",
+            "x-mobile": "0%",
+            "y-mobile": "65%"
+          }
+        },
+        {
+          "role": "beans",
+          "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+          "width": 392,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans-200.png",
+              "width": 196
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+              "width": 392
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "26%",
+            "x": "68%",
+            "y": "79%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "26%",
+            "x-tablet": "68%",
+            "y-tablet": "79%",
+            "width-mobile": "26%",
+            "x-mobile": "68%",
+            "y-mobile": "79%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "04-taste-spreads",
+      "side": "right",
+      "era": "1600s\u20131700s",
+      "location": "European courts and chocolate houses",
+      "title": "A Taste Spreads",
+      "caption": "Chocolate houses opened across Europe, and drinking chocolate gained popularity in royal courts and aristocratic circles. Expanding trade carried cacao to more people and places, while chocolate pots, porcelain cups and new recipes made enjoying the drink an art of its own.",
+      "source": "https://www.hrp.org.uk/hampton-court-palace/history-and-stories/chocolate-fit-for-a-king/",
+      "source_label": "Explore the chocolate kitchens",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/04-taste-spreads/chocolate-at-court.png",
+          "width": 1254,
+          "height": 1242,
+          "decorative": false,
+          "alt": "Illustration of a seated woman in European court dress drinking chocolate from a porcelain cup.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/chocolate-at-court-640.png",
+              "width": 640
+            },
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/chocolate-at-court.png",
+              "width": 1254
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "92%",
+            "x": "5%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "92%",
+            "x-tablet": "5%",
+            "y-tablet": "0%",
+            "width-mobile": "92%",
+            "x-mobile": "5%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "service",
+          "asset": "images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup.png",
+          "width": 585,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup-300.png",
+              "width": 293
+            },
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup.png",
+              "width": 585
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "35%",
+            "x": "0%",
+            "y": "65%",
+            "rotation": "-4deg",
+            "z": 3,
+            "width-tablet": "35%",
+            "x-tablet": "0%",
+            "y-tablet": "65%",
+            "width-mobile": "35%",
+            "x-mobile": "0%",
+            "y-mobile": "65%"
+          }
+        },
+        {
+          "role": "spices",
+          "asset": "images/chocolate-history/04-taste-spreads/cacao-and-spices.png",
+          "width": 396,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/cacao-and-spices-200.png",
+              "width": 198
+            },
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/cacao-and-spices.png",
+              "width": 396
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "32%",
+            "x": "64%",
+            "y": "70%",
+            "rotation": "10deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "64%",
+            "y-tablet": "70%",
+            "width-mobile": "32%",
+            "x-mobile": "64%",
+            "y-mobile": "70%"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": {
+    "assets/images/chocolate-history/01-origins/cacao-pods-and-leaves.png": "da92e8ae921f88c2aab56e8ae3c020820b5bb27adf929701bde675aabdbd3ea0",
+    "assets/images/chocolate-history/01-origins/cacao-pods-and-leaves-640.png": "48534a0c9c730a404625f730dc97ef3055f190be22cd06e05368ac318cd11dc9",
+    "assets/images/chocolate-history/01-origins/ceramic-bowl.png": "d40255468147cab25d23f0021b8c72d001ec549f707b1198fc95e6e3dca55ced",
+    "assets/images/chocolate-history/01-origins/ceramic-bowl-300.png": "1da05a760cd30a1699ef5942953610002c37cad1f2650a86faa84d7a1805715a",
+    "assets/images/chocolate-history/01-origins/cacao-beans.png": "c4e23116032612e8995ab3e6a7abc182688d0893f6d531f5fa1cc9fafed63aa4",
+    "assets/images/chocolate-history/01-origins/cacao-beans-200.png": "43e6d6abd137d808e75f89d110fe644a1e05dfe6d3c3efdff7e80214ca7460cb",
+    "assets/images/chocolate-history/03-europe/sailing-ship.png": "fc938df1338a20827f647ed35bbae87c0c90204e5fd7428ed6e5ad52b06428e2",
+    "assets/images/chocolate-history/03-europe/sailing-ship-640.png": "c9334f4aba28890484e018a2965512e9e4d1f9ee4bb135e3d9d1a6352edd5f55",
+    "assets/images/chocolate-history/03-europe/cacao-sack.png": "0ade147302d52e5827f4a31cd99162e9518edead7c671f6b59b7b096ff9faf1f",
+    "assets/images/chocolate-history/03-europe/cacao-sack-300.png": "e268f1e965c4e26a898560bbbd1c4c64a8485b8f3873a3b725fa9a2fdf8869c8",
+    "assets/images/chocolate-history/04-taste-spreads/chocolate-at-court.png": "eb11599ff7a3be9f5c36611951e3df97cb22ff24d4a1733b6c5aafb607b116d8",
+    "assets/images/chocolate-history/04-taste-spreads/chocolate-at-court-640.png": "1a5224920451d7b6cff983a8d70668b83f44ff097fd557443c65ec60ef1b476d",
+    "assets/images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup.png": "29bcee89035b8cf7c3393cfc17bc0bef37515a914330cca5ce04edc650784b5b",
+    "assets/images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup-300.png": "525a6de015f0b4f80b89220bd68b561e80371c3b925cc7e7e35fc9ce7d4743f9",
+    "assets/images/chocolate-history/04-taste-spreads/cacao-and-spices.png": "411a9e13a8c1b108513d1aba1901bf2ccb1efd7c509e6d5b21d65866154ec630",
+    "assets/images/chocolate-history/04-taste-spreads/cacao-and-spices-200.png": "25c952d3071918e02c17c11a2b92033e87e60bf6711ab515bd988c848391165b",
+    "assets/images/chocolate-history/02-aztec-empire/cacao-drinker.png": "6623c95ace70c085508a0dd62ecce32122fecd9de9112f7e5ae87747ea405704",
+    "assets/images/chocolate-history/02-aztec-empire/cacao-drinker-640.png": "9cb5457777ceb6875816c111360929703fde27bc4b1338e46077d8c1970bf57b"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "cta": [
+    {
+      "href": "../lets-talk/?topic=Experience%20Center#inquiry",
+      "text": "Ask About the Experience Center"
+    }
+  ],
+  "ordinary": [
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "How It’s Made"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Museum & Virtual Exhibition"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Tours and Classes"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore the history"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore cacao as currency"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore chocolate in Europe"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore the chocolate kitchens"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore chocolate-making innovations"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore a chocolate brand timeline"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore chocolate’s global growth"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore fine chocolate and craft"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore cocoa sustainability"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(184, 59, 40)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore cocoa traceability"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Our Chocolate"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Our People"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Our Craft"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Experience Center"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Gifting"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Craft Your Own"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Fundraising"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Wholesale"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "B2B"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Let's Talk"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Ask about a visit"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Privacy Policy"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Terms and Conditions"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "decoration": "none",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Accessibility"
+    }
+  ],
+  "skip": {
+    "background": "rgb(247, 239, 230)",
+    "position": "fixed",
+    "transform": "matrix(1, 0, 0, 1, 0, -99.2)"
+  }
+}

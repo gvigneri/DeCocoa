@@ -2,6 +2,12 @@
 
 This continues the established DeCocoa design as a portable, responsive informational site. Guy approved the local draft build in [the consolidated plan](handoff/site-build-plan.md) and authorized temporary GitHub Pages hosting on October 25, 2026. WordPress transfer remains a later phase. Inquiry fields do not send or save messages.
 
+The complete ten-chapter chocolate-history timeline is in `/experience-center/#museum-virtual-exhibition`, following Guy's reference image through A Sweeter Tomorrow. The approved first four chapters are preserved. [Artwork, sources and editing notes](handoff/chocolate-history-complete.md).
+
+November 1 GitHub revision: Guy requested pushing the latest homepage, People, Craft and Experience Center changes to this repository and its existing Pages workflow. The update includes the chocolate bark hero, Orange homepage sections, shared page introductions, Cream product cards, Key Segments cards and updated partner/certification logos. [Release scope and verification](handoff/github-release-2026-11-01.md).
+
+November 1 refinements: semantic date/region/title headings with equal spacing, centered museum introduction, shared Ripe text links with Brown subnavigation, compact timeline arrows, borderless main sections, and a combined Tours and Classes ending. How It's Made now has one Explore Our Craft primary button. [Latest revision checks](reviews/chocolate-history-2026-11-01/order-arrow-action-verification.md).
+
 ## GitHub Pages
 
 The public homepage is [gvigneri.github.io/DeCocoa/](https://gvigneri.github.io/DeCocoa/). The workflow in `.github/workflows/pages.yml` builds and checks the site, exports the generated pages and runtime assets into `_site/`, validates their URLs under `/DeCocoa/`, then deploys that artifact. The repository's Pages publishing source must be **GitHub Actions**. Pushes to `main` deploy automatically; the workflow can also be run manually.
@@ -55,6 +61,10 @@ The existing generator name is retained for continuity; it now generates the ent
 | `prototype/product-detail.template.html` | Reusable product detail layout |
 | `prototype/styles.css`, `prototype/script.js` | Shared responsive styling and behavior |
 | `assets/js/category-motion.js` | Full-width single-copy category row, keyboard access and interaction/motion gates |
+| `prototype/chocolate-history.json`, `prototype/chocolate-history-chapter.template.html` | Experience timeline copy, source links, scene/layer controls and reusable chapter markup |
+| `assets/css/chocolate-history.css`, `assets/js/chocolate-history.js` | Experience-only responsive timeline styling and optional once-only artwork entrances |
+| `assets/chocolate-history-assets.json` | Generated PNG provenance, dimensions, transparency bounds, responsive variants and review status |
+| `prototype/chocolate-history-artwork.json`, `scripts/prepare_chocolate_history_assets.py` | Incremental artwork preparation, preserved source archives and alpha QA sheets |
 | `scripts/build_homepage.py` | Relative URLs, shared-part assembly and decorative SVG instances |
 | `scripts/prepare_trust_assets.py` | Reproducible PNG preparation from preserved external logo sources; provenance in `assets/trust-export-details.json` |
 | `scripts/prepare_factory_media.py` | Preserve the supplied factory GIF and export a lossless first-frame reduced-motion fallback; provenance in `assets/factory-media-details.json` |

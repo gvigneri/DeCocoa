@@ -1,6 +1,6 @@
 # Decisions needed before production
 
-Updated October 24, 2026. No item below blocks the approved local draft build. Guy authorized using existing material as drafts and deferring WordPress. At his request, these production notes stay out of visitor-facing copy. The authoritative gap register is GAP-01–08 in [site-build-plan.md](site-build-plan.md); this document is a practical production checklist.
+Updated November 1, 2026. No item below blocks the approved draft build or Guy's explicit request to push its latest revisions to the existing GitHub Pages preview. WordPress and final production review remain deferred. At his request, these production notes stay out of visitor-facing copy. The authoritative gap register is GAP-01–08 in [site-build-plan.md](site-build-plan.md); this document is a practical production checklist.
 
 ## Content and artwork
 
@@ -8,11 +8,11 @@ Updated October 24, 2026. No item below blocks the approved local draft build. G
 2. Approve or replace people/process photography extracted from the wireframe. These are supplied references, not newly commissioned photographs. The homepage Experience Center now uses Guy's supplied `DeCocoa-Factory.gif` illustration; it is not a documentary facility photo. The unrelated machinery image embedded in wireframe page 2 has a visible iStock watermark and remains excluded. The watermark has not been removed.
 3. Confirm current partner relationships and approved mark files. Removing the on-page reference note does not verify those relationships.
 4. Confirm certifications, dates, scope, and permission to display the trust marks. Removing the on-page reference note does not verify certification. Do not carry draft sustainability/food-safety claims into production automatically.
-   The October 25 logo refresh uses an explicitly temporary generic HACCP badge and a Commons OU symbol recreation. Replace these with approved issuer artwork before production. SQF currently uses the official Institute organization identity; confirm the final permitted mark. Updated logo artwork alone does not verify status or usage approval.
+   The temporary generic HACCP badge remains. The November 1 revision replaces the visible Commons OU symbol with an authentic OU-D mark rendered from an official OU publication; original files are retained. SQF currently uses the official Institute organization identity; confirm the final permitted mark. Updated logo artwork alone does not verify status or usage approval.
 5. Confirm Experience Center opening status, address, visiting arrangements, and available activities before enabling a booking route.
 6. Supply verified phone, email, social URLs, contact recipient, and legal page content. Placeholder numbers are deliberately excluded.
 7. Approve final headline/body copy and factual family/Rochester story details. Record wording changes against the supplied draft. The latest hero subtitle is Guy-supplied; confirm the handcrafted and sustainably sourced cocoa statements before public release as part of final factual approval.
-8. Confirm the October 25 Our Craft source claims before publication: Niagara Falls power, responsible sourcing, eco-friendly packaging, DeCOCOA DeCOR customization and food/gourmet fulfillment scope. The homepage summarizes Guy's supplied draft without its absolute power percentage or highest-level compliance claims. Obtain the actual process/DeCOR/fulfillment PDFs and Alex video before adding media controls.
+8. Confirm the Our Craft source claims for final production: Niagara Falls power, responsible sourcing, eco-friendly packaging, SQF wording, DeCocoa DeCOR customization and food/gourmet fulfillment scope. Guy's November 1 replacement copy is authorized for this draft update, including its supplied absolute wording; the homepage shares the two introduction paragraphs. Guy explicitly deferred Alex's video and the Process & Capabilities, DeCocoa DeCOR and Fulfillment PDFs. Obtain actual files/URLs only when he resumes those media controls.
 
 ## Site implementation
 

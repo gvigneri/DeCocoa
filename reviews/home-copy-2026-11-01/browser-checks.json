@@ -1,0 +1,87 @@
+[
+  {
+    "cta": {
+      "href": "our-people/",
+      "text": "Meet Our People"
+    },
+    "imageLoaded": true,
+    "oldBrandSpelling": false,
+    "paragraphs": [
+      "We are committed to investing in our people and strengthening our community.",
+      "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+    ],
+    "scrollWidth": 1905,
+    "separateColumns": true,
+    "stackedBelow": false,
+    "stageClip": "none",
+    "width": 1920
+  },
+  {
+    "cta": {
+      "href": "our-people/",
+      "text": "Meet Our People"
+    },
+    "imageLoaded": true,
+    "oldBrandSpelling": false,
+    "paragraphs": [
+      "We are committed to investing in our people and strengthening our community.",
+      "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+    ],
+    "scrollWidth": 1425,
+    "separateColumns": true,
+    "stackedBelow": false,
+    "stageClip": "none",
+    "width": 1440
+  },
+  {
+    "cta": {
+      "href": "our-people/",
+      "text": "Meet Our People"
+    },
+    "imageLoaded": true,
+    "oldBrandSpelling": false,
+    "paragraphs": [
+      "We are committed to investing in our people and strengthening our community.",
+      "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+    ],
+    "scrollWidth": 753,
+    "separateColumns": false,
+    "stackedBelow": true,
+    "stageClip": "inset(0px -32px -32px)",
+    "width": 768
+  },
+  {
+    "cta": {
+      "href": "our-people/",
+      "text": "Meet Our People"
+    },
+    "imageLoaded": true,
+    "oldBrandSpelling": false,
+    "paragraphs": [
+      "We are committed to investing in our people and strengthening our community.",
+      "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+    ],
+    "scrollWidth": 375,
+    "separateColumns": false,
+    "stackedBelow": true,
+    "stageClip": "inset(0px -24px -24px)",
+    "width": 390
+  },
+  {
+    "cta": {
+      "href": "our-people/",
+      "text": "Meet Our People"
+    },
+    "imageLoaded": true,
+    "oldBrandSpelling": false,
+    "paragraphs": [
+      "We are committed to investing in our people and strengthening our community.",
+      "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+    ],
+    "scrollWidth": 305,
+    "separateColumns": false,
+    "stackedBelow": true,
+    "stageClip": "inset(0px -24px -24px)",
+    "width": 320
+  }
+]

@@ -1,0 +1,191 @@
+{
+  "copy": {
+    "title": true,
+    "intro": true,
+    "sections": [
+      {
+        "id": "promise",
+        "title": true,
+        "paragraphs": true,
+        "bullets": true,
+        "items": true
+      },
+      {
+        "id": "focus",
+        "title": true,
+        "paragraphs": true,
+        "bullets": true,
+        "items": true
+      },
+      {
+        "id": "sustainability",
+        "title": true,
+        "paragraphs": true,
+        "bullets": true,
+        "items": true
+      },
+      {
+        "id": "food-safety",
+        "title": true,
+        "paragraphs": true,
+        "bullets": true,
+        "items": true
+      },
+      {
+        "id": "our-segments",
+        "title": true,
+        "paragraphs": true,
+        "bullets": true,
+        "items": true
+      }
+    ],
+    "navAbove": true,
+    "mediaNoteVisible": false
+  },
+  "dom": {
+    "aliases": [
+      true,
+      true,
+      true
+    ],
+    "bodyClass": "interior section-nav-top motion-ready",
+    "h1": [
+      "Our Craft"
+    ],
+    "intro": [
+      "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
+      "From sourcing to production, we uphold the highest standards of quality, sustainability, and continuous improvement."
+    ],
+    "jumpTargets": [
+      "#promise",
+      "#focus",
+      "#sustainability",
+      "#food-safety",
+      "#our-segments"
+    ],
+    "mediaNoteVisible": false,
+    "navAbove": true,
+    "sections": [
+      {
+        "bullets": [],
+        "id": "promise",
+        "items": [],
+        "paragraphs": [
+          "We promise to craft every chocolate with care, creativity, and integrity.",
+          "We always meet the highest standards of quality and food safety so you can taste and trust every bite."
+        ],
+        "title": "Promise"
+      },
+      {
+        "bullets": [],
+        "id": "focus",
+        "items": [],
+        "paragraphs": [
+          "At DeCocoa Chocolate Crafters, our focus is to combine passionate people, innovative craft, and sustainable practices to create chocolate with purpose and care."
+        ],
+        "title": "Focus"
+      },
+      {
+        "bullets": [],
+        "id": "sustainability",
+        "items": [],
+        "paragraphs": [
+          "We are committed to making chocolate that’s better for people and the planet. From responsible sourcing to eco-friendly packaging, we craft our chocolate using 100% sustainable power harnessed from the mighty energy of The Niagara Falls, leaving a lighter footprint on our Planet Earth."
+        ],
+        "title": "Sustainability"
+      },
+      {
+        "bullets": [
+          "Full compliance with all food safety laws and regulations, including adherence to the highest level of SQF food safety quality standards",
+          "Clear communication with employees, partners, suppliers, customers, and regulators",
+          "Ongoing training to empower our team and strengthen our Food Safety Culture",
+          "Continuous improvement in our processes, products, and services"
+        ],
+        "id": "food-safety",
+        "items": [],
+        "paragraphs": [
+          "We are committed to producing safe, high-quality, and authentic products that meet or exceed customer expectations.",
+          "We ensure:"
+        ],
+        "title": "Food Safety"
+      },
+      {
+        "bullets": [],
+        "id": "our-segments",
+        "items": [
+          {
+            "text": "Based in Rochester, New York a historic center of food manufacturing and innovation, our factory continues a legacy of ingenuity, craftsmanship, and making things with purpose.",
+            "title": "Process & Capabilities"
+          },
+          {
+            "text": "Created by professionals, for professionals, DeCocoa Decor™ delivers innovative, customizable chocolate décor with refined detail and luxurious finish.",
+            "title": "DeCocoa DeCOR"
+          },
+          {
+            "text": "Fulfillment matters, especially for food. Perishable products demand speed, care, and precision. We specialize in food and gourmet fulfillment.",
+            "title": "Fulfillment You Can Trust"
+          }
+        ],
+        "paragraphs": [],
+        "title": "Our Segments"
+      }
+    ]
+  },
+  "jump": {
+    "focus": "food-safety-title",
+    "foodSafetyBullets": 4,
+    "hash": "#food-safety"
+  },
+  "responsive": [
+    {
+      "navAbove": true,
+      "navWrapped": "wrap",
+      "overflow": false,
+      "sectionContainment": true,
+      "width": 1440
+    },
+    {
+      "navAbove": true,
+      "navWrapped": "wrap",
+      "overflow": false,
+      "sectionContainment": true,
+      "width": 390
+    },
+    {
+      "navAbove": true,
+      "navWrapped": "wrap",
+      "overflow": false,
+      "sectionContainment": true,
+      "width": 1920
+    },
+    {
+      "navAbove": true,
+      "navWrapped": "wrap",
+      "overflow": false,
+      "sectionContainment": true,
+      "width": 768
+    },
+    {
+      "navAbove": true,
+      "navWrapped": "wrap",
+      "overflow": false,
+      "sectionContainment": true,
+      "width": 320
+    }
+  ],
+  "homepage": {
+    "matches": true,
+    "heading": "Chocolate craftsmanship, with purpose.",
+    "href": "our-craft/",
+    "intro": [
+      "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
+      "From sourcing to production, we uphold the highest standards of quality, sustainability, and continuous improvement."
+    ],
+    "overflow": false
+  },
+  "homepagePhone": {
+    "copyContained": true,
+    "overflow": false,
+    "width": 390
+  }
+}

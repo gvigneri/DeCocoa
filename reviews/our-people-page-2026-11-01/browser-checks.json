@@ -1,0 +1,937 @@
+[
+  {
+    "aliases": [
+      {
+        "count": 1,
+        "id": "story"
+      },
+      {
+        "count": 1,
+        "id": "roots"
+      },
+      {
+        "count": 1,
+        "id": "pillars"
+      },
+      {
+        "count": 1,
+        "id": "principals"
+      },
+      {
+        "count": 1,
+        "id": "values"
+      }
+    ],
+    "h1Count": 1,
+    "heading": "Our People",
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our People"
+      },
+      {
+        "level": "H2",
+        "text": "OUR ROOTS"
+      },
+      {
+        "level": "H2",
+        "text": "Our Principals"
+      },
+      {
+        "level": "H3",
+        "text": "VISION"
+      },
+      {
+        "level": "H3",
+        "text": "FOCUS"
+      },
+      {
+        "level": "H3",
+        "text": "MISSION"
+      },
+      {
+        "level": "H2",
+        "text": "Our Values"
+      },
+      {
+        "level": "H3",
+        "text": "Integrity"
+      },
+      {
+        "level": "H3",
+        "text": "Inspire"
+      },
+      {
+        "level": "H3",
+        "text": "Ingredients"
+      },
+      {
+        "level": "H3",
+        "text": "Innovation"
+      },
+      {
+        "level": "H3",
+        "text": "Invest"
+      },
+      {
+        "level": "H2",
+        "text": "Sweet Careers"
+      }
+    ],
+    "intro_paragraphs": [
+      "We are committed to investing in our people and strengthening our community.",
+      "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+    ],
+    "nav": {
+      "aboveContent": true,
+      "alignedLeft": true,
+      "direction": "row",
+      "links": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-roots",
+          "text": "OUR ROOTS"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-principals",
+          "text": "Our Principals"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-values",
+          "text": "Our Values"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#sweet-careers",
+          "text": "Sweet Careers"
+        }
+      ],
+      "wrap": "wrap"
+    },
+    "photo": {
+      "loaded": true,
+      "src": "../assets/images/people-at-work.webp"
+    },
+    "scrollWidth": 1905,
+    "sections": [
+      {
+        "id": "our-roots",
+        "items": [],
+        "paragraphs": [
+          "Our story begins in the cobble stoned streets of a Sicilian patisserie, where the Vigneri family first fell in love with the art of confection.",
+          "In the scent of warm pastries and the flicker of old ovens, a legacy of sweetness began to rise.",
+          "With hands guided by tradition and hearts full of dreams, the Vigneri name became known for its devotion to the craft."
+        ],
+        "title": "OUR ROOTS"
+      },
+      {
+        "id": "our-principals",
+        "items": [
+          {
+            "text": "Our vision is to be an industry leading chocolate brand known for craftsmanship, creativity, and care while building a farmers-first, sustainable future through ethical sourcing and responsible practices.",
+            "title": "VISION"
+          },
+          {
+            "text": "Our focus is to combine passionate people, innovative craft, and sustainable practices to create chocolate with purpose and care.",
+            "title": "FOCUS"
+          },
+          {
+            "text": "We passionately handcraft the highest-quality chocolates and deliver the sweetest, most memorable experiences to our customers.",
+            "title": "MISSION"
+          }
+        ],
+        "paragraphs": [],
+        "title": "Our Principals"
+      },
+      {
+        "id": "our-values",
+        "items": [
+          {
+            "text": "We stand by our promise of quality, care, and food safety in every step.",
+            "title": "Integrity"
+          },
+          {
+            "text": "We bring passion to our craft and encourage fresh ideas every day.",
+            "title": "Inspire"
+          },
+          {
+            "text": "We choose the purest, most sustainable ingredients to create with purpose.",
+            "title": "Ingredients"
+          },
+          {
+            "text": "We think ahead and push boundaries to craft the future.",
+            "title": "Innovation"
+          },
+          {
+            "text": "We grow by investing in our people, our partners, and our community.",
+            "title": "Invest"
+          }
+        ],
+        "paragraphs": [
+          "Our values are the key ingredients in our chocolate and in everything we do:"
+        ],
+        "title": "Our Values"
+      },
+      {
+        "id": "sweet-careers",
+        "items": [],
+        "paragraphs": [
+          "Interested in a career in chocolate? Tell us about your experience, interests and the work you would like to explore with DeCocoa."
+        ],
+        "title": "Sweet Careers"
+      }
+    ],
+    "width": 1920,
+    "exactCopy": true
+  },
+  {
+    "aliases": [
+      {
+        "count": 1,
+        "id": "story"
+      },
+      {
+        "count": 1,
+        "id": "roots"
+      },
+      {
+        "count": 1,
+        "id": "pillars"
+      },
+      {
+        "count": 1,
+        "id": "principals"
+      },
+      {
+        "count": 1,
+        "id": "values"
+      }
+    ],
+    "h1Count": 1,
+    "heading": "Our People",
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our People"
+      },
+      {
+        "level": "H2",
+        "text": "OUR ROOTS"
+      },
+      {
+        "level": "H2",
+        "text": "Our Principals"
+      },
+      {
+        "level": "H3",
+        "text": "VISION"
+      },
+      {
+        "level": "H3",
+        "text": "FOCUS"
+      },
+      {
+        "level": "H3",
+        "text": "MISSION"
+      },
+      {
+        "level": "H2",
+        "text": "Our Values"
+      },
+      {
+        "level": "H3",
+        "text": "Integrity"
+      },
+      {
+        "level": "H3",
+        "text": "Inspire"
+      },
+      {
+        "level": "H3",
+        "text": "Ingredients"
+      },
+      {
+        "level": "H3",
+        "text": "Innovation"
+      },
+      {
+        "level": "H3",
+        "text": "Invest"
+      },
+      {
+        "level": "H2",
+        "text": "Sweet Careers"
+      }
+    ],
+    "intro_paragraphs": [
+      "We are committed to investing in our people and strengthening our community.",
+      "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+    ],
+    "nav": {
+      "aboveContent": true,
+      "alignedLeft": true,
+      "direction": "row",
+      "links": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-roots",
+          "text": "OUR ROOTS"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-principals",
+          "text": "Our Principals"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-values",
+          "text": "Our Values"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#sweet-careers",
+          "text": "Sweet Careers"
+        }
+      ],
+      "wrap": "wrap"
+    },
+    "photo": {
+      "loaded": true,
+      "src": "../assets/images/people-at-work.webp"
+    },
+    "scrollWidth": 1425,
+    "sections": [
+      {
+        "id": "our-roots",
+        "items": [],
+        "paragraphs": [
+          "Our story begins in the cobble stoned streets of a Sicilian patisserie, where the Vigneri family first fell in love with the art of confection.",
+          "In the scent of warm pastries and the flicker of old ovens, a legacy of sweetness began to rise.",
+          "With hands guided by tradition and hearts full of dreams, the Vigneri name became known for its devotion to the craft."
+        ],
+        "title": "OUR ROOTS"
+      },
+      {
+        "id": "our-principals",
+        "items": [
+          {
+            "text": "Our vision is to be an industry leading chocolate brand known for craftsmanship, creativity, and care while building a farmers-first, sustainable future through ethical sourcing and responsible practices.",
+            "title": "VISION"
+          },
+          {
+            "text": "Our focus is to combine passionate people, innovative craft, and sustainable practices to create chocolate with purpose and care.",
+            "title": "FOCUS"
+          },
+          {
+            "text": "We passionately handcraft the highest-quality chocolates and deliver the sweetest, most memorable experiences to our customers.",
+            "title": "MISSION"
+          }
+        ],
+        "paragraphs": [],
+        "title": "Our Principals"
+      },
+      {
+        "id": "our-values",
+        "items": [
+          {
+            "text": "We stand by our promise of quality, care, and food safety in every step.",
+            "title": "Integrity"
+          },
+          {
+            "text": "We bring passion to our craft and encourage fresh ideas every day.",
+            "title": "Inspire"
+          },
+          {
+            "text": "We choose the purest, most sustainable ingredients to create with purpose.",
+            "title": "Ingredients"
+          },
+          {
+            "text": "We think ahead and push boundaries to craft the future.",
+            "title": "Innovation"
+          },
+          {
+            "text": "We grow by investing in our people, our partners, and our community.",
+            "title": "Invest"
+          }
+        ],
+        "paragraphs": [
+          "Our values are the key ingredients in our chocolate and in everything we do:"
+        ],
+        "title": "Our Values"
+      },
+      {
+        "id": "sweet-careers",
+        "items": [],
+        "paragraphs": [
+          "Interested in a career in chocolate? Tell us about your experience, interests and the work you would like to explore with DeCocoa."
+        ],
+        "title": "Sweet Careers"
+      }
+    ],
+    "width": 1440,
+    "exactCopy": true
+  },
+  {
+    "aliases": [
+      {
+        "count": 1,
+        "id": "story"
+      },
+      {
+        "count": 1,
+        "id": "roots"
+      },
+      {
+        "count": 1,
+        "id": "pillars"
+      },
+      {
+        "count": 1,
+        "id": "principals"
+      },
+      {
+        "count": 1,
+        "id": "values"
+      }
+    ],
+    "h1Count": 1,
+    "heading": "Our People",
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our People"
+      },
+      {
+        "level": "H2",
+        "text": "OUR ROOTS"
+      },
+      {
+        "level": "H2",
+        "text": "Our Principals"
+      },
+      {
+        "level": "H3",
+        "text": "VISION"
+      },
+      {
+        "level": "H3",
+        "text": "FOCUS"
+      },
+      {
+        "level": "H3",
+        "text": "MISSION"
+      },
+      {
+        "level": "H2",
+        "text": "Our Values"
+      },
+      {
+        "level": "H3",
+        "text": "Integrity"
+      },
+      {
+        "level": "H3",
+        "text": "Inspire"
+      },
+      {
+        "level": "H3",
+        "text": "Ingredients"
+      },
+      {
+        "level": "H3",
+        "text": "Innovation"
+      },
+      {
+        "level": "H3",
+        "text": "Invest"
+      },
+      {
+        "level": "H2",
+        "text": "Sweet Careers"
+      }
+    ],
+    "intro_paragraphs": [
+      "We are committed to investing in our people and strengthening our community.",
+      "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+    ],
+    "nav": {
+      "aboveContent": true,
+      "alignedLeft": true,
+      "direction": "row",
+      "links": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-roots",
+          "text": "OUR ROOTS"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-principals",
+          "text": "Our Principals"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-values",
+          "text": "Our Values"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#sweet-careers",
+          "text": "Sweet Careers"
+        }
+      ],
+      "wrap": "wrap"
+    },
+    "photo": {
+      "loaded": true,
+      "src": "../assets/images/people-at-work.webp"
+    },
+    "scrollWidth": 753,
+    "sections": [
+      {
+        "id": "our-roots",
+        "items": [],
+        "paragraphs": [
+          "Our story begins in the cobble stoned streets of a Sicilian patisserie, where the Vigneri family first fell in love with the art of confection.",
+          "In the scent of warm pastries and the flicker of old ovens, a legacy of sweetness began to rise.",
+          "With hands guided by tradition and hearts full of dreams, the Vigneri name became known for its devotion to the craft."
+        ],
+        "title": "OUR ROOTS"
+      },
+      {
+        "id": "our-principals",
+        "items": [
+          {
+            "text": "Our vision is to be an industry leading chocolate brand known for craftsmanship, creativity, and care while building a farmers-first, sustainable future through ethical sourcing and responsible practices.",
+            "title": "VISION"
+          },
+          {
+            "text": "Our focus is to combine passionate people, innovative craft, and sustainable practices to create chocolate with purpose and care.",
+            "title": "FOCUS"
+          },
+          {
+            "text": "We passionately handcraft the highest-quality chocolates and deliver the sweetest, most memorable experiences to our customers.",
+            "title": "MISSION"
+          }
+        ],
+        "paragraphs": [],
+        "title": "Our Principals"
+      },
+      {
+        "id": "our-values",
+        "items": [
+          {
+            "text": "We stand by our promise of quality, care, and food safety in every step.",
+            "title": "Integrity"
+          },
+          {
+            "text": "We bring passion to our craft and encourage fresh ideas every day.",
+            "title": "Inspire"
+          },
+          {
+            "text": "We choose the purest, most sustainable ingredients to create with purpose.",
+            "title": "Ingredients"
+          },
+          {
+            "text": "We think ahead and push boundaries to craft the future.",
+            "title": "Innovation"
+          },
+          {
+            "text": "We grow by investing in our people, our partners, and our community.",
+            "title": "Invest"
+          }
+        ],
+        "paragraphs": [
+          "Our values are the key ingredients in our chocolate and in everything we do:"
+        ],
+        "title": "Our Values"
+      },
+      {
+        "id": "sweet-careers",
+        "items": [],
+        "paragraphs": [
+          "Interested in a career in chocolate? Tell us about your experience, interests and the work you would like to explore with DeCocoa."
+        ],
+        "title": "Sweet Careers"
+      }
+    ],
+    "width": 768,
+    "exactCopy": true
+  },
+  {
+    "aliases": [
+      {
+        "count": 1,
+        "id": "story"
+      },
+      {
+        "count": 1,
+        "id": "roots"
+      },
+      {
+        "count": 1,
+        "id": "pillars"
+      },
+      {
+        "count": 1,
+        "id": "principals"
+      },
+      {
+        "count": 1,
+        "id": "values"
+      }
+    ],
+    "h1Count": 1,
+    "heading": "Our People",
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our People"
+      },
+      {
+        "level": "H2",
+        "text": "OUR ROOTS"
+      },
+      {
+        "level": "H2",
+        "text": "Our Principals"
+      },
+      {
+        "level": "H3",
+        "text": "VISION"
+      },
+      {
+        "level": "H3",
+        "text": "FOCUS"
+      },
+      {
+        "level": "H3",
+        "text": "MISSION"
+      },
+      {
+        "level": "H2",
+        "text": "Our Values"
+      },
+      {
+        "level": "H3",
+        "text": "Integrity"
+      },
+      {
+        "level": "H3",
+        "text": "Inspire"
+      },
+      {
+        "level": "H3",
+        "text": "Ingredients"
+      },
+      {
+        "level": "H3",
+        "text": "Innovation"
+      },
+      {
+        "level": "H3",
+        "text": "Invest"
+      },
+      {
+        "level": "H2",
+        "text": "Sweet Careers"
+      }
+    ],
+    "intro_paragraphs": [
+      "We are committed to investing in our people and strengthening our community.",
+      "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+    ],
+    "nav": {
+      "aboveContent": true,
+      "alignedLeft": true,
+      "direction": "row",
+      "links": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-roots",
+          "text": "OUR ROOTS"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-principals",
+          "text": "Our Principals"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-values",
+          "text": "Our Values"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#sweet-careers",
+          "text": "Sweet Careers"
+        }
+      ],
+      "wrap": "wrap"
+    },
+    "photo": {
+      "loaded": true,
+      "src": "../assets/images/people-at-work.webp"
+    },
+    "scrollWidth": 375,
+    "sections": [
+      {
+        "id": "our-roots",
+        "items": [],
+        "paragraphs": [
+          "Our story begins in the cobble stoned streets of a Sicilian patisserie, where the Vigneri family first fell in love with the art of confection.",
+          "In the scent of warm pastries and the flicker of old ovens, a legacy of sweetness began to rise.",
+          "With hands guided by tradition and hearts full of dreams, the Vigneri name became known for its devotion to the craft."
+        ],
+        "title": "OUR ROOTS"
+      },
+      {
+        "id": "our-principals",
+        "items": [
+          {
+            "text": "Our vision is to be an industry leading chocolate brand known for craftsmanship, creativity, and care while building a farmers-first, sustainable future through ethical sourcing and responsible practices.",
+            "title": "VISION"
+          },
+          {
+            "text": "Our focus is to combine passionate people, innovative craft, and sustainable practices to create chocolate with purpose and care.",
+            "title": "FOCUS"
+          },
+          {
+            "text": "We passionately handcraft the highest-quality chocolates and deliver the sweetest, most memorable experiences to our customers.",
+            "title": "MISSION"
+          }
+        ],
+        "paragraphs": [],
+        "title": "Our Principals"
+      },
+      {
+        "id": "our-values",
+        "items": [
+          {
+            "text": "We stand by our promise of quality, care, and food safety in every step.",
+            "title": "Integrity"
+          },
+          {
+            "text": "We bring passion to our craft and encourage fresh ideas every day.",
+            "title": "Inspire"
+          },
+          {
+            "text": "We choose the purest, most sustainable ingredients to create with purpose.",
+            "title": "Ingredients"
+          },
+          {
+            "text": "We think ahead and push boundaries to craft the future.",
+            "title": "Innovation"
+          },
+          {
+            "text": "We grow by investing in our people, our partners, and our community.",
+            "title": "Invest"
+          }
+        ],
+        "paragraphs": [
+          "Our values are the key ingredients in our chocolate and in everything we do:"
+        ],
+        "title": "Our Values"
+      },
+      {
+        "id": "sweet-careers",
+        "items": [],
+        "paragraphs": [
+          "Interested in a career in chocolate? Tell us about your experience, interests and the work you would like to explore with DeCocoa."
+        ],
+        "title": "Sweet Careers"
+      }
+    ],
+    "width": 390,
+    "exactCopy": true
+  },
+  {
+    "aliases": [
+      {
+        "count": 1,
+        "id": "story"
+      },
+      {
+        "count": 1,
+        "id": "roots"
+      },
+      {
+        "count": 1,
+        "id": "pillars"
+      },
+      {
+        "count": 1,
+        "id": "principals"
+      },
+      {
+        "count": 1,
+        "id": "values"
+      }
+    ],
+    "h1Count": 1,
+    "heading": "Our People",
+    "headings": [
+      {
+        "level": "H1",
+        "text": "Our People"
+      },
+      {
+        "level": "H2",
+        "text": "OUR ROOTS"
+      },
+      {
+        "level": "H2",
+        "text": "Our Principals"
+      },
+      {
+        "level": "H3",
+        "text": "VISION"
+      },
+      {
+        "level": "H3",
+        "text": "FOCUS"
+      },
+      {
+        "level": "H3",
+        "text": "MISSION"
+      },
+      {
+        "level": "H2",
+        "text": "Our Values"
+      },
+      {
+        "level": "H3",
+        "text": "Integrity"
+      },
+      {
+        "level": "H3",
+        "text": "Inspire"
+      },
+      {
+        "level": "H3",
+        "text": "Ingredients"
+      },
+      {
+        "level": "H3",
+        "text": "Innovation"
+      },
+      {
+        "level": "H3",
+        "text": "Invest"
+      },
+      {
+        "level": "H2",
+        "text": "Sweet Careers"
+      }
+    ],
+    "intro_paragraphs": [
+      "We are committed to investing in our people and strengthening our community.",
+      "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+    ],
+    "nav": {
+      "aboveContent": true,
+      "alignedLeft": true,
+      "direction": "row",
+      "links": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-roots",
+          "text": "OUR ROOTS"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-principals",
+          "text": "Our Principals"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#our-values",
+          "text": "Our Values"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "href": "#sweet-careers",
+          "text": "Sweet Careers"
+        }
+      ],
+      "wrap": "wrap"
+    },
+    "photo": {
+      "loaded": true,
+      "src": "../assets/images/people-at-work.webp"
+    },
+    "scrollWidth": 305,
+    "sections": [
+      {
+        "id": "our-roots",
+        "items": [],
+        "paragraphs": [
+          "Our story begins in the cobble stoned streets of a Sicilian patisserie, where the Vigneri family first fell in love with the art of confection.",
+          "In the scent of warm pastries and the flicker of old ovens, a legacy of sweetness began to rise.",
+          "With hands guided by tradition and hearts full of dreams, the Vigneri name became known for its devotion to the craft."
+        ],
+        "title": "OUR ROOTS"
+      },
+      {
+        "id": "our-principals",
+        "items": [
+          {
+            "text": "Our vision is to be an industry leading chocolate brand known for craftsmanship, creativity, and care while building a farmers-first, sustainable future through ethical sourcing and responsible practices.",
+            "title": "VISION"
+          },
+          {
+            "text": "Our focus is to combine passionate people, innovative craft, and sustainable practices to create chocolate with purpose and care.",
+            "title": "FOCUS"
+          },
+          {
+            "text": "We passionately handcraft the highest-quality chocolates and deliver the sweetest, most memorable experiences to our customers.",
+            "title": "MISSION"
+          }
+        ],
+        "paragraphs": [],
+        "title": "Our Principals"
+      },
+      {
+        "id": "our-values",
+        "items": [
+          {
+            "text": "We stand by our promise of quality, care, and food safety in every step.",
+            "title": "Integrity"
+          },
+          {
+            "text": "We bring passion to our craft and encourage fresh ideas every day.",
+            "title": "Inspire"
+          },
+          {
+            "text": "We choose the purest, most sustainable ingredients to create with purpose.",
+            "title": "Ingredients"
+          },
+          {
+            "text": "We think ahead and push boundaries to craft the future.",
+            "title": "Innovation"
+          },
+          {
+            "text": "We grow by investing in our people, our partners, and our community.",
+            "title": "Invest"
+          }
+        ],
+        "paragraphs": [
+          "Our values are the key ingredients in our chocolate and in everything we do:"
+        ],
+        "title": "Our Values"
+      },
+      {
+        "id": "sweet-careers",
+        "items": [],
+        "paragraphs": [
+          "Interested in a career in chocolate? Tell us about your experience, interests and the work you would like to explore with DeCocoa."
+        ],
+        "title": "Sweet Careers"
+      }
+    ],
+    "width": 320,
+    "exactCopy": true
+  }
+]

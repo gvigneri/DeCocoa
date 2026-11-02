@@ -9,10 +9,11 @@ import hashlib, json, posixpath, re
 ROOT=Path(__file__).resolve().parents[1]
 SITE=ROOT/'prototype'
 DATA=json.loads((SITE/'site-content.json').read_text(encoding='utf-8'))
-ICONS={name:(ROOT/f'assets/icons/fontawesome-free-6.7.2/{name}.svg').read_text(encoding='utf-8') for name in ('arrow-right','gift','wand-magic-sparkles','handshake','shield-heart','leaf','gears')}
+ICONS={name:(ROOT/f'assets/icons/fontawesome-free-6.7.2/{name}.svg').read_text(encoding='utf-8') for name in ('arrow-right','arrow-right-long','gift','wand-magic-sparkles','handshake','shield-heart','leaf','gears')}
 def read(name): return (SITE/name).read_text(encoding='utf-8')
 def url(route,current):
     parts=urlsplit(route)
+    if not parts.path and parts.fragment:return ('?'+parts.query if parts.query else '')+'#'+parts.fragment
     base=current if current.endswith('/') else posixpath.dirname(current)
     result=posixpath.relpath(parts.path or '.',base or '.')
     if not parts.path or parts.path.endswith('/'): result=result.rstrip('/')+'/'
@@ -65,18 +66,54 @@ def category_cards(current,static=False):
 
 def discovery_cards(current):
     return ''.join(f'<a class="discovery-card" data-reveal href="{escape(url(c["route"],current),quote=True)}" style="--reveal-delay:{index*.16:.2f}s"><span class="discovery-icon reveal-drop">'+icon(c['icon'])+f'</span><h4>{escape(c["title"])}</h4><p>{escape(c["text"])}</p><span class="discovery-action">{escape(c.get("link_label","Explore "+c["title"]))}'+icon('arrow-right')+'</span></a>' for index,c in enumerate(DATA['discovery_cards']))
+def hero_bark_art():
+    images=json.loads(read('hero-bark.json'))['images']
+    return ''.join('<span class="pretzel-drop '+image['motion_class']+' bark-piece bark-piece-'+image['id']+'"><img class="hero-pretzel bark-image" src="{{asset:'+image['image']+'}}" srcset="'+', '.join('{{asset:'+variant['image']+'}} '+str(variant['width'])+'w' for variant in image['variants'])+'" sizes="'+escape(image['sizes'],quote=True)+'" width="'+str(image['width'])+'" height="'+str(image['height'])+'" alt="'+escape(image['alt'],quote=True)+'" decoding="async"'+(' fetchpriority="high"' if index==0 else '')+'></span>' for index,image in enumerate(images))
 def inquiry(topic,current,label='Start an Inquiry'):
     variant='button-primary'+(' button-talk' if label.replace('\u2019',"'")=="Let's Talk" else '')
     return '<a class="button '+variant+'" href="'+escape(url('lets-talk/?topic='+quote(topic)+'#inquiry',current),quote=True)+'">'+escape(label)+'</a>'
+def chocolate_history(section):
+    history=json.loads(read('chocolate-history.json'))
+    chapters=[]
+    for chapter in history['chapters']:
+        layers=[]
+        for index,layer in enumerate(chapter['layers']):
+            placement=';'.join('--layer-'+key+':'+str(value) for key,value in layer['placement'].items())
+            placement+=';--layer-delay:'+str(round(index*.1,2))+'s'
+            src='{{asset:'+layer['asset']+'}}'
+            responsive=''
+            if layer.get('variants'):
+                responsive=' srcset="'+', '.join('{{asset:'+v['asset']+'}} '+str(v['width'])+'w' for v in layer['variants'])+'" sizes="'+escape(layer['sizes'],quote=True)+'"'
+            decorative=' aria-hidden="true"' if layer['decorative'] else ''
+            layers.append('<span class="history-layer history-layer--'+escape(layer['role'],quote=True)+'" style="'+escape(placement,quote=True)+'"'+decorative+'><span class="history-visual"><img src="'+src+'"'+responsive+' width="'+str(layer['width'])+'" height="'+str(layer['height'])+'" alt="'+escape(layer['alt'],quote=True)+'" loading="lazy" decoding="async"></span></span>')
+        template=read('chocolate-history-chapter.template.html')
+        values={**chapter,'scene-style':';'.join('--scene-'+key+':'+str(value) for key,value in chapter['scene'].items()),'layers':''.join(layers),'source-label':chapter['source_label'],'source-icon':icon('arrow-right-long')}
+        for key,value in values.items():
+            template=template.replace('{{history-'+key+'}}',value if key in ('layers','source-icon') else escape(str(value),quote=True))
+        chapters.append(template)
+    aliases=''.join('<span class="anchor-alias" id="'+alias+'" aria-hidden="true"></span>' for alias in section.get('aliases',[]))
+    return '<section class="content-section chocolate-history" id="'+section['id']+'" aria-labelledby="'+section['id']+'-title">'+aliases+'<div class="history-intro"><h2 class="section-title" id="'+section['id']+'-title"><span class="eyebrow">'+escape(section['title'])+'</span> <span class="heading-title">'+escape(history['heading'])+'</span></h2><p>'+escape(history['intro'])+'</p></div><ol class="history-list" aria-label="Chocolate history">'+''.join(chapters)+'</ol><div class="history-invitation"><h3>'+escape(history['invitation'])+'</h3><a class="button button-primary" href="{{url:'+history['cta_route']+'}}">'+escape(history['cta_label'])+'</a></div></section>'
+def related_link(item):
+    styles={'text':'text-link','primary':'button button-primary'}
+    style=item.get('style','text')
+    if style not in styles:raise ValueError('Unsupported related-link style: '+style)
+    return '<a class="'+styles[style]+'" href="{{url:'+item['route']+'}}">'+escape(item['label'])+'</a>'
 def sections(page):
     out=[]
     for s in page['sections']:
+        if page['route']=='experience-center/' and s['id']=='museum-virtual-exhibition':
+            out.append(chocolate_history(s))
+            continue
         aliases=''.join('<span class="anchor-alias" id="'+alias+'" aria-hidden="true"></span>' for alias in s.get('aliases',[]))
         actions=(inquiry(s['topic'],page['route'],s.get('cta',"Let's Talk")) if s.get('topic') else '')
         if s.get('related_route'):actions+='<a class="text-link" href="{{url:'+s['related_route']+'}}">'+escape(s['related_label'])+'</a>'
-        actions+=''.join('<a class="text-link" href="{{url:'+item['route']+'}}">'+escape(item['label'])+'</a>' for item in s.get('related_links',[]))
+        actions+=''.join(related_link(item) for item in s.get('related_links',[]))
+        if page['route']=='experience-center/' and s['id']=='tours-and-classes':
+            actions+='<a class="button button-primary" href="{{url:'+page['cta_route']+'}}">'+escape(page['cta'])+'</a>'
         items=''.join('<article class="info-item"><h3>'+escape(i['title'])+'</h3><p>'+escape(i['text'])+'</p></article>' for i in s.get('items',[]))
-        out.append('<section class="content-section" id="'+s['id']+'" aria-labelledby="'+s['id']+'-title">'+aliases+'<h2 id="'+s['id']+'-title">'+escape(s['title'])+'</h2>'+''.join('<p>'+escape(p)+'</p>' for p in s.get('paragraphs',[]))+('<div class="info-grid">'+items+'</div>' if items else '')+('<div class="closing-actions">'+actions+'</div>' if actions else '')+'</section>')
+        bullets=''.join('<li>'+escape(item)+'</li>' for item in s.get('bullets',[]))
+        steps=''.join('<li><h3>'+escape(step['title'])+'</h3><p>'+escape(step['text'])+'</p></li>' for step in s.get('ordered_steps',[]))
+        out.append('<section class="content-section" id="'+s['id']+'" aria-labelledby="'+s['id']+'-title">'+aliases+'<h2 id="'+s['id']+'-title">'+escape(s['title'])+'</h2>'+''.join('<p>'+escape(p)+'</p>' for p in s.get('paragraphs',[]))+('<ul class="content-bullets">'+bullets+'</ul>' if bullets else '')+('<ol class="content-steps">'+steps+'</ol>' if steps else '')+('<div class="info-grid">'+items+'</div>' if items else '')+('<div class="closing-actions">'+actions+'</div>' if actions else '')+'</section>')
     return ''.join(out)
 def general(page):
     fc='experience-photo' if page.get('mask') else 'card page-photo'
@@ -84,7 +121,10 @@ def general(page):
     jumps=''.join('<a href="#'+s['id']+'">'+escape(s['title'])+'</a>' for s in page['sections'])
     topic=page.get('topic') or {'our-people/':'Our story','our-craft/':'Our craft','experience-center/':'Experience Center'}[page['route']]
     related='<a class="button button-primary" href="{{url:'+page['related_route']+'}}">'+escape(page['related_label'])+'</a>' if page.get('related_route') else inquiry(topic,page['route'],"Let's Talk")
-    return '<section class="page-intro container"><div><h1 id="page-title" class="section-title"><span class="eyebrow">'+escape(page['eyebrow'])+'</span> <span class="heading-title">'+escape(page['heading'])+'</span></h1><p class="lead">'+escape(page['intro'])+'</p></div>'+figure+'</section><div class="container editorial-layout"><nav class="section-nav" aria-label="On this page">'+jumps+'</nav><div class="editorial-content">'+sections(page)+'<div class="closing-actions"><a class="button button-primary" href="{{url:'+page['cta_route']+'}}">'+escape(page['cta'])+'</a>'+related+'</div></div></div>'
+    closing='' if page['route']=='experience-center/' else '<div class="closing-actions"><a class="button button-primary" href="{{url:'+page['cta_route']+'}}">'+escape(page['cta'])+'</a>'+related+'</div>'
+    heading='<h1 id="page-title">'+escape(page['heading'])+'</h1>' if page.get('simple_heading') else '<h1 id="page-title" class="section-title"><span class="eyebrow">'+escape(page['eyebrow'])+'</span> <span class="heading-title">'+escape(page['heading'])+'</span></h1>'
+    intro=''.join('<p class="lead">'+escape(paragraph)+'</p>' for paragraph in page.get('intro_paragraphs',[page['intro']]))
+    return '<section class="page-intro container"><div>'+heading+intro+'</div>'+figure+'</section><div class="container editorial-layout"><nav class="section-nav" aria-label="On this page">'+jumps+'</nav><div class="editorial-content">'+sections(page)+closing+'</div></div>'
 def inquiry_section(section_id='inquiry',stacked=False):
     return read('partials/inquiry.html').replace('{{inquiry-id}}',section_id).replace('{{inquiry-layout}}',' home-inquiry' if stacked else '').replace('{{inquiry-intro}}','A question, an idea, a chocolate possibility.' if stacked else 'Choose a topic and add your questions below.')
 def trust_section(section_id):
@@ -105,9 +145,14 @@ def render(route,title,description,content,body_class,noindex=False):
     for key,value in {'title':escape(title),'description':escape(description,quote=True),'content':content,'header':header,'footer':footer,'body-class':body_class,'robots':'<meta name="robots" content="noindex">' if noindex else ''}.items(): html=html.replace('{{'+key+'}}',value)
     for key,value in PATTERNS.items(): html=html.replace('{{pattern-'+key+'}}',value)
     for name in DATA['trust_sections']:html=html.replace('{{'+name+'-section}}',trust_section(name))
+    if route=='':
+        html=html.replace('{{hero-bark-art}}',hero_bark_art())
+        experience=next(page for page in DATA['pages'] if page['route']=='experience-center/')
+        html=html.replace('{{experience-intro-paragraphs}}',''.join('<p>'+escape(paragraph)+'</p>' for paragraph in experience['intro_paragraphs']))
     for key,value in {'chocolate-eyebrow':escape(DATA['chocolate_intro']['eyebrow']),'chocolate-heading':escape(DATA['chocolate_intro']['heading']),'chocolate-intro':escape(DATA['chocolate_intro']['text']),'category-cards':category_cards(route),'discovery-cards':discovery_cards(route)}.items():html=html.replace('{{'+key+'}}',value)
     html=re.sub(r'\{\{icon:([^}]+)\}\}',lambda m:icon(m[1]),html)
     html=html.replace('{{category-script}}','<script src="{{asset:js/category-motion.js}}?v=1" defer></script>' if route=='' else '')
+    html=html.replace('{{history-assets}}','<link rel="stylesheet" href="{{asset:css/chocolate-history.css}}?v=6"><script src="{{asset:js/chocolate-history.js}}?v=1" defer></script>' if route=='experience-center/' else '')
     html=html.replace('{{product-cards}}',cards(route)).replace('{{topic-options}}',''.join('<option>'+escape(t)+'</option>' for t in DATA['topics'])).replace('{{product-options}}',''.join('<option value="'+p['slug']+'">'+escape(p['title'])+'</option>' for p in DATA['products']))
     html=re.sub(r'\{\{url:([^}]*)\}\}',lambda m:escape(url(m[1],route),quote=True),html)
     base=route if route.endswith('/') else posixpath.dirname(route)
@@ -139,7 +184,9 @@ def build():
         for key,value in values.items(): template=template.replace('{{product-'+key+'}}',str(value) if key in ('width','height','inquiry') else escape(str(value),quote=True))
         template=template.replace('{{related-products}}',cards(route,p['slug']))
         inventory.append(render(route,p['title'],p['description'],template,'interior'))
-    for page in DATA['pages']: inventory.append(render(page['route'],page['title'],page['intro'],general(page),'interior'))
+    for page in DATA['pages']:
+        body_class='interior'+(' experience-history' if page['route']=='experience-center/' else '')+(' section-nav-top' if page.get('section_nav_top') else '')
+        inventory.append(render(page['route'],page['title'],page['intro'],general(page),body_class))
     for page in DATA['services']:inventory.append(render(page['route'],page['title'],page['description'],general(page),'interior service-landing'))
     inventory.append(render('lets-talk/',"Let's Talk",'Ask DeCocoa about chocolate products, gifting, Craft Your Own, fundraising, wholesale, business projects and the Experience Center.',contact(),'interior'))
     for page in DATA['policies']:
@@ -148,6 +195,6 @@ def build():
     recovery='<section class="container page-intro text-intro not-found"><div><h1 id="page-title" class="section-title"><span class="eyebrow">Page not found</span> <span class="heading-title">Something is missing.</span></h1><p class="lead">The page you are looking for may have moved. Keep exploring our chocolate or find your way home.</p><div class="hero-actions"><a class="button button-primary" href="{{url:products/}}">Explore Our Products</a><a class="button button-primary" href="{{url:}}">Go Home</a></div></div></section>'
     inventory.append(render('404.html','Page Not Found','Find your way back to DeCocoa products and information.',recovery,'interior'))
     for key,name in PATTERN_SOURCES.items(): (ROOT/f'assets/patterns/{name}-website.svg').write_text(PATTERNS[key],encoding='utf-8',newline='\n')
-    (SITE/'generated-pages.json').write_text(json.dumps({'build':'local-site-2026-10-24','pages':inventory,'sources':['prototype/site-content.json','prototype/site.template.html','prototype/homepage.template.html','prototype/product-detail.template.html','prototype/trust-section.template.html','prototype/partials/header.html','prototype/partials/footer.html','prototype/partials/inquiry.html']},indent=2)+'\n',encoding='utf-8')
+    (SITE/'generated-pages.json').write_text(json.dumps({'build':'local-site-2026-10-24','pages':inventory,'sources':['prototype/site-content.json','prototype/site.template.html','prototype/homepage.template.html','prototype/hero-bark.json','prototype/product-detail.template.html','prototype/trust-section.template.html','prototype/chocolate-history.json','prototype/chocolate-history-chapter.template.html','prototype/partials/header.html','prototype/partials/footer.html','prototype/partials/inquiry.html']},indent=2)+'\n',encoding='utf-8')
     print(f'Built {len(inventory)} local pages from shared templates and content. Original artwork unchanged.')
 if __name__=='__main__': build()

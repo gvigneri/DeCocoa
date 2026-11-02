@@ -1,0 +1,1139 @@
+{
+  "heading": "A rich history of chocolate",
+  "intro": "Every chocolate story begins with cacao. Explore the people, places and discoveries that shaped its journey.",
+  "invitation": "What will your chocolate story look like?",
+  "cta_label": "Craft Your Own Chocolate Bar",
+  "cta_route": "craft-your-own/#chocolate-bars",
+  "chapters": [
+    {
+      "id": "01-origins",
+      "side": "left",
+      "era": "1500 BCE\u2013900 CE",
+      "location": "Mesoamerica",
+      "title": "Ancient Origins",
+      "caption": "Olmec and Maya peoples cultivated cacao in Mesoamerica. For the Maya, cacao was a sacred gift from the gods. Used in rituals and ceremonies, cacao drinks became symbols of life, power and connection, long before chocolate took the familiar form of bars and confections.",
+      "source": "https://nhmu.utah.edu/articles/chocolate-its-origins",
+      "source_label": "Explore the history",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/01-origins/cacao-pods-and-leaves.png",
+          "width": 1254,
+          "height": 1254,
+          "decorative": false,
+          "alt": "Illustration of cacao pods, one opened to reveal pale pulp, with green cacao leaves.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-pods-and-leaves-640.png",
+              "width": 640
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-pods-and-leaves.png",
+              "width": 1254
+            }
+          ],
+          "sizes": "(min-width: 1500px) 590px, (min-width: 1051px) 42vw, (min-width: 701px) 40vw, 78vw",
+          "placement": {
+            "width": "88%",
+            "x": "12%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "88%",
+            "x-tablet": "12%",
+            "y-tablet": "0%",
+            "width-mobile": "88%",
+            "x-mobile": "12%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "vessel",
+          "asset": "images/chocolate-history/01-origins/ceramic-bowl.png",
+          "width": 579,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/ceramic-bowl-300.png",
+              "width": 290
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/ceramic-bowl.png",
+              "width": 579
+            }
+          ],
+          "sizes": "(min-width: 1500px) 300px, (min-width: 1051px) 22vw, (min-width: 701px) 20vw, 40vw",
+          "placement": {
+            "width": "45%",
+            "x": "0%",
+            "y": "63%",
+            "rotation": "-5deg",
+            "z": 3,
+            "width-tablet": "45%",
+            "x-tablet": "0%",
+            "y-tablet": "63%",
+            "width-mobile": "45%",
+            "x-mobile": "0%",
+            "y-mobile": "63%"
+          }
+        },
+        {
+          "role": "beans",
+          "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+          "width": 392,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans-200.png",
+              "width": 196
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+              "width": 392
+            }
+          ],
+          "sizes": "(min-width: 1500px) 215px, (min-width: 1051px) 15vw, (min-width: 701px) 14vw, 28vw",
+          "placement": {
+            "width": "32%",
+            "x": "62%",
+            "y": "74%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "62%",
+            "y-tablet": "74%",
+            "width-mobile": "32%",
+            "x-mobile": "62%",
+            "y-mobile": "74%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "02-aztec-empire",
+      "side": "right",
+      "era": "1428\u20131521 CE",
+      "location": "Central Mexico",
+      "title": "The Aztec Empire",
+      "caption": "The Aztecs considered cacao a sacred and valuable substance. Cacao drinks were associated with rituals, warriors and special occasions, while cacao beans also served as a form of currency.",
+      "source": "https://www.si.edu/object/nmah_835166",
+      "source_label": "Explore cacao as currency",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/02-aztec-empire/cacao-drinker.png",
+          "width": 1210,
+          "height": 1230,
+          "decorative": false,
+          "alt": "Interpretive illustration of an Aztec cacao drinker seated with a ceramic cup.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/02-aztec-empire/cacao-drinker-640.png",
+              "width": 630
+            },
+            {
+              "asset": "images/chocolate-history/02-aztec-empire/cacao-drinker.png",
+              "width": 1210
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "90%",
+            "x": "7%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "90%",
+            "x-tablet": "7%",
+            "y-tablet": "0%",
+            "width-mobile": "90%",
+            "x-mobile": "7%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "vessel",
+          "asset": "images/chocolate-history/01-origins/ceramic-bowl.png",
+          "width": 579,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/ceramic-bowl-300.png",
+              "width": 290
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/ceramic-bowl.png",
+              "width": 579
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "34%",
+            "x": "0%",
+            "y": "75%",
+            "rotation": "-5deg",
+            "z": 3,
+            "width-tablet": "34%",
+            "x-tablet": "0%",
+            "y-tablet": "75%",
+            "width-mobile": "34%",
+            "x-mobile": "0%",
+            "y-mobile": "75%"
+          }
+        },
+        {
+          "role": "beans",
+          "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+          "width": 392,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans-200.png",
+              "width": 196
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+              "width": 392
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "32%",
+            "x": "64%",
+            "y": "75%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "64%",
+            "y-tablet": "75%",
+            "width-mobile": "32%",
+            "x-mobile": "64%",
+            "y-mobile": "75%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "03-europe",
+      "side": "left",
+      "era": "1500s",
+      "location": "From the Americas to Europe",
+      "title": "Chocolate Comes to Europe",
+      "caption": "Spanish travellers brought cacao to Europe in the 1500s. Over time, drinking chocolate became a rare and fashionable luxury among royalty and the elite. Adapted with sugar and spices, it introduced European drinkers to a taste already deeply rooted in Mesoamerican life.",
+      "source": "https://www.alimentarium.org/en/fact-sheet/chocolate-europe",
+      "source_label": "Explore chocolate in Europe",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/03-europe/sailing-ship.png",
+          "width": 1254,
+          "height": 1254,
+          "decorative": false,
+          "alt": "Illustration of a wooden sailing ship with cream sails and detailed rigging.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/03-europe/sailing-ship-640.png",
+              "width": 640
+            },
+            {
+              "asset": "images/chocolate-history/03-europe/sailing-ship.png",
+              "width": 1254
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "93%",
+            "x": "6%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "93%",
+            "x-tablet": "6%",
+            "y-tablet": "0%",
+            "width-mobile": "93%",
+            "x-mobile": "6%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "sack",
+          "asset": "images/chocolate-history/03-europe/cacao-sack.png",
+          "width": 599,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/03-europe/cacao-sack-300.png",
+              "width": 299
+            },
+            {
+              "asset": "images/chocolate-history/03-europe/cacao-sack.png",
+              "width": 599
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "38%",
+            "x": "0%",
+            "y": "65%",
+            "rotation": "-6deg",
+            "z": 3,
+            "width-tablet": "38%",
+            "x-tablet": "0%",
+            "y-tablet": "65%",
+            "width-mobile": "38%",
+            "x-mobile": "0%",
+            "y-mobile": "65%"
+          }
+        },
+        {
+          "role": "beans",
+          "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+          "width": 392,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans-200.png",
+              "width": 196
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+              "width": 392
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "26%",
+            "x": "68%",
+            "y": "79%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "26%",
+            "x-tablet": "68%",
+            "y-tablet": "79%",
+            "width-mobile": "26%",
+            "x-mobile": "68%",
+            "y-mobile": "79%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "04-taste-spreads",
+      "side": "right",
+      "era": "1600s\u20131700s",
+      "location": "European courts and chocolate houses",
+      "title": "A Taste Spreads",
+      "caption": "Chocolate houses opened across Europe, and drinking chocolate gained popularity in royal courts and aristocratic circles. Expanding trade carried cacao to more people and places, while chocolate pots, porcelain cups and new recipes made enjoying the drink an art of its own.",
+      "source": "https://www.hrp.org.uk/hampton-court-palace/history-and-stories/chocolate-fit-for-a-king/",
+      "source_label": "Explore the chocolate kitchens",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/04-taste-spreads/chocolate-at-court.png",
+          "width": 1254,
+          "height": 1242,
+          "decorative": false,
+          "alt": "Illustration of a seated woman in European court dress drinking chocolate from a porcelain cup.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/chocolate-at-court-640.png",
+              "width": 640
+            },
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/chocolate-at-court.png",
+              "width": 1254
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "92%",
+            "x": "5%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "92%",
+            "x-tablet": "5%",
+            "y-tablet": "0%",
+            "width-mobile": "92%",
+            "x-mobile": "5%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "service",
+          "asset": "images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup.png",
+          "width": 585,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup-300.png",
+              "width": 293
+            },
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup.png",
+              "width": 585
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "35%",
+            "x": "0%",
+            "y": "65%",
+            "rotation": "-4deg",
+            "z": 3,
+            "width-tablet": "35%",
+            "x-tablet": "0%",
+            "y-tablet": "65%",
+            "width-mobile": "35%",
+            "x-mobile": "0%",
+            "y-mobile": "65%"
+          }
+        },
+        {
+          "role": "spices",
+          "asset": "images/chocolate-history/04-taste-spreads/cacao-and-spices.png",
+          "width": 396,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/cacao-and-spices-200.png",
+              "width": 198
+            },
+            {
+              "asset": "images/chocolate-history/04-taste-spreads/cacao-and-spices.png",
+              "width": 396
+            }
+          ],
+          "sizes": "(min-width: 1500px) 270px, (min-width: 1051px) 20vw, (min-width: 701px) 18vw, 34vw",
+          "placement": {
+            "width": "32%",
+            "x": "64%",
+            "y": "70%",
+            "rotation": "10deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "64%",
+            "y-tablet": "70%",
+            "width-mobile": "32%",
+            "x-mobile": "64%",
+            "y-mobile": "70%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "05-industry",
+      "side": "left",
+      "era": "1800s",
+      "location": "Factories and new technology",
+      "title": "The Industrial Revolution",
+      "caption": "New machines, improved processing and larger factories transformed chocolate production. Alongside drinking chocolate, solid bars and other confections reached a wider audience. These nineteenth-century advances made chocolate more accessible and helped establish the modern chocolate industry, changing how cacao was processed and enjoyed.",
+      "source": "https://www.lindt-spruengli.com/company/history/",
+      "source_label": "Explore chocolate-making innovations",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/05-industry/industrial-cacao-mill.png",
+          "width": 1248,
+          "height": 1254,
+          "decorative": false,
+          "alt": "Illustration of a copper-and-iron cacao mill with beans in its hopper.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/05-industry/industrial-cacao-mill-640.png",
+              "width": 637
+            },
+            {
+              "asset": "images/chocolate-history/05-industry/industrial-cacao-mill.png",
+              "width": 1248
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "90%",
+            "x": "7%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "90%",
+            "x-tablet": "7%",
+            "y-tablet": "0%",
+            "width-mobile": "90%",
+            "x-mobile": "7%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "bar",
+          "asset": "images/chocolate-history/shared/segmented-chocolate-bar.png",
+          "width": 600,
+          "height": 594,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/shared/segmented-chocolate-bar-300.png",
+              "width": 300
+            },
+            {
+              "asset": "images/chocolate-history/shared/segmented-chocolate-bar.png",
+              "width": 600
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "41%",
+            "x": "0%",
+            "y": "66%",
+            "rotation": "-7deg",
+            "z": 3,
+            "width-tablet": "41%",
+            "x-tablet": "0%",
+            "y-tablet": "66%",
+            "width-mobile": "41%",
+            "x-mobile": "0%",
+            "y-mobile": "66%"
+          }
+        },
+        {
+          "role": "beans",
+          "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+          "width": 392,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans-200.png",
+              "width": 196
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+              "width": 392
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "30%",
+            "x": "65%",
+            "y": "76%",
+            "rotation": "10deg",
+            "z": 4,
+            "width-tablet": "30%",
+            "x-tablet": "65%",
+            "y-tablet": "76%",
+            "width-mobile": "30%",
+            "x-mobile": "65%",
+            "y-mobile": "76%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "06-innovation",
+      "side": "right",
+      "era": "1900s",
+      "location": "New recipes, familiar names",
+      "title": "Innovation and Iconic Brands",
+      "caption": "Advances in processing, new recipes and familiar brands brought chocolate to more households. Cadbury, Hershey and Nestl\u00e9 helped shape a growing market for bars and confections, while advertising and new packaging made chocolate increasingly recognizable in shops and homes.",
+      "source": "https://www.cadbury.co.uk/about/history/timeline/",
+      "source_label": "Explore a chocolate brand timeline",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/06-innovation/chocolate-packaging.png",
+          "width": 1249,
+          "height": 1236,
+          "decorative": false,
+          "alt": "Illustration of a chocolate assortment box and unbranded wrapped chocolate bars.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/06-innovation/chocolate-packaging-640.png",
+              "width": 640
+            },
+            {
+              "asset": "images/chocolate-history/06-innovation/chocolate-packaging.png",
+              "width": 1249
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "90%",
+            "x": "7%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "90%",
+            "x-tablet": "7%",
+            "y-tablet": "0%",
+            "width-mobile": "90%",
+            "x-mobile": "7%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "bar",
+          "asset": "images/chocolate-history/shared/segmented-chocolate-bar.png",
+          "width": 600,
+          "height": 594,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/shared/segmented-chocolate-bar-300.png",
+              "width": 300
+            },
+            {
+              "asset": "images/chocolate-history/shared/segmented-chocolate-bar.png",
+              "width": 600
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "43%",
+            "x": "0%",
+            "y": "68%",
+            "rotation": "-5deg",
+            "z": 3,
+            "width-tablet": "43%",
+            "x-tablet": "0%",
+            "y-tablet": "68%",
+            "width-mobile": "43%",
+            "x-mobile": "0%",
+            "y-mobile": "68%"
+          }
+        },
+        {
+          "role": "truffles",
+          "asset": "images/chocolate-history/shared/assorted-truffles.png",
+          "width": 600,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/shared/assorted-truffles-300.png",
+              "width": 300
+            },
+            {
+              "asset": "images/chocolate-history/shared/assorted-truffles.png",
+              "width": 600
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "32%",
+            "x": "65%",
+            "y": "71%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "65%",
+            "y-tablet": "71%",
+            "width-mobile": "32%",
+            "x-mobile": "65%",
+            "y-mobile": "71%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "07-global",
+      "side": "left",
+      "era": "Mid 1900s",
+      "location": "Chocolate around the world",
+      "title": "A Global Obsession",
+      "caption": "By the mid-1900s, chocolate was part of everyday life and celebration in many countries. Expanding distribution brought familiar brands to new markets, while local tastes shaped different flavors and confections. Chocolate\u2019s global story grew through both large manufacturers and the traditions of local makers.",
+      "source": "https://www.lindt-spruengli.com/company/history/",
+      "source_label": "Explore chocolate\u2019s global growth",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/07-global/decorative-globe.png",
+          "width": 1201,
+          "height": 1248,
+          "decorative": false,
+          "alt": "Illustration of a decorative globe with gold landforms on a dark blue sphere.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/07-global/decorative-globe-640.png",
+              "width": 616
+            },
+            {
+              "asset": "images/chocolate-history/07-global/decorative-globe.png",
+              "width": 1201
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "85%",
+            "x": "10%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "85%",
+            "x-tablet": "10%",
+            "y-tablet": "0%",
+            "width-mobile": "85%",
+            "x-mobile": "10%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "botanical",
+          "asset": "images/chocolate-history/01-origins/cacao-pods-and-leaves.png",
+          "width": 1254,
+          "height": 1254,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-pods-and-leaves-640.png",
+              "width": 640
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-pods-and-leaves.png",
+              "width": 1254
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "35%",
+            "x": "0%",
+            "y": "61%",
+            "rotation": "-8deg",
+            "z": 3,
+            "width-tablet": "35%",
+            "x-tablet": "0%",
+            "y-tablet": "61%",
+            "width-mobile": "35%",
+            "x-mobile": "0%",
+            "y-mobile": "61%"
+          }
+        },
+        {
+          "role": "truffles",
+          "asset": "images/chocolate-history/shared/assorted-truffles.png",
+          "width": 600,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/shared/assorted-truffles-300.png",
+              "width": 300
+            },
+            {
+              "asset": "images/chocolate-history/shared/assorted-truffles.png",
+              "width": 600
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "32%",
+            "x": "65%",
+            "y": "72%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "32%",
+            "x-tablet": "65%",
+            "y-tablet": "72%",
+            "width-mobile": "32%",
+            "x-mobile": "65%",
+            "y-mobile": "72%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "08-craft",
+      "side": "right",
+      "era": "Late 1900s",
+      "location": "Origin, flavor and craftsmanship",
+      "title": "Craft and Fine Chocolate",
+      "caption": "A renewed focus on quality, cacao origin and craftsmanship brought fresh attention to fine chocolate. Single-origin bars and the growing bean-to-bar movement encouraged makers to explore distinctive flavors. Artisan chocolatiers continued to push the possibilities of technique, texture and design, treating chocolate as both food and creative material.",
+      "source": "https://www.valrhona.us/about-valrhona/our-values/100-years-of-history",
+      "source_label": "Explore fine chocolate and craft",
+      "scene": {
+        "ratio": "1 / 1.2",
+        "ratio-tablet": "1 / 1.2",
+        "ratio-mobile": "1 / 1.2"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/08-craft/chocolatier-at-work.png",
+          "width": 1219,
+          "height": 1241,
+          "decorative": false,
+          "alt": "Illustration of a chocolatier dipping chocolates at a wooden worktable.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/08-craft/chocolatier-at-work-640.png",
+              "width": 629
+            },
+            {
+              "asset": "images/chocolate-history/08-craft/chocolatier-at-work.png",
+              "width": 1219
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "92%",
+            "x": "4%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "92%",
+            "x-tablet": "4%",
+            "y-tablet": "0%",
+            "width-mobile": "92%",
+            "x-mobile": "4%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "bar",
+          "asset": "images/chocolate-history/shared/segmented-chocolate-bar.png",
+          "width": 600,
+          "height": 594,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/shared/segmented-chocolate-bar-300.png",
+              "width": 300
+            },
+            {
+              "asset": "images/chocolate-history/shared/segmented-chocolate-bar.png",
+              "width": 600
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "40%",
+            "x": "0%",
+            "y": "68%",
+            "rotation": "-6deg",
+            "z": 3,
+            "width-tablet": "40%",
+            "x-tablet": "0%",
+            "y-tablet": "68%",
+            "width-mobile": "40%",
+            "x-mobile": "0%",
+            "y-mobile": "68%"
+          }
+        },
+        {
+          "role": "truffles",
+          "asset": "images/chocolate-history/shared/assorted-truffles.png",
+          "width": 600,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/shared/assorted-truffles-300.png",
+              "width": 300
+            },
+            {
+              "asset": "images/chocolate-history/shared/assorted-truffles.png",
+              "width": 600
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "31%",
+            "x": "66%",
+            "y": "75%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "31%",
+            "x-tablet": "66%",
+            "y-tablet": "75%",
+            "width-mobile": "31%",
+            "x-mobile": "66%",
+            "y-mobile": "75%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "09-growing",
+      "side": "left",
+      "era": "2000s",
+      "location": "Cacao communities and ecosystems",
+      "title": "Sustainability and Impact",
+      "caption": "Growing attention to ethical sourcing, farmer livelihoods and environmental stewardship has reshaped chocolate\u2019s story. Certification, traceability and direct trading relationships aim to improve accountability across the cocoa supply chain. Supporting cacao-growing communities and protecting tropical ecosystems remain essential challenges for the industry.",
+      "source": "https://worldcocoafoundation.org/our-approach/sustainability-standards-and-regulatory-assurance",
+      "source_label": "Explore cocoa sustainability",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/09-growing/fruiting-cacao-tree.png",
+          "width": 1248,
+          "height": 1252,
+          "decorative": false,
+          "alt": "Illustration of a cacao tree with green leaves and ripe red and yellow pods.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/09-growing/fruiting-cacao-tree-640.png",
+              "width": 638
+            },
+            {
+              "asset": "images/chocolate-history/09-growing/fruiting-cacao-tree.png",
+              "width": 1248
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "91%",
+            "x": "6%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "91%",
+            "x-tablet": "6%",
+            "y-tablet": "0%",
+            "width-mobile": "91%",
+            "x-mobile": "6%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "seedling",
+          "asset": "images/chocolate-history/09-growing/cacao-seedling.png",
+          "width": 399,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/09-growing/cacao-seedling-200.png",
+              "width": 200
+            },
+            {
+              "asset": "images/chocolate-history/09-growing/cacao-seedling.png",
+              "width": 399
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "31%",
+            "x": "0%",
+            "y": "67%",
+            "rotation": "-7deg",
+            "z": 3,
+            "width-tablet": "31%",
+            "x-tablet": "0%",
+            "y-tablet": "67%",
+            "width-mobile": "31%",
+            "x-mobile": "0%",
+            "y-mobile": "67%"
+          }
+        },
+        {
+          "role": "beans",
+          "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+          "width": 392,
+          "height": 400,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans-200.png",
+              "width": 196
+            },
+            {
+              "asset": "images/chocolate-history/01-origins/cacao-beans.png",
+              "width": 392
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "30%",
+            "x": "65%",
+            "y": "77%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "30%",
+            "x-tablet": "65%",
+            "y-tablet": "77%",
+            "width-mobile": "30%",
+            "x-mobile": "65%",
+            "y-mobile": "77%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "10-today",
+      "side": "right",
+      "era": "Today & Tomorrow",
+      "location": "Creativity and the future of chocolate",
+      "title": "A Sweeter Tomorrow",
+      "caption": "Chocolate continues to evolve through new flavors, ingredient choices and creative applications. Sustainability, fairness and traceability remain central challenges for its future. From everyday bars to sculpted showpieces, chocolate offers room for craft, imagination and shared enjoyment in a more connected world.",
+      "source": "https://worldcocoafoundation.org/programmes-and-initiatives/traceability-strategy",
+      "source_label": "Explore cocoa traceability",
+      "scene": {
+        "ratio": "1 / 1.12",
+        "ratio-tablet": "1 / 1.12",
+        "ratio-mobile": "1 / 1.12"
+      },
+      "layers": [
+        {
+          "role": "main",
+          "asset": "images/chocolate-history/10-today/chocolate-sculpture.png",
+          "width": 1179,
+          "height": 1231,
+          "decorative": false,
+          "alt": "Illustration of an abstract ribbon sculpture made from chocolate.",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/10-today/chocolate-sculpture-640.png",
+              "width": 613
+            },
+            {
+              "asset": "images/chocolate-history/10-today/chocolate-sculpture.png",
+              "width": 1179
+            }
+          ],
+          "sizes": "(min-width: 1500px) 620px, (min-width: 1051px) 44vw, (min-width: 701px) 42vw, 80vw",
+          "placement": {
+            "width": "83%",
+            "x": "10%",
+            "y": "0%",
+            "rotation": "0deg",
+            "z": 1,
+            "width-tablet": "83%",
+            "x-tablet": "10%",
+            "y-tablet": "0%",
+            "width-mobile": "83%",
+            "x-mobile": "10%",
+            "y-mobile": "0%"
+          }
+        },
+        {
+          "role": "bar",
+          "asset": "images/chocolate-history/shared/segmented-chocolate-bar.png",
+          "width": 600,
+          "height": 594,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/shared/segmented-chocolate-bar-300.png",
+              "width": 300
+            },
+            {
+              "asset": "images/chocolate-history/shared/segmented-chocolate-bar.png",
+              "width": 600
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "40%",
+            "x": "0%",
+            "y": "69%",
+            "rotation": "-5deg",
+            "z": 3,
+            "width-tablet": "40%",
+            "x-tablet": "0%",
+            "y-tablet": "69%",
+            "width-mobile": "40%",
+            "x-mobile": "0%",
+            "y-mobile": "69%"
+          }
+        },
+        {
+          "role": "truffles",
+          "asset": "images/chocolate-history/shared/assorted-truffles.png",
+          "width": 600,
+          "height": 600,
+          "decorative": true,
+          "alt": "",
+          "variants": [
+            {
+              "asset": "images/chocolate-history/shared/assorted-truffles-300.png",
+              "width": 300
+            },
+            {
+              "asset": "images/chocolate-history/shared/assorted-truffles.png",
+              "width": 600
+            }
+          ],
+          "sizes": "(min-width: 1500px) 280px, (min-width: 1051px) 21vw, (min-width: 701px) 19vw, 36vw",
+          "placement": {
+            "width": "34%",
+            "x": "63%",
+            "y": "71%",
+            "rotation": "8deg",
+            "z": 4,
+            "width-tablet": "34%",
+            "x-tablet": "63%",
+            "y-tablet": "71%",
+            "width-mobile": "34%",
+            "x-mobile": "63%",
+            "y-mobile": "71%"
+          }
+        }
+      ]
+    }
+  ]
+}

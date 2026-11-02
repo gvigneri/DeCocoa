@@ -1,0 +1,319 @@
+Built 18 local pages from shared templates and content. Original artwork unchanged.
+Built 18 local pages from shared templates and content. Original artwork unchanged.
+{
+  "scope": "Static implementation checks only; browser interaction and visual checks separate.",
+  "pages": [
+    {
+      "route": "/",
+      "file": "prototype/index.html",
+      "title": "Experience. Chocolate. | DeCocoa",
+      "ids": 363,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 2,
+      "paired_headings": 8,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 10,
+        "h3": 9,
+        "h4": 3
+      }
+    },
+    {
+      "route": "/products/",
+      "file": "prototype/products/index.html",
+      "title": "Our Chocolate | DeCocoa",
+      "ids": 30,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 1,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 10,
+        "h3": 8
+      }
+    },
+    {
+      "route": "/products/filled-chocolate/",
+      "file": "prototype/products/filled-chocolate/index.html",
+      "title": "Filled Chocolate | DeCocoa",
+      "ids": 14,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 2,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 4,
+        "h3": 2
+      }
+    },
+    {
+      "route": "/products/chocolate-bar/",
+      "file": "prototype/products/chocolate-bar/index.html",
+      "title": "Chocolate Bar | DeCocoa",
+      "ids": 14,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 2,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 4,
+        "h3": 2
+      }
+    },
+    {
+      "route": "/products/chocolate-drizzle/",
+      "file": "prototype/products/chocolate-drizzle/index.html",
+      "title": "Chocolate Drizzle | DeCocoa",
+      "ids": 14,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 2,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 4,
+        "h3": 2
+      }
+    },
+    {
+      "route": "/our-people/",
+      "file": "prototype/our-people/index.html",
+      "title": "Our People | DeCocoa",
+      "ids": 26,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 0,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 7,
+        "h3": 8
+      }
+    },
+    {
+      "route": "/our-craft/",
+      "file": "prototype/our-craft/index.html",
+      "title": "Our Craft | DeCocoa",
+      "ids": 26,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 1,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 8,
+        "h3": 5
+      }
+    },
+    {
+      "route": "/experience-center/",
+      "file": "prototype/experience-center/index.html",
+      "title": "Experience Center | DeCocoa",
+      "ids": 32,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 2,
+      "paired_headings": 2,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 6,
+        "h3": 11
+      }
+    },
+    {
+      "route": "/gifting/",
+      "file": "prototype/gifting/index.html",
+      "title": "Chocolate Gifting | DeCocoa",
+      "ids": 19,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 1,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 6
+      }
+    },
+    {
+      "route": "/craft-your-own/",
+      "file": "prototype/craft-your-own/index.html",
+      "title": "Craft Your Own Chocolate | DeCocoa",
+      "ids": 21,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 1,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 6
+      }
+    },
+    {
+      "route": "/fundraising/",
+      "file": "prototype/fundraising/index.html",
+      "title": "Chocolate Fundraising | DeCocoa",
+      "ids": 19,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 1,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 6
+      }
+    },
+    {
+      "route": "/wholesale/",
+      "file": "prototype/wholesale/index.html",
+      "title": "Wholesale Chocolate | DeCocoa",
+      "ids": 19,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 1,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 6
+      }
+    },
+    {
+      "route": "/b2b/",
+      "file": "prototype/b2b/index.html",
+      "title": "B2B Chocolate Projects | DeCocoa",
+      "ids": 19,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 1,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 6
+      }
+    },
+    {
+      "route": "/lets-talk/",
+      "file": "prototype/lets-talk/index.html",
+      "title": "Let&#x27;s Talk | DeCocoa",
+      "ids": 23,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 2,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 4
+      }
+    },
+    {
+      "route": "/privacy-policy/",
+      "file": "prototype/privacy-policy/index.html",
+      "title": "Privacy Policy | DeCocoa",
+      "ids": 13,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 0,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 3
+      }
+    },
+    {
+      "route": "/terms-and-conditions/",
+      "file": "prototype/terms-and-conditions/index.html",
+      "title": "Terms and Conditions | DeCocoa",
+      "ids": 13,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 0,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 3
+      }
+    },
+    {
+      "route": "/accessibility/",
+      "file": "prototype/accessibility/index.html",
+      "title": "Accessibility | DeCocoa",
+      "ids": 13,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 0,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 3
+      }
+    },
+    {
+      "route": "/404.html",
+      "file": "prototype/404.html",
+      "title": "Page Not Found | DeCocoa",
+      "ids": 13,
+      "headers_match": true,
+      "main": 1,
+      "h1": 1,
+      "footer": 1,
+      "scripts": 1,
+      "paired_headings": 1,
+      "heading_ranks": {
+        "h1": 1,
+        "h2": 3
+      }
+    }
+  ],
+  "category_order": [
+    "Wellness",
+    "One Shot Depositing",
+    "Hollow Moulding",
+    "Mixing",
+    "Dry Filling"
+  ],
+  "category_cards": 5,
+  "discovery_cards": 3,
+  "local_references_checked": 1428,
+  "protected_baseline_files_checked": 57,
+  "shared_header_footer_propagation": "pass",
+  "shared_inquiry_propagation": "pass",
+  "deterministic_rebuild": "pass",
+  "errors": []
+}

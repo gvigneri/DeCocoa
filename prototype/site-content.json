@@ -156,8 +156,8 @@
       "route": "our-people/",
       "title": "Our People",
       "eyebrow": "Our People",
-      "heading": "The heart behind the chocolate.",
-      "intro": "Our story begins with the Vigneri family and a Sicilian patisserie. That love of confection is part of the DeCocoa story.",
+      "heading": "Our People",
+      "intro": "We are committed to investing in our people and strengthening our community.",
       "image": "people-at-work.webp",
       "width": 1229,
       "height": 697,
@@ -165,10 +165,11 @@
       "sections": [
         {
           "id": "our-roots",
-          "title": "Our Roots",
+          "title": "OUR ROOTS",
           "paragraphs": [
-            "Our story begins in the cobblestoned streets of a Sicilian patisserie, where the Vigneri family first fell in love with the art of confection.",
-            "In the scent of warm pastries and the flicker of old ovens, a legacy of sweetness began to rise. Tradition, dreams and a devotion to the craft are part of that story."
+            "Our story begins in the cobble stoned streets of a Sicilian patisserie, where the Vigneri family first fell in love with the art of confection.",
+            "In the scent of warm pastries and the flicker of old ovens, a legacy of sweetness began to rise.",
+            "With hands guided by tradition and hearts full of dreams, the Vigneri name became known for its devotion to the craft."
           ],
           "aliases": [
             "story",
@@ -182,21 +183,19 @@
             "pillars",
             "principals"
           ],
-          "paragraphs": [
-            "Our vision, mission and focus bring people, craft and care together. They describe the direction behind our chocolate and the experiences we want to create."
-          ],
+          "paragraphs": [],
           "items": [
             {
-              "title": "Vision",
-              "text": "A chocolate brand shaped by craftsmanship, creativity and care, with responsible sourcing and a farmers-first future as aspirations."
+              "title": "VISION",
+              "text": "Our vision is to be an industry leading chocolate brand known for craftsmanship, creativity, and care while building a farmers-first, sustainable future through ethical sourcing and responsible practices."
             },
             {
-              "title": "Mission",
-              "text": "To craft chocolate with care and create memorable chocolate experiences."
+              "title": "FOCUS",
+              "text": "Our focus is to combine passionate people, innovative craft, and sustainable practices to create chocolate with purpose and care."
             },
             {
-              "title": "Focus",
-              "text": "To bring passionate people, innovative craft and sustainable practices together in chocolate with purpose."
+              "title": "MISSION",
+              "text": "We passionately handcraft the highest-quality chocolates and deliver the sweetest, most memorable experiences to our customers."
             }
           ]
         },
@@ -204,11 +203,32 @@
           "id": "our-values",
           "title": "Our Values",
           "paragraphs": [
-            "Integrity. Ingredients. Innovation. Invest. Inspire. These are the values named in our story, and the ingredients we bring to our work.",
-            "Meet the craft behind the chocolate, then tell us what brings you to DeCocoa."
+            "Our values are the key ingredients in our chocolate and in everything we do:"
           ],
           "aliases": [
             "values"
+          ],
+          "items": [
+            {
+              "title": "Integrity",
+              "text": "We stand by our promise of quality, care, and food safety in every step."
+            },
+            {
+              "title": "Inspire",
+              "text": "We bring passion to our craft and encourage fresh ideas every day."
+            },
+            {
+              "title": "Ingredients",
+              "text": "We choose the purest, most sustainable ingredients to create with purpose."
+            },
+            {
+              "title": "Innovation",
+              "text": "We think ahead and push boundaries to craft the future."
+            },
+            {
+              "title": "Invest",
+              "text": "We grow by investing in our people, our partners, and our community."
+            }
           ]
         },
         {
@@ -223,14 +243,20 @@
       ],
       "cta": "Explore Our Craft",
       "cta_route": "our-craft/",
-      "source": "Wireframe p.3; existing homepage draft. History, location and community statements require final factual approval."
+      "source": "User-provided exact copy, November 1, 2026; original photo, Sweet Careers and existing actions retained.",
+      "intro_paragraphs": [
+        "We are committed to investing in our people and strengthening our community.",
+        "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+      ],
+      "simple_heading": true,
+      "section_nav_top": true
     },
     {
       "route": "our-craft/",
       "title": "Our Craft",
       "eyebrow": "Our Craft",
-      "heading": "Curiosity in the making.",
-      "intro": "We bring people, tradition and technology together to explore chocolate with purpose and care.",
+      "heading": "Our Craft",
+      "intro": "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
       "image": "chocolate-craft.webp",
       "width": 931,
       "height": 696,
@@ -243,86 +269,96 @@
             "approach"
           ],
           "paragraphs": [
-            "Care, creativity and integrity guide our chocolate craft. Our promise begins with attention to the craft and the people behind it.",
-            "Quality and food safety are central to the way we want to work, from a first idea to a finished chocolate."
-          ]
+            "We promise to craft every chocolate with care, creativity, and integrity.",
+            "We always meet the highest standards of quality and food safety so you can taste and trust every bite."
+          ],
+          "items": [],
+          "bullets": []
         },
         {
           "id": "focus",
           "title": "Focus",
           "paragraphs": [
-            "Our focus brings passionate people, innovative craft and sustainable practices together to create chocolate with purpose and care.",
-            "Discover how ingredients, processes and shapes connect a chocolate idea with the craft behind it."
+            "At DeCocoa Chocolate Crafters, our focus is to combine passionate people, innovative craft, and sustainable practices to create chocolate with purpose and care."
           ],
-          "items": [
-            {
-              "title": "Mixing",
-              "text": "Where the ingredients come together."
-            },
-            {
-              "title": "One Shot Depositing",
-              "text": "A closer look at the filled chocolate process."
-            },
-            {
-              "title": "Hollow Moulding",
-              "text": "Exploring chocolate through shape and form."
-            }
-          ],
+          "items": [],
           "aliases": [
             "capabilities"
-          ]
+          ],
+          "bullets": []
         },
         {
           "id": "sustainability",
           "title": "Sustainability",
           "paragraphs": [
-            "Responsible sourcing and thoughtful packaging are part of our sustainability aspirations. We consider the people and resources involved in making chocolate as we look toward continuous improvement.",
-            "Ask about the sourcing and packaging considerations that matter to your project."
-          ]
+            "We are committed to making chocolate that’s better for people and the planet. From responsible sourcing to eco-friendly packaging, we craft our chocolate using 100% sustainable power harnessed from the mighty energy of The Niagara Falls, leaving a lighter footprint on our Planet Earth."
+          ],
+          "items": [],
+          "bullets": [],
+          "pending_media": "Video of Alex"
         },
         {
           "id": "food-safety",
           "title": "Food Safety",
           "paragraphs": [
-            "Our approach to food safety emphasizes care, communication, ongoing training and continuous improvement. These priorities connect our people with the quality of the chocolate we want to create.",
-            "Tell us which product you are considering and the ingredient, handling or food safety questions you would like to discuss."
+            "We are committed to producing safe, high-quality, and authentic products that meet or exceed customer expectations.",
+            "We ensure:"
           ],
           "topic": "Our craft",
-          "cta": "Ask About Food Safety"
+          "cta": "Ask About Food Safety",
+          "items": [],
+          "bullets": [
+            "Full compliance with all food safety laws and regulations, including adherence to the highest level of SQF food safety quality standards",
+            "Clear communication with employees, partners, suppliers, customers, and regulators",
+            "Ongoing training to empower our team and strengthen our Food Safety Culture",
+            "Continuous improvement in our processes, products, and services"
+          ]
         },
         {
           "id": "our-segments",
           "title": "Our Segments",
           "items": [
             {
-              "title": "DeCocoa Decor",
-              "text": "Chocolate décor for professionals, with detail and finish at the center of the idea."
+              "title": "Process & Capabilities",
+              "text": "Based in Rochester, New York a historic center of food manufacturing and innovation, our factory continues a legacy of ingenuity, craftsmanship, and making things with purpose.",
+              "pending_media": "Download PDF"
             },
             {
-              "title": "Food & gourmet fulfillment",
-              "text": "Food and gourmet fulfillment is another part of the DeCocoa conversation. Ask how it relates to your project."
+              "title": "DeCocoa DeCOR",
+              "text": "Created by professionals, for professionals, DeCocoa Decor™ delivers innovative, customizable chocolate décor with refined detail and luxurious finish.",
+              "pending_media": "Download PDF"
+            },
+            {
+              "title": "Fulfillment You Can Trust",
+              "text": "Fulfillment matters, especially for food. Perishable products demand speed, care, and precision. We specialize in food and gourmet fulfillment.",
+              "pending_media": "Download PDF"
             }
           ],
-          "paragraphs": [
-            "Explore chocolate for your business and choose a starting point for your inquiry."
-          ],
+          "paragraphs": [],
           "aliases": [
             "segments"
           ],
           "related_route": "b2b/",
-          "related_label": "Explore Chocolate for Business"
+          "related_label": "Explore Chocolate for Business",
+          "bullets": []
         }
       ],
       "cta": "Explore Chocolate for Business",
       "cta_route": "b2b/",
-      "source": "Wireframe pp.4–5. Sustainability and food safety are restrained draft aspirations; no energy, certification, regulatory or fulfillment performance claim."
+      "source": "Guy's supplied Our Craft copy, November 1, 2026; exact supplied copy, with standing brand spelling. Video/PDF notes are deferred non-rendered metadata.",
+      "intro_paragraphs": [
+        "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
+        "From sourcing to production, we uphold the highest standards of quality, sustainability, and continuous improvement."
+      ],
+      "simple_heading": true,
+      "section_nav_top": true
     },
     {
       "route": "experience-center/",
       "title": "Experience Center",
       "eyebrow": "Experience Center",
-      "heading": "Come curious. Think chocolate.",
-      "intro": "Discover another side of chocolate, from the art of the chocolatier to the story of how chocolate is made.",
+      "heading": "Experience Center",
+      "intro": "Visit our Craft your own Chocolate Bar and experience a world of chocolate.",
       "mask": true,
       "image": "filled-chocolate.webp",
       "width": 872,
@@ -330,35 +366,62 @@
       "alt": "Chocolate pieces framed by the DeCocoa flower shape",
       "sections": [
         {
-          "id": "how-its-made",
-          "title": "How It’s Made",
+          "id": "experience-overview",
+          "title": "Experience Center",
           "paragraphs": [
-            "Follow the story of chocolate from cacao to the finished confection. The Experience Center offers a starting point for exploring the ingredients, stages and craft behind chocolate.",
-            "Discover the processes on our craft page, then ask about the chocolate-making experience that interests you.",
-            "Explore the idea of crafting your own chocolate bar and building a gift box. Let curiosity guide the shapes, finishes and chocolate ideas you would like to discuss.",
-            "Ask about Craft Your Own to find out more before planning a visit."
-          ],
+            "Experience our virtual self guided exhibition to learn interesting facts about the History of Chocolate and how it is made.",
+            "Be sure to experience our Green Screen Photo Room and choose a selection of backdrops to choose from."
+          ]
+        },
+        {
+          "id": "how-its-made",
+          "title": "How its Made",
+          "paragraphs": [],
           "aliases": [
             "craft-your-own"
           ],
           "related_links": [
             {
               "route": "our-craft/",
-              "label": "Explore Our Craft"
+              "label": "Explore Our Craft",
+              "style": "primary"
+            }
+          ],
+          "ordered_steps": [
+            {
+              "title": "Picking",
+              "text": "Ripe cocoa pods are cut by hand. Only ready pods are chosen. The tree is protected."
             },
             {
-              "route": "craft-your-own/",
-              "label": "Explore Craft Your Own"
+              "title": "Harversting",
+              "text": "Pods are gathered and carried from the field. Freshness matters. Flavor starts now."
+            },
+            {
+              "title": "Fermentation",
+              "text": "Beans are removed and left to ferment. Heat builds. Flavor develops."
+            },
+            {
+              "title": "Drying",
+              "text": "Beans dry in the sun. Moisture fades. The flavor settles."
+            },
+            {
+              "title": "Roasting",
+              "text": "Heat unlocks cocoa flavor.Aromas deepen. Character forms."
+            },
+            {
+              "title": "Griding and Coaching",
+              "text": "Beans become chocolate. Time creates smooth texture. Flavor finds balance."
+            },
+            {
+              "title": "Tempering",
+              "text": "Chocolate is heated and cooled. It gains shine and snap. Ready to enjoy."
             }
           ]
         },
         {
           "id": "museum-virtual-exhibition",
           "title": "Museum & Virtual Exhibition",
-          "paragraphs": [
-            "The Experience Center brings the history of chocolate and how it is made into the story. The museum and virtual exhibition invite a closer look at that journey.",
-            "The Green Screen Photo Room is another part of the experience described in our story. Ask about the experience you have in mind."
-          ],
+          "paragraphs": [],
           "aliases": [
             "exhibition"
           ]
@@ -367,8 +430,7 @@
           "id": "tours-and-classes",
           "title": "Tours and Classes",
           "paragraphs": [
-            "Factory tours, chocolate crafting classes and tasting sessions are ways to explore the craft described in the Experience Center story.",
-            "Start with an inquiry about the activity that interests you. Ask about visit arrangements and details before making plans."
+            "Book for a Factory tour or Chocolate Crafting Classes & tasting sessions and let our Chocolate Crafters introduce you to the art of Chocolate Crafting."
           ],
           "aliases": [
             "tours"
@@ -377,7 +439,14 @@
       ],
       "cta": "Ask About the Experience Center",
       "cta_route": "lets-talk/?topic=Experience%20Center#inquiry",
-      "source": "Wireframe p.6 and homepage draft. No watermarked image, booking, opening date, hours, address, price or availability promise."
+      "source": "Wireframe p.6 and homepage draft. No watermarked image, booking, opening date, hours, address, price or availability promise.",
+      "intro_paragraphs": [
+        "Visit our Craft your own Chocolate Bar and experience a world of chocolate.",
+        "Let our Chocolate Crafters introduce you to the art of the chocolatier.",
+        "Be sure to craft your own chocolate bar and build your own Gift Box."
+      ],
+      "simple_heading": true,
+      "section_nav_top": true
     }
   ],
   "chocolate_intro": {
@@ -444,23 +513,25 @@
   ],
   "discovery_cards": [
     {
-      "title": "Gifting",
-      "text": "Explore chocolate gifting ideas for celebrations, thank-yous and gifts for your team.",
-      "route": "gifting/",
-      "icon": "gift"
-    },
-    {
-      "title": "Craft Your Own",
-      "text": "Start with a chocolate bar, basket or gift box and share the idea you want to create.",
-      "route": "craft-your-own/",
-      "icon": "wand-magic-sparkles"
-    },
-    {
-      "title": "For your business",
-      "text": "Start a conversation about chocolate for your business, from product ideas to wholesale questions.",
-      "route": "b2b/",
+      "title": "Partner Brands",
+      "text": "Discover the ingredient specialists and food brands connected to DeCocoa’s chocolate craft.",
+      "route": "#partners",
       "icon": "handshake",
-      "link_label": "Chocolate for Your Business"
+      "link_label": "Explore Partner Brands"
+    },
+    {
+      "title": "Decor",
+      "text": "Chocolate décor for professionals, with detail and finish at the center of the idea.",
+      "route": "our-craft/#our-segments",
+      "icon": "wand-magic-sparkles",
+      "link_label": "Explore Decor"
+    },
+    {
+      "title": "Fulfillment",
+      "text": "Explore food and gourmet fulfillment and how it relates to your project.",
+      "route": "our-craft/#our-segments",
+      "icon": "gears",
+      "link_label": "Explore Fulfillment"
     }
   ],
   "services": [
@@ -706,7 +777,7 @@
     "partners": {
       "eyebrow": "Connections & collaboration",
       "title": "Our Partners",
-      "intro": "Good chocolate brings people together. Discover the ingredient specialists and food brands connected to DeCOCOA’s chocolate craft.",
+      "intro": "Good chocolate brings people together. Discover the ingredient specialists and food brands connected to DeCocoa’s chocolate craft.",
       "marks": [
         {
           "image": "partner-puratos.png",
@@ -723,11 +794,18 @@
           "class": "wegmans"
         },
         {
-          "image": "partner-guittard.png",
-          "width": 540,
-          "height": 320,
-          "alt": "Guittard",
-          "class": "guittard"
+          "image": "partner-chocolate-com.png",
+          "width": 618,
+          "height": 96,
+          "alt": "Chocolate.com",
+          "class": "chocolate-com"
+        },
+        {
+          "image": "partner-blue-stripes.png",
+          "width": 640,
+          "height": 422,
+          "alt": "Blue Stripes",
+          "class": "blue-stripes"
         }
       ],
       "source": "Coordinator-approved local draft copy, October 25, 2026; logo source and fallback status in assets/trust-export-details.json. No relationship or certification verification added."
@@ -738,11 +816,18 @@
       "intro": "Quality, food safety and responsible sourcing guide our chocolate making. Explore the standards and programs behind our commitment to care.",
       "marks": [
         {
-          "image": "certification-ou-kosher.png",
-          "width": 654,
-          "height": 651,
-          "alt": "OU Kosher",
-          "class": "ou-kosher"
+          "image": "certification-cacao-trace.png",
+          "width": 640,
+          "height": 519,
+          "alt": "Cacao-Trace",
+          "class": "cacao-trace"
+        },
+        {
+          "image": "certification-rainforest-alliance.png",
+          "width": 640,
+          "height": 640,
+          "alt": "Rainforest Alliance People & Nature",
+          "class": "rainforest"
         },
         {
           "image": "certification-sqf.png",
@@ -759,18 +844,11 @@
           "class": "haccp"
         },
         {
-          "image": "certification-rainforest-alliance.png",
-          "width": 640,
-          "height": 640,
-          "alt": "Rainforest Alliance People & Nature",
-          "class": "rainforest"
-        },
-        {
-          "image": "certification-cacao-trace.png",
-          "width": 640,
-          "height": 519,
-          "alt": "Cacao-Trace",
-          "class": "cacao-trace"
+          "image": "certification-ou-dairy.png",
+          "width": 650,
+          "height": 450,
+          "alt": "OU Kosher Dairy (OU-D)",
+          "class": "ou-dairy"
         }
       ],
       "source": "Coordinator-approved local draft copy, October 25, 2026; logo source and fallback status in assets/trust-export-details.json. No relationship or certification verification added."

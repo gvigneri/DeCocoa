@@ -1,0 +1,301 @@
+{
+  "responsive": [
+    {
+      "background": "rgb(232, 121, 51)",
+      "bulletStyle": "disc",
+      "bullets": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#promise",
+          "label": "Promise",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#focus",
+          "label": "Focus",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#sustainability",
+          "label": "Sustainability",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#food-safety",
+          "label": "Food Safety",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#our-segments",
+          "label": "Our Segments",
+          "weight": "700"
+        }
+      ],
+      "cardBackground": "rgba(0, 0, 0, 0)",
+      "cardBorder": "0px",
+      "copyColor": "rgb(58, 23, 13)",
+      "ctaBorder": "rgb(58, 23, 13)",
+      "ctaColor": "rgb(58, 23, 13)",
+      "ctaInnerBorder": "rgb(58, 23, 13)",
+      "eyebrowColor": "rgb(58, 23, 13)",
+      "intro": [
+        "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
+        "From sourcing to production, we uphold the highest standards of quality, sustainability, and continuous improvement."
+      ],
+      "listTag": "UL",
+      "overflow": false,
+      "patternCount": 0,
+      "width": 1440
+    },
+    {
+      "background": "rgb(232, 121, 51)",
+      "bulletStyle": "disc",
+      "bullets": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#promise",
+          "label": "Promise",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#focus",
+          "label": "Focus",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#sustainability",
+          "label": "Sustainability",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#food-safety",
+          "label": "Food Safety",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#our-segments",
+          "label": "Our Segments",
+          "weight": "700"
+        }
+      ],
+      "cardBackground": "rgba(0, 0, 0, 0)",
+      "cardBorder": "0px",
+      "copyColor": "rgb(58, 23, 13)",
+      "ctaBorder": "rgb(58, 23, 13)",
+      "ctaColor": "rgb(58, 23, 13)",
+      "ctaInnerBorder": "rgb(58, 23, 13)",
+      "eyebrowColor": "rgb(58, 23, 13)",
+      "intro": [
+        "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
+        "From sourcing to production, we uphold the highest standards of quality, sustainability, and continuous improvement."
+      ],
+      "listTag": "UL",
+      "overflow": false,
+      "patternCount": 0,
+      "width": 390
+    },
+    {
+      "background": "rgb(232, 121, 51)",
+      "bulletStyle": "disc",
+      "bullets": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#promise",
+          "label": "Promise",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#focus",
+          "label": "Focus",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#sustainability",
+          "label": "Sustainability",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#food-safety",
+          "label": "Food Safety",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#our-segments",
+          "label": "Our Segments",
+          "weight": "700"
+        }
+      ],
+      "cardBackground": "rgba(0, 0, 0, 0)",
+      "cardBorder": "0px",
+      "copyColor": "rgb(58, 23, 13)",
+      "ctaBorder": "rgb(58, 23, 13)",
+      "ctaColor": "rgb(58, 23, 13)",
+      "ctaInnerBorder": "rgb(58, 23, 13)",
+      "eyebrowColor": "rgb(58, 23, 13)",
+      "intro": [
+        "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
+        "From sourcing to production, we uphold the highest standards of quality, sustainability, and continuous improvement."
+      ],
+      "listTag": "UL",
+      "overflow": false,
+      "patternCount": 0,
+      "width": 1920
+    },
+    {
+      "background": "rgb(232, 121, 51)",
+      "bulletStyle": "disc",
+      "bullets": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#promise",
+          "label": "Promise",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#focus",
+          "label": "Focus",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#sustainability",
+          "label": "Sustainability",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#food-safety",
+          "label": "Food Safety",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#our-segments",
+          "label": "Our Segments",
+          "weight": "700"
+        }
+      ],
+      "cardBackground": "rgba(0, 0, 0, 0)",
+      "cardBorder": "0px",
+      "copyColor": "rgb(58, 23, 13)",
+      "ctaBorder": "rgb(58, 23, 13)",
+      "ctaColor": "rgb(58, 23, 13)",
+      "ctaInnerBorder": "rgb(58, 23, 13)",
+      "eyebrowColor": "rgb(58, 23, 13)",
+      "intro": [
+        "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
+        "From sourcing to production, we uphold the highest standards of quality, sustainability, and continuous improvement."
+      ],
+      "listTag": "UL",
+      "overflow": false,
+      "patternCount": 0,
+      "width": 768
+    },
+    {
+      "background": "rgb(232, 121, 51)",
+      "bulletStyle": "disc",
+      "bullets": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#promise",
+          "label": "Promise",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#focus",
+          "label": "Focus",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#sustainability",
+          "label": "Sustainability",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#food-safety",
+          "label": "Food Safety",
+          "weight": "700"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "contained": true,
+          "href": "our-craft/#our-segments",
+          "label": "Our Segments",
+          "weight": "700"
+        }
+      ],
+      "cardBackground": "rgba(0, 0, 0, 0)",
+      "cardBorder": "0px",
+      "copyColor": "rgb(58, 23, 13)",
+      "ctaBorder": "rgb(58, 23, 13)",
+      "ctaColor": "rgb(58, 23, 13)",
+      "ctaInnerBorder": "rgb(58, 23, 13)",
+      "eyebrowColor": "rgb(58, 23, 13)",
+      "intro": [
+        "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
+        "From sourcing to production, we uphold the highest standards of quality, sustainability, and continuous improvement."
+      ],
+      "listTag": "UL",
+      "overflow": false,
+      "patternCount": 0,
+      "width": 320
+    }
+  ],
+  "keyboard": {
+    "color": "rgb(58, 23, 13)",
+    "focusVisible": true,
+    "label": "Promise",
+    "lineColor": "rgb(58, 23, 13)",
+    "lineHeight": "2px",
+    "lineTransform": "matrix(1, 0, 0, 1, 0, 0)"
+  },
+  "destination": {
+    "focus": "promise-title",
+    "intro": [
+      "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
+      "From sourcing to production, we uphold the highest standards of quality, sustainability, and continuous improvement."
+    ],
+    "url": "http://127.0.0.1:4174/our-craft/#promise"
+  },
+  "introMatchesCraftPage": true
+}

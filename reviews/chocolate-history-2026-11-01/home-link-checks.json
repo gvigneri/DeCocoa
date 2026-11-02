@@ -1,0 +1,101 @@
+{
+  "componentLinks": [
+    {
+      "after": "none",
+      "class": "brand",
+      "color": "rgb(58, 23, 13)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "brand",
+      "color": "rgb(58, 23, 13)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "button button-secondary",
+      "color": "rgb(247, 239, 230)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "category-card",
+      "color": "rgb(58, 23, 13)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "category-card",
+      "color": "rgb(58, 23, 13)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "category-card",
+      "color": "rgb(58, 23, 13)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "category-card",
+      "color": "rgb(58, 23, 13)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "category-card",
+      "color": "rgb(58, 23, 13)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "discovery-card",
+      "color": "rgb(58, 23, 13)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "discovery-card",
+      "color": "rgb(58, 23, 13)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "discovery-card",
+      "color": "rgb(58, 23, 13)",
+      "decoration": "none"
+    },
+    {
+      "after": "none",
+      "class": "brand",
+      "color": "rgb(247, 239, 230)",
+      "decoration": "none"
+    }
+  ],
+  "craft": [
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore Our Promise",
+      "underline": "none"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore Our Sustainability",
+      "underline": "none"
+    },
+    {
+      "border": "0px",
+      "color": "rgb(224, 95, 73)",
+      "line": "matrix(0, 0, 0, 1, 0, 0)",
+      "text": "Explore Our Segments",
+      "underline": "none"
+    }
+  ],
+  "scrollWidth": 1425,
+  "width": 1440
+}

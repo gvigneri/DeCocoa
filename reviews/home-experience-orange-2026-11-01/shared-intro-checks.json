@@ -1,0 +1,160 @@
+{
+  "paragraphs": [
+    "Visit our Craft your own Chocolate Bar and experience a world of chocolate.",
+    "Let our Chocolate Crafters introduce you to the art of the chocolatier.",
+    "Be sure to craft your own chocolate bar and build your own Gift Box."
+  ],
+  "exactIntroMatch": true,
+  "layout": [
+    {
+      "background": "rgb(232, 121, 51)",
+      "button": {
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "rgb(58, 23, 13)",
+        "color": "rgb(58, 23, 13)",
+        "href": "experience-center/",
+        "innerBorder": "rgb(58, 23, 13)"
+      },
+      "colors": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "H2"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "SPAN"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "SPAN"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "STRONG"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "P"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "P"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "P"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "A"
+        }
+      ],
+      "copy": {
+        "bottom": 864.921875,
+        "left": 60.46875,
+        "right": 702.5625,
+        "top": 311.921875
+      },
+      "documentWidth": 1425,
+      "media": {
+        "bottom": 691.046875,
+        "currentSrc": "http://127.0.0.1:4174/assets/images/decocoa-factory.gif",
+        "height": 205.265625,
+        "left": 780.796875,
+        "loaded": true,
+        "naturalHeight": 422,
+        "naturalWidth": 1200,
+        "objectFit": "contain",
+        "right": 1364.53125,
+        "sourceMedia": "(prefers-reduced-motion: reduce)",
+        "sourceSet": "assets/images/decocoa-factory-still.png",
+        "src": "assets/images/decocoa-factory.gif",
+        "top": 485.78125,
+        "width": 583.734375
+      },
+      "order": [
+        "experience-copy",
+        "factory-media"
+      ],
+      "panelBackground": "rgba(0, 0, 0, 0)",
+      "panelPadding": "0px",
+      "patternCount": 0,
+      "width": 1440
+    },
+    {
+      "background": "rgb(232, 121, 51)",
+      "button": {
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "rgb(58, 23, 13)",
+        "color": "rgb(58, 23, 13)",
+        "href": "experience-center/",
+        "innerBorder": "rgb(58, 23, 13)"
+      },
+      "colors": [
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "H2"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "SPAN"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "SPAN"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "STRONG"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "P"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "P"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "P"
+        },
+        {
+          "color": "rgb(58, 23, 13)",
+          "tag": "A"
+        }
+      ],
+      "copy": {
+        "bottom": 2675.53125,
+        "left": 24,
+        "right": 351,
+        "top": 2235.09375
+      },
+      "documentWidth": 375,
+      "media": {
+        "bottom": 2820.515625,
+        "currentSrc": "http://127.0.0.1:4174/assets/images/decocoa-factory.gif",
+        "height": 114.984375,
+        "left": 24,
+        "loaded": true,
+        "naturalHeight": 422,
+        "naturalWidth": 1200,
+        "objectFit": "contain",
+        "right": 351,
+        "sourceMedia": "(prefers-reduced-motion: reduce)",
+        "sourceSet": "assets/images/decocoa-factory-still.png",
+        "src": "assets/images/decocoa-factory.gif",
+        "top": 2705.53125,
+        "width": 327
+      },
+      "order": [
+        "experience-copy",
+        "factory-media"
+      ],
+      "panelBackground": "rgba(0, 0, 0, 0)",
+      "panelPadding": "0px",
+      "patternCount": 0,
+      "width": 390
+    }
+  ]
+}

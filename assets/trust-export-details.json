@@ -196,5 +196,77 @@
     "retrieved": "2026-10-25",
     "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
     "source_status": "existing local draft reference from supplied wireframe"
+  },
+  {
+    "name": "chocolate-com-official",
+    "source_page": "https://chocolate.com/",
+    "asset_url": "https://chocolate.com/cdn/shop/t/180/assets/core.sister-link-logo__chocolate.png?v=105910343310861000381777998946",
+    "source": "assets/source-external/trust/chocolate-com-sister-logo-official.png",
+    "source_sha256": "773b3a2a50537940a777d302602f708a12bc9a71967f31ce75b1bb62d875f26e",
+    "web": "assets/images/partner-chocolate-com.png",
+    "web_sha256": "773b3a2a50537940a777d302602f708a12bc9a71967f31ce75b1bb62d875f26e",
+    "dimensions": [
+      618,
+      96
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "operation": "Official transparent PNG copied byte-for-byte. Complete orange icon and wordmark retained; no cropping, recoloring, tracing or background removal.",
+    "retrieved": "2026-11-01",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "Official original PNG from current publisher family-of-brands navigation"
+  },
+  {
+    "name": "blue-stripes-official",
+    "source_page": "https://www.bluestripes.com/",
+    "asset_url": "https://www.bluestripes.com/cdn/shop/files/Logo_1216x.svg?v=1752054481",
+    "source": "assets/source-external/trust/blue-stripes-official.svg",
+    "source_sha256": "358f9dbe37abaa667b23279b97932baed31519f8be08a9ca6706497a78b08881",
+    "web": "assets/images/partner-blue-stripes.png",
+    "web_sha256": "238425d8f38a84e0fdb89a30cceaee56ef3c9c8379e4ac24e18e2f7f043e7010",
+    "dimensions": [
+      640,
+      422
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "operation": "Exact official SVG rendered with Sharp at density 192 to a transparent 640px-wide PNG. Original paths, blue/white fills, white interior shapes, viewBox and proportions retained; no tracing, recoloring, cropping or background removal.",
+    "retrieved": "2026-11-01",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "Official current header SVG, rendered faithfully to PNG"
+  },
+  {
+    "name": "ou-dairy-official",
+    "source_page": "https://oukosher.org/blog/industrial-kosher/all-ou-symbols-explained/",
+    "asset_url": "https://oukosher.org/content/uploads/2017/12/BTU.fall2017-1.pdf",
+    "source": "assets/source-external/trust/ou-official-btu-fall2017.pdf",
+    "source_sha256": "8e1a89488876b2f821665beb2f8e65c24f7dc0caf41851f4bb1a8aa6f410563c",
+    "web": "assets/images/certification-ou-dairy.png",
+    "web_sha256": "1a45bcf858aff1248e8a8e43f083c106119ade354e38b261e787be244de4b4ec",
+    "dimensions": [
+      650,
+      450
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_bounds": [
+      60,
+      53,
+      577,
+      387
+    ],
+    "operation": "Intact OU-D vector artwork from official OU Fall 2017 handbook PDF page 10 (printed page 8), rendered with PDFium at scale 10 (720 dpi), transparent fill, crop amounts left 30/bottom 532/right 517/top 215 PDF points. Full mark and surrounding transparent padding retained. No reconstruction, added lettering, tracing, recoloring or background removal.",
+    "retrieved": "2026-11-01",
+    "scope": "Local draft mark reference; does not verify DeCocoa relationship or certification.",
+    "source_status": "Official published OU-D dairy mark, faithfully rendered from OU handbook; selected after visual inspection."
   }
 ]

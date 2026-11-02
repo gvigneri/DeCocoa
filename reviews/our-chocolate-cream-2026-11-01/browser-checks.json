@@ -1,0 +1,132 @@
+{
+  "responsive": [
+    {
+      "cards": [
+        {
+          "action": "rgb(58, 23, 13)",
+          "card": "rgb(247, 239, 230)",
+          "copy": "rgb(247, 239, 230)",
+          "href": "products/#wellness",
+          "image": "rgb(247, 239, 230)",
+          "loaded": true,
+          "text": "rgb(58, 23, 13)",
+          "title": "Wellness"
+        },
+        {
+          "action": "rgb(58, 23, 13)",
+          "card": "rgb(247, 239, 230)",
+          "copy": "rgb(247, 239, 230)",
+          "href": "products/#one-shot-depositing",
+          "image": "rgb(247, 239, 230)",
+          "loaded": true,
+          "text": "rgb(58, 23, 13)",
+          "title": "One Shot Depositing"
+        },
+        {
+          "action": "rgb(58, 23, 13)",
+          "card": "rgb(247, 239, 230)",
+          "copy": "rgb(247, 239, 230)",
+          "href": "products/#hollow-moulding",
+          "image": "rgb(247, 239, 230)",
+          "loaded": true,
+          "text": "rgb(58, 23, 13)",
+          "title": "Hollow Moulding"
+        },
+        {
+          "action": "rgb(58, 23, 13)",
+          "card": "rgb(247, 239, 230)",
+          "copy": "rgb(247, 239, 230)",
+          "href": "products/#mixing",
+          "image": "rgb(247, 239, 230)",
+          "loaded": true,
+          "text": "rgb(58, 23, 13)",
+          "title": "Mixing"
+        },
+        {
+          "action": "rgb(58, 23, 13)",
+          "card": "rgb(247, 239, 230)",
+          "copy": "rgb(247, 239, 230)",
+          "href": "products/#dry-filling",
+          "image": "rgb(247, 239, 230)",
+          "loaded": false,
+          "text": "rgb(58, 23, 13)",
+          "title": "Dry Filling"
+        }
+      ],
+      "discovery": [
+        "rgb(255, 190, 74)",
+        "rgb(160, 182, 92)",
+        "rgb(242, 201, 193)"
+      ],
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "cards": [
+        {
+          "action": "rgb(184, 59, 40)",
+          "card": "rgb(247, 239, 230)",
+          "copy": "rgb(247, 239, 230)",
+          "href": "products/#wellness",
+          "image": "rgb(247, 239, 230)",
+          "loaded": true,
+          "text": "rgb(58, 23, 13)",
+          "title": "Wellness"
+        },
+        {
+          "action": "rgb(58, 23, 13)",
+          "card": "rgb(247, 239, 230)",
+          "copy": "rgb(247, 239, 230)",
+          "href": "products/#one-shot-depositing",
+          "image": "rgb(247, 239, 230)",
+          "loaded": true,
+          "text": "rgb(58, 23, 13)",
+          "title": "One Shot Depositing"
+        },
+        {
+          "action": "rgb(58, 23, 13)",
+          "card": "rgb(247, 239, 230)",
+          "copy": "rgb(247, 239, 230)",
+          "href": "products/#hollow-moulding",
+          "image": "rgb(247, 239, 230)",
+          "loaded": true,
+          "text": "rgb(58, 23, 13)",
+          "title": "Hollow Moulding"
+        },
+        {
+          "action": "rgb(58, 23, 13)",
+          "card": "rgb(247, 239, 230)",
+          "copy": "rgb(247, 239, 230)",
+          "href": "products/#mixing",
+          "image": "rgb(247, 239, 230)",
+          "loaded": true,
+          "text": "rgb(58, 23, 13)",
+          "title": "Mixing"
+        },
+        {
+          "action": "rgb(58, 23, 13)",
+          "card": "rgb(247, 239, 230)",
+          "copy": "rgb(247, 239, 230)",
+          "href": "products/#dry-filling",
+          "image": "rgb(247, 239, 230)",
+          "loaded": false,
+          "text": "rgb(58, 23, 13)",
+          "title": "Dry Filling"
+        }
+      ],
+      "discovery": [
+        "rgb(255, 190, 74)",
+        "rgb(160, 182, 92)",
+        "rgb(242, 201, 193)"
+      ],
+      "overflow": false,
+      "width": 390
+    }
+  ],
+  "keyboardFocus": {
+    "actionColor": "rgb(184, 59, 40)",
+    "focusVisible": true,
+    "name": "category-wellness-action",
+    "underline": "underline"
+  }
+}

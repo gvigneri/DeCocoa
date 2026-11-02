@@ -1,0 +1,317 @@
+[
+  {
+    "columns": "284.766px 284.766px 284.766px 284.766px",
+    "marks": [
+      {
+        "alt": "Puratos",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 230,
+        "loaded": true,
+        "natural": [
+          456,
+          320
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-puratos.png",
+        "width": 284.765625
+      },
+      {
+        "alt": "Wegmans",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 230,
+        "loaded": true,
+        "natural": [
+          1280,
+          1000
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-wegmans-supplied-626950.webp",
+        "width": 284.765625
+      },
+      {
+        "alt": "Chocolate.com",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 230,
+        "loaded": true,
+        "natural": [
+          618,
+          96
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-chocolate-com.png",
+        "width": 284.765625
+      },
+      {
+        "alt": "Blue Stripes",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 230,
+        "loaded": true,
+        "natural": [
+          640,
+          422
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-blue-stripes.png",
+        "width": 284.765625
+      }
+    ],
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "columns": "325.25px 325.25px",
+    "marks": [
+      {
+        "alt": "Puratos",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 200,
+        "loaded": true,
+        "natural": [
+          456,
+          320
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-puratos.png",
+        "width": 325.25
+      },
+      {
+        "alt": "Wegmans",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 200,
+        "loaded": true,
+        "natural": [
+          1280,
+          1000
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-wegmans-supplied-626950.webp",
+        "width": 325.25
+      },
+      {
+        "alt": "Chocolate.com",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 200,
+        "loaded": true,
+        "natural": [
+          618,
+          96
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-chocolate-com.png",
+        "width": 325.25
+      },
+      {
+        "alt": "Blue Stripes",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 200,
+        "loaded": true,
+        "natural": [
+          640,
+          422
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-blue-stripes.png",
+        "width": 325.25
+      }
+    ],
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "columns": "327px",
+    "marks": [
+      {
+        "alt": "Puratos",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 190,
+        "loaded": true,
+        "natural": [
+          456,
+          320
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-puratos.png",
+        "width": 327
+      },
+      {
+        "alt": "Wegmans",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 190,
+        "loaded": true,
+        "natural": [
+          1280,
+          1000
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-wegmans-supplied-626950.webp",
+        "width": 327
+      },
+      {
+        "alt": "Chocolate.com",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 190,
+        "loaded": true,
+        "natural": [
+          618,
+          96
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-chocolate-com.png",
+        "width": 327
+      },
+      {
+        "alt": "Blue Stripes",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 190,
+        "loaded": true,
+        "natural": [
+          640,
+          422
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-blue-stripes.png",
+        "width": 327
+      }
+    ],
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "columns": "301.75px 301.75px 301.75px 301.75px",
+    "marks": [
+      {
+        "alt": "Puratos",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 230,
+        "loaded": true,
+        "natural": [
+          456,
+          320
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-puratos.png",
+        "width": 301.75
+      },
+      {
+        "alt": "Wegmans",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 230,
+        "loaded": true,
+        "natural": [
+          1280,
+          1000
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-wegmans-supplied-626950.webp",
+        "width": 301.75
+      },
+      {
+        "alt": "Chocolate.com",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 230,
+        "loaded": true,
+        "natural": [
+          618,
+          96
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-chocolate-com.png",
+        "width": 301.75
+      },
+      {
+        "alt": "Blue Stripes",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 230,
+        "loaded": true,
+        "natural": [
+          640,
+          422
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-blue-stripes.png",
+        "width": 301.75
+      }
+    ],
+    "overflow": false,
+    "width": 1920
+  },
+  {
+    "columns": "265px",
+    "marks": [
+      {
+        "alt": "Puratos",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 190,
+        "loaded": true,
+        "natural": [
+          456,
+          320
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-puratos.png",
+        "width": 265
+      },
+      {
+        "alt": "Wegmans",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 190,
+        "loaded": true,
+        "natural": [
+          1280,
+          1000
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-wegmans-supplied-626950.webp",
+        "width": 265
+      },
+      {
+        "alt": "Chocolate.com",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 190,
+        "loaded": true,
+        "natural": [
+          618,
+          96
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-chocolate-com.png",
+        "width": 265
+      },
+      {
+        "alt": "Blue Stripes",
+        "contained": true,
+        "filter": "none",
+        "fit": "contain",
+        "height": 190,
+        "loaded": true,
+        "natural": [
+          640,
+          422
+        ],
+        "src": "http://127.0.0.1:4174/assets/images/partner-blue-stripes.png",
+        "width": 265
+      }
+    ],
+    "overflow": false,
+    "width": 320
+  }
+]

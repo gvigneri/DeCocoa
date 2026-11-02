@@ -1,0 +1,57 @@
+{
+  "manifest": "C:\\Users\\guyta\\Documents\\Codex\\Decocoa\\assets\\chocolate-history-assets.json",
+  "assets_verified_or_prepared": 3,
+  "production": [
+    {
+      "file": "assets/images/chocolate-history/01-origins/cacao-pods-and-leaves.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "alpha_bounds": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 2317821
+    },
+    {
+      "file": "assets/images/chocolate-history/01-origins/ceramic-bowl.png",
+      "width": 579,
+      "height": 600,
+      "mode": "RGBA",
+      "alpha_bounds": [
+        5,
+        52,
+        576,
+        573
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 328240
+    },
+    {
+      "file": "assets/images/chocolate-history/01-origins/cacao-beans.png",
+      "width": 392,
+      "height": 400,
+      "mode": "RGBA",
+      "alpha_bounds": [
+        4,
+        11,
+        383,
+        382
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bytes": 159039
+    }
+  ]
+}

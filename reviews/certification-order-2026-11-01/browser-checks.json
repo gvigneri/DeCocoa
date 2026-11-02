@@ -1,0 +1,392 @@
+[
+  {
+    "documentWidth": 1425,
+    "heading": "Care & commitment Our Certifications",
+    "marks": [
+      {
+        "alt": "Cacao-Trace",
+        "filter": "none",
+        "height": 190,
+        "left": 73.59375,
+        "loaded": true,
+        "naturalHeight": 519,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-cacao-trace.png",
+        "top": 337.921875,
+        "width": 200
+      },
+      {
+        "alt": "Rainforest Alliance People & Nature",
+        "filter": "none",
+        "height": 190,
+        "left": 348.03125,
+        "loaded": true,
+        "naturalHeight": 640,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-rainforest-alliance.png",
+        "top": 337.921875,
+        "width": 190
+      },
+      {
+        "alt": "SQF Institute",
+        "filter": "none",
+        "height": 190,
+        "left": 599.359375,
+        "loaded": true,
+        "naturalHeight": 280,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-sqf.png",
+        "top": 337.921875,
+        "width": 226.265625
+      },
+      {
+        "alt": "HACCP",
+        "filter": "none",
+        "height": 190,
+        "left": 886.9375,
+        "loaded": true,
+        "naturalHeight": 706,
+        "naturalWidth": 690,
+        "objectFit": "contain",
+        "src": "assets/images/certification-haccp.png",
+        "top": 337.921875,
+        "width": 190
+      },
+      {
+        "alt": "OU Kosher Dairy (OU-D)",
+        "filter": "none",
+        "height": 190,
+        "left": 1138.265625,
+        "loaded": true,
+        "naturalHeight": 450,
+        "naturalWidth": 650,
+        "objectFit": "contain",
+        "src": "assets/images/certification-ou-dairy.png",
+        "top": 337.921875,
+        "width": 226.25
+      }
+    ],
+    "section": {
+      "height": 621.0625,
+      "left": 0,
+      "top": -13.140625,
+      "width": 1425
+    },
+    "width": 1440
+  },
+  {
+    "documentWidth": 1905,
+    "heading": "Care & commitment Our Certifications",
+    "marks": [
+      {
+        "alt": "Cacao-Trace",
+        "filter": "none",
+        "height": 190,
+        "left": 281.6875,
+        "loaded": true,
+        "naturalHeight": 519,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-cacao-trace.png",
+        "top": 560.515625,
+        "width": 200
+      },
+      {
+        "alt": "Rainforest Alliance People & Nature",
+        "filter": "none",
+        "height": 190,
+        "left": 572.09375,
+        "loaded": true,
+        "naturalHeight": 640,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-rainforest-alliance.png",
+        "top": 560.515625,
+        "width": 190
+      },
+      {
+        "alt": "SQF Institute",
+        "filter": "none",
+        "height": 190,
+        "left": 837.296875,
+        "loaded": true,
+        "naturalHeight": 280,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-sqf.png",
+        "top": 560.515625,
+        "width": 230.390625
+      },
+      {
+        "alt": "HACCP",
+        "filter": "none",
+        "height": 190,
+        "left": 1142.890625,
+        "loaded": true,
+        "naturalHeight": 706,
+        "naturalWidth": 690,
+        "objectFit": "contain",
+        "src": "assets/images/certification-haccp.png",
+        "top": 560.515625,
+        "width": 190
+      },
+      {
+        "alt": "OU Kosher Dairy (OU-D)",
+        "filter": "none",
+        "height": 190,
+        "left": 1408.09375,
+        "loaded": true,
+        "naturalHeight": 450,
+        "naturalWidth": 650,
+        "objectFit": "contain",
+        "src": "assets/images/certification-ou-dairy.png",
+        "top": 560.515625,
+        "width": 230.390625
+      }
+    ],
+    "section": {
+      "height": 625.71875,
+      "left": 0,
+      "top": 204.796875,
+      "width": 1905
+    },
+    "width": 1920
+  },
+  {
+    "documentWidth": 753,
+    "heading": "Care & commitment Our Certifications",
+    "marks": [
+      {
+        "alt": "Cacao-Trace",
+        "filter": "none",
+        "height": 190,
+        "left": 94.875,
+        "loaded": true,
+        "naturalHeight": 519,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-cacao-trace.png",
+        "top": 1383.9375,
+        "width": 200
+      },
+      {
+        "alt": "Rainforest Alliance People & Nature",
+        "filter": "none",
+        "height": 190,
+        "left": 463.125,
+        "loaded": true,
+        "naturalHeight": 640,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-rainforest-alliance.png",
+        "top": 1383.9375,
+        "width": 190
+      },
+      {
+        "alt": "SQF Institute",
+        "filter": "none",
+        "height": 190,
+        "left": 32.25,
+        "loaded": true,
+        "naturalHeight": 280,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-sqf.png",
+        "top": 1603.9375,
+        "width": 325.25
+      },
+      {
+        "alt": "HACCP",
+        "filter": "none",
+        "height": 190,
+        "left": 463.125,
+        "loaded": true,
+        "naturalHeight": 706,
+        "naturalWidth": 690,
+        "objectFit": "contain",
+        "src": "assets/images/certification-haccp.png",
+        "top": 1603.9375,
+        "width": 190
+      },
+      {
+        "alt": "OU Kosher Dairy (OU-D)",
+        "filter": "none",
+        "height": 190,
+        "left": 213.875,
+        "loaded": true,
+        "naturalHeight": 450,
+        "naturalWidth": 650,
+        "objectFit": "contain",
+        "src": "assets/images/certification-ou-dairy.png",
+        "top": 1823.9375,
+        "width": 325.25
+      }
+    ],
+    "section": {
+      "height": 965.6875,
+      "left": 0,
+      "top": 1113.25,
+      "width": 753
+    },
+    "width": 768
+  },
+  {
+    "documentWidth": 305,
+    "heading": "Care & commitment Our Certifications",
+    "marks": [
+      {
+        "alt": "Cacao-Trace",
+        "filter": "none",
+        "height": 140,
+        "left": 20,
+        "loaded": true,
+        "naturalHeight": 519,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-cacao-trace.png",
+        "top": 2695.640625,
+        "width": 120
+      },
+      {
+        "alt": "Rainforest Alliance People & Nature",
+        "filter": "none",
+        "height": 140,
+        "left": 165,
+        "loaded": true,
+        "naturalHeight": 640,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-rainforest-alliance.png",
+        "top": 2695.640625,
+        "width": 120
+      },
+      {
+        "alt": "SQF Institute",
+        "filter": "none",
+        "height": 140,
+        "left": 20,
+        "loaded": true,
+        "naturalHeight": 280,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-sqf.png",
+        "top": 2860.640625,
+        "width": 120
+      },
+      {
+        "alt": "HACCP",
+        "filter": "none",
+        "height": 140,
+        "left": 165,
+        "loaded": true,
+        "naturalHeight": 706,
+        "naturalWidth": 690,
+        "objectFit": "contain",
+        "src": "assets/images/certification-haccp.png",
+        "top": 2860.640625,
+        "width": 120
+      },
+      {
+        "alt": "OU Kosher Dairy (OU-D)",
+        "filter": "none",
+        "height": 140,
+        "left": 92.5,
+        "loaded": true,
+        "naturalHeight": 450,
+        "naturalWidth": 650,
+        "objectFit": "contain",
+        "src": "assets/images/certification-ou-dairy.png",
+        "top": 3025.640625,
+        "width": 120
+      }
+    ],
+    "section": {
+      "height": 888.5625,
+      "left": 0,
+      "top": 2332.078125,
+      "width": 305
+    },
+    "width": 320
+  },
+  {
+    "documentWidth": 375,
+    "heading": "Care & commitment Our Certifications",
+    "marks": [
+      {
+        "alt": "Cacao-Trace",
+        "filter": "none",
+        "height": 140,
+        "left": 24,
+        "loaded": true,
+        "naturalHeight": 519,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-cacao-trace.png",
+        "top": 2334.09375,
+        "width": 151
+      },
+      {
+        "alt": "Rainforest Alliance People & Nature",
+        "filter": "none",
+        "height": 140,
+        "left": 200,
+        "loaded": true,
+        "naturalHeight": 640,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-rainforest-alliance.png",
+        "top": 2334.09375,
+        "width": 151
+      },
+      {
+        "alt": "SQF Institute",
+        "filter": "none",
+        "height": 140,
+        "left": 24,
+        "loaded": true,
+        "naturalHeight": 280,
+        "naturalWidth": 640,
+        "objectFit": "contain",
+        "src": "assets/images/certification-sqf.png",
+        "top": 2499.09375,
+        "width": 151
+      },
+      {
+        "alt": "HACCP",
+        "filter": "none",
+        "height": 140,
+        "left": 200,
+        "loaded": true,
+        "naturalHeight": 706,
+        "naturalWidth": 690,
+        "objectFit": "contain",
+        "src": "assets/images/certification-haccp.png",
+        "top": 2499.09375,
+        "width": 151
+      },
+      {
+        "alt": "OU Kosher Dairy (OU-D)",
+        "filter": "none",
+        "height": 140,
+        "left": 112,
+        "loaded": true,
+        "naturalHeight": 450,
+        "naturalWidth": 650,
+        "objectFit": "contain",
+        "src": "assets/images/certification-ou-dairy.png",
+        "top": 2664.09375,
+        "width": 151
+      }
+    ],
+    "section": {
+      "height": 821.0625,
+      "left": 0,
+      "top": 2038.03125,
+      "width": 375
+    },
+    "width": 390
+  }
+]

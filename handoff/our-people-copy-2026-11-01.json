@@ -1,0 +1,66 @@
+{
+  "heading": "Our People",
+  "intro_paragraphs": [
+    "We are committed to investing in our people and strengthening our community.",
+    "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+  ],
+  "sections": [
+    {
+      "id": "our-roots",
+      "title": "OUR ROOTS",
+      "paragraphs": [
+        "Our story begins in the cobble stoned streets of a Sicilian patisserie, where the Vigneri family first fell in love with the art of confection.",
+        "In the scent of warm pastries and the flicker of old ovens, a legacy of sweetness began to rise.",
+        "With hands guided by tradition and hearts full of dreams, the Vigneri name became known for its devotion to the craft."
+      ]
+    },
+    {
+      "id": "our-principals",
+      "title": "Our Principals",
+      "paragraphs": [],
+      "items": [
+        {
+          "title": "VISION",
+          "text": "Our vision is to be an industry leading chocolate brand known for craftsmanship, creativity, and care while building a farmers-first, sustainable future through ethical sourcing and responsible practices."
+        },
+        {
+          "title": "FOCUS",
+          "text": "Our focus is to combine passionate people, innovative craft, and sustainable practices to create chocolate with purpose and care."
+        },
+        {
+          "title": "MISSION",
+          "text": "We passionately handcraft the highest-quality chocolates and deliver the sweetest, most memorable experiences to our customers."
+        }
+      ]
+    },
+    {
+      "id": "our-values",
+      "title": "Our Values",
+      "paragraphs": [
+        "Our values are the key ingredients in our chocolate and in everything we do:"
+      ],
+      "items": [
+        {
+          "title": "Integrity",
+          "text": "We stand by our promise of quality, care, and food safety in every step."
+        },
+        {
+          "title": "Inspire",
+          "text": "We bring passion to our craft and encourage fresh ideas every day."
+        },
+        {
+          "title": "Ingredients",
+          "text": "We choose the purest, most sustainable ingredients to create with purpose."
+        },
+        {
+          "title": "Innovation",
+          "text": "We think ahead and push boundaries to craft the future."
+        },
+        {
+          "title": "Invest",
+          "text": "We grow by investing in our people, our partners, and our community."
+        }
+      ]
+    }
+  ]
+}

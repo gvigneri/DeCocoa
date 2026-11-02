@@ -19,3 +19,9 @@ Desktop.ini
 
 # Generated GitHub Pages artifact (workflow builds from authoritative sources)
 /_site/
+
+# Temporary downloaded research pages; source artwork/provenance remain versioned
+/reviews/ou-dairy-2026-11-01/official-*.html
+/reviews/ou-dairy-2026-11-01/official-ou-style.css
+/reviews/ou-dairy-2026-11-01/official-ou-dairy-media.json
+/reviews/partner-logos-2026-11-01/*-home.html

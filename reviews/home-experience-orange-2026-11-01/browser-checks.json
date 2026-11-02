@@ -1,0 +1,337 @@
+[
+  {
+    "background": "rgb(232, 121, 51)",
+    "button": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(247, 239, 230)",
+      "color": "rgb(247, 239, 230)",
+      "href": "experience-center/",
+      "innerBorder": "rgb(247, 239, 230)"
+    },
+    "colors": [
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "H2"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "SPAN"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "SPAN"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "STRONG"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "P"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "A"
+      }
+    ],
+    "copy": {
+      "bottom": 628.921875,
+      "left": 60.46875,
+      "right": 702.5625,
+      "top": 269.921875
+    },
+    "documentWidth": 1425,
+    "media": {
+      "bottom": 552.046875,
+      "currentSrc": "http://127.0.0.1:4174/assets/images/decocoa-factory.gif",
+      "height": 205.265625,
+      "left": 780.796875,
+      "loaded": true,
+      "naturalHeight": 422,
+      "naturalWidth": 1200,
+      "objectFit": "contain",
+      "right": 1364.53125,
+      "sourceMedia": "(prefers-reduced-motion: reduce)",
+      "sourceSet": "assets/images/decocoa-factory-still.png",
+      "src": "assets/images/decocoa-factory.gif",
+      "top": 346.78125,
+      "width": 583.734375
+    },
+    "order": [
+      "experience-copy",
+      "factory-media"
+    ],
+    "panelBackground": "rgba(0, 0, 0, 0)",
+    "panelPadding": "0px",
+    "patternCount": 0,
+    "width": 1440
+  },
+  {
+    "background": "rgb(232, 121, 51)",
+    "button": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(247, 239, 230)",
+      "color": "rgb(247, 239, 230)",
+      "href": "experience-center/",
+      "innerBorder": "rgb(247, 239, 230)"
+    },
+    "colors": [
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "H2"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "SPAN"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "SPAN"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "STRONG"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "P"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "A"
+      }
+    ],
+    "copy": {
+      "bottom": 661.390625,
+      "left": 266.5,
+      "right": 942.046875,
+      "top": 292.515625
+    },
+    "documentWidth": 1905,
+    "media": {
+      "bottom": 584.9375,
+      "currentSrc": "http://127.0.0.1:4174/assets/images/decocoa-factory.gif",
+      "height": 215.96875,
+      "left": 1024.359375,
+      "loaded": true,
+      "naturalHeight": 422,
+      "naturalWidth": 1200,
+      "objectFit": "contain",
+      "right": 1638.5,
+      "sourceMedia": "(prefers-reduced-motion: reduce)",
+      "sourceSet": "assets/images/decocoa-factory-still.png",
+      "src": "assets/images/decocoa-factory.gif",
+      "top": 368.96875,
+      "width": 614.140625
+    },
+    "order": [
+      "experience-copy",
+      "factory-media"
+    ],
+    "panelBackground": "rgba(0, 0, 0, 0)",
+    "panelPadding": "0px",
+    "patternCount": 0,
+    "width": 1920
+  },
+  {
+    "background": "rgb(232, 121, 51)",
+    "button": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(247, 239, 230)",
+      "color": "rgb(247, 239, 230)",
+      "href": "experience-center/",
+      "innerBorder": "rgb(247, 239, 230)"
+    },
+    "colors": [
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "H2"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "SPAN"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "SPAN"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "STRONG"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "P"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "A"
+      }
+    ],
+    "copy": {
+      "bottom": 1833.5625,
+      "left": 32.25,
+      "right": 720.75,
+      "top": 1520.9375
+    },
+    "documentWidth": 753,
+    "media": {
+      "bottom": 2110.671875,
+      "currentSrc": "http://127.0.0.1:4174/assets/images/decocoa-factory.gif",
+      "height": 242.109375,
+      "left": 32.25,
+      "loaded": true,
+      "naturalHeight": 422,
+      "naturalWidth": 1200,
+      "objectFit": "contain",
+      "right": 720.75,
+      "sourceMedia": "(prefers-reduced-motion: reduce)",
+      "sourceSet": "assets/images/decocoa-factory-still.png",
+      "src": "assets/images/decocoa-factory.gif",
+      "top": 1868.5625,
+      "width": 688.5
+    },
+    "order": [
+      "experience-copy",
+      "factory-media"
+    ],
+    "panelBackground": "rgba(0, 0, 0, 0)",
+    "panelPadding": "0px",
+    "patternCount": 0,
+    "width": 768
+  },
+  {
+    "background": "rgb(232, 121, 51)",
+    "button": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(247, 239, 230)",
+      "color": "rgb(247, 239, 230)",
+      "href": "experience-center/",
+      "innerBorder": "rgb(247, 239, 230)"
+    },
+    "colors": [
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "H2"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "SPAN"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "SPAN"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "STRONG"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "P"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "A"
+      }
+    ],
+    "copy": {
+      "bottom": 2999.484375,
+      "left": 20,
+      "right": 285,
+      "top": 2642.640625
+    },
+    "documentWidth": 305,
+    "media": {
+      "bottom": 3122.671875,
+      "currentSrc": "http://127.0.0.1:4174/assets/images/decocoa-factory.gif",
+      "height": 93.1875,
+      "left": 20,
+      "loaded": true,
+      "naturalHeight": 422,
+      "naturalWidth": 1200,
+      "objectFit": "contain",
+      "right": 285,
+      "sourceMedia": "(prefers-reduced-motion: reduce)",
+      "sourceSet": "assets/images/decocoa-factory-still.png",
+      "src": "assets/images/decocoa-factory.gif",
+      "top": 3029.484375,
+      "width": 265
+    },
+    "order": [
+      "experience-copy",
+      "factory-media"
+    ],
+    "panelBackground": "rgba(0, 0, 0, 0)",
+    "panelPadding": "0px",
+    "patternCount": 0,
+    "width": 320
+  },
+  {
+    "background": "rgb(232, 121, 51)",
+    "button": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(247, 239, 230)",
+      "color": "rgb(247, 239, 230)",
+      "href": "experience-center/",
+      "innerBorder": "rgb(247, 239, 230)"
+    },
+    "colors": [
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "H2"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "SPAN"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "SPAN"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "STRONG"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "P"
+      },
+      {
+        "color": "rgb(247, 239, 230)",
+        "tag": "A"
+      }
+    ],
+    "copy": {
+      "bottom": 2585.140625,
+      "left": 24,
+      "right": 351,
+      "top": 2281.09375
+    },
+    "documentWidth": 375,
+    "media": {
+      "bottom": 2730.125,
+      "currentSrc": "http://127.0.0.1:4174/assets/images/decocoa-factory.gif",
+      "height": 114.984375,
+      "left": 24,
+      "loaded": true,
+      "naturalHeight": 422,
+      "naturalWidth": 1200,
+      "objectFit": "contain",
+      "right": 351,
+      "sourceMedia": "(prefers-reduced-motion: reduce)",
+      "sourceSet": "assets/images/decocoa-factory-still.png",
+      "src": "assets/images/decocoa-factory.gif",
+      "top": 2615.140625,
+      "width": 327
+    },
+    "order": [
+      "experience-copy",
+      "factory-media"
+    ],
+    "panelBackground": "rgba(0, 0, 0, 0)",
+    "panelPadding": "0px",
+    "patternCount": 0,
+    "width": 390
+  }
+]

@@ -1,16 +1,36 @@
 # Copy and destination notes
 
+November 1 Our Craft revision: Guy explicitly supplied replacement section copy, including the full sustainability, SQF and fulfillment wording. Use `our-craft-copy-2026-11-01.json` as the local draft transcription, superseding the earlier restrained Craft prose below. Apply standing DeCocoa capitalization and the obvious Fullfilment/Fulfillment correction; otherwise keep the supplied text. The homepage uses exactly the same two intro paragraphs as the Craft page. No independently verified claim status is added. Guy explicitly deferred Alex's video and the three PDFs ("Don't worry about those for now"); their production notes remain only in handoff.
+
+## Our People page supplied copy, November 1, 2026
+
+Guy subsequently supplied replacement introduction, Roots, Principals and Values text for the dedicated Our People page, explicitly requesting it word for word. [Exact supplied copy](our-people-copy-2026-11-01.json) is retained as the comparison record. The page uses a single Our People h1 and two intro paragraphs, the three original Roots sentences (including “cobble stoned”), VISION/FOCUS/MISSION in that order, and all five Values descriptions in his order. Earlier editorial summaries for these sections are superseded. No search-oriented rewrites or factual qualification are inserted into this supplied local draft.
+
+Jump links move above the sections in a horizontal wrapping row, matching the Experience Center. Existing section IDs, aliases, photo, Sweet Careers copy and actions remain; no replacement was supplied for the career section. The homepage's preceding approved copy stays unchanged.
+
+## Brand spelling and homepage People introduction, November 1, 2026
+
+Guy requested consistent DeCocoa capitalization throughout authored site text, including alternative text and metadata. This supersedes the earlier hero capitalization instruction; current copy records below use the new spelling. Original artwork and archived reference material remain intact.
+
+The homepage Our People introduction uses his exact two paragraphs:
+
+> We are committed to investing in our people and strengthening our community.
+
+> Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work.
+
+This replaces the homepage's family/patisserie introduction. Its heading, approved tray-carrying photograph and Meet Our People destination remain. The dedicated Our People page is unchanged.
+
 ## Separate Partners and Certifications sections, October 25, 2026
 
-Guy moved Our Partners directly below Our People and Our Certifications directly below Our Craft, with centered stacked headings/descriptions and larger logos on Cream. Partners copy refers generally to ingredient specialists and food brands connected to DeCOCOA's craft. Certifications copy describes quality, food safety and responsible sourcing as areas of commitment and calls the displayed organizations “standards and programs”; it does not turn the Cacao-Trace sourcing program into a new formal product-certification claim or add certificate levels/scope.
+Guy moved Our Partners directly below Our People and Our Certifications directly below Our Craft, with centered stacked headings/descriptions and larger logos on Cream. Partners copy refers generally to ingredient specialists and food brands connected to DeCocoa's craft. Certifications copy describes quality, food safety and responsible sourcing as areas of commitment and calls the displayed organizations “standards and programs”; it does not turn the Cacao-Trace sourcing program into a new formal product-certification claim or add certificate levels/scope.
 
-Artwork updates are source and layout improvements, not verification of partner relationships or DeCOCOA's certification status. On being asked for the HACCP issuer, Guy replied: “Just find one online and we will replace later.” A generic online HACCP badge is therefore an explicitly authorized local draft placeholder. Replace it with the correct issuer-approved artwork before production. Keep original reference crops and downloaded originals intact, and record the source, format, transparency, hashes and any faithful vector-to-PNG conversion in the asset manifest. No public release or permission request to third parties is part of this task.
+Artwork updates are source and layout improvements, not verification of partner relationships or DeCocoa's certification status. On being asked for the HACCP issuer, Guy replied: “Just find one online and we will replace later.” A generic online HACCP badge is therefore an explicitly authorized local draft placeholder. Replace it with the correct issuer-approved artwork before production. Keep original reference crops and downloaded originals intact, and record the source, format, transparency, hashes and any faithful vector-to-PNG conversion in the asset manifest. No public release or permission request to third parties is part of this task.
 
 ## Homepage Our Craft summary, October 25, 2026
 
-Guy supplied fuller Our Craft source copy covering the Rochester, New York facility; traditional craft and innovative technology; Promise and Focus; quality, food safety and continuous improvement; responsible sourcing, eco-friendly packaging and Niagara Falls power; DeCOCOA DeCOR; and food/gourmet fulfillment. He requested a homepage summary, with a full-width Brown background and Orange pattern. This material is authorized for the local draft and has not been independently fact-checked. The dedicated Our Craft page is outside this scoped revision.
+Guy supplied fuller Our Craft source copy covering the Rochester, New York facility; traditional craft and innovative technology; Promise and Focus; quality, food safety and continuous improvement; responsible sourcing, eco-friendly packaging and Niagara Falls power; DeCocoa DeCOR; and food/gourmet fulfillment. He requested a homepage summary, with a full-width Brown background and Orange pattern. This material is authorized for the local draft and has not been independently fact-checked. The dedicated Our Craft page is outside this scoped revision.
 
-The homepage uses “Chocolate craftsmanship, with purpose.” and a direct introductory explanation of DeCOCOA's location and approach. Three short themes summarize care/quality, sustainability and professional capabilities. Natural terms such as chocolate production, food safety, sustainable chocolate making, customizable chocolate decor and food/gourmet fulfillment support reader understanding and SEO/AEO without keyword stuffing or ranking promises.
+The homepage uses “Chocolate craftsmanship, with purpose.” and a direct introductory explanation of DeCocoa's location and approach. Three short themes summarize care/quality, sustainability and professional capabilities. Natural terms such as chocolate production, food safety, sustainable chocolate making, customizable chocolate decor and food/gourmet fulfillment support reader understanding and SEO/AEO without keyword stuffing or ranking promises.
 
 The summary retains Niagara Falls power, responsible sourcing, packaging, DeCOR and fulfillment as user-supplied draft claims. It does not repeat the absolute “100% sustainable power,” universal compliance/highest-level SQF claims or comparative guarantees. The supplied “Download PDF” and “Video of Alex” labels do not establish usable assets, so no empty download or video controls are added. Confirm energy sourcing, packaging, certifications/compliance wording and service scope before publication; this is not a blocker to the authorized local draft.
 
@@ -20,7 +40,7 @@ Guy requested Privacy Policy, Terms and Conditions and Accessibility links besid
 
 ## User-supplied hero copy, October 24, 2026
 
-Guy supplied the new subtitle: “At DeCOCOA, every chocolate is handcrafted with care using the world’s finest sustainably sourced cocoa.” The only editorial correction is the possessive apostrophe in “world’s”; retain his requested capitalization and wording. This is authorized local draft copy, not independently verified sourcing or production evidence. Existing production fact-approval requirements still apply. Keep “Experience. Chocolate.” and the existing Chocolate Crafters eyebrow, with one CTA, “Let’s Craft Something Together”, leading to `/lets-talk/#inquiry`. This replaces the previous product-exploration subtitle and two hero actions.
+Guy supplied the new subtitle: “At DeCocoa, every chocolate is handcrafted with care using the world’s finest sustainably sourced cocoa.” The only editorial correction is the possessive apostrophe in “world’s”; retain his requested capitalization and wording. This is authorized local draft copy, not independently verified sourcing or production evidence. Existing production fact-approval requirements still apply. Keep “Experience. Chocolate.” and the existing Chocolate Crafters eyebrow, with one CTA, “Let’s Craft Something Together”, leading to `/lets-talk/#inquiry`. This replaces the previous product-exploration subtitle and two hero actions.
 
 ## Service landing pages and section navigation, October 24, 2026
 

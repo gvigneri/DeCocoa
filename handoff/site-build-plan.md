@@ -1,5 +1,43 @@
 # DeCocoa local site build plan
 
+November 1 GitHub release: Guy authorized pushing the latest work to the existing `gvigneri/DeCocoa` repository and Pages workflow. [Release scope and verification](github-release-2026-11-01.md).
+
+November 1 homepage Experience Center presentation: Primary Orange background with Primary Brown text following Guy's color correction, open layout with copy left and the original factory GIF right, stacked copy first on smaller screens. Share the dedicated Experience Center page's exact three introductory paragraphs, per his subsequent request. Retain the homepage heading, destination and reduced-motion still fallback. [Implementation verification](../reviews/home-experience-orange-2026-11-01/verification.md).
+
+November 1 Experience Center copy: apply the [exact supplied copy](experience-center-copy-2026-11-01.json) to the opening, Experience Center overview, seven numbered How its Made steps and Tours and Classes. Preserve Museum & Virtual Exhibition and its timeline unchanged. [Implementation verification](../reviews/experience-copy-2026-11-01/verification.md).
+
+November 1 certification logos: reorder to Cacao-Trace, Rainforest Alliance, SQF, HACCP, OU Kosher Dairy, using authentic OU-D artwork in place of the visible plain OU. Preserve original files and record the new source. [Implementation verification](../reviews/certification-order-2026-11-01/verification.md).
+
+November 1 homepage Craft presentation: plain Primary Orange with Brown text, no pattern/card, and the same two-paragraph intro as the Craft page. Five highlighted bullet links preview Promise, Focus, Sustainability, Food Safety and Our Segments. [Implementation verification](../reviews/home-craft-orange-2026-11-01/verification.md).
+
+November 1 Our Craft copy revision: apply the [supplied transcription](our-craft-copy-2026-11-01.json), move Craft jump navigation to the top, and share its two-paragraph introduction with the homepage Craft section. Guy explicitly deferred Alex's video and the three PDFs; those controls are outside this revision. [Implementation verification](../reviews/our-craft-copy-2026-11-01/verification.md).
+
+November 1 partner logos: replace the visible Guittard logo with Chocolate.com and Blue Stripes, retaining Puratos and Wegmans. Use official artwork as PNGs, preserving proportions and source files with provenance. [Implementation verification](../reviews/partner-logos-2026-11-01/verification.md).
+
+November 1 key-segments revision: rename the homepage More to discover block to Our Key Segments; use Partner Brands, Decor and Fulfillment cards on Primary Brown with Cream copy/icons/actions. Reuse existing partner and Craft segment content/destinations. [Implementation verification](../reviews/key-segments-2026-11-01/verification.md).
+
+November 1 homepage People presentation: plain Orange section, Brown copy, no Cream card and a complete standalone view of the existing photograph. Remove the previous mask/enlargement/bleed treatment; retain exact copy and CTA. [Implementation verification](../reviews/home-people-orange-2026-11-01/verification.md).
+
+November 1 Our Chocolate card revision: use Cream surfaces and Primary Brown text for the five homepage category cards, removing the colored image backgrounds. Retain the carousel and card interaction. More to Discover and dedicated Products layouts remain unchanged.
+
+November 1 bark hero revision: three separate transparent bark pieces based on Guy's supplied guide replace the pretzels, keeping their falling entrances. The hero becomes plain Primary Orange, with a transparent copy area and contrasting Brown text/button borders. Phone art sits above copy to maintain readability. Other sections and source assets are preserved. [Generation record](hero-bark-generation-2026-11-01.json); [completed implementation verification](../reviews/hero-bark-2026-11-01/verification.md). Local preview and export are updated; no new publication was performed.
+
+November 1 Our People page revision: replace its introduction, Roots, Principals and Values with Guy's [exact supplied copy](our-people-copy-2026-11-01.json). The page title is Our People, with horizontal wrapping jump links above the sections like Experience Center. Existing photo, Sweet Careers, actions and fragment targets remain. Homepage copy is unchanged. [Scoped verification](../reviews/our-people-page-2026-11-01/verification.md).
+
+November 1 copy refinement: use DeCocoa consistently in authored website text, alt text and metadata. Replace the homepage Our People introduction with Guy's exact two paragraphs about investing in people, community and Rochester with a global perspective. Preserve its heading, photo, action and dedicated page. [Copy decisions](copy-notes.md).
+
+November 1 spacing refinement: Guy set `.history-metadata` to `gap: .25rem`, retaining date/region/title order and the semantic heading structure.
+
+November 1 subsequent refinement: restore date/region/title in each semantic chapter heading; use Brown resting subnavigation links; add compact Font Awesome long arrows to timeline source links. How It's Made keeps Explore Our Craft as its sole primary action and removes the Explore Craft Your Own link. Copy and other actions are preserved. See [order, arrow and action checks](../reviews/chocolate-history-2026-11-01/order-arrow-action-verification.md).
+
+November 1 heading correction: Guy requested fixes for the Experience Center possible-heading alert. Dates and regions join their chapter title in one h3, and the closing chocolate-story invitation becomes an h3. Preserve the visual layout and all chapter content. [Scoped heading verification](../reviews/chocolate-history-2026-11-01/heading-verification.md).
+
+November 1 refinement: Guy requested consistent date/title/region order and spacing, centered museum introduction, shared Ripe text links with animated hover/focus lines, removal of main-section separators, and one combined Tours and Classes closing section without the redundant Let's Talk CTA. Chapter captions and artwork remain intact. This is a local refinement of the existing ten-chapter implementation; no independent review or deployment is added. See [revision verification](../reviews/chocolate-history-2026-11-01/verification.md).
+
+October 31, latest extension: Guy requested the rest of the timeline after reviewing the four-chapter version. All ten reference items are now in scope, preserving the approved first four. See [complete timeline handoff](chocolate-history-complete.md) and its verification record. No publication or WordPress changes are included; the local preview remains available. Earlier milestones below are retained as history.
+
+October 31, 2026, latest direction: Guy accepted the first vertical visual sample and requested **the next three, four total**, using the first four items in his reference image with light SEO edits. Current scope: Ancient Origins, The Aztec Empire, Chocolate Comes to Europe, and A Taste Spreads. Preserve the first artwork, revise its copy to the reference subject, and add separate transparent illustrations for the next three chapters. See [current handoff](chocolate-history-four-chapters.md). The [sample handoff](chocolate-history-sample.md) and [sample checks](../reviews/chocolate-history-2026-10-31/verification.md) remain historical evidence. No deployment or WordPress work is included in this extension; the launched local preview stays available. Earlier completed reviews and their ledger remain unchanged.
+
 Updated October 25, 2026. **Status: approved local draft build, extended by Guy's direct navigation, landing-page and footer revisions. SB-T01–07 and SB-T09 are complete; optional SB-T08 remains deferred.** The revised inventory has eighteen local pages, including three pending policy/accessibility drafts. WordPress integration, publishing, delivery and final factual approval remain later work. The four initial reviews and pre-build baseline are retained below for comparison.
 
 Established design, approved brown/focus tokens and shared header/footer/menu sources remain. The homepage connects to product/detail and dedicated chocolate-service journeys, with source-based People/Craft/Experience pages and one shared inquiry component used on Home and Let's Talk. Existing material remains draft content as Guy directed. The confirmed hero-focus failure and focused mobile-menu control overlap were resolved. Two additional implementation defects found during initial QA were fixed: topic links clearing input and keyboard focus leaving an open mobile menu.

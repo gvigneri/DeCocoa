@@ -5,7 +5,7 @@
       "route": "/",
       "file": "prototype/index.html",
       "title": "Experience. Chocolate. | DeCocoa",
-      "ids": 610,
+      "ids": 48,
       "headers_match": true,
       "main": 1,
       "h1": 1,
@@ -15,7 +15,7 @@
       "heading_ranks": {
         "h1": 1,
         "h2": 10,
-        "h3": 9,
+        "h3": 6,
         "h4": 3
       }
     },
@@ -97,11 +97,11 @@
       "h1": 1,
       "footer": 1,
       "scripts": 1,
-      "paired_headings": 1,
+      "paired_headings": 0,
       "heading_ranks": {
         "h1": 1,
         "h2": 7,
-        "h3": 3
+        "h3": 8
       }
     },
     {
@@ -114,27 +114,28 @@
       "h1": 1,
       "footer": 1,
       "scripts": 1,
-      "paired_headings": 1,
+      "paired_headings": 0,
       "heading_ranks": {
         "h1": 1,
         "h2": 8,
-        "h3": 5
+        "h3": 3
       }
     },
     {
       "route": "/experience-center/",
       "file": "prototype/experience-center/index.html",
       "title": "Experience Center | DeCocoa",
-      "ids": 22,
+      "ids": 34,
       "headers_match": true,
       "main": 1,
       "h1": 1,
       "footer": 1,
-      "scripts": 1,
+      "scripts": 2,
       "paired_headings": 1,
       "heading_ranks": {
         "h1": 1,
-        "h2": 6
+        "h2": 7,
+        "h3": 18
       }
     },
     {
@@ -307,7 +308,7 @@
   ],
   "category_cards": 5,
   "discovery_cards": 3,
-  "local_references_checked": 1330,
+  "local_references_checked": 1431,
   "protected_baseline_files_checked": 57,
   "shared_header_footer_propagation": "pass",
   "shared_inquiry_propagation": "pass",

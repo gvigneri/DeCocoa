@@ -1,0 +1,1417 @@
+[
+  {
+    "chapters": [
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1500 BCE–900 CE Mesoamerica Ancient Origins"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1428–1521 CE Central Mexico The Aztec Empire"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1500s From the Americas to Europe Chocolate Comes to Europe"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1600s–1700s European courts and chocolate houses A Taste Spreads"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1800s Factories and new technology The Industrial Revolution"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1900s New recipes, familiar names Innovation and Iconic Brands"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Mid 1900s Chocolate around the world A Global Obsession"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Late 1900s Origin, flavor and craftsmanship Craft and Fine Chocolate"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "2000s Cacao communities and ecosystems Sustainability and Impact"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Today & Tomorrow Creativity and the future of chocolate A Sweeter Tomorrow"
+      }
+    ],
+    "howActions": [
+      {
+        "class": "button button-primary",
+        "href": "../our-craft/",
+        "text": "Explore Our Craft"
+      }
+    ],
+    "possibleHeadings": 0,
+    "scrollWidth": 1425,
+    "sectionNav": [
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "How It’s Made"
+      },
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "Museum & Virtual Exhibition"
+      },
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "Tours and Classes"
+      }
+    ],
+    "sourceLinks": [
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 616.03125,
+        "text": "Explore the history",
+        "width": 209.96875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 616.03125,
+        "text": "Explore cacao as currency",
+        "width": 281.984375
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 616.03125,
+        "text": "Explore chocolate in Europe",
+        "width": 303.109375
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 616.03125,
+        "text": "Explore the chocolate kitchens",
+        "width": 330.21875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 616.03125,
+        "text": "Explore chocolate-making innovations",
+        "width": 408.015625
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 616.03125,
+        "text": "Explore a chocolate brand timeline",
+        "width": 371.453125
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 616.03125,
+        "text": "Explore chocolate’s global growth",
+        "width": 360.59375
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 616.03125,
+        "text": "Explore fine chocolate and craft",
+        "width": 338.671875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 616.03125,
+        "text": "Explore cocoa sustainability",
+        "width": 298.5
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 616.03125,
+        "text": "Explore cocoa traceability",
+        "width": 277.109375
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "chapters": [
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1500 BCE–900 CE Mesoamerica Ancient Origins"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1428–1521 CE Central Mexico The Aztec Empire"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1500s From the Americas to Europe Chocolate Comes to Europe"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1600s–1700s European courts and chocolate houses A Taste Spreads"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1800s Factories and new technology The Industrial Revolution"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1900s New recipes, familiar names Innovation and Iconic Brands"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Mid 1900s Chocolate around the world A Global Obsession"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Late 1900s Origin, flavor and craftsmanship Craft and Fine Chocolate"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "2000s Cacao communities and ecosystems Sustainability and Impact"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Today & Tomorrow Creativity and the future of chocolate A Sweeter Tomorrow"
+      }
+    ],
+    "howActions": [
+      {
+        "class": "button button-primary",
+        "href": "../our-craft/",
+        "text": "Explore Our Craft"
+      }
+    ],
+    "possibleHeadings": 0,
+    "scrollWidth": 1905,
+    "sectionNav": [
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "How It’s Made"
+      },
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "Museum & Virtual Exhibition"
+      },
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "Tours and Classes"
+      }
+    ],
+    "sourceLinks": [
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 646,
+        "text": "Explore the history",
+        "width": 209.96875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 646,
+        "text": "Explore cacao as currency",
+        "width": 281.984375
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 646,
+        "text": "Explore chocolate in Europe",
+        "width": 303.109375
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 646,
+        "text": "Explore the chocolate kitchens",
+        "width": 330.21875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 646,
+        "text": "Explore chocolate-making innovations",
+        "width": 408.015625
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 646,
+        "text": "Explore a chocolate brand timeline",
+        "width": 371.453125
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 646,
+        "text": "Explore chocolate’s global growth",
+        "width": 360.59375
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 646,
+        "text": "Explore fine chocolate and craft",
+        "width": 338.671875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 646,
+        "text": "Explore cocoa sustainability",
+        "width": 298.5
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 15,
+          "hidden": "true",
+          "width": 15
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 646,
+        "text": "Explore cocoa traceability",
+        "width": 277.109375
+      }
+    ],
+    "width": 1920
+  },
+  {
+    "chapters": [
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1500 BCE–900 CE Mesoamerica Ancient Origins"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1428–1521 CE Central Mexico The Aztec Empire"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1500s From the Americas to Europe Chocolate Comes to Europe"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1600s–1700s European courts and chocolate houses A Taste Spreads"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1800s Factories and new technology The Industrial Revolution"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1900s New recipes, familiar names Innovation and Iconic Brands"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Mid 1900s Chocolate around the world A Global Obsession"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Late 1900s Origin, flavor and craftsmanship Craft and Fine Chocolate"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "2000s Cacao communities and ecosystems Sustainability and Impact"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Today & Tomorrow Creativity and the future of chocolate A Sweeter Tomorrow"
+      }
+    ],
+    "howActions": [
+      {
+        "class": "button button-primary",
+        "href": "../our-craft/",
+        "text": "Explore Our Craft"
+      }
+    ],
+    "possibleHeadings": 0,
+    "scrollWidth": 753,
+    "sectionNav": [
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "How It’s Made"
+      },
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "Museum & Virtual Exhibition"
+      },
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "Tours and Classes"
+      }
+    ],
+    "sourceLinks": [
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 312.171875,
+        "text": "Explore the history",
+        "width": 167.96875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 312.171875,
+        "text": "Explore cacao as currency",
+        "width": 225.578125
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 312.171875,
+        "text": "Explore chocolate in Europe",
+        "width": 242.484375
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 312.171875,
+        "text": "Explore the chocolate kitchens",
+        "width": 264.171875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 312.171875,
+        "text": "Explore chocolate-making innovations",
+        "width": 312.171875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 312.171875,
+        "text": "Explore a chocolate brand timeline",
+        "width": 297.15625
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 312.171875,
+        "text": "Explore chocolate’s global growth",
+        "width": 288.46875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 312.171875,
+        "text": "Explore fine chocolate and craft",
+        "width": 270.9375
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 312.171875,
+        "text": "Explore cocoa sustainability",
+        "width": 238.796875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 312.171875,
+        "text": "Explore cocoa traceability",
+        "width": 221.6875
+      }
+    ],
+    "width": 768
+  },
+  {
+    "chapters": [
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1500 BCE–900 CE Mesoamerica Ancient Origins"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1428–1521 CE Central Mexico The Aztec Empire"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1500s From the Americas to Europe Chocolate Comes to Europe"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1600s–1700s European courts and chocolate houses A Taste Spreads"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1800s Factories and new technology The Industrial Revolution"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1900s New recipes, familiar names Innovation and Iconic Brands"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Mid 1900s Chocolate around the world A Global Obsession"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Late 1900s Origin, flavor and craftsmanship Craft and Fine Chocolate"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "2000s Cacao communities and ecosystems Sustainability and Impact"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Today & Tomorrow Creativity and the future of chocolate A Sweeter Tomorrow"
+      }
+    ],
+    "howActions": [
+      {
+        "class": "button button-primary",
+        "href": "../our-craft/",
+        "text": "Explore Our Craft"
+      }
+    ],
+    "possibleHeadings": 0,
+    "scrollWidth": 375,
+    "sectionNav": [
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "How It’s Made"
+      },
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "Museum & Virtual Exhibition"
+      },
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "Tours and Classes"
+      }
+    ],
+    "sourceLinks": [
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 293,
+        "text": "Explore the history",
+        "width": 167.96875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 293,
+        "text": "Explore cacao as currency",
+        "width": 225.578125
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 293,
+        "text": "Explore chocolate in Europe",
+        "width": 242.484375
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 293,
+        "text": "Explore the chocolate kitchens",
+        "width": 264.171875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 293,
+        "text": "Explore chocolate-making innovations",
+        "width": 293
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 293,
+        "text": "Explore a chocolate brand timeline",
+        "width": 293
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 293,
+        "text": "Explore chocolate’s global growth",
+        "width": 288.46875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 293,
+        "text": "Explore fine chocolate and craft",
+        "width": 270.9375
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 293,
+        "text": "Explore cocoa sustainability",
+        "width": 238.796875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 293,
+        "text": "Explore cocoa traceability",
+        "width": 221.6875
+      }
+    ],
+    "width": 390
+  },
+  {
+    "chapters": [
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1500 BCE–900 CE Mesoamerica Ancient Origins"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1428–1521 CE Central Mexico The Aztec Empire"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1500s From the Americas to Europe Chocolate Comes to Europe"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1600s–1700s European courts and chocolate houses A Taste Spreads"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1800s Factories and new technology The Industrial Revolution"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "1900s New recipes, familiar names Innovation and Iconic Brands"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Mid 1900s Chocolate around the world A Global Obsession"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Late 1900s Origin, flavor and craftsmanship Craft and Fine Chocolate"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "2000s Cacao communities and ecosystems Sustainability and Impact"
+      },
+      {
+        "gaps": [
+          16,
+          16
+        ],
+        "order": [
+          "history-era",
+          "history-location",
+          "history-chapter-title"
+        ],
+        "tag": "H3",
+        "text": "Today & Tomorrow Creativity and the future of chocolate A Sweeter Tomorrow"
+      }
+    ],
+    "howActions": [
+      {
+        "class": "button button-primary",
+        "href": "../our-craft/",
+        "text": "Explore Our Craft"
+      }
+    ],
+    "possibleHeadings": 0,
+    "scrollWidth": 305,
+    "sectionNav": [
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "How It’s Made"
+      },
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "Museum & Virtual Exhibition"
+      },
+      {
+        "color": "rgb(58, 23, 13)",
+        "line": "matrix(0, 0, 0, 1, 0, 0)",
+        "text": "Tours and Classes"
+      }
+    ],
+    "sourceLinks": [
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 231,
+        "text": "Explore the history",
+        "width": 167.96875
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 231,
+        "text": "Explore cacao as currency",
+        "width": 225.578125
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 231,
+        "text": "Explore chocolate in Europe",
+        "width": 231
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 231,
+        "text": "Explore the chocolate kitchens",
+        "width": 231
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 231,
+        "text": "Explore chocolate-making innovations",
+        "width": 231
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 231,
+        "text": "Explore a chocolate brand timeline",
+        "width": 231
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 231,
+        "text": "Explore chocolate’s global growth",
+        "width": 231
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 231,
+        "text": "Explore fine chocolate and craft",
+        "width": 231
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 231,
+        "text": "Explore cocoa sustainability",
+        "width": 231
+      },
+      {
+        "arrow": {
+          "focusable": "false",
+          "height": 12,
+          "hidden": "true",
+          "width": 12
+        },
+        "color": "rgb(184, 59, 40)",
+        "parentWidth": 231,
+        "text": "Explore cocoa traceability",
+        "width": 221.6875
+      }
+    ],
+    "width": 320
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "captionVisible": "visible",
+  "images": [
+    {
+      "loaded": true
+    },
+    {
+      "loaded": true
+    },
+    {
+      "loaded": true
+    }
+  ],
+  "scene": "history-scene",
+  "visuals": [
+    {
+      "animation": "none",
+      "opacity": "1"
+    },
+    {
+      "animation": "none",
+      "opacity": "1"
+    },
+    {
+      "animation": "none",
+      "opacity": "1"
+    }
+  ]
+}

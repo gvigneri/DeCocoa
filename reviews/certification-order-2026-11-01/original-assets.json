@@ -1,0 +1,22 @@
+[
+  {
+    "file": "certification-cacao-trace.png",
+    "sha256": "9d4f54ac30f600b1d3b5c761e3d0f1d7b470cf9a8533197a76d1dec12f2366e7"
+  },
+  {
+    "file": "certification-rainforest-alliance.png",
+    "sha256": "a02b39be75742c758aaa2d2c21b22e6a787fd6616af146d7f8ca897322ed9221"
+  },
+  {
+    "file": "certification-sqf.png",
+    "sha256": "31740b11dbfd3ee2971e0911fda27fb59b2dd99928873e34b0e5def1d3fdbeb6"
+  },
+  {
+    "file": "certification-haccp.png",
+    "sha256": "b788ae11997dc92cd7721653538d324efea4f40b206e4cb0d9026392c9882bec"
+  },
+  {
+    "file": "certification-ou-kosher.png",
+    "sha256": "4fb0b2da010bf35f7338ad3cf653589a92f6486cba59d00988cbe4143b542766"
+  }
+]

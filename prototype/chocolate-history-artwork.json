@@ -1,0 +1,216 @@
+{
+  "assets": [
+    {
+      "chapter": "01-origins",
+      "role": "main",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-69b447b9-6a06-4ecd-9198-a53c7cd4cec2.png",
+      "name": "cacao-pods-and-leaves",
+      "large": 1280,
+      "small": 640,
+      "decorative": false,
+      "alt": "Illustration of cacao pods, one opened to reveal pale pulp, with green cacao leaves.",
+      "interpretation": "Interpretive cacao illustration."
+    },
+    {
+      "chapter": "01-origins",
+      "role": "vessel",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-d363653a-e3a2-4afa-9390-f4a8153755a9.png",
+      "name": "ceramic-bowl",
+      "large": 600,
+      "small": 300,
+      "decorative": true,
+      "alt": "",
+      "interpretation": "Generic interpretive vessel, not a verified historical replica."
+    },
+    {
+      "chapter": "01-origins",
+      "role": "beans",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-66946a6c-16c4-4c42-9f49-e18b0641f500.png",
+      "name": "cacao-beans",
+      "large": 400,
+      "small": 200,
+      "decorative": true,
+      "alt": "",
+      "interpretation": "Interpretive cacao illustration."
+    },
+    {
+      "chapter": "03-europe",
+      "role": "main",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-92cf0fc0-104f-48fc-9cf3-5e5ecf3e0def.png",
+      "name": "sailing-ship",
+      "large": 1280,
+      "small": 640,
+      "decorative": false,
+      "alt": "Illustration of a wooden sailing ship with cream sails and detailed rigging.",
+      "interpretation": "Interpretive early sailing ship; not a reconstruction of a named vessel."
+    },
+    {
+      "chapter": "03-europe",
+      "role": "sack",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-b753b183-d730-43af-854f-01dbedaaff05.png",
+      "name": "cacao-sack",
+      "large": 600,
+      "small": 300,
+      "decorative": true,
+      "alt": "",
+      "interpretation": "Interpretive sack of cacao beans; not a verified historical artifact."
+    },
+    {
+      "chapter": "04-taste-spreads",
+      "role": "main",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-baff2633-1655-4351-8f99-480719f62859.png",
+      "name": "chocolate-at-court",
+      "large": 1280,
+      "small": 640,
+      "decorative": false,
+      "alt": "Illustration of a seated woman in European court dress drinking chocolate from a porcelain cup.",
+      "interpretation": "Interpretive European court vignette; not a portrait of a named historical person."
+    },
+    {
+      "chapter": "04-taste-spreads",
+      "role": "service",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-463d1c80-be5b-45f8-b8a0-9c88fb681f77.png",
+      "name": "chocolate-pot-and-cup",
+      "large": 600,
+      "small": 300,
+      "decorative": true,
+      "alt": "",
+      "interpretation": "Interpretive chocolate pot and porcelain cup; not a verified artifact reconstruction."
+    },
+    {
+      "chapter": "04-taste-spreads",
+      "role": "spices",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-8415c7ee-ddea-4471-b963-dcdcf91e5d00.png",
+      "name": "cacao-and-spices",
+      "large": 400,
+      "small": 200,
+      "decorative": true,
+      "alt": "",
+      "interpretation": "Interpretive cacao pod, cinnamon and vanilla grouping."
+    },
+    {
+      "chapter": "02-aztec-empire",
+      "role": "main",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-e333b1eb-eca3-4433-b3a3-4f5efb67d733.png",
+      "name": "cacao-drinker",
+      "large": 1280,
+      "small": 640,
+      "decorative": false,
+      "alt": "Interpretive illustration of an Aztec cacao drinker seated with a ceramic cup.",
+      "interpretation": "Interpretive Aztec cacao-drinking vignette; not a verified costume or artifact reconstruction. Margin-corrected generation preserves full feather and foot silhouette."
+    },
+    {
+      "chapter": "05-industry",
+      "role": "main",
+      "name": "industrial-cacao-mill",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-5d0826d4-3e93-4e00-84fe-21ebb49c17b8.png",
+      "large": 1280,
+      "small": 640,
+      "decorative": false,
+      "alt": "Illustration of a copper-and-iron cacao mill with beans in its hopper.",
+      "interpretation": "Interpretive industrial machinery; not a reconstruction of a verified historical device."
+    },
+    {
+      "chapter": "06-innovation",
+      "role": "main",
+      "name": "chocolate-packaging",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-e9a32a9b-eb68-4e74-a8c0-a6a499a13d71.png",
+      "large": 1280,
+      "small": 640,
+      "decorative": false,
+      "alt": "Illustration of a chocolate assortment box and unbranded wrapped chocolate bars.",
+      "interpretation": "Interpretive chocolate packaging and assortment; no third-party brands or logos."
+    },
+    {
+      "chapter": "07-global",
+      "role": "main",
+      "name": "decorative-globe",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-08211fa8-bb70-424f-914b-42f443fffcab.png",
+      "large": 1280,
+      "small": 640,
+      "decorative": false,
+      "alt": "Illustration of a decorative globe with gold landforms on a dark blue sphere.",
+      "interpretation": "Decorative globe, not a scientific or cartographic reference."
+    },
+    {
+      "chapter": "08-craft",
+      "role": "main",
+      "name": "chocolatier-at-work",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-ecf0195c-d67c-4d20-838d-e334cfb02e70.png",
+      "large": 1280,
+      "small": 640,
+      "decorative": false,
+      "alt": "Illustration of a chocolatier dipping chocolates at a wooden worktable.",
+      "interpretation": "Interpretive chocolatier vignette. Corrected generation preserves the complete head and table legs."
+    },
+    {
+      "chapter": "09-growing",
+      "role": "main",
+      "name": "fruiting-cacao-tree",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-21546bf3-9a1a-49cc-8bc9-44523c2886b5.png",
+      "large": 1280,
+      "small": 640,
+      "decorative": false,
+      "alt": "Illustration of a cacao tree with green leaves and ripe red and yellow pods.",
+      "interpretation": "Interpretive cacao botanical illustration."
+    },
+    {
+      "chapter": "10-today",
+      "role": "main",
+      "name": "chocolate-sculpture",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-f313dedb-12d6-40cb-b70b-8bd2382caf7a.png",
+      "large": 1280,
+      "small": 640,
+      "decorative": false,
+      "alt": "Illustration of an abstract ribbon sculpture made from chocolate.",
+      "interpretation": "Interpretive contemporary chocolate sculpture; not an existing named work."
+    },
+    {
+      "chapter": "shared",
+      "role": "bar",
+      "name": "segmented-chocolate-bar",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-7d27498a-fe25-4558-abc2-65e892b63f54.png",
+      "large": 600,
+      "small": 300,
+      "decorative": true,
+      "alt": "",
+      "interpretation": "Unbranded segmented chocolate bar, reusable decorative support."
+    },
+    {
+      "chapter": "shared",
+      "role": "truffles",
+      "name": "assorted-truffles",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-d8cb6e75-6d30-49e5-a4fa-d254c31edc58.png",
+      "large": 600,
+      "small": 300,
+      "decorative": true,
+      "alt": "",
+      "interpretation": "Unbranded assorted chocolates, reusable decorative support."
+    },
+    {
+      "chapter": "09-growing",
+      "role": "seedling",
+      "name": "cacao-seedling",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-55c08705-103f-4242-b6be-46c2352cc480.png",
+      "large": 400,
+      "small": 200,
+      "decorative": true,
+      "alt": "",
+      "interpretation": "Interpretive cacao seedling, decorative support."
+    }
+  ],
+  "rejected_sources": [
+    {
+      "chapter": "02-aztec-empire",
+      "name": "cacao-drinker-rejected-framing",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-d187766a-7205-4307-a62c-53cc5373d80d.png",
+      "status": "Rejected framing; replaced by margin-corrected cacao-drinker production source. No runtime use."
+    },
+    {
+      "chapter": "08-craft",
+      "name": "chocolatier-at-work-rejected-framing",
+      "source": "C:/Users/guyta/.codex/generated_images/01a192b0-b823-7cc3-88aa-8f64ab34ef07/exec-c567df55-e52f-4347-8f3a-0b67c90673d7.png",
+      "status": "Superseded framing with clipped head and table legs; replaced by corrected chocolatier-at-work source. No runtime use."
+    }
+  ]
+}

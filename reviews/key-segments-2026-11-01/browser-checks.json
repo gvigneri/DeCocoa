@@ -1,0 +1,336 @@
+{
+  "responsive": [
+    {
+      "cards": [
+        {
+          "action": "Explore Partner Brands",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 377.59375,
+            "width": 418.6875
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Discover the ingredient specialists and food brands connected to DeCocoa’s chocolate craft.",
+          "href": "#partners",
+          "nestedLinks": 0,
+          "title": "Partner Brands"
+        },
+        {
+          "action": "Explore Decor",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 377.59375,
+            "width": 418.6875
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Chocolate décor for professionals, with detail and finish at the center of the idea.",
+          "href": "our-craft/#our-segments",
+          "nestedLinks": 0,
+          "title": "Decor"
+        },
+        {
+          "action": "Explore Fulfillment",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 377.59375,
+            "width": 418.6875
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Explore food and gourmet fulfillment and how it relates to your project.",
+          "href": "our-craft/#our-segments",
+          "nestedLinks": 0,
+          "title": "Fulfillment"
+        }
+      ],
+      "overflow": false,
+      "title": "Our Key Segments",
+      "width": 1440
+    },
+    {
+      "cards": [
+        {
+          "action": "Explore Partner Brands",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 337.15625,
+            "width": 327
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Discover the ingredient specialists and food brands connected to DeCocoa’s chocolate craft.",
+          "href": "#partners",
+          "nestedLinks": 0,
+          "title": "Partner Brands"
+        },
+        {
+          "action": "Explore Decor",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 337.15625,
+            "width": 327
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Chocolate décor for professionals, with detail and finish at the center of the idea.",
+          "href": "our-craft/#our-segments",
+          "nestedLinks": 0,
+          "title": "Decor"
+        },
+        {
+          "action": "Explore Fulfillment",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 337.15625,
+            "width": 327
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Explore food and gourmet fulfillment and how it relates to your project.",
+          "href": "our-craft/#our-segments",
+          "nestedLinks": 0,
+          "title": "Fulfillment"
+        }
+      ],
+      "overflow": false,
+      "title": "Our Key Segments",
+      "width": 390
+    },
+    {
+      "cards": [
+        {
+          "action": "Explore Partner Brands",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 377.59375,
+            "width": 441.328125
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Discover the ingredient specialists and food brands connected to DeCocoa’s chocolate craft.",
+          "href": "#partners",
+          "nestedLinks": 0,
+          "title": "Partner Brands"
+        },
+        {
+          "action": "Explore Decor",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 377.59375,
+            "width": 441.328125
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Chocolate décor for professionals, with detail and finish at the center of the idea.",
+          "href": "our-craft/#our-segments",
+          "nestedLinks": 0,
+          "title": "Decor"
+        },
+        {
+          "action": "Explore Fulfillment",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 377.59375,
+            "width": 441.34375
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Explore food and gourmet fulfillment and how it relates to your project.",
+          "href": "our-craft/#our-segments",
+          "nestedLinks": 0,
+          "title": "Fulfillment"
+        }
+      ],
+      "overflow": false,
+      "title": "Our Key Segments",
+      "width": 1920
+    },
+    {
+      "cards": [
+        {
+          "action": "Explore Partner Brands",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 317.96875,
+            "width": 688.5
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Discover the ingredient specialists and food brands connected to DeCocoa’s chocolate craft.",
+          "href": "#partners",
+          "nestedLinks": 0,
+          "title": "Partner Brands"
+        },
+        {
+          "action": "Explore Decor",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 317.96875,
+            "width": 688.5
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Chocolate décor for professionals, with detail and finish at the center of the idea.",
+          "href": "our-craft/#our-segments",
+          "nestedLinks": 0,
+          "title": "Decor"
+        },
+        {
+          "action": "Explore Fulfillment",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 290.78125,
+            "width": 688.5
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Explore food and gourmet fulfillment and how it relates to your project.",
+          "href": "our-craft/#our-segments",
+          "nestedLinks": 0,
+          "title": "Fulfillment"
+        }
+      ],
+      "overflow": false,
+      "title": "Our Key Segments",
+      "width": 768
+    },
+    {
+      "cards": [
+        {
+          "action": "Explore Partner Brands",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 388.34375,
+            "width": 265
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Discover the ingredient specialists and food brands connected to DeCocoa’s chocolate craft.",
+          "href": "#partners",
+          "nestedLinks": 0,
+          "title": "Partner Brands"
+        },
+        {
+          "action": "Explore Decor",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 364.34375,
+            "width": 265
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Chocolate décor for professionals, with detail and finish at the center of the idea.",
+          "href": "our-craft/#our-segments",
+          "nestedLinks": 0,
+          "title": "Decor"
+        },
+        {
+          "action": "Explore Fulfillment",
+          "background": "rgb(58, 23, 13)",
+          "box": {
+            "height": 337.15625,
+            "width": 265
+          },
+          "colors": [
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)",
+            "rgb(247, 239, 230)"
+          ],
+          "contained": true,
+          "description": "Explore food and gourmet fulfillment and how it relates to your project.",
+          "href": "our-craft/#our-segments",
+          "nestedLinks": 0,
+          "title": "Fulfillment"
+        }
+      ],
+      "overflow": false,
+      "title": "Our Key Segments",
+      "width": 320
+    }
+  ],
+  "keyboard": {
+    "background": "rgb(58, 23, 13)",
+    "color": "rgb(247, 239, 230)",
+    "focusVisible": true,
+    "title": "Decor",
+    "underline": "underline"
+  },
+  "partnerDestination": {
+    "focused": "Connections & collaboration Our Partners",
+    "hash": "#partners"
+  },
+  "craftDestination": "http://127.0.0.1:4174/our-craft/#our-segments"
+}

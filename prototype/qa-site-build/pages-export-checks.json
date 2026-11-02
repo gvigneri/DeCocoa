@@ -1,15 +1,15 @@
 {
   "base_path": "/DeCocoa/",
   "content_pages": 18,
-  "artifact_files": 76,
-  "local_references_checked": 1591,
-  "runtime_resources": 34,
+  "artifact_files": 118,
+  "local_references_checked": 1692,
+  "runtime_resources": 76,
   "nested_404_recovery": "pass",
   "javascript_context": {
     "compatibility_context_cases": 20,
     "legacy_context_cases": 24,
     "project_context_url": "pass"
   },
-  "loopback_http_cases": 102,
+  "loopback_http_cases": 144,
   "errors": []
 }

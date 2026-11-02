@@ -1,0 +1,432 @@
+[
+  {
+    "background": "rgb(232, 121, 51)",
+    "copy": {
+      "box": {
+        "bottom": 685.796875,
+        "height": 494,
+        "right": 673.375,
+        "width": 612.90625,
+        "x": 60.46875,
+        "y": 191.796875
+      },
+      "colors": [
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)"
+      ],
+      "paragraphs": [
+        "We are committed to investing in our people and strengthening our community.",
+        "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+      ]
+    },
+    "cta": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(58, 23, 13)",
+      "href": "our-people/",
+      "inner": "rgb(58, 23, 13)"
+    },
+    "image": {
+      "box": {
+        "bottom": 667.890625,
+        "height": 458.203125,
+        "right": 1364.53125,
+        "width": 612.921875,
+        "x": 751.609375,
+        "y": 209.6875
+      },
+      "fit": "contain",
+      "loaded": true,
+      "mask": "none",
+      "natural": [
+        931,
+        696
+      ],
+      "position": "static",
+      "source": "http://127.0.0.1:4174/assets/images/chocolate-craft.webp"
+    },
+    "overflow": false,
+    "panel": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "box": {
+        "bottom": 685.796875,
+        "height": 494,
+        "right": 1364.53125,
+        "width": 1304.0625,
+        "x": 60.46875,
+        "y": 191.796875
+      },
+      "shadow": "none"
+    },
+    "patterns": 0,
+    "photo": {
+      "box": {
+        "bottom": 667.890625,
+        "height": 458.203125,
+        "right": 1364.53125,
+        "width": 612.921875,
+        "x": 751.609375,
+        "y": 209.6875
+      },
+      "clip": "none",
+      "mask": "none",
+      "overflow": "visible"
+    },
+    "section": {
+      "bottom": 770.796875,
+      "height": 664,
+      "right": 1425,
+      "width": 1425,
+      "x": 0,
+      "y": 106.796875
+    },
+    "width": 1440
+  },
+  {
+    "background": "rgb(232, 121, 51)",
+    "copy": {
+      "box": {
+        "bottom": 445.65625,
+        "height": 316.90625,
+        "right": 720.75,
+        "width": 688.5,
+        "x": 32.25,
+        "y": 128.75
+      },
+      "colors": [
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)"
+      ],
+      "paragraphs": [
+        "We are committed to investing in our people and strengthening our community.",
+        "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+      ]
+    },
+    "cta": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(58, 23, 13)",
+      "href": "our-people/",
+      "inner": "rgb(58, 23, 13)"
+    },
+    "image": {
+      "box": {
+        "bottom": 995.359375,
+        "height": 514.703125,
+        "right": 720.75,
+        "width": 688.5,
+        "x": 32.25,
+        "y": 480.65625
+      },
+      "fit": "contain",
+      "loaded": true,
+      "mask": "none",
+      "natural": [
+        931,
+        696
+      ],
+      "position": "static",
+      "source": "http://127.0.0.1:4174/assets/images/chocolate-craft.webp"
+    },
+    "overflow": false,
+    "panel": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "box": {
+        "bottom": 995.359375,
+        "height": 866.609375,
+        "right": 720.75,
+        "width": 688.5,
+        "x": 32.25,
+        "y": 128.75
+      },
+      "shadow": "none"
+    },
+    "patterns": 0,
+    "photo": {
+      "box": {
+        "bottom": 995.359375,
+        "height": 514.703125,
+        "right": 720.75,
+        "width": 688.5,
+        "x": 32.25,
+        "y": 480.65625
+      },
+      "clip": "none",
+      "mask": "none",
+      "overflow": "visible"
+    },
+    "section": {
+      "bottom": 1055.359375,
+      "height": 986.609375,
+      "right": 753,
+      "width": 753,
+      "x": 0,
+      "y": 68.75
+    },
+    "width": 768
+  },
+  {
+    "background": "rgb(232, 121, 51)",
+    "copy": {
+      "box": {
+        "bottom": 611.65625,
+        "height": 497.4375,
+        "right": 351,
+        "width": 327,
+        "x": 24,
+        "y": 114.21875
+      },
+      "colors": [
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)"
+      ],
+      "paragraphs": [
+        "We are committed to investing in our people and strengthening our community.",
+        "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+      ]
+    },
+    "cta": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(58, 23, 13)",
+      "href": "our-people/",
+      "inner": "rgb(58, 23, 13)"
+    },
+    "image": {
+      "box": {
+        "bottom": 886.109375,
+        "height": 244.453125,
+        "right": 351,
+        "width": 327,
+        "x": 24,
+        "y": 641.65625
+      },
+      "fit": "contain",
+      "loaded": true,
+      "mask": "none",
+      "natural": [
+        931,
+        696
+      ],
+      "position": "static",
+      "source": "http://127.0.0.1:4174/assets/images/chocolate-craft.webp"
+    },
+    "overflow": false,
+    "panel": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "box": {
+        "bottom": 886.109375,
+        "height": 771.890625,
+        "right": 351,
+        "width": 327,
+        "x": 24,
+        "y": 114.21875
+      },
+      "shadow": "none"
+    },
+    "patterns": 0,
+    "photo": {
+      "box": {
+        "bottom": 886.109375,
+        "height": 244.453125,
+        "right": 351,
+        "width": 327,
+        "x": 24,
+        "y": 641.65625
+      },
+      "clip": "none",
+      "mask": "none",
+      "overflow": "visible"
+    },
+    "section": {
+      "bottom": 931.109375,
+      "height": 861.890625,
+      "right": 375,
+      "width": 375,
+      "x": 0,
+      "y": 69.21875
+    },
+    "width": 390
+  },
+  {
+    "background": "rgb(232, 121, 51)",
+    "copy": {
+      "box": {
+        "bottom": 600.421875,
+        "height": 524.3125,
+        "right": 285,
+        "width": 265,
+        "x": 20,
+        "y": 76.109375
+      },
+      "colors": [
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)"
+      ],
+      "paragraphs": [
+        "We are committed to investing in our people and strengthening our community.",
+        "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+      ]
+    },
+    "cta": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(58, 23, 13)",
+      "href": "our-people/",
+      "inner": "rgb(58, 23, 13)"
+    },
+    "image": {
+      "box": {
+        "bottom": 828.53125,
+        "height": 198.109375,
+        "right": 285,
+        "width": 265,
+        "x": 20,
+        "y": 630.421875
+      },
+      "fit": "contain",
+      "loaded": true,
+      "mask": "none",
+      "natural": [
+        931,
+        696
+      ],
+      "position": "static",
+      "source": "http://127.0.0.1:4174/assets/images/chocolate-craft.webp"
+    },
+    "overflow": false,
+    "panel": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "box": {
+        "bottom": 828.53125,
+        "height": 752.421875,
+        "right": 285,
+        "width": 265,
+        "x": 20,
+        "y": 76.109375
+      },
+      "shadow": "none"
+    },
+    "patterns": 0,
+    "photo": {
+      "box": {
+        "bottom": 828.53125,
+        "height": 198.109375,
+        "right": 285,
+        "width": 265,
+        "x": 20,
+        "y": 630.421875
+      },
+      "clip": "none",
+      "mask": "none",
+      "overflow": "visible"
+    },
+    "section": {
+      "bottom": 873.53125,
+      "height": 842.421875,
+      "right": 305,
+      "width": 305,
+      "x": 0,
+      "y": 31.109375
+    },
+    "width": 320
+  },
+  {
+    "background": "rgb(232, 121, 51)",
+    "copy": {
+      "box": {
+        "bottom": 719.078125,
+        "height": 503.875,
+        "right": 911.34375,
+        "width": 644.84375,
+        "x": 266.5,
+        "y": 215.203125
+      },
+      "colors": [
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)"
+      ],
+      "paragraphs": [
+        "We are committed to investing in our people and strengthening our community.",
+        "Rooted in Rochester, NY with a global perspective, we support local initiatives, foster a culture of inclusion, and create meaningful impact where we live and work."
+      ]
+    },
+    "cta": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(58, 23, 13)",
+      "href": "our-people/",
+      "inner": "rgb(58, 23, 13)"
+    },
+    "image": {
+      "box": {
+        "bottom": 708.171875,
+        "height": 482.0625,
+        "right": 1638.5,
+        "width": 644.84375,
+        "x": 993.65625,
+        "y": 226.109375
+      },
+      "fit": "contain",
+      "loaded": true,
+      "mask": "none",
+      "natural": [
+        931,
+        696
+      ],
+      "position": "static",
+      "source": "http://127.0.0.1:4174/assets/images/chocolate-craft.webp"
+    },
+    "overflow": false,
+    "panel": {
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "box": {
+        "bottom": 719.078125,
+        "height": 503.875,
+        "right": 1638.5,
+        "width": 1372,
+        "x": 266.5,
+        "y": 215.203125
+      },
+      "shadow": "none"
+    },
+    "patterns": 0,
+    "photo": {
+      "box": {
+        "bottom": 708.171875,
+        "height": 482.0625,
+        "right": 1638.5,
+        "width": 644.84375,
+        "x": 993.65625,
+        "y": 226.109375
+      },
+      "clip": "none",
+      "mask": "none",
+      "overflow": "visible"
+    },
+    "section": {
+      "bottom": 804.078125,
+      "height": 673.875,
+      "right": 1905,
+      "width": 1905,
+      "x": 0,
+      "y": 130.203125
+    },
+    "width": 1920
+  }
+]

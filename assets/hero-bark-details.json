@@ -1,0 +1,212 @@
+{
+  "reference_original": "C:\\Users\\guyta\\Desktop\\chocolate-bark-no-shadow.webp",
+  "reference": {
+    "file": "brand/source/hero-bark-2026-11-01/chocolate-bark-no-shadow-reference.webp",
+    "width": 428,
+    "height": 527,
+    "mode": "RGBA",
+    "alpha_bounds": [
+      0,
+      0,
+      428,
+      527
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "bytes": 330284,
+    "sha256": "608b1d57b97ade479c5946d27fd783c651d77960ecfdab8a1cf1a70b9c699790"
+  },
+  "operation": "Byte-identical source archives; proportional Lanczos runtime resizing and lossless alpha WebP encoding only. Full source canvas retained; no crop or retouching.",
+  "assets": [
+    {
+      "id": "nut-bark",
+      "source": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-a014f3d9-d58d-429e-b384-0b23909cbc2f.png",
+      "original": {
+        "file": "brand/source/hero-bark-2026-11-01/nut-bark-generated-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          17,
+          1238,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1600846,
+        "sha256": "3f0b6ed1eae906c04becc19bf9278e8874c78d84a6278528dab46cd2539dbd81"
+      },
+      "production": {
+        "file": "assets/images/hero-bark/nut-bark.webp",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          17,
+          1238,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1123786,
+        "sha256": "ae7e43a1020a5c5d6574589d1dbfd061aef4e80740c18a49f87a27ddd68baf30"
+      },
+      "small": {
+        "file": "assets/images/hero-bark/nut-bark-640.webp",
+        "width": 640,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          12,
+          11,
+          631,
+          628
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 319862,
+        "sha256": "650b87466ada48013cf8273f70d5948a5dd1fc6f5c4155df676eb904bfffe6d0"
+      },
+      "alt": "Chocolate bark with almonds and hazelnuts.",
+      "motion_class": "pretzel-drizzle",
+      "status": "generated original; alpha and responsive implementation QA passed; pending Guy artwork approval"
+    },
+    {
+      "id": "pistachio-bark",
+      "source": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-23920235-fc54-43e4-984f-9cc6fea6292c.png",
+      "original": {
+        "file": "brand/source/hero-bark-2026-11-01/pistachio-bark-generated-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          17,
+          1240,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1539470,
+        "sha256": "c65c47a6c6088a21450026c4fe04e32021c438538c7bc0a598a537fc0463974b"
+      },
+      "production": {
+        "file": "assets/images/hero-bark/pistachio-bark.webp",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          17,
+          1240,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1036676,
+        "sha256": "5651589b773b55d7f69a3d6d48b23618545017f6ceb1a1849616fcbb992f3bb6"
+      },
+      "small": {
+        "file": "assets/images/hero-bark/pistachio-bark-640.webp",
+        "width": 640,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          13,
+          9,
+          626,
+          633
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 301706,
+        "sha256": "28ba3145232102d088761a35206a5305b8d02ecb044afab6a0291d2730efc3bd"
+      },
+      "alt": "Chocolate bark with pistachios and almonds.",
+      "motion_class": "pretzel-chunky",
+      "status": "generated original; alpha and responsive implementation QA passed; pending Guy artwork approval"
+    },
+    {
+      "id": "crisp-bark",
+      "source": "C:\\Users\\guyta\\.codex\\generated_images\\01a192b0-b823-7cc3-88aa-8f64ab34ef07\\exec-381c3313-34a6-44d7-979a-fe720f6cf04f.png",
+      "original": {
+        "file": "brand/source/hero-bark-2026-11-01/crisp-bark-generated-original.png",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          17,
+          1236,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1467641,
+        "sha256": "56264ff091bc950916c97c3453b3224141ce88d64c708cf75d5fa5f9cfe87109"
+      },
+      "production": {
+        "file": "assets/images/hero-bark/crisp-bark.webp",
+        "width": 1254,
+        "height": 1254,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          17,
+          1236,
+          1254
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 1025530,
+        "sha256": "7dc4ac05d5adf66f5ea2e3aa048ab4c4e235b3ad273d5765c5c6d4e94ef6f1f8"
+      },
+      "small": {
+        "file": "assets/images/hero-bark/crisp-bark-640.webp",
+        "width": 640,
+        "height": 640,
+        "mode": "RGBA",
+        "alpha_bounds": [
+          0,
+          16,
+          631,
+          632
+        ],
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "bytes": 298894,
+        "sha256": "e1854131727fd28a11316b5d54c3672b47efd44b445c837548852aa5d41c63b5"
+      },
+      "alt": "Chocolate bark with a crisp golden filling.",
+      "motion_class": "pretzel-sprinkles",
+      "status": "generated original; alpha and responsive implementation QA passed; pending Guy artwork approval"
+    }
+  ],
+  "generation_record": "handoff/hero-bark-generation-2026-11-01.json",
+  "qa_evidence": [
+    "reviews/hero-bark-2026-11-01/alpha-qa.png",
+    "reviews/hero-bark-2026-11-01/browser-checks.json"
+  ]
+}

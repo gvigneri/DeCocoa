@@ -1,0 +1,36 @@
+{
+  "heading": "Experience Center",
+  "intro_paragraphs": [
+    "Visit our Craft your own Chocolate Bar and experience a world of chocolate.",
+    "Let our Chocolate Crafters introduce you to the art of the chocolatier.",
+    "Be sure to craft your own chocolate bar and build your own Gift Box."
+  ],
+  "experience_section": {
+    "title": "Experience Center",
+    "paragraphs": [
+      "Experience our virtual self guided exhibition to learn interesting facts about the History of Chocolate and how it is made.",
+      "Be sure to experience our Green Screen Photo Room and choose a selection of backdrops to choose from."
+    ]
+  },
+  "process_section": {
+    "title": "How its Made",
+    "planning_note": "We should consider a small intro of why our process makes chocolate “deliciousness” etc",
+    "planning_note_status": "User explicitly selected: Start with the seven steps; leave the intro for later.",
+    "steps": [
+      {"title": "Picking", "text": "Ripe cocoa pods are cut by hand. Only ready pods are chosen. The tree is protected."},
+      {"title": "Harversting", "text": "Pods are gathered and carried from the field. Freshness matters. Flavor starts now."},
+      {"title": "Fermentation", "text": "Beans are removed and left to ferment. Heat builds. Flavor develops."},
+      {"title": "Drying", "text": "Beans dry in the sun. Moisture fades. The flavor settles."},
+      {"title": "Roasting", "text": "Heat unlocks cocoa flavor.Aromas deepen. Character forms."},
+      {"title": "Griding and Coaching", "text": "Beans become chocolate. Time creates smooth texture. Flavor finds balance."},
+      {"title": "Tempering", "text": "Chocolate is heated and cooled. It gains shine and snap. Ready to enjoy."}
+    ]
+  },
+  "tours_section": {
+    "title": "Tours and Classes",
+    "paragraphs": [
+      "Book for a Factory tour or Chocolate Crafting Classes & tasting sessions and let our Chocolate Crafters introduce you to the art of Chocolate Crafting."
+    ]
+  },
+  "scope": "Experience Center page only. Preserve Museum & Virtual Exhibition and its complete timeline unchanged. Preserve supplied wording, capitalization, punctuation and spelling. Planning-note handling is separate from visitor copy."
+}

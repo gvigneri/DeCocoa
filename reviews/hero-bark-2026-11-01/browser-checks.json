@@ -1,0 +1,504 @@
+{
+  "responsive": [
+    {
+      "art": {
+        "bottom": 957.9375,
+        "height": 650,
+        "right": 1364.53125,
+        "width": 638.4375,
+        "x": 726.09375,
+        "y": 307.9375
+      },
+      "background": "rgb(232, 121, 51)",
+      "colors": [
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)",
+        "rgb(58, 23, 13)"
+      ],
+      "copy": {
+        "bottom": 836.125,
+        "height": 406.375,
+        "right": 668.5,
+        "width": 608.03125,
+        "x": 60.46875,
+        "y": 429.75
+      },
+      "cta": {
+        "border": "rgb(58, 23, 13)",
+        "color": "rgb(58, 23, 13)",
+        "href": "lets-talk/#inquiry",
+        "innerBorder": "rgb(58, 23, 13)"
+      },
+      "hero": {
+        "bottom": 1002.9375,
+        "height": 740,
+        "right": 1425,
+        "width": 1425,
+        "x": 0,
+        "y": 262.9375
+      },
+      "images": [
+        {
+          "box": {
+            "bottom": 784.2613220214844,
+            "height": 650.8350830078125,
+            "right": 1383.47998046875,
+            "width": 650.8349609375,
+            "x": 732.64501953125,
+            "y": 133.42623901367188
+          },
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/nut-bark.webp"
+        },
+        {
+          "box": {
+            "bottom": 1027.2349853515625,
+            "height": 642.782470703125,
+            "right": 1634.8287353515625,
+            "width": 642.782470703125,
+            "x": 992.0462646484376,
+            "y": 384.4525146484375
+          },
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/pistachio-bark.webp"
+        },
+        {
+          "box": {
+            "bottom": 1222.5738525390625,
+            "height": 617.460205078125,
+            "right": 1366.7926025390625,
+            "width": 617.460205078125,
+            "x": 749.3323974609375,
+            "y": 605.1136474609375
+          },
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/crisp-bark.webp"
+        }
+      ],
+      "motion": [
+        {
+          "delay": "0s",
+          "duration": "1.2s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "state": "running"
+        },
+        {
+          "delay": "0.1s",
+          "duration": "1.3s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "state": "running"
+        },
+        {
+          "delay": "0.2s",
+          "duration": "1.4s",
+          "easing": "cubic-bezier(0.12, 0.72, 0.18, 1)",
+          "state": "running"
+        }
+      ],
+      "overflow": false,
+      "panel": "rgba(0, 0, 0, 0)",
+      "patternCount": 0,
+      "width": 1440
+    },
+    {
+      "art": {
+        "bottom": 957.9375,
+        "height": 650,
+        "right": 1638.484375,
+        "width": 669.9375,
+        "x": 968.546875,
+        "y": 307.9375
+      },
+      "artOverflow": "visible",
+      "copy": {
+        "bottom": 847.734375,
+        "height": 429.59375,
+        "right": 904.546875,
+        "width": 638.046875,
+        "x": 266.5,
+        "y": 418.140625
+      },
+      "copyBackground": "rgba(0, 0, 0, 0)",
+      "copyColor": "rgb(58, 23, 13)",
+      "hero": {
+        "bottom": 1002.9375,
+        "height": 740,
+        "right": 1905,
+        "width": 1905,
+        "x": 0,
+        "y": 262.9375
+      },
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/nut-bark.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/pistachio-bark.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/crisp-bark.webp"
+        }
+      ],
+      "motion": [
+        {
+          "delay": "0s",
+          "duration": "1.2s",
+          "state": "running"
+        },
+        {
+          "delay": "0.1s",
+          "duration": "1.3s",
+          "state": "running"
+        },
+        {
+          "delay": "0.2s",
+          "duration": "1.4s",
+          "state": "running"
+        }
+      ],
+      "overflow": false,
+      "width": 1920
+    },
+    {
+      "art": {
+        "bottom": 780.390625,
+        "height": 560,
+        "right": 720.734375,
+        "width": 336.90625,
+        "x": 383.828125,
+        "y": 220.390625
+      },
+      "artOverflow": "visible",
+      "copy": {
+        "bottom": 661.953125,
+        "height": 323.125,
+        "right": 353.109375,
+        "width": 320.859375,
+        "x": 32.25,
+        "y": 338.828125
+      },
+      "copyBackground": "rgba(0, 0, 0, 0)",
+      "copyColor": "rgb(58, 23, 13)",
+      "hero": {
+        "bottom": 825.390625,
+        "height": 650,
+        "right": 753,
+        "width": 753,
+        "x": 0,
+        "y": 175.390625
+      },
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/nut-bark.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/pistachio-bark.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/crisp-bark.webp"
+        }
+      ],
+      "motion": [
+        {
+          "delay": "0s",
+          "duration": "1.2s",
+          "state": "running"
+        },
+        {
+          "delay": "0.1s",
+          "duration": "1.3s",
+          "state": "running"
+        },
+        {
+          "delay": "0.2s",
+          "duration": "1.4s",
+          "state": "running"
+        }
+      ],
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "art": {
+        "bottom": 497.34375,
+        "height": 371.875,
+        "right": 375,
+        "width": 375,
+        "x": 0,
+        "y": 125.46875
+      },
+      "artOverflow": "clip",
+      "copy": {
+        "bottom": 816,
+        "height": 302.65625,
+        "right": 359,
+        "width": 343,
+        "x": 16,
+        "y": 513.34375
+      },
+      "copyBackground": "rgba(0, 0, 0, 0)",
+      "copyColor": "rgb(58, 23, 13)",
+      "hero": {
+        "bottom": 844,
+        "height": 718.53125,
+        "right": 375,
+        "width": 375,
+        "x": 0,
+        "y": 125.46875
+      },
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/nut-bark.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/pistachio-bark.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/crisp-bark.webp"
+        }
+      ],
+      "motion": [
+        {
+          "delay": "0s",
+          "duration": "1.2s",
+          "state": "running"
+        },
+        {
+          "delay": "0.1s",
+          "duration": "1.3s",
+          "state": "running"
+        },
+        {
+          "delay": "0.2s",
+          "duration": "1.4s",
+          "state": "running"
+        }
+      ],
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "art": {
+        "bottom": 358.296875,
+        "height": 240,
+        "right": 305,
+        "width": 305,
+        "x": 0,
+        "y": 118.296875
+      },
+      "artOverflow": "clip",
+      "copy": {
+        "bottom": 718.171875,
+        "height": 343.875,
+        "right": 289,
+        "width": 273,
+        "x": 16,
+        "y": 374.296875
+      },
+      "copyBackground": "rgba(0, 0, 0, 0)",
+      "copyColor": "rgb(58, 23, 13)",
+      "hero": {
+        "bottom": 746.171875,
+        "height": 627.875,
+        "right": 305,
+        "width": 305,
+        "x": 0,
+        "y": 118.296875
+      },
+      "images": [
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/nut-bark.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/pistachio-bark.webp"
+        },
+        {
+          "loaded": true,
+          "src": "http://127.0.0.1:4174/assets/images/hero-bark/crisp-bark.webp"
+        }
+      ],
+      "motion": [
+        {
+          "delay": "0s",
+          "duration": "1.2s",
+          "state": "running"
+        },
+        {
+          "delay": "0.1s",
+          "duration": "1.3s",
+          "state": "running"
+        },
+        {
+          "delay": "0.2s",
+          "duration": "1.4s",
+          "state": "running"
+        }
+      ],
+      "overflow": false,
+      "width": 320
+    }
+  ],
+  "keyboardFocus": {
+    "active": "Let’s Craft Something Together",
+    "background": "rgba(0, 0, 0, 0)",
+    "border": "rgb(58, 23, 13)",
+    "color": "rgb(58, 23, 13)",
+    "focusVisible": true,
+    "innerBorder": "rgb(58, 23, 13)",
+    "shadow": "none",
+    "transform": "none"
+  },
+  "ctaDestination": "http://127.0.0.1:4174/lets-talk/#inquiry",
+  "fallbacks": [
+    {
+      "mode": "no-script",
+      "result": {
+        "art": {
+          "bottom": 496.8125,
+          "height": 371.34375,
+          "right": 375,
+          "width": 375,
+          "x": 0,
+          "y": 125.46875
+        },
+        "artOverflow": "clip",
+        "copy": {
+          "bottom": 815.46875,
+          "height": 302.65625,
+          "right": 359,
+          "width": 343,
+          "x": 16,
+          "y": 512.8125
+        },
+        "copyBackground": "rgba(0, 0, 0, 0)",
+        "copyColor": "rgb(58, 23, 13)",
+        "hero": {
+          "bottom": 843.46875,
+          "height": 718,
+          "right": 375,
+          "width": 375,
+          "x": 0,
+          "y": 125.46875
+        },
+        "images": [
+          {
+            "loaded": true,
+            "src": "http://127.0.0.1:4175/assets/images/hero-bark/nut-bark-640.webp"
+          },
+          {
+            "loaded": true,
+            "src": "http://127.0.0.1:4175/assets/images/hero-bark/pistachio-bark-640.webp"
+          },
+          {
+            "loaded": true,
+            "src": "http://127.0.0.1:4175/assets/images/hero-bark/crisp-bark-640.webp"
+          }
+        ],
+        "motion": [
+          {
+            "delay": "0s",
+            "duration": "0s",
+            "state": "running"
+          },
+          {
+            "delay": "0s",
+            "duration": "0s",
+            "state": "running"
+          },
+          {
+            "delay": "0s",
+            "duration": "0s",
+            "state": "running"
+          }
+        ],
+        "overflow": false,
+        "width": 390
+      }
+    },
+    {
+      "mode": "large-text",
+      "result": {
+        "art": {
+          "bottom": 417.859375,
+          "height": 265.1875,
+          "right": 375,
+          "width": 375,
+          "x": 0,
+          "y": 152.671875
+        },
+        "artOverflow": "clip",
+        "copy": {
+          "bottom": 1210.046875,
+          "height": 776.1875,
+          "right": 359,
+          "width": 343,
+          "x": 16,
+          "y": 433.859375
+        },
+        "copyBackground": "rgba(0, 0, 0, 0)",
+        "copyColor": "rgb(58, 23, 13)",
+        "hero": {
+          "bottom": 1238.046875,
+          "height": 1085.375,
+          "right": 375,
+          "width": 375,
+          "x": 0,
+          "y": 152.671875
+        },
+        "images": [
+          {
+            "loaded": true,
+            "src": "http://127.0.0.1:4175/assets/images/hero-bark/nut-bark-640.webp"
+          },
+          {
+            "loaded": true,
+            "src": "http://127.0.0.1:4175/assets/images/hero-bark/pistachio-bark-640.webp"
+          },
+          {
+            "loaded": true,
+            "src": "http://127.0.0.1:4175/assets/images/hero-bark/crisp-bark-640.webp"
+          }
+        ],
+        "motion": [
+          {
+            "delay": "0s",
+            "duration": "1.2s",
+            "state": "running"
+          },
+          {
+            "delay": "0.1s",
+            "duration": "1.3s",
+            "state": "running"
+          },
+          {
+            "delay": "0.2s",
+            "duration": "1.4s",
+            "state": "running"
+          }
+        ],
+        "overflow": false,
+        "width": 390
+      }
+    }
+  ],
+  "offscreen": {
+    "heroInView": false,
+    "states": [
+      "paused",
+      "paused",
+      "paused"
+    ]
+  }
+}

@@ -5,117 +5,120 @@
       "route": "/",
       "file": "prototype/index.html",
       "title": "Experience. Chocolate.",
-      "sha256": "7bd8acb3dfb0712dc483332c6b00e5dfa3821c085922184cfff93e9126cfc5b8"
+      "sha256": "2f8d623f51344ca453c45dbaa3ce9fe37feca074378f56b981f954b742d5126b"
     },
     {
       "route": "/products/",
       "file": "prototype/products/index.html",
       "title": "Our Chocolate",
-      "sha256": "4f8f59d80d3deba0262f8a94f43307b3c5f2ae8cc84b4538dd729ac7677f91f5"
+      "sha256": "67f848304b353186a9744d2764fea4c18313b7fa3a2057306b72a0582e464671"
     },
     {
       "route": "/products/filled-chocolate/",
       "file": "prototype/products/filled-chocolate/index.html",
       "title": "Filled Chocolate",
-      "sha256": "6d0bd5cd5e6dfcd941d1d2cdcb98fe7399bc3c187a153e29362ffe5c3ba133d2"
+      "sha256": "774ce1d2bbcd2816def1aa32ede680bc73269ecda3b44d3bb92e02ec484f82ea"
     },
     {
       "route": "/products/chocolate-bar/",
       "file": "prototype/products/chocolate-bar/index.html",
       "title": "Chocolate Bar",
-      "sha256": "8d64db4d63a110320216250dff3327e6634058b53b8b60eee15135ac217e2ee5"
+      "sha256": "cd7a97b9b7f855689b7da0854e700d0ef4f9307a954e76331b83844d03d0ed22"
     },
     {
       "route": "/products/chocolate-drizzle/",
       "file": "prototype/products/chocolate-drizzle/index.html",
       "title": "Chocolate Drizzle",
-      "sha256": "7d7bafee11fbc8ebcaf8a6eb513de8ddcf2b946f5e19397565feed881047b8d5"
+      "sha256": "09f4bbe5d1b1f444e2ef5d6dd1ba5a9700a673ec376455008443bacff0c47ff9"
     },
     {
       "route": "/our-people/",
       "file": "prototype/our-people/index.html",
       "title": "Our People",
-      "sha256": "2b4f5b77d8a471ee8dbc4c4aca47b567a16832a38702304ddad94283d26102c5"
+      "sha256": "76c9c9cd59d550ae892419a7a8c82023b1f11fba493409a3c7e35da18f374988"
     },
     {
       "route": "/our-craft/",
       "file": "prototype/our-craft/index.html",
       "title": "Our Craft",
-      "sha256": "41c22d204b0404dd659aedd1376ea3b9fe351cc52f28fe4bd4ac5411229ed7c4"
+      "sha256": "bf12913da8893d092d9b848ebce78eea409bb0c83761f80904a275def7bae85b"
     },
     {
       "route": "/experience-center/",
       "file": "prototype/experience-center/index.html",
       "title": "Experience Center",
-      "sha256": "3e86ca7eb63c3fbe007dc859dd4383a5e0ff02b856d727c6cb8c338acf54a906"
+      "sha256": "e4eec72e29eacf2920f1a377eb8ea7ad33e0493e078dda7babbdf886c3fa940f"
     },
     {
       "route": "/gifting/",
       "file": "prototype/gifting/index.html",
       "title": "Chocolate Gifting",
-      "sha256": "39ad03249fa71ef7d1d172473d1257483ac3453e001bcf6b022d2dddce3666af"
+      "sha256": "4120a99931785bf100a0cb4c729e51d1beccbfce19b8e351fb2684f1f51fe6fd"
     },
     {
       "route": "/craft-your-own/",
       "file": "prototype/craft-your-own/index.html",
       "title": "Craft Your Own Chocolate",
-      "sha256": "8a37577412fa3f8cbd07cffd68beffc0e6a364d3b465d8ba99bf2908793fc8dc"
+      "sha256": "68e28bc7fadbdddd44393cf49da76186969b370c2ddd3427f73c9968a6519728"
     },
     {
       "route": "/fundraising/",
       "file": "prototype/fundraising/index.html",
       "title": "Chocolate Fundraising",
-      "sha256": "92cd37120c2c381afbbd712003202258fe1ac8d3cb6004165f1e6cec50bb569e"
+      "sha256": "9fed71e63cac8efb4e4bd3963c8b50f0f2819568d7c3c43f54b281a872eeb0f1"
     },
     {
       "route": "/wholesale/",
       "file": "prototype/wholesale/index.html",
       "title": "Wholesale Chocolate",
-      "sha256": "32bb1a7647bda87387ab05a5624185167d0f46258f9c00de1c2982d1a6a33cea"
+      "sha256": "b2f61bffbc3af2d0075b0503649116455f6da22257ba7a45ce2c9e48efb11db0"
     },
     {
       "route": "/b2b/",
       "file": "prototype/b2b/index.html",
       "title": "B2B Chocolate Projects",
-      "sha256": "9ba9df404e8a8badc830e1133b0b205db46faf23438ddf08ed8b6ea76de0699e"
+      "sha256": "5f5c0f9a0855554b175e143a856625eda3b188ff42fd2aad13932b1d960c5d01"
     },
     {
       "route": "/lets-talk/",
       "file": "prototype/lets-talk/index.html",
       "title": "Let's Talk",
-      "sha256": "1ed214fb549cd6b475b6549eb93fc17b657f67202a9878efbce69086249c965d"
+      "sha256": "b602b168bac50d4e1876d062566a8865577d8d0052d3d5d7638d070c04070774"
     },
     {
       "route": "/privacy-policy/",
       "file": "prototype/privacy-policy/index.html",
       "title": "Privacy Policy",
-      "sha256": "0b22d0f1a9be9e5ec80bc35fe4bbf8b66b9db85f231e98c43bff8f94dbddac29"
+      "sha256": "459ab52563aaa18a6970004ec8e6d316f015b627219a5ac9f423d1d604e0ee59"
     },
     {
       "route": "/terms-and-conditions/",
       "file": "prototype/terms-and-conditions/index.html",
       "title": "Terms and Conditions",
-      "sha256": "40b392c5449accb8bd6adc56ff9b157fa42b79ce07fcee64bb2062257a5ea7ad"
+      "sha256": "01fd7f78d861a95a391811de3c4b16b7bd765f9cc856978b661fbb3302764b6d"
     },
     {
       "route": "/accessibility/",
       "file": "prototype/accessibility/index.html",
       "title": "Accessibility",
-      "sha256": "b316a6f781ad71e6f24fe6d0baa4d8b1975f6b069153da964d439bef2af36efa"
+      "sha256": "1e88cb947fc19e00a29597e6153f6f70a8a7199a90f9ff4136ed434dbb3b29c9"
     },
     {
       "route": "/404.html",
       "file": "prototype/404.html",
       "title": "Page Not Found",
-      "sha256": "5070703076f409cdbe0acae672e46562e1ecc2e4c888b7ab815835c96f83fd22"
+      "sha256": "f43802f9f466833f1a4217ba16636eeab6d686522e84d5492839dc647afc6050"
     }
   ],
   "sources": [
     "prototype/site-content.json",
     "prototype/site.template.html",
     "prototype/homepage.template.html",
+    "prototype/hero-bark.json",
     "prototype/product-detail.template.html",
     "prototype/trust-section.template.html",
+    "prototype/chocolate-history.json",
+    "prototype/chocolate-history-chapter.template.html",
     "prototype/partials/header.html",
     "prototype/partials/footer.html",
     "prototype/partials/inquiry.html"

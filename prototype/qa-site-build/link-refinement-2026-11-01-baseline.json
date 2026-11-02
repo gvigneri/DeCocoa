@@ -1,0 +1,152 @@
+{
+  "main_buttons": {
+    "/": [
+      {
+        "href": "lets-talk/#inquiry",
+        "text": "Let\u2019s Craft Something Together"
+      },
+      {
+        "href": "products/",
+        "text": "Explore Our Products"
+      },
+      {
+        "href": "our-people/",
+        "text": "Meet Our People"
+      },
+      {
+        "href": "our-craft/",
+        "text": "Explore Our Craft"
+      },
+      {
+        "href": "experience-center/",
+        "text": "Explore the Experience Center"
+      }
+    ],
+    "/products/": [],
+    "/products/filled-chocolate/": [
+      {
+        "href": "../../lets-talk/?topic=Chocolate%20%26%20products&product=filled-chocolate#inquiry",
+        "text": "Ask About This Chocolate"
+      }
+    ],
+    "/products/chocolate-bar/": [
+      {
+        "href": "../../lets-talk/?topic=Chocolate%20%26%20products&product=chocolate-bar#inquiry",
+        "text": "Ask About This Chocolate"
+      }
+    ],
+    "/products/chocolate-drizzle/": [
+      {
+        "href": "../../lets-talk/?topic=Chocolate%20%26%20products&product=chocolate-drizzle#inquiry",
+        "text": "Ask About This Chocolate"
+      }
+    ],
+    "/our-people/": [
+      {
+        "href": "../lets-talk/?topic=Sweet%20Careers#inquiry",
+        "text": "Ask About Sweet Careers"
+      },
+      {
+        "href": "../our-craft/",
+        "text": "Explore Our Craft"
+      },
+      {
+        "href": "../lets-talk/?topic=Our%20story#inquiry",
+        "text": "Let's Talk"
+      }
+    ],
+    "/our-craft/": [
+      {
+        "href": "../lets-talk/?topic=Our%20craft#inquiry",
+        "text": "Ask About Food Safety"
+      },
+      {
+        "href": "../b2b/",
+        "text": "Explore Chocolate for Business"
+      },
+      {
+        "href": "../lets-talk/?topic=Our%20craft#inquiry",
+        "text": "Let's Talk"
+      }
+    ],
+    "/experience-center/": [
+      {
+        "href": "../craft-your-own/#chocolate-bars",
+        "text": "Craft Your Own Chocolate Bar"
+      },
+      {
+        "href": "../lets-talk/?topic=Experience%20Center#inquiry",
+        "text": "Ask About the Experience Center"
+      },
+      {
+        "href": "../lets-talk/?topic=Experience%20Center#inquiry",
+        "text": "Let's Talk"
+      }
+    ],
+    "/gifting/": [
+      {
+        "href": "../lets-talk/?topic=Gifting#inquiry",
+        "text": "Ask About Gifting"
+      },
+      {
+        "href": "../craft-your-own/",
+        "text": "Explore Craft Your Own"
+      }
+    ],
+    "/craft-your-own/": [
+      {
+        "href": "../lets-talk/?topic=Craft%20Your%20Own#inquiry",
+        "text": "Ask About Craft Your Own"
+      },
+      {
+        "href": "../experience-center/",
+        "text": "Explore the Experience Center"
+      }
+    ],
+    "/fundraising/": [
+      {
+        "href": "../lets-talk/?topic=Fundraising#inquiry",
+        "text": "Ask About Fundraising"
+      },
+      {
+        "href": "../products/",
+        "text": "Explore Our Products"
+      }
+    ],
+    "/wholesale/": [
+      {
+        "href": "../lets-talk/?topic=Wholesale#inquiry",
+        "text": "Ask About Wholesale"
+      },
+      {
+        "href": "../products/",
+        "text": "Explore Our Products"
+      }
+    ],
+    "/b2b/": [
+      {
+        "href": "../lets-talk/?topic=B2B#inquiry",
+        "text": "Ask About B2B"
+      },
+      {
+        "href": "../wholesale/",
+        "text": "Explore Wholesale"
+      }
+    ],
+    "/lets-talk/": [],
+    "/privacy-policy/": [],
+    "/terms-and-conditions/": [],
+    "/accessibility/": [],
+    "/404.html": [
+      {
+        "href": "/products/",
+        "text": "Explore Our Products"
+      },
+      {
+        "href": "/",
+        "text": "Go Home"
+      }
+    ]
+  },
+  "history_config_sha256": "653b97cb27479fd1c13b280bcb89f2349fb8aef542ea2945ef0b08934d8867d0"
+}

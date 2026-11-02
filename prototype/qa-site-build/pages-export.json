@@ -1,7 +1,7 @@
 {
   "base_path": "/DeCocoa/",
   "content_pages": 18,
-  "runtime_resources": 34,
+  "runtime_resources": 76,
   "compatibility_redirects": {
     "/prototype/": "/",
     "/prototype/products/": "/products/",
@@ -31,11 +31,15 @@
     },
     {
       "file": "404.html",
-      "sha256": "700336e0e51f8ae458d23384c9ed0d8aab05b2b013a10e08c861c243f1b1dea4"
+      "sha256": "cbb4c08c518b8c2949a49abe28f7e8c9486b8d5f5e74b051c0da49de2a1d46c9"
     },
     {
       "file": "accessibility/index.html",
-      "sha256": "b316a6f781ad71e6f24fe6d0baa4d8b1975f6b069153da964d439bef2af36efa"
+      "sha256": "1e88cb947fc19e00a29597e6153f6f70a8a7199a90f9ff4136ed434dbb3b29c9"
+    },
+    {
+      "file": "assets/css/chocolate-history.css",
+      "sha256": "0b6b76ba38b91894cdef4dc0a45e5dada203ad981a4c6873263676f7947ef98a"
     },
     {
       "file": "assets/fonts/montserrat-1.woff2",
@@ -78,8 +82,8 @@
       "sha256": "b788ae11997dc92cd7721653538d324efea4f40b206e4cb0d9026392c9882bec"
     },
     {
-      "file": "assets/images/certification-ou-kosher.png",
-      "sha256": "4fb0b2da010bf35f7338ad3cf653589a92f6486cba59d00988cbe4143b542766"
+      "file": "assets/images/certification-ou-dairy.png",
+      "sha256": "1a45bcf858aff1248e8a8e43f083c106119ade354e38b261e787be244de4b4ec"
     },
     {
       "file": "assets/images/certification-rainforest-alliance.png",
@@ -102,6 +106,150 @@
       "sha256": "fb6add532b0d20931fcf31a25fe7df7d2d2d5893bc43203faf4fff057d115733"
     },
     {
+      "file": "assets/images/chocolate-history/01-origins/cacao-beans-200.png",
+      "sha256": "43e6d6abd137d808e75f89d110fe644a1e05dfe6d3c3efdff7e80214ca7460cb"
+    },
+    {
+      "file": "assets/images/chocolate-history/01-origins/cacao-beans.png",
+      "sha256": "c4e23116032612e8995ab3e6a7abc182688d0893f6d531f5fa1cc9fafed63aa4"
+    },
+    {
+      "file": "assets/images/chocolate-history/01-origins/cacao-pods-and-leaves-640.png",
+      "sha256": "48534a0c9c730a404625f730dc97ef3055f190be22cd06e05368ac318cd11dc9"
+    },
+    {
+      "file": "assets/images/chocolate-history/01-origins/cacao-pods-and-leaves.png",
+      "sha256": "da92e8ae921f88c2aab56e8ae3c020820b5bb27adf929701bde675aabdbd3ea0"
+    },
+    {
+      "file": "assets/images/chocolate-history/01-origins/ceramic-bowl-300.png",
+      "sha256": "1da05a760cd30a1699ef5942953610002c37cad1f2650a86faa84d7a1805715a"
+    },
+    {
+      "file": "assets/images/chocolate-history/01-origins/ceramic-bowl.png",
+      "sha256": "d40255468147cab25d23f0021b8c72d001ec549f707b1198fc95e6e3dca55ced"
+    },
+    {
+      "file": "assets/images/chocolate-history/02-aztec-empire/cacao-drinker-640.png",
+      "sha256": "9cb5457777ceb6875816c111360929703fde27bc4b1338e46077d8c1970bf57b"
+    },
+    {
+      "file": "assets/images/chocolate-history/02-aztec-empire/cacao-drinker.png",
+      "sha256": "6623c95ace70c085508a0dd62ecce32122fecd9de9112f7e5ae87747ea405704"
+    },
+    {
+      "file": "assets/images/chocolate-history/03-europe/cacao-sack-300.png",
+      "sha256": "e268f1e965c4e26a898560bbbd1c4c64a8485b8f3873a3b725fa9a2fdf8869c8"
+    },
+    {
+      "file": "assets/images/chocolate-history/03-europe/cacao-sack.png",
+      "sha256": "0ade147302d52e5827f4a31cd99162e9518edead7c671f6b59b7b096ff9faf1f"
+    },
+    {
+      "file": "assets/images/chocolate-history/03-europe/sailing-ship-640.png",
+      "sha256": "c9334f4aba28890484e018a2965512e9e4d1f9ee4bb135e3d9d1a6352edd5f55"
+    },
+    {
+      "file": "assets/images/chocolate-history/03-europe/sailing-ship.png",
+      "sha256": "fc938df1338a20827f647ed35bbae87c0c90204e5fd7428ed6e5ad52b06428e2"
+    },
+    {
+      "file": "assets/images/chocolate-history/04-taste-spreads/cacao-and-spices-200.png",
+      "sha256": "25c952d3071918e02c17c11a2b92033e87e60bf6711ab515bd988c848391165b"
+    },
+    {
+      "file": "assets/images/chocolate-history/04-taste-spreads/cacao-and-spices.png",
+      "sha256": "411a9e13a8c1b108513d1aba1901bf2ccb1efd7c509e6d5b21d65866154ec630"
+    },
+    {
+      "file": "assets/images/chocolate-history/04-taste-spreads/chocolate-at-court-640.png",
+      "sha256": "1a5224920451d7b6cff983a8d70668b83f44ff097fd557443c65ec60ef1b476d"
+    },
+    {
+      "file": "assets/images/chocolate-history/04-taste-spreads/chocolate-at-court.png",
+      "sha256": "eb11599ff7a3be9f5c36611951e3df97cb22ff24d4a1733b6c5aafb607b116d8"
+    },
+    {
+      "file": "assets/images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup-300.png",
+      "sha256": "525a6de015f0b4f80b89220bd68b561e80371c3b925cc7e7e35fc9ce7d4743f9"
+    },
+    {
+      "file": "assets/images/chocolate-history/04-taste-spreads/chocolate-pot-and-cup.png",
+      "sha256": "29bcee89035b8cf7c3393cfc17bc0bef37515a914330cca5ce04edc650784b5b"
+    },
+    {
+      "file": "assets/images/chocolate-history/05-industry/industrial-cacao-mill-640.png",
+      "sha256": "893d83263e8a636567332c2856ae8f363580e2216e1d9bcf9ec0bedd36a4c5ee"
+    },
+    {
+      "file": "assets/images/chocolate-history/05-industry/industrial-cacao-mill.png",
+      "sha256": "7e0df3c5682f303d9cd1b55d53f3f2a08d68bf4321b566fa05f82b09211bba8a"
+    },
+    {
+      "file": "assets/images/chocolate-history/06-innovation/chocolate-packaging-640.png",
+      "sha256": "ffdcb2e665aced868d51bd8dd6b9e2b66fe02c9fbff5a747d2b0eb35f642507a"
+    },
+    {
+      "file": "assets/images/chocolate-history/06-innovation/chocolate-packaging.png",
+      "sha256": "085a5c781191cd662197c0e4c2cdabb807507650778fa31bf1e5846789b721a1"
+    },
+    {
+      "file": "assets/images/chocolate-history/07-global/decorative-globe-640.png",
+      "sha256": "6111158d5d7b2d4e9ddd75604f55ee7f241fb33e5c8bb95da16dc8b3d8b333f5"
+    },
+    {
+      "file": "assets/images/chocolate-history/07-global/decorative-globe.png",
+      "sha256": "696f4faad0e863d239d121e8c0908f3190adfd1afd94fd9d3dbc62d2d95f190a"
+    },
+    {
+      "file": "assets/images/chocolate-history/08-craft/chocolatier-at-work-640.png",
+      "sha256": "6fb80f6567ab97a3739a537f9f8668345d8f0d66a03f55eb0444838095657cca"
+    },
+    {
+      "file": "assets/images/chocolate-history/08-craft/chocolatier-at-work.png",
+      "sha256": "f0329ec71586db0ae31d652479378a027683d79d3c72d94d6036284abc75da52"
+    },
+    {
+      "file": "assets/images/chocolate-history/09-growing/cacao-seedling-200.png",
+      "sha256": "83b8765f8e07b04d08cb35c9c39c8672a14e8161113d7b9382ad5bbc2e441051"
+    },
+    {
+      "file": "assets/images/chocolate-history/09-growing/cacao-seedling.png",
+      "sha256": "ecd2ca4ad0363f00610608951ed018b33fcbb5b1ec95de426d7ba645c578b0a1"
+    },
+    {
+      "file": "assets/images/chocolate-history/09-growing/fruiting-cacao-tree-640.png",
+      "sha256": "8d43e31b7115417ccfc818883f246be83165beceae794615105aa1ff0229ff01"
+    },
+    {
+      "file": "assets/images/chocolate-history/09-growing/fruiting-cacao-tree.png",
+      "sha256": "03f21537e3b0ca8409674c7113b17ff4f2b47205dccc20f520bf33224f30d336"
+    },
+    {
+      "file": "assets/images/chocolate-history/10-today/chocolate-sculpture-640.png",
+      "sha256": "4681dfd083c52e0e53b4bbdcdc9f0b864a2adb9fc7cde81c07a072d6ae251818"
+    },
+    {
+      "file": "assets/images/chocolate-history/10-today/chocolate-sculpture.png",
+      "sha256": "0d4c0759ed898719ab09b85196b96a77d23fcbb9ac4c71c982b5afce1204388f"
+    },
+    {
+      "file": "assets/images/chocolate-history/shared/assorted-truffles-300.png",
+      "sha256": "929488470e028af3b2b87816566165638deef99b63f1b06c5a8f07484d103788"
+    },
+    {
+      "file": "assets/images/chocolate-history/shared/assorted-truffles.png",
+      "sha256": "6999cdf09a10b572be581a2892b9ba72452f86806e9d1ff31d93b935434ff775"
+    },
+    {
+      "file": "assets/images/chocolate-history/shared/segmented-chocolate-bar-300.png",
+      "sha256": "726125bb9f1191401ee899da73de860df19f40982f5889b73e3283e619dae00d"
+    },
+    {
+      "file": "assets/images/chocolate-history/shared/segmented-chocolate-bar.png",
+      "sha256": "c887586e7a95416a95ddbdd6c1452570c2310b67d39a7d25a2679f7d2325a662"
+    },
+    {
       "file": "assets/images/cocoa-powder.webp",
       "sha256": "a1ef7c882e0bce1ac744aa948379743a0df6e3c294b6d8116338c8ba50d6a0fd"
     },
@@ -114,12 +262,32 @@
       "sha256": "930a1bc748f01167cb404a4c46cd59075c3890e47bfa22cd4f8a26bf0cd7028a"
     },
     {
-      "file": "assets/images/dipped-pretzel.webp",
-      "sha256": "236b7b30a790e463605a6dc5fc241ffe433ac88bbe03e8c6d8c3a6d15f587cb9"
-    },
-    {
       "file": "assets/images/filled-chocolate.webp",
       "sha256": "89cd56eb57ad1b91ba9fd53f14a09e5713cb92625ea1a569387b51e404b9e5aa"
+    },
+    {
+      "file": "assets/images/hero-bark/crisp-bark-640.webp",
+      "sha256": "e1854131727fd28a11316b5d54c3672b47efd44b445c837548852aa5d41c63b5"
+    },
+    {
+      "file": "assets/images/hero-bark/crisp-bark.webp",
+      "sha256": "7dc4ac05d5adf66f5ea2e3aa048ab4c4e235b3ad273d5765c5c6d4e94ef6f1f8"
+    },
+    {
+      "file": "assets/images/hero-bark/nut-bark-640.webp",
+      "sha256": "650b87466ada48013cf8273f70d5948a5dd1fc6f5c4155df676eb904bfffe6d0"
+    },
+    {
+      "file": "assets/images/hero-bark/nut-bark.webp",
+      "sha256": "ae7e43a1020a5c5d6574589d1dbfd061aef4e80740c18a49f87a27ddd68baf30"
+    },
+    {
+      "file": "assets/images/hero-bark/pistachio-bark-640.webp",
+      "sha256": "28ba3145232102d088761a35206a5305b8d02ecb044afab6a0291d2730efc3bd"
+    },
+    {
+      "file": "assets/images/hero-bark/pistachio-bark.webp",
+      "sha256": "5651589b773b55d7f69a3d6d48b23618545017f6ceb1a1849616fcbb992f3bb6"
     },
     {
       "file": "assets/images/hollow-chocolate-figure.webp",
@@ -130,8 +298,12 @@
       "sha256": "8eef1fcd328890ed3b7b25fc9a85be0cd185d7d55f84413e4f5fb7611da18d96"
     },
     {
-      "file": "assets/images/partner-guittard.png",
-      "sha256": "45f12cb652f3ee300f5ebf0a024120713a3de4a8ed97d2159905dbd32bf7a9c4"
+      "file": "assets/images/partner-blue-stripes.png",
+      "sha256": "238425d8f38a84e0fdb89a30cceaee56ef3c9c8379e4ac24e18e2f7f043e7010"
+    },
+    {
+      "file": "assets/images/partner-chocolate-com.png",
+      "sha256": "773b3a2a50537940a777d302602f708a12bc9a71967f31ce75b1bb62d875f26e"
     },
     {
       "file": "assets/images/partner-puratos.png",
@@ -146,16 +318,12 @@
       "sha256": "e411970b0ae92e0d1c60d79cc1e89ad05aae08edd8941e12da126989715a3630"
     },
     {
-      "file": "assets/images/pretzel-chunky-sprinkles-r6.webp",
-      "sha256": "55cfe4d8247f1199b0ee64468ade6c36426d18c732221b5b2e828dcd56395a8e"
-    },
-    {
-      "file": "assets/images/pretzel-red-drizzle-r6.webp",
-      "sha256": "c068c705d7a301d0b61ed39dc798d51d0a16049c1b1cdcd25101dceffa9890ff"
-    },
-    {
       "file": "assets/js/category-motion.js",
       "sha256": "ae030c2fe65b8d20d4c1ad241a72fb1b39e771a0502fa2bac81dabcd2a0668f8"
+    },
+    {
+      "file": "assets/js/chocolate-history.js",
+      "sha256": "54a77de17be20e89fc26ce4864b41924fc00c40a387b9298817f4e4d3e6d9ba5"
     },
     {
       "file": "assets/logos/decocoa-brandmark-silhouette.svg",
@@ -175,59 +343,59 @@
     },
     {
       "file": "b2b/index.html",
-      "sha256": "9ba9df404e8a8badc830e1133b0b205db46faf23438ddf08ed8b6ea76de0699e"
+      "sha256": "5f5c0f9a0855554b175e143a856625eda3b188ff42fd2aad13932b1d960c5d01"
     },
     {
       "file": "craft-your-own/index.html",
-      "sha256": "8a37577412fa3f8cbd07cffd68beffc0e6a364d3b465d8ba99bf2908793fc8dc"
+      "sha256": "68e28bc7fadbdddd44393cf49da76186969b370c2ddd3427f73c9968a6519728"
     },
     {
       "file": "experience-center/index.html",
-      "sha256": "3e86ca7eb63c3fbe007dc859dd4383a5e0ff02b856d727c6cb8c338acf54a906"
+      "sha256": "e4eec72e29eacf2920f1a377eb8ea7ad33e0493e078dda7babbdf886c3fa940f"
     },
     {
       "file": "fundraising/index.html",
-      "sha256": "92cd37120c2c381afbbd712003202258fe1ac8d3cb6004165f1e6cec50bb569e"
+      "sha256": "9fed71e63cac8efb4e4bd3963c8b50f0f2819568d7c3c43f54b281a872eeb0f1"
     },
     {
       "file": "gifting/index.html",
-      "sha256": "39ad03249fa71ef7d1d172473d1257483ac3453e001bcf6b022d2dddce3666af"
+      "sha256": "4120a99931785bf100a0cb4c729e51d1beccbfce19b8e351fb2684f1f51fe6fd"
     },
     {
       "file": "index.html",
-      "sha256": "7bd8acb3dfb0712dc483332c6b00e5dfa3821c085922184cfff93e9126cfc5b8"
+      "sha256": "2f8d623f51344ca453c45dbaa3ce9fe37feca074378f56b981f954b742d5126b"
     },
     {
       "file": "lets-talk/index.html",
-      "sha256": "1ed214fb549cd6b475b6549eb93fc17b657f67202a9878efbce69086249c965d"
+      "sha256": "b602b168bac50d4e1876d062566a8865577d8d0052d3d5d7638d070c04070774"
     },
     {
       "file": "our-craft/index.html",
-      "sha256": "41c22d204b0404dd659aedd1376ea3b9fe351cc52f28fe4bd4ac5411229ed7c4"
+      "sha256": "bf12913da8893d092d9b848ebce78eea409bb0c83761f80904a275def7bae85b"
     },
     {
       "file": "our-people/index.html",
-      "sha256": "2b4f5b77d8a471ee8dbc4c4aca47b567a16832a38702304ddad94283d26102c5"
+      "sha256": "76c9c9cd59d550ae892419a7a8c82023b1f11fba493409a3c7e35da18f374988"
     },
     {
       "file": "privacy-policy/index.html",
-      "sha256": "0b22d0f1a9be9e5ec80bc35fe4bbf8b66b9db85f231e98c43bff8f94dbddac29"
+      "sha256": "459ab52563aaa18a6970004ec8e6d316f015b627219a5ac9f423d1d604e0ee59"
     },
     {
       "file": "products/chocolate-bar/index.html",
-      "sha256": "8d64db4d63a110320216250dff3327e6634058b53b8b60eee15135ac217e2ee5"
+      "sha256": "cd7a97b9b7f855689b7da0854e700d0ef4f9307a954e76331b83844d03d0ed22"
     },
     {
       "file": "products/chocolate-drizzle/index.html",
-      "sha256": "7d7bafee11fbc8ebcaf8a6eb513de8ddcf2b946f5e19397565feed881047b8d5"
+      "sha256": "09f4bbe5d1b1f444e2ef5d6dd1ba5a9700a673ec376455008443bacff0c47ff9"
     },
     {
       "file": "products/filled-chocolate/index.html",
-      "sha256": "6d0bd5cd5e6dfcd941d1d2cdcb98fe7399bc3c187a153e29362ffe5c3ba133d2"
+      "sha256": "774ce1d2bbcd2816def1aa32ede680bc73269ecda3b44d3bb92e02ec484f82ea"
     },
     {
       "file": "products/index.html",
-      "sha256": "4f8f59d80d3deba0262f8a94f43307b3c5f2ae8cc84b4538dd729ac7677f91f5"
+      "sha256": "67f848304b353186a9744d2764fea4c18313b7fa3a2057306b72a0582e464671"
     },
     {
       "file": "prototype/404.html",
@@ -315,15 +483,15 @@
     },
     {
       "file": "styles.css",
-      "sha256": "0ed0a0e083c3ffe0115e094a6bc18f50396deac19bf00646deae711698ede76c"
+      "sha256": "e24b4737925ee1daf2cd476883dc3123735756fadbb4a9bd6222b20276d1d696"
     },
     {
       "file": "terms-and-conditions/index.html",
-      "sha256": "40b392c5449accb8bd6adc56ff9b157fa42b79ce07fcee64bb2062257a5ea7ad"
+      "sha256": "01fd7f78d861a95a391811de3c4b16b7bd765f9cc856978b661fbb3302764b6d"
     },
     {
       "file": "wholesale/index.html",
-      "sha256": "32bb1a7647bda87387ab05a5624185167d0f46258f9c00de1c2982d1a6a33cea"
+      "sha256": "b2f61bffbc3af2d0075b0503649116455f6da22257ba7a45ce2c9e48efb11db0"
     },
     {
       "file": "work-with-us/index.html",

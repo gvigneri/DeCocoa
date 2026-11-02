@@ -1,0 +1,16 @@
+<li class="history-item history-item--{{history-side}}">
+  <article class="history-chapter" aria-labelledby="history-{{history-id}}-title">
+    <div class="history-copy">
+      <h3 class="history-metadata" id="history-{{history-id}}-title">
+        <span class="history-era">{{history-era}}</span>
+        <span class="history-location">{{history-location}}</span>
+        <span class="history-chapter-title">{{history-title}}</span>
+      </h3>
+      <p class="history-caption">{{history-caption}}</p>
+      <a class="history-source" href="{{history-source}}"><span class="history-source-label">{{history-source-label}}</span>{{history-source-icon}}</a>
+    </div>
+    <div class="history-scene" data-history-scene style="{{history-scene-style}}">
+      {{history-layers}}
+    </div>
+  </article>
+</li>

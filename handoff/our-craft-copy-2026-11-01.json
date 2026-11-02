@@ -1,0 +1,74 @@
+{
+  "source": "Guy's supplied Our Craft copy, November 1, 2026",
+  "editorial_notes": [
+    "Keep supplied wording and paragraph boundaries, including the first intro sentence as written.",
+    "Apply the standing DeCocoa spelling instruction to DeCOCOA occurrences; retain DeCOR and Decor™ product styling.",
+    "Correct the heading typo Fullfilment to Fulfillment, matching the existing site spelling.",
+    "Video of Alex and the three Download PDF notes represent media/actions, not body prose. Guy explicitly deferred these on November 1: Don't worry about those for now. Do not render the notes or create dead links, substitute unrelated files, or invent video/PDF content."
+  ],
+  "title": "Our Craft",
+  "intro_paragraphs": [
+    "We are built with innovation at its core, our facility blends tradition and technology to craft chocolate with precision and care.",
+    "From sourcing to production, we uphold the highest standards of quality, sustainability, and continuous improvement."
+  ],
+  "sections": [
+    {
+      "id": "promise",
+      "title": "Promise",
+      "paragraphs": [
+        "We promise to craft every chocolate with care, creativity, and integrity.",
+        "We always meet the highest standards of quality and food safety so you can taste and trust every bite."
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "Focus",
+      "paragraphs": [
+        "At DeCocoa Chocolate Crafters, our focus is to combine passionate people, innovative craft, and sustainable practices to create chocolate with purpose and care."
+      ]
+    },
+    {
+      "id": "sustainability",
+      "title": "Sustainability",
+      "paragraphs": [
+        "We are committed to making chocolate that’s better for people and the planet. From responsible sourcing to eco-friendly packaging, we craft our chocolate using 100% sustainable power harnessed from the mighty energy of The Niagara Falls, leaving a lighter footprint on our Planet Earth."
+      ],
+      "pending_media": "Video of Alex"
+    },
+    {
+      "id": "food-safety",
+      "title": "Food Safety",
+      "paragraphs": [
+        "We are committed to producing safe, high-quality, and authentic products that meet or exceed customer expectations.",
+        "We ensure:"
+      ],
+      "bullets": [
+        "Full compliance with all food safety laws and regulations, including adherence to the highest level of SQF food safety quality standards",
+        "Clear communication with employees, partners, suppliers, customers, and regulators",
+        "Ongoing training to empower our team and strengthen our Food Safety Culture",
+        "Continuous improvement in our processes, products, and services"
+      ]
+    },
+    {
+      "id": "our-segments",
+      "title": "Our Segments",
+      "items": [
+        {
+          "title": "Process & Capabilities",
+          "text": "Based in Rochester, New York a historic center of food manufacturing and innovation, our factory continues a legacy of ingenuity, craftsmanship, and making things with purpose.",
+          "pending_media": "Download PDF"
+        },
+        {
+          "title": "DeCocoa DeCOR",
+          "text": "Created by professionals, for professionals, DeCocoa Decor™ delivers innovative, customizable chocolate décor with refined detail and luxurious finish.",
+          "pending_media": "Download PDF"
+        },
+        {
+          "title": "Fulfillment You Can Trust",
+          "text": "Fulfillment matters, especially for food. Perishable products demand speed, care, and precision. We specialize in food and gourmet fulfillment.",
+          "pending_media": "Download PDF"
+        }
+      ]
+    }
+  ]
+}
