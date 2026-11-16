@@ -14,8 +14,8 @@
       "rejected": true
     }
   ],
-  "public_pages": 18,
-  "public_runtime_assets": 72,
+  "public_pages": 23,
+  "public_runtime_assets": 84,
   "public_file_responses": [
     {
       "request": "/",
@@ -24,6 +24,21 @@
     },
     {
       "request": "/products/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/snacking/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/gifting/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/entertaining/",
       "status": 200,
       "matches_generated_file": true
     },
@@ -58,7 +73,7 @@
       "matches_generated_file": true
     },
     {
-      "request": "/gifting/",
+      "request": "/our-segments/",
       "status": 200,
       "matches_generated_file": true
     },
@@ -73,12 +88,22 @@
       "matches_generated_file": true
     },
     {
-      "request": "/wholesale/",
+      "request": "/b2b/",
       "status": 200,
       "matches_generated_file": true
     },
     {
-      "request": "/b2b/",
+      "request": "/decor/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/branded-chocolate/",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/fulfillment/",
       "status": 200,
       "matches_generated_file": true
     },
@@ -113,17 +138,52 @@
       "matches_generated_file": true
     },
     {
-      "request": "/assets/logos/decocoa-horizontal.svg",
-      "status": 200,
-      "matches_generated_file": true
-    },
-    {
       "request": "/assets/logos/decocoa-brandmark.svg",
       "status": 200,
       "matches_generated_file": true
     },
     {
+      "request": "/assets/images/menu-experience-2026-11-15.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/menu-segments-2026-11-15.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/menu-craft-2026-11-15.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/menu-people-2026-11-15.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/menu-chocolate-2026-11-15.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/logos/decocoa-horizontal.svg",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
       "request": "/script.js",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/css/navigation.css",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/css/components.css",
       "status": 200,
       "matches_generated_file": true
     },
@@ -168,12 +228,12 @@
       "matches_generated_file": true
     },
     {
-      "request": "/assets/images/chocolate-craft.webp",
+      "request": "/assets/images/nuts-and-chocolate.webp",
       "status": 200,
       "matches_generated_file": true
     },
     {
-      "request": "/assets/images/nuts-and-chocolate.webp",
+      "request": "/assets/images/chocolate-drizzle.webp",
       "status": 200,
       "matches_generated_file": true
     },
@@ -184,6 +244,26 @@
     },
     {
       "request": "/assets/images/chocolate-bar.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/cocoa-powder.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/hollow-chocolate-figure.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/dipped-pretzels.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/chocolate-craft.webp",
       "status": 200,
       "matches_generated_file": true
     },
@@ -368,36 +448,6 @@
       "matches_generated_file": true
     },
     {
-      "request": "/assets/js/chocolate-history.js",
-      "status": 200,
-      "matches_generated_file": true
-    },
-    {
-      "request": "/assets/css/chocolate-history.css",
-      "status": 200,
-      "matches_generated_file": true
-    },
-    {
-      "request": "/assets/images/people-at-work.webp",
-      "status": 200,
-      "matches_generated_file": true
-    },
-    {
-      "request": "/assets/images/chocolate-drizzle.webp",
-      "status": 200,
-      "matches_generated_file": true
-    },
-    {
-      "request": "/assets/images/cocoa-powder.webp",
-      "status": 200,
-      "matches_generated_file": true
-    },
-    {
-      "request": "/assets/images/hollow-chocolate-figure.webp",
-      "status": 200,
-      "matches_generated_file": true
-    },
-    {
       "request": "/assets/images/decocoa-factory.gif",
       "status": 200,
       "matches_generated_file": true
@@ -408,12 +458,32 @@
       "matches_generated_file": true
     },
     {
-      "request": "/assets/images/certification-cacao-trace.png",
+      "request": "/assets/js/chocolate-history.js",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/css/chocolate-history.css",
       "status": 200,
       "matches_generated_file": true
     },
     {
       "request": "/assets/images/certification-rainforest-alliance.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/certification-cacao-trace.png",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/people-at-work.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/certification-ou-dairy.png",
       "status": 200,
       "matches_generated_file": true
     },
@@ -428,12 +498,12 @@
       "matches_generated_file": true
     },
     {
-      "request": "/assets/images/certification-ou-kosher.png",
+      "request": "/assets/images/partner-blue-stripes.png",
       "status": 200,
       "matches_generated_file": true
     },
     {
-      "request": "/assets/images/partner-guittard.png",
+      "request": "/assets/images/partner-chocolate-com.png",
       "status": 200,
       "matches_generated_file": true
     },
@@ -448,17 +518,32 @@
       "matches_generated_file": true
     },
     {
-      "request": "/assets/images/dipped-pretzel.webp",
+      "request": "/assets/images/hero-bark/crisp-bark.webp",
       "status": 200,
       "matches_generated_file": true
     },
     {
-      "request": "/assets/images/pretzel-chunky-sprinkles-r6.webp",
+      "request": "/assets/images/hero-bark/crisp-bark-640.webp",
       "status": 200,
       "matches_generated_file": true
     },
     {
-      "request": "/assets/images/pretzel-red-drizzle-r6.webp",
+      "request": "/assets/images/hero-bark/pistachio-bark.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/hero-bark/pistachio-bark-640.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/hero-bark/nut-bark.webp",
+      "status": 200,
+      "matches_generated_file": true
+    },
+    {
+      "request": "/assets/images/hero-bark/nut-bark-640.webp",
       "status": 200,
       "matches_generated_file": true
     },
@@ -468,7 +553,7 @@
       "matches_generated_file": true
     }
   ],
-  "legacy_context_redirects": 18,
+  "legacy_context_redirects": 23,
   "root_and_nested_recovery": "pass",
   "source_directories_and_unreferenced_assets": "not served",
   "errors": []

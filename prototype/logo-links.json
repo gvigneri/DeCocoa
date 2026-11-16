@@ -1,0 +1,17 @@
+{
+  "verified_on": "2026-11-11",
+  "scope": "Destination identity only; no verification of DeCocoa relationships, certification status or trademark permissions.",
+  "partners": {
+    "puratos": {"href": "https://www.puratos.com/", "status": "verified", "evidence": "Official Puratos homepage identifies its bakery, patisserie and chocolate business."},
+    "wegmans": {"href": "https://www.wegmans.com/", "status": "verified", "evidence": "Official Wegmans Food Markets homepage."},
+    "chocolate-com": {"href": "https://chocolate.com/", "status": "verified", "evidence": "Official Chocolate.com homepage; same domain as the preserved logo source."},
+    "blue-stripes": {"href": "https://www.bluestripes.com/", "status": "verified", "evidence": "Official Blue Stripes whole cacao snacks and beverages homepage; same domain as the preserved logo source."}
+  },
+  "certifications": {
+    "cacao-trace": {"href": "https://www.cacaotrace.com/", "status": "verified", "evidence": "Official Cacao-Trace program homepage identifies the sustainable cocoa program; corroborated by https://www.puratos.com/sustainability/cacao-trace."},
+    "rainforest": {"href": "https://www.rainforest-alliance.org/", "status": "verified", "evidence": "Official Rainforest Alliance homepage includes its certification program and seal explanation."},
+    "sqf": {"href": "https://www.sqfi.com/", "status": "verified", "evidence": "Official SQF Institute homepage; actual artwork is the SQF Institute identity."},
+    "haccp": {"href": null, "status": "issuer-unresolved", "evidence": "Inspected certification-haccp.png: generic HACCP Certified Food Safety badge, no organization identified. assets/trust-export-details.json and handoff/copy-notes.md identify an authorized temporary badge downloaded from Plants2Market, not an identified DeCocoa certifier. Missing: DeCocoa's actual HACCP certifying organization and official destination."},
+    "ou-dairy": {"href": "https://oukosher.org/blog/industrial-kosher/all-ou-symbols-explained/", "status": "verified", "evidence": "Official OU Kosher page explains the OU-D dairy mark and matches the recorded source of the existing artwork."}
+  }
+}

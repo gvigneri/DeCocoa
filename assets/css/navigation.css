@@ -1,0 +1,105 @@
+/* Shared image menus extend the existing header, tokens and disclosure motion. */
+.nav-row{display:flex;align-items:center;min-width:0}
+.nav-row .nav-parent{flex:1;padding-right:2px}
+.site-header .nav-row .submenu-toggle{position:relative;flex:none;width:44px;min-height:48px;padding:12px;border:0}
+.site-header .submenu-toggle::before,.site-header .submenu-toggle::after{display:none}
+.submenu-chevron{display:block;width:9px;height:9px;margin:0 auto;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:translateY(-3px) rotate(45deg);transition:transform .2s ease}
+.submenu-toggle[aria-expanded=true] .submenu-chevron{transform:translateY(2px) rotate(225deg)}
+.site-header .submenu-toggle:focus-visible .submenu-chevron{border-width:3px}
+:root .site-header .nav-parent{color:var(--chocolate)}
+:root .site-header .nav-parent:hover,:root .site-header .nav-parent:focus-visible{color:var(--orange)}
+.image-submenu .submenu-grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 32px;align-content:start;min-width:0}
+.image-submenu li{min-width:0}
+:root .image-submenu a{color:var(--chocolate);font-size:1.25rem;line-height:1.5}
+:root .image-submenu a:hover,:root .image-submenu a:focus-visible{color:var(--ripe)}
+.image-submenu .submenu-link{display:flex;align-items:center;gap:15px;min-height:48px;padding:10px 0}
+.submenu-thumbnail{flex:0 0 74px;height:66px;display:flex;align-items:center;justify-content:center}
+.submenu-thumbnail img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain}
+.image-submenu .submenu-feature{display:flex;flex-direction:column;gap:12px;align-self:start;min-width:0;font-weight:700;padding:0}
+.submenu-feature-image{display:flex;align-items:center;justify-content:center;overflow:hidden;width:100%;height:210px}
+.submenu-feature-image img{width:100%;height:100%;object-fit:contain}
+.category-submenu .submenu-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:10px 30px}
+/* Inline menus share the header container so the last trigger cannot overflow. */
+@media(min-width:1200px){
+  .original-header .nav-dropdown{position:static}
+  .original-header .image-submenu{left:var(--gutter);right:var(--gutter);top:calc(100% - 4px);width:auto;padding:28px;max-height:calc(100dvh - var(--header-height,220px) - 16px);overflow:auto;overscroll-behavior:contain}
+  .original-header .image-submenu:not([hidden]){display:grid;grid-template-columns:minmax(210px,.8fr) minmax(0,2fr);gap:36px}
+  .original-header .category-submenu:not([hidden]){display:block}
+}
+@media(min-width:1536px){
+  .scroll-header .nav-dropdown{position:static}
+  .scroll-header .image-submenu{left:var(--gutter);right:var(--gutter);top:calc(100% - 4px);width:auto;padding:28px;max-height:calc(100dvh - var(--header-height,112px) - 16px);overflow:auto;overscroll-behavior:contain}
+  .scroll-header .image-submenu:not([hidden]){display:grid;grid-template-columns:minmax(210px,.8fr) minmax(0,2fr);gap:36px}
+  .scroll-header .category-submenu:not([hidden]){display:block}
+  :root .scroll-header .nav-parent:hover,:root .scroll-header .nav-parent:focus-visible{color:var(--cream)}
+}
+/* Existing compact drawers keep separate, generously sized link/toggle targets. */
+@media(max-width:1199px){
+  .original-header .nav-row .nav-parent{border:0}
+  .original-header .image-submenu .submenu-feature{display:none}
+  .original-header .image-submenu .submenu-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .original-header .nav-row{position:relative}
+  .original-header .nav-row::after{content:'';position:absolute;left:0;right:0;bottom:4px;height:2px;background:var(--orange);transform:scaleX(0);transform-origin:left;transition:transform .22s ease}
+  .original-header .nav-dropdown.is-open>.nav-row::after{transform:scaleX(1)}
+}
+@media(max-width:1535px){
+  .scroll-header .nav-row .nav-parent{border:0}
+  .scroll-header .image-submenu .submenu-feature{display:none}
+  .scroll-header .image-submenu .submenu-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:600px){
+  .site-header .nav-row .nav-parent{padding:17px 0}
+  .site-header .nav-row .submenu-toggle{min-height:60px;padding:16px 12px;background:transparent}
+  .site-header .image-submenu .submenu-grid{grid-template-columns:minmax(0,1fr);gap:0}
+  .site-header .submenu-thumbnail{display:none}
+  .site-header .image-submenu .submenu-link{padding:12px 0}
+}
+@media(prefers-reduced-motion:reduce){.submenu-chevron,.nav-row::after{transition:none}}
+.reduce-motion .submenu-chevron,.reduce-motion .nav-row::after{transition:none}
+
+/* One underline belongs to the complete row, including its disclosure target. */
+.site-header .nav-row{position:relative}
+.site-header .nav-row .nav-parent::after{display:none}
+.site-header .nav-row::after{content:'';position:absolute;left:0;right:0;bottom:4px;height:2px;background:var(--orange);transform:scaleX(0);transform-origin:left;transition:transform .22s ease;pointer-events:none}
+.site-header .nav-dropdown.is-open>.nav-row::after,.site-header .nav-row:has(:focus-visible)::after{transform:scaleX(1)}
+:root .site-header .nav-dropdown.is-open>.nav-row .nav-link,:root .site-header .nav-row .nav-link:focus-visible{color:var(--orange)}
+@media(hover:hover){.site-header .nav-dropdown:hover>.nav-row::after{transform:scaleX(1)}:root .site-header .nav-dropdown:hover>.nav-row .nav-link{color:var(--orange)}}
+/* Cream keeps Orange menu state visible in both header versions. */
+.scroll-header,.scroll-header .header-shell::before{background:var(--cream)}
+.scroll-header{box-shadow:var(--soft-shadow)}
+.image-submenu .submenu-link{padding:12px 16px;border:0;border-radius:10px;transition:background-color .2s ease,color .2s ease}
+:root .image-submenu .submenu-link,:root .image-submenu .submenu-feature{background-image:none}
+:root .image-submenu .submenu-link:is(:hover,:focus-visible){background-color:rgb(232 121 51 / 10%);background-image:none;color:var(--chocolate)}
+.image-submenu .submenu-link::after,.image-submenu .submenu-feature::after{display:none}
+.image-submenu .submenu-link:focus-visible span:last-child{text-decoration:underline;text-underline-offset:5px}
+.image-submenu .submenu-feature{align-self:stretch;position:relative;aspect-ratio:1;min-height:100%;border-radius:16px;overflow:hidden}
+.submenu-feature-image{position:absolute;inset:0;width:100%;height:100%;border-radius:16px}
+.submenu-feature-image img{width:100%;height:100%;object-fit:cover}
+.feature-submenu .submenu-grid{grid-template-columns:minmax(0,1fr);align-content:stretch;gap:4px}
+.feature-submenu .submenu-grid li,.segment-submenu .submenu-grid li{display:flex}
+.feature-submenu .submenu-link,.segment-submenu .submenu-link{width:100%}
+.feature-submenu .submenu-link{padding-block:8px}
+/* A shared panel height follows the container width and available screen space.
+   Both headers use the original-header clearance, so their menu sizes agree. */
+@media(min-width:1200px){
+  .original-header .header-shell{container-type:inline-size}
+  .original-header .image-submenu{--mega-menu-height:min(calc((100cqw - 84px)/3 + 56px),calc(100dvh - var(--original-header-height,260px) - 16px));height:var(--mega-menu-height);max-height:none;max-width:none;margin-inline:0}
+  .original-header .feature-submenu:not([hidden]){grid-template-columns:calc(var(--mega-menu-height) - 56px) minmax(0,1fr);grid-template-rows:minmax(0,1fr);gap:28px}
+  .original-header .feature-submenu .submenu-feature{aspect-ratio:1;min-height:0;height:100%}
+  .original-header .image-submenu .submenu-grid{min-height:0;height:100%;overflow:auto}
+  .original-header .category-submenu .submenu-grid{grid-template-rows:repeat(3,minmax(90px,1fr))}
+  .original-header .main-navigation{gap:8px}
+}
+@media(min-width:1536px){
+  .scroll-header .header-shell{container-type:inline-size}
+  .scroll-header .image-submenu{--mega-menu-height:min(calc((100cqw - 84px)/3 + 56px),calc(100dvh - var(--original-header-height,260px) - 16px));height:var(--mega-menu-height);max-height:none;max-width:none;margin-inline:0}
+  .scroll-header .feature-submenu:not([hidden]){grid-template-columns:calc(var(--mega-menu-height) - 56px) minmax(0,1fr);grid-template-rows:minmax(0,1fr);gap:28px}
+  .scroll-header .feature-submenu .submenu-feature{aspect-ratio:1;min-height:0;height:100%}
+  .scroll-header .image-submenu .submenu-grid{min-height:0;height:100%;overflow:auto}
+  .scroll-header .category-submenu .submenu-grid{grid-template-rows:repeat(3,minmax(90px,1fr))}
+  .scroll-header .brand img{width:150px}
+  .scroll-header .nav-row .submenu-toggle{width:32px}
+}
+@media(max-width:600px){.site-header .image-submenu .submenu-link{padding:12px 14px}}
+@media(prefers-reduced-motion:reduce){.site-header .nav-row::after,.image-submenu .submenu-link{transition:none}}
+.reduce-motion .site-header .nav-row::after,.reduce-motion .image-submenu .submenu-link{transition:none}

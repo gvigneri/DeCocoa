@@ -1,0 +1,78 @@
+{
+  "source": "Guy's November 15 homepage and navigation revision",
+  "hero_heading": "Crafted. To delight.",
+  "people_intro": "Generations of chocolate craft, a Rochester home, and people who care: meet the team bringing the DeCocoa story to life.",
+  "craft_intro": "Tradition meets fresh thinking in our Rochester chocolate factory, where careful sourcing, skilled hands, and modern techniques shape every creation.",
+  "craft_highlights": {
+    "promise": "Chocolate made with care, creativity, and integrity.",
+    "focus": "Passionate people and thoughtful craft, working together.",
+    "sustainability": "Care for people and the planet, from cacao to packaging.",
+    "food-safety": "Quality and food safety at every stage of our work."
+  },
+  "business_intro": "Four ways to connect with DeCocoa, from our own chocolate to your next business idea.",
+  "segments": [
+    {
+      "id": "branded-chocolate",
+      "label": "Branded Chocolate",
+      "kicker": "B2C · Retail",
+      "summary": "Discover DeCocoa chocolate, crafted for everyday enjoyment and thoughtful giving.",
+      "route": "branded-chocolate/",
+      "products": [
+        "tablet",
+        "assortment",
+        "snacking"
+      ]
+    },
+    {
+      "id": "partner-brands",
+      "label": "Partner Brands",
+      "kicker": "B2B · Private Label",
+      "summary": "Bring your chocolate brand to life with development, production, and packaging support.",
+      "route": "b2b/",
+      "products": [
+        "tablet",
+        "filled",
+        "novelty"
+      ]
+    },
+    {
+      "id": "decor",
+      "label": "Décor",
+      "kicker": "Pro2Pro · Chocolate Solutions",
+      "summary": "Add a creative chocolate finish to desserts in professional kitchens and bakeries.",
+      "route": "decor/",
+      "products": [
+        "entertaining",
+        "filled",
+        "gifting"
+      ]
+    },
+    {
+      "id": "fulfillment",
+      "label": "Fulfillment",
+      "kicker": "D2C · Logistics Services",
+      "summary": "Connect your chocolate with customers through packing, storage, and shipping support.",
+      "route": "fulfillment/",
+      "products": [
+        "gifting",
+        "assortment",
+        "tablet"
+      ]
+    }
+  ],
+  "category_intros": {
+    "tablet": "Discover beautifully shaped chocolate bars made for a satisfying break.",
+    "filled": "Explore delicate chocolate shells with a delicious surprise inside.",
+    "covered": "Enjoy contrasting textures wrapped in a smooth chocolate coating.",
+    "dipped": "Find tempting treats dipped in chocolate and finished with care.",
+    "novelty": "Let playful chocolate shapes add a little wonder to your day.",
+    "drink": "Discover chocolate creations that turn a simple sip into a treat.",
+    "wellness": "Explore chocolate made with thoughtfully chosen functional ingredients.",
+    "assortment": "Find a mix of chocolate flavors and textures in one collection.",
+    "snacking": "Make everyday breaks sweeter with chocolate in little bites.",
+    "gifting": "Share a thoughtful moment with beautifully crafted chocolate.",
+    "entertaining": "Bring people together with chocolate made for sharing."
+  },
+  "experience_intro": "Explore the story of chocolate, discover how it’s made, and create your own chocolate bar or gift box with our Chocolate Crafters.",
+  "business_eyebrow": "From craft to customer"
+}

@@ -1,116 +1,155 @@
 {
-  "build": "local-site-2026-10-24",
+  "build": "presentation-2026-11-15",
   "pages": [
     {
       "route": "/",
       "file": "prototype/index.html",
-      "title": "Experience. Chocolate.",
-      "sha256": "2f8d623f51344ca453c45dbaa3ce9fe37feca074378f56b981f954b742d5126b"
+      "title": "Crafted. To delight.",
+      "sha256": "9d2e1e0122b764fa415962485b254a928cbf8e57a751e6607a5570c98c4ff00a"
     },
     {
       "route": "/products/",
       "file": "prototype/products/index.html",
       "title": "Our Chocolate",
-      "sha256": "67f848304b353186a9744d2764fea4c18313b7fa3a2057306b72a0582e464671"
+      "sha256": "860662074186015350e1482c77c2c00993281c5ae826f680b9e23c8ecaacfd74"
     },
     {
-      "route": "/products/filled-chocolate/",
-      "file": "prototype/products/filled-chocolate/index.html",
-      "title": "Filled Chocolate",
-      "sha256": "774ce1d2bbcd2816def1aa32ede680bc73269ecda3b44d3bb92e02ec484f82ea"
-    },
-    {
-      "route": "/products/chocolate-bar/",
-      "file": "prototype/products/chocolate-bar/index.html",
-      "title": "Chocolate Bar",
-      "sha256": "cd7a97b9b7f855689b7da0854e700d0ef4f9307a954e76331b83844d03d0ed22"
-    },
-    {
-      "route": "/products/chocolate-drizzle/",
-      "file": "prototype/products/chocolate-drizzle/index.html",
-      "title": "Chocolate Drizzle",
-      "sha256": "09f4bbe5d1b1f444e2ef5d6dd1ba5a9700a673ec376455008443bacff0c47ff9"
-    },
-    {
-      "route": "/our-people/",
-      "file": "prototype/our-people/index.html",
-      "title": "Our People",
-      "sha256": "76c9c9cd59d550ae892419a7a8c82023b1f11fba493409a3c7e35da18f374988"
-    },
-    {
-      "route": "/our-craft/",
-      "file": "prototype/our-craft/index.html",
-      "title": "Our Craft",
-      "sha256": "bf12913da8893d092d9b848ebce78eea409bb0c83761f80904a275def7bae85b"
-    },
-    {
-      "route": "/experience-center/",
-      "file": "prototype/experience-center/index.html",
-      "title": "Experience Center",
-      "sha256": "e4eec72e29eacf2920f1a377eb8ea7ad33e0493e078dda7babbdf886c3fa940f"
+      "route": "/snacking/",
+      "file": "prototype/snacking/index.html",
+      "title": "Chocolate Snacking",
+      "sha256": "9ac4af0174aadb4ed2f8cb873f9681f0173d55c1ce5c2e8d4b60e8fcfac5c4dd"
     },
     {
       "route": "/gifting/",
       "file": "prototype/gifting/index.html",
       "title": "Chocolate Gifting",
-      "sha256": "4120a99931785bf100a0cb4c729e51d1beccbfce19b8e351fb2684f1f51fe6fd"
+      "sha256": "ccc332a843f7f1b0a0227c4273d7f1dfea2cb504b899fe27f0ffe9d66fa076d5"
+    },
+    {
+      "route": "/entertaining/",
+      "file": "prototype/entertaining/index.html",
+      "title": "Chocolate Entertaining",
+      "sha256": "3aa97e97f7f9cbaec800a99590872035a18b15b42318004a054c0b95394ccd81"
+    },
+    {
+      "route": "/products/filled-chocolate/",
+      "file": "prototype/products/filled-chocolate/index.html",
+      "title": "Filled Chocolate",
+      "sha256": "9d194d76b09bd09f6175e2a59cc4443c54fcb190df0a757ac2165aa4935eb262"
+    },
+    {
+      "route": "/products/chocolate-bar/",
+      "file": "prototype/products/chocolate-bar/index.html",
+      "title": "Chocolate Bar",
+      "sha256": "2b6eb5c22122c92e824d40b913f017d73e20a51da4500106ca51f5bf364e8fd4"
+    },
+    {
+      "route": "/products/chocolate-drizzle/",
+      "file": "prototype/products/chocolate-drizzle/index.html",
+      "title": "Chocolate Drizzle",
+      "sha256": "99fe4f31b226a01831d5bb2ad3e97d070784d27b2a85aa59f3d281187fe55824"
+    },
+    {
+      "route": "/our-people/",
+      "file": "prototype/our-people/index.html",
+      "title": "Our People",
+      "sha256": "ba568590b1a12f6b2ce60b9285ac722ace20f3d6125585b3788c6a24024deb28"
+    },
+    {
+      "route": "/our-craft/",
+      "file": "prototype/our-craft/index.html",
+      "title": "Our Craft",
+      "sha256": "029028ea6995f4f678c16adf3637ba3a8708a6431732e0dcaec9ce746f448232"
+    },
+    {
+      "route": "/experience-center/",
+      "file": "prototype/experience-center/index.html",
+      "title": "Experience Center",
+      "sha256": "aa8b1790d69794f04473953d4b2aba65a3c102a8d4263c8b59ef70b62b3a95cb"
+    },
+    {
+      "route": "/our-segments/",
+      "file": "prototype/our-segments/index.html",
+      "title": "Our Segments",
+      "sha256": "d8715b361859d07a6f6dd4ffa7e297358335e706c0a7c66df3bc48662cfeb774"
     },
     {
       "route": "/craft-your-own/",
       "file": "prototype/craft-your-own/index.html",
       "title": "Craft Your Own Chocolate",
-      "sha256": "68e28bc7fadbdddd44393cf49da76186969b370c2ddd3427f73c9968a6519728"
+      "sha256": "9ffda09543cd96bc47e56107f052ffc8d6deb4ab0635bb59a0719c74dfab95cd"
     },
     {
       "route": "/fundraising/",
       "file": "prototype/fundraising/index.html",
       "title": "Chocolate Fundraising",
-      "sha256": "9fed71e63cac8efb4e4bd3963c8b50f0f2819568d7c3c43f54b281a872eeb0f1"
-    },
-    {
-      "route": "/wholesale/",
-      "file": "prototype/wholesale/index.html",
-      "title": "Wholesale Chocolate",
-      "sha256": "b2f61bffbc3af2d0075b0503649116455f6da22257ba7a45ce2c9e48efb11db0"
+      "sha256": "a9e1a1c78a8881162c875c304e3252da36bcdc854a5170e7b408c7fda1a2fa9d"
     },
     {
       "route": "/b2b/",
       "file": "prototype/b2b/index.html",
-      "title": "B2B Chocolate Projects",
-      "sha256": "5f5c0f9a0855554b175e143a856625eda3b188ff42fd2aad13932b1d960c5d01"
+      "title": "Partner Brands",
+      "sha256": "01e41dac610e20a233e404e884865ddcaea0ebe7b5e932ef0a899ad50afcaaed"
+    },
+    {
+      "route": "/decor/",
+      "file": "prototype/decor/index.html",
+      "title": "D\u00e9cor",
+      "sha256": "3fbb059a72f9159a9472dfb75d72e4d95dac57b88f7dcce20c0f158b5195122c"
+    },
+    {
+      "route": "/branded-chocolate/",
+      "file": "prototype/branded-chocolate/index.html",
+      "title": "Branded Chocolate",
+      "sha256": "c79624de79c0f0bde7b403bf754a82ac0582af6621a3a9bf6e509dd0fa5da412"
+    },
+    {
+      "route": "/fulfillment/",
+      "file": "prototype/fulfillment/index.html",
+      "title": "Fulfillment",
+      "sha256": "23c4a1f1a7274272d620a42da772eef59e369b1c3f549cafcae3f4c37cbbc334"
     },
     {
       "route": "/lets-talk/",
       "file": "prototype/lets-talk/index.html",
       "title": "Let's Talk",
-      "sha256": "b602b168bac50d4e1876d062566a8865577d8d0052d3d5d7638d070c04070774"
+      "sha256": "f4c16d714f2550d50681299538abf6c83dad9b2372684fc220439ac624a30dae"
     },
     {
       "route": "/privacy-policy/",
       "file": "prototype/privacy-policy/index.html",
       "title": "Privacy Policy",
-      "sha256": "459ab52563aaa18a6970004ec8e6d316f015b627219a5ac9f423d1d604e0ee59"
+      "sha256": "1be17805bb9362e8e12d16f3e9dd443ae635feff515de70e532b12effcc484bc"
     },
     {
       "route": "/terms-and-conditions/",
       "file": "prototype/terms-and-conditions/index.html",
       "title": "Terms and Conditions",
-      "sha256": "01fd7f78d861a95a391811de3c4b16b7bd765f9cc856978b661fbb3302764b6d"
+      "sha256": "686fed6b89329dd6817d37869773ff0dba093601020ee0e3b10ebd07cafa6e6a"
     },
     {
       "route": "/accessibility/",
       "file": "prototype/accessibility/index.html",
       "title": "Accessibility",
-      "sha256": "1e88cb947fc19e00a29597e6153f6f70a8a7199a90f9ff4136ed434dbb3b29c9"
+      "sha256": "7d0faf47890a73493f8623ef4ed226776dc7439369e4d0a2431ed5bc27236ce3"
     },
     {
       "route": "/404.html",
       "file": "prototype/404.html",
       "title": "Page Not Found",
-      "sha256": "f43802f9f466833f1a4217ba16636eeab6d686522e84d5492839dc647afc6050"
+      "sha256": "38548238c020bdceb0523a57b06c2efff8742e6a990927a8f125482fe8ee9a16"
     }
   ],
   "sources": [
+    "prototype/homepage-content.json",
+    "scripts/presentation_updates.py",
+    "prototype/approved-content.json",
+    "prototype/navigation.json",
+    "prototype/logo-links.json",
+    "prototype/partials/hero.html",
+    "scripts/shared_components.py",
+    "scripts/content_updates.py",
+    "scripts/navigation_components.py",
     "prototype/site-content.json",
     "prototype/site.template.html",
     "prototype/homepage.template.html",

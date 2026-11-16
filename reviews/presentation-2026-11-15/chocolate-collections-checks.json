@@ -1,0 +1,371 @@
+[
+  {
+    "active": true,
+    "columns": "436px 436px 436px",
+    "h1": "Snacking Little Bites. Big Love.",
+    "overflow": false,
+    "route": "/snacking/",
+    "tiles": [
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Tablet Pure Chocolate. Endless Desire.",
+        "id": "tablet",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Filled The Magic Is Within.",
+        "id": "filled",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Covered Wrapped in Chocolate. Made to Crave.",
+        "id": "covered",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Dipped One Dip. Pure Temptation.",
+        "id": "dipped",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Novelty Where Imagination Becomes Chocolate.",
+        "id": "novelty",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Drink Sip Into Something Wonderful.",
+        "id": "drink",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Wellness Indulgence with Intention.",
+        "id": "wellness",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Assortment A Symphony of Sweet Sensations.",
+        "id": "assortment",
+        "transparent": true
+      }
+    ]
+  },
+  {
+    "active": true,
+    "columns": "436px 436px 436px",
+    "h1": "Gifting Give Chocolate. Share Love.",
+    "overflow": false,
+    "route": "/gifting/",
+    "tiles": [
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Tablet Pure Chocolate. Endless Desire.",
+        "id": "tablet",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Filled The Magic Is Within.",
+        "id": "filled",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Covered Wrapped in Chocolate. Made to Crave.",
+        "id": "covered",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Dipped One Dip. Pure Temptation.",
+        "id": "dipped",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Novelty Where Imagination Becomes Chocolate.",
+        "id": "novelty",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Drink Sip Into Something Wonderful.",
+        "id": "drink",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Wellness Indulgence with Intention.",
+        "id": "wellness",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Assortment A Symphony of Sweet Sensations.",
+        "id": "assortment",
+        "transparent": true
+      }
+    ]
+  },
+  {
+    "active": true,
+    "columns": "436px 436px 436px",
+    "h1": "Entertaining Made to Share. Meant to Impress.",
+    "overflow": false,
+    "route": "/entertaining/",
+    "tiles": [
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Tablet Pure Chocolate. Endless Desire.",
+        "id": "tablet",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Filled The Magic Is Within.",
+        "id": "filled",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Covered Wrapped in Chocolate. Made to Crave.",
+        "id": "covered",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Dipped One Dip. Pure Temptation.",
+        "id": "dipped",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Novelty Where Imagination Becomes Chocolate.",
+        "id": "novelty",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Drink Sip Into Something Wonderful.",
+        "id": "drink",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Wellness Indulgence with Intention.",
+        "id": "wellness",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Assortment A Symphony of Sweet Sensations.",
+        "id": "assortment",
+        "transparent": true
+      }
+    ]
+  },
+  {
+    "active": true,
+    "columns": "327px",
+    "h1": "Entertaining Made to Share. Meant to Impress.",
+    "overflow": false,
+    "route": "/entertaining/",
+    "tiles": [
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Tablet Pure Chocolate. Endless Desire.",
+        "id": "tablet",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Filled The Magic Is Within.",
+        "id": "filled",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Covered Wrapped in Chocolate. Made to Crave.",
+        "id": "covered",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Dipped One Dip. Pure Temptation.",
+        "id": "dipped",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Novelty Where Imagination Becomes Chocolate.",
+        "id": "novelty",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Drink Sip Into Something Wonderful.",
+        "id": "drink",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Wellness Indulgence with Intention.",
+        "id": "wellness",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Entertaining#inquiry",
+        "heading": "Assortment A Symphony of Sweet Sensations.",
+        "id": "assortment",
+        "transparent": true
+      }
+    ]
+  },
+  {
+    "active": true,
+    "columns": "327px",
+    "h1": "Snacking Little Bites. Big Love.",
+    "overflow": false,
+    "route": "/snacking/",
+    "tiles": [
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Tablet Pure Chocolate. Endless Desire.",
+        "id": "tablet",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Filled The Magic Is Within.",
+        "id": "filled",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Covered Wrapped in Chocolate. Made to Crave.",
+        "id": "covered",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Dipped One Dip. Pure Temptation.",
+        "id": "dipped",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Novelty Where Imagination Becomes Chocolate.",
+        "id": "novelty",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Drink Sip Into Something Wonderful.",
+        "id": "drink",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Wellness Indulgence with Intention.",
+        "id": "wellness",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Snacking#inquiry",
+        "heading": "Assortment A Symphony of Sweet Sensations.",
+        "id": "assortment",
+        "transparent": true
+      }
+    ]
+  },
+  {
+    "active": true,
+    "columns": "327px",
+    "h1": "Gifting Give Chocolate. Share Love.",
+    "overflow": false,
+    "route": "/gifting/",
+    "tiles": [
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Tablet Pure Chocolate. Endless Desire.",
+        "id": "tablet",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Filled The Magic Is Within.",
+        "id": "filled",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Covered Wrapped in Chocolate. Made to Crave.",
+        "id": "covered",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Dipped One Dip. Pure Temptation.",
+        "id": "dipped",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Novelty Where Imagination Becomes Chocolate.",
+        "id": "novelty",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Drink Sip Into Something Wonderful.",
+        "id": "drink",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Wellness Indulgence with Intention.",
+        "id": "wellness",
+        "transparent": true
+      },
+      {
+        "action": "../lets-talk/?topic=Gifting#inquiry",
+        "heading": "Assortment A Symphony of Sweet Sensations.",
+        "id": "assortment",
+        "transparent": true
+      }
+    ]
+  },
+  {
+    "active": true,
+    "columns": "327px",
+    "h1": "Our Chocolate Experience. Chocolate.",
+    "overflow": false,
+    "route": "/products/",
+    "tiles": [
+      {
+        "action": "../snacking/",
+        "heading": "Snacking Little Bites. Big Love.",
+        "id": "snacking",
+        "transparent": true
+      },
+      {
+        "action": "../gifting/",
+        "heading": "Gifting Give Chocolate. Share Love.",
+        "id": "gifting",
+        "transparent": true
+      },
+      {
+        "action": "../entertaining/",
+        "heading": "Entertaining Made to Share. Meant to Impress.",
+        "id": "entertaining",
+        "transparent": true
+      }
+    ]
+  }
+]

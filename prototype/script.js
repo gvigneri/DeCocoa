@@ -4,6 +4,21 @@
   body.dataset.decocoaInitialized = "true";
   const siteRoot = new URL('./', document.currentScript?.src || location.href);
   const canonicalPath = pathname => pathname.replace(/\/index\.html$/, '/');
+  // Retained product-method anchors declare their replacement route in HTML.
+  // Relative URLs preserve both root previews and the /DeCocoa/ deployment.
+  const capabilityTarget = hash => {
+    try { return document.getElementById(decodeURIComponent(hash.slice(1)))?.dataset.capabilityDestination; }
+    catch { return null; }
+  };
+  const forwardCapability = () => {
+    const route=capabilityTarget(location.hash);
+    if(!route)return false;
+    const destination=new URL(route,location.href);destination.search=location.search;
+    if(destination.href===location.href)return false;
+    location.replace(destination.href);return true;
+  };
+  if(forwardCapability())return;
+  addEventListener('hashchange',forwardCapability);
   // Old Work With Us links are redirected here by the preview. Only these
   // public offering fragments are forwarded; message fields never enter URLs.
   if(canonicalPath(location.pathname)===new URL('lets-talk/',siteRoot).pathname){
@@ -18,7 +33,7 @@
   const contexts = [...document.querySelectorAll('[data-header]')].map(header => ({
     header, toggle:header.querySelector('.menu-toggle'), nav:header.querySelector('.main-navigation'),
     dropdowns:[...header.querySelectorAll('.nav-dropdown')].map(dropdown=>({
-      dropdown,toggle:dropdown.querySelector('.submenu-toggle'),panel:dropdown.querySelector('.submenu'),
+      dropdown,parent:dropdown.querySelector('.nav-parent'),toggle:dropdown.querySelector('.submenu-toggle'),panel:dropdown.querySelector('.submenu'),
       latched:false,pointerInside:false,hoverSuppressed:false,hoverTimer:null
     })).filter(d=>d.toggle && d.panel)
   })).filter(c=>c.toggle && c.nav);
@@ -53,7 +68,7 @@
     const returnFocus=focus || d.panel.contains(document.activeElement);
     clearTimeout(d.hoverTimer);d.latched=false;
     if(suppressHover)d.hoverSuppressed=true;
-    d.toggle.setAttribute('aria-expanded','false');
+    d.toggle.setAttribute('aria-expanded','false');d.dropdown.classList.remove('is-open');
     if(returnFocus)d.toggle.focus();
     if(d.closing && animate)return;
     if(!animate || d.panel.hidden){finishSub(d);return;}
@@ -68,7 +83,7 @@
     d.panel.classList.remove('is-closing');d.panel.inert=false;d.panel.removeAttribute('aria-hidden');
     if(latch){d.latched=true;d.hoverSuppressed=false;}
     d.toggle.classList.remove('pointer-collapsed');
-    d.panel.hidden=false;d.toggle.setAttribute('aria-expanded','true');
+    d.panel.hidden=false;d.toggle.setAttribute('aria-expanded','true');d.dropdown.classList.add('is-open');
   };
   const finishMenu=c=>{
     clearTimeout(c.closeTimer);c.menuClosing=false;
@@ -109,7 +124,10 @@
       d.toggle.addEventListener('keydown',event=>{
         if(event.key==='ArrowDown'){event.preventDefault();showSub(c,d,true);d.panel.querySelector('a')?.focus();}
       });
-      const hoverPointer=event=>!phone.matches && event.pointerType!=='touch' && matchMedia('(hover: hover)').matches;
+      d.parent?.addEventListener('keydown',event=>{
+        if(event.key==='ArrowDown'){event.preventDefault();showSub(c,d,true);d.panel.querySelector('a')?.focus();}
+      });
+      const hoverPointer=event=>getComputedStyle(c.toggle).display==='none' && event.pointerType!=='touch' && matchMedia('(hover: hover)').matches;
       d.dropdown.addEventListener('pointerenter',event=>{
         if(!hoverPointer(event))return;
         d.pointerInside=true;clearTimeout(d.hoverTimer);
@@ -162,7 +180,8 @@
   const setContext = (search,resetMissing=false) => {
     const params=new URLSearchParams(search);
     for (const [key,id] of contextFields) {
-      const select=document.getElementById(id),raw=params.get(key),value=key==='topic' && raw==='Wholesale / B2B'?'B2B':raw;
+      const select=document.getElementById(id),raw=params.get(key);
+      const value=key==='topic' && ['B2B','Wholesale / B2B'].includes(raw)?'Partner Brands':raw;
       if(!select)continue;
       if(value!==null && [...select.options].some(option=>option.value===value)) select.value=value;
       else if(resetMissing)select.value='';
@@ -208,6 +227,10 @@
     try{section=document.getElementById(decodeURIComponent(destination.hash.slice(1)));}catch{return;}
     if(!section)return;
     event.preventDefault();
+    if(section.dataset.capabilityDestination){
+      const replacement=new URL(section.dataset.capabilityDestination,location.href);
+      replacement.search=destination.search;location.assign(replacement.href);return;
+    }
     setContext(destination.search);
     const next=publicContextURL(destination.hash);
     if(next.href!==location.href)history.pushState(null,'',next);

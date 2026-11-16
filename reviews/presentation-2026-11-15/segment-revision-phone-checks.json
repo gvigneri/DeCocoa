@@ -1,0 +1,28 @@
+[
+  {
+    "columns": null,
+    "overflow": false,
+    "path": "/fulfillment/",
+    "pdf": true,
+    "width": 390
+  },
+  {
+    "columns": null,
+    "overflow": false,
+    "path": "/decor/",
+    "pdf": true,
+    "width": 390
+  },
+  {
+    "columns": "327px",
+    "overflow": false,
+    "path": "/branded-chocolate/",
+    "width": 390
+  },
+  {
+    "columns": "327px",
+    "overflow": false,
+    "path": "/b2b/",
+    "width": 390
+  }
+]

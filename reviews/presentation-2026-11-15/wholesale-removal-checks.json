@@ -1,0 +1,12 @@
+{
+  "pages": 23,
+  "wholesale_routes_in_inventory": [],
+  "links_options_metadata": [],
+  "retired_statuses": {
+    "/wholesale/": 404,
+    "/wholesale": 404,
+    "/wholesale/index.html": 404
+  },
+  "old_generated_page_exists": false,
+  "exported_wholesale_files": []
+}

@@ -1,0 +1,119 @@
+/* Shared page compositions extend the established Orange homepage hero. */
+.hero--page .hero-layout{min-height:0;padding-block:75px;column-gap:clamp(24px,4vw,64px)}
+.page-hero-media{width:100%;min-width:0;margin:0}
+.page-hero-media img{display:block;width:100%;height:auto;max-height:650px;object-fit:contain}
+.page-hero-media.brandmark-media{width:min(65%,350px);justify-self:center}
+.hero--page .hero-copy p{max-width:880px}
+.hero--page .hero-copy p+p{margin-top:22px}
+.hero-notice{margin-top:28px;font:inherit;font-weight:700;letter-spacing:normal}
+.hero-copy .hero-notice+p{margin-top:14px}
+.category-block{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr);align-items:center;gap:7%;padding-block:45px}
+.category-block+.category-block{border-top:0}
+.category-block .category-image{height:340px;border-radius:16px;background:var(--cream)}
+.category-block .category-image img{width:100%;height:100%;object-fit:contain}
+.category-block h2{--heading-size:clamp(32px,3.5vw,48px)}
+.category-block p{margin-top:20px;max-width:880px}
+.category-block .category-tagline{font-weight:700;line-height:1.7;margin-top:20px}
+.category-block .text-link{display:inline-block;margin-top:22px}
+.category-block .button{margin-top:22px}
+.compatibility-links{padding-block:35px}
+.compatibility-links section+section{margin-top:16px}
+.content-block{margin-top:32px}
+#our-roots .content-block h3{font-weight:700}
+.content-steps{padding-left:1.6em;margin-top:30px}
+.content-steps li+li{margin-top:28px}
+.content-media{max-width:900px;margin-top:32px}
+.content-media img{width:100%;height:auto}
+.content-media--leading{width:100%;max-width:none;margin:0 0 40px}
+.family-timeline{list-style:none;margin:40px 0 0;padding:0 0 0 30px;border-left:2px solid var(--orange);max-width:880px}
+.family-timeline li{position:relative;padding:0 0 24px}
+.family-timeline li::before{content:'';position:absolute;left:-37px;top:.6em;width:12px;height:12px;border-radius:50%;background:var(--chocolate)}
+.family-timeline time{font-weight:700}
+.family-timeline p{margin:0}
+.business-overview .discovery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.business-overview .business-intro{max-width:900px;margin:0 auto 28px;text-align:center}
+.business-overview .discovery-card h4{font-size:1.5rem;line-height:1.4;font-weight:700}
+.logo-marks .logo-link{display:flex;justify-content:center;align-items:center;width:100%;height:100%}
+.logo-marks .logo-link:focus-visible{filter:drop-shadow(0 3px 0 var(--ripe))}
+.info-item[id]{scroll-margin-top:calc(var(--sticky-height,112px) + 24px)}
+@media(max-width:900px){.hero--page .hero-layout{grid-template-columns:minmax(0,1fr);gap:35px;padding-block:55px}.page-hero-media{max-width:650px;justify-self:center}.page-hero-media img{max-height:480px}.category-block{gap:30px}.category-block .category-image{height:280px}}
+@media(max-width:600px){.hero--page .hero-layout{display:grid;grid-template-columns:minmax(0,1fr);min-height:0;padding:34px 16px;gap:30px}.hero--page .hero-copy{position:relative;inset:auto;align-self:auto;width:100%;margin:0}.hero--page .page-hero-media{grid-column:1;max-width:100%}.page-hero-media img{max-height:340px}.page-hero-media.brandmark-media{width:55%}.category-block{grid-template-columns:minmax(0,1fr);padding-block:35px}.business-overview .discovery-grid{grid-template-columns:minmax(0,1fr)}}
+
+/* The chocolate catalogue uses three complete category tiles per desktop row. */
+.category-tiles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px;padding-block:64px}
+.category-tiles .category-block{display:flex;flex-direction:column;align-items:stretch;gap:0;padding:0;min-width:0;border-radius:16px;overflow:hidden;background:transparent}
+.category-tiles .category-image{width:100%;height:260px;padding:26px;background:transparent;border-radius:16px 16px 0 0}
+.category-tiles .category-block>div{display:flex;flex:1;flex-direction:column;align-items:center;padding:8px 28px 32px;text-align:center}
+.category-tiles .category-block h2{--heading-size:clamp(28px,2.4vw,38px);--heading-weight:700;--heading-line:1.2;--heading-spacing:-.025em}
+.category-tiles .category-tagline{line-height:1.45;margin-top:16px}
+.category-tiles .category-block p{margin:20px 0 28px}
+.category-tiles .category-block .button{margin-top:auto;max-width:100%}
+.pdf-action{display:flex;flex-direction:column;align-items:flex-start;gap:16px;margin-top:35px}
+.pdf-action p{margin:0}
+/* Retired process URLs retain a fallback only when their fragment is visited. */
+.product-overview .compatibility-links{padding:0}
+.product-overview .compatibility-links>section{display:none}
+.product-overview .compatibility-links>section:target{display:block;margin:0;padding-block:35px}
+@media(max-width:1199px){.category-tiles{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}.category-tiles .category-image{height:240px}}
+@media(max-width:600px){.category-tiles{grid-template-columns:minmax(0,1fr);padding-block:36px}.category-tiles .category-block>div{padding:8px 24px 28px}}
+
+/* November 15: quiet surfaces, shorter introductions and editorial segment columns. */
+.homepage .people--open,.homepage .craft--open{background:#fff}
+.homepage .people--open .eyebrow,.homepage .craft--open .eyebrow{color:var(--ripe)}
+.homepage .trust-certifications{background:#fff}
+.homepage .experience--open{background:var(--cream)}
+.inquiry-surface{background:#fff}
+.category-home .category-copy{align-items:center;text-align:center}
+.category-home .category-copy h3{font-size:clamp(28px,2.4vw,38px);line-height:1.2}
+.category-tagline{display:block;color:var(--ripe);font-size:var(--body-size);letter-spacing:normal}
+.category-home .category-copy .category-tagline{color:var(--ripe);font-weight:700;line-height:1.45;margin:16px 0 0}
+.category-home .category-copy .category-intro{margin:18px 0 22px;line-height:1.6}
+.category-home .category-card{transition:none}
+.category-home .category-card:hover{translate:none;box-shadow:none}
+.category-home .category-track:focus-visible .category-copy h3{color:var(--ripe)}
+.business-overview{padding-block:85px;background:var(--cream)}
+.business-overview .business-intro{max-width:960px;margin:0 auto 54px}
+.business-overview h2{--heading-size:clamp(34px,3.8vw,56px);--heading-weight:400;--heading-line:1.15;--heading-spacing:-.055em}
+.business-overview .business-intro>p{margin-top:24px}
+.business-overview .business-intro .eyebrow{margin-inline:auto}
+.segment-grid{position:relative;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:repeat(2,1fr);gap:0}
+.segment-grid::before,.segment-grid::after{content:'';position:absolute;background:rgb(58 23 13 / 25%);z-index:2;pointer-events:none}
+.segment-grid::before{left:50%;top:0;bottom:0;width:1px}
+.segment-grid::after{left:0;right:0;top:50%;height:1px}
+.segment-card{position:relative;display:flex;flex-direction:column;align-items:center;min-width:0;padding:36px 40px;text-align:center;color:var(--chocolate);border-radius:0;transition:box-shadow .22s ease,background-color .22s ease}
+.segment-icon{color:var(--chocolate);margin-bottom:24px}
+.segment-icon .fa-icon{width:64px;height:64px}
+.segment-card h3{font-size:clamp(25px,2.2vw,32px);font-weight:700;line-height:1.22}
+.segment-card .segment-kicker{color:var(--ripe);font-size:1rem;font-weight:700;line-height:1.5;letter-spacing:.02em;text-transform:uppercase;display:flex;align-items:center;justify-content:center;margin-top:12px}
+.segment-rule{width:52px;height:2px;background:var(--orange);margin:22px 0}
+.segment-summary{line-height:1.55;margin-bottom:24px}
+.segment-action{display:flex;justify-content:center;align-items:center;gap:8px;margin-top:auto;font-size:1rem;font-weight:700;color:var(--ripe);min-height:44px}
+.segment-card:is(:hover,:focus-visible){background:rgb(232 121 51 / 5%);box-shadow:var(--soft-shadow)}
+.segment-card:focus-visible .segment-action{text-decoration:underline;text-underline-offset:5px}
+:root .homepage .segment-card{background-image:none;color:var(--chocolate)}
+.logo-marks .logo-link{border-radius:12px;padding:12px;background-image:none;transition:background-color .2s ease}
+:root .logo-marks .logo-link:is(:hover,:focus-visible){background-color:rgb(232 121 51 / 10%);background-image:none;filter:none}
+.logo-marks .logo-link::after{display:none}
+.logo-marks .logo-link:focus-visible img{opacity:.8}
+.sustainability-marks{justify-content:flex-start;gap:24px;margin-top:32px;max-width:600px}
+.sustainability-marks li{flex:0 1 220px}
+.sustainability-marks img{height:180px}
+@media(max-width:600px){.sustainability-marks li{flex-basis:calc((100% - 24px)/2)}.sustainability-marks img{height:140px}}
+.site-footer .footer-group h2{color:#fff}
+:root .site-footer a:not(.brand){color:var(--orange)}
+:root .site-footer a:not(.brand):is(:hover,:focus-visible){color:#fff}
+/* Both concentric button borders and the label respond together. */
+.button.button-primary{border-color:var(--orange);color:var(--chocolate)}
+.button.button-primary::before{border-color:var(--orange)}
+.button.button-secondary{border-color:var(--cream);color:var(--chocolate)}
+.button.button-secondary::before{border-color:var(--cream)}
+.button:is(:hover,:focus-visible):not(:disabled),.button:is(:hover,:focus-visible):not(:disabled)::before{border-color:var(--chocolate)}
+.button:is(:hover,:focus-visible):not(:disabled){box-shadow:var(--soft-shadow)}
+.button.button-primary:is(:hover,:focus-visible):not(:disabled){color:var(--orange)}
+.button.button-secondary:is(:hover,:focus-visible):not(:disabled){color:#fff}
+@media(max-width:600px){.business-overview{padding-block:55px}.business-overview .business-intro{margin-bottom:32px}.segment-grid{grid-template-columns:minmax(0,1fr);grid-template-rows:none;gap:0}.segment-grid::before,.segment-grid::after{display:none}.segment-card{padding:30px 20px}.segment-card+.segment-card{border-top:1px solid rgb(58 23 13 / 25%)}.segment-summary{max-width:32em}}
+@media(prefers-reduced-motion:reduce){.segment-card,.logo-marks .logo-link{transition:none}}
+.reduce-motion .segment-card,.reduce-motion .logo-marks .logo-link{transition:none}
+
+/* Captions and taglines belong to their card's heading, with unchanged type. */
+.product-card-link .product-caption{display:block;font-size:var(--body-size);font-weight:400;line-height:1.7;letter-spacing:normal;margin:19px 0 5px}

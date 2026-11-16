@@ -1,0 +1,143 @@
+[
+  {
+    "label": "Our Chocolate",
+    "route": "products/",
+    "children": [
+      {
+        "label": "Snacking",
+        "route": "snacking/"
+      },
+      {
+        "label": "Gifting",
+        "route": "gifting/"
+      },
+      {
+        "label": "Entertaining",
+        "route": "entertaining/"
+      }
+    ],
+    "image": "menu-chocolate-2026-11-15.webp",
+    "width": 640,
+    "height": 640,
+    "active_routes": [
+      "products/",
+      "snacking/",
+      "gifting/",
+      "entertaining/"
+    ]
+  },
+  {
+    "label": "Our People",
+    "route": "our-people/",
+    "image": "menu-people-2026-11-15.webp",
+    "width": 640,
+    "height": 640,
+    "children": [
+      {
+        "label": "Our Roots",
+        "route": "our-people/#our-roots"
+      },
+      {
+        "label": "Our Principals",
+        "route": "our-people/#our-principals"
+      },
+      {
+        "label": "Our Values",
+        "route": "our-people/#our-values"
+      },
+      {
+        "label": "Sweet Careers",
+        "route": "our-people/#sweet-careers"
+      }
+    ]
+  },
+  {
+    "label": "Our Craft",
+    "route": "our-craft/",
+    "active_routes": [
+      "our-craft/"
+    ],
+    "image": "menu-craft-2026-11-15.webp",
+    "width": 640,
+    "height": 640,
+    "children": [
+      {
+        "label": "Promise",
+        "route": "our-craft/#promise"
+      },
+      {
+        "label": "Focus",
+        "route": "our-craft/#focus"
+      },
+      {
+        "label": "Sustainability",
+        "route": "our-craft/#sustainability"
+      },
+      {
+        "label": "Food Safety",
+        "route": "our-craft/#food-safety"
+      }
+    ]
+  },
+  {
+    "label": "Our Segments",
+    "route": "our-segments/",
+    "active_routes": [
+      "our-segments/",
+      "branded-chocolate/",
+      "b2b/",
+      "decor/",
+      "fulfillment/"
+    ],
+    "children": [
+      {
+        "label": "Branded Chocolate",
+        "route": "branded-chocolate/"
+      },
+      {
+        "label": "Partner Brands",
+        "route": "b2b/"
+      },
+      {
+        "label": "Décor",
+        "route": "decor/"
+      },
+      {
+        "label": "Fulfillment",
+        "route": "fulfillment/"
+      }
+    ],
+    "image": "menu-segments-2026-11-15.webp",
+    "width": 640,
+    "height": 640
+  },
+  {
+    "label": "Experience Center",
+    "route": "experience-center/",
+    "active_routes": [
+      "experience-center/",
+      "craft-your-own/"
+    ],
+    "image": "menu-experience-2026-11-15.webp",
+    "width": 640,
+    "height": 640,
+    "children": [
+      {
+        "label": "How It's Made",
+        "route": "experience-center/#how-its-made"
+      },
+      {
+        "label": "Museum & Virtual Exhibition",
+        "route": "experience-center/#museum-virtual-exhibition"
+      },
+      {
+        "label": "Tours and Classes",
+        "route": "experience-center/#tours-and-classes"
+      },
+      {
+        "label": "Craft Your Own",
+        "route": "craft-your-own/"
+      }
+    ]
+  }
+]

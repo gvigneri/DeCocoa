@@ -8,7 +8,7 @@
       "rightward_pixels_per_second": 15,
       "pause_gates": 6,
       "manual_pause_expires": true,
-      "focusable_cards_revealed": 5,
+      "cards_revealed": 8,
       "wrapping_steps": 1000
     },
     {
@@ -18,7 +18,7 @@
       "rightward_pixels_per_second": 15,
       "pause_gates": 6,
       "manual_pause_expires": true,
-      "focusable_cards_revealed": 5,
+      "cards_revealed": 8,
       "wrapping_steps": 1000
     },
     {
@@ -28,7 +28,7 @@
       "rightward_pixels_per_second": 15,
       "pause_gates": 6,
       "manual_pause_expires": true,
-      "focusable_cards_revealed": 5,
+      "cards_revealed": 8,
       "wrapping_steps": 1000
     },
     {
@@ -38,7 +38,7 @@
       "rightward_pixels_per_second": 15,
       "pause_gates": 6,
       "manual_pause_expires": true,
-      "focusable_cards_revealed": 5,
+      "cards_revealed": 8,
       "wrapping_steps": 1000
     },
     {
@@ -48,7 +48,7 @@
       "rightward_pixels_per_second": 15,
       "pause_gates": 6,
       "manual_pause_expires": true,
-      "focusable_cards_revealed": 5,
+      "cards_revealed": 8,
       "wrapping_steps": 1000
     }
   ],

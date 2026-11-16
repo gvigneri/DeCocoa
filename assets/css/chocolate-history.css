@@ -1,6 +1,4 @@
 /* Placement belongs to the layer; the inner visual owns entrance motion. */
-.experience-history .editorial-layout{display:block}
-.experience-history .section-nav{flex-direction:row;flex-wrap:wrap;gap:12px 32px;padding-block:0 26px}
 .chocolate-history{--history-track:50%;--history-gap:clamp(38px,5vw,80px)}
 .history-intro{max-width:740px;margin-inline:auto;text-align:center}
 .history-intro .eyebrow{margin-inline:auto}
@@ -44,7 +42,6 @@
   .history-invitation{padding-left:44px;text-align:left;margin-inline:0}
 }
 @media(max-width:700px){
-  .experience-history .section-nav{gap:8px 22px}
   .history-chapter{grid-template-columns:minmax(0,1fr);gap:24px}
   .history-item{padding-block:26px 22px;padding-left:34px}
   .history-item::before{top:34px;width:12px;height:12px;box-shadow:0 0 0 6px var(--cream)}

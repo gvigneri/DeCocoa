@@ -1,0 +1,83 @@
+[
+  {
+    "columns": "436px 436px 436px",
+    "count": 11,
+    "firstRow": [
+      {
+        "heading": "Tablet Pure Chocolate. Endless Desire.",
+        "height": 714.375,
+        "top": 826.9375,
+        "width": 436
+      },
+      {
+        "heading": "Filled The Magic Is Within.",
+        "height": 714.375,
+        "top": 826.9375,
+        "width": 436
+      },
+      {
+        "heading": "Covered Wrapped in Chocolate. Made to Crave.",
+        "height": 714.375,
+        "top": 826.9375,
+        "width": 436
+      }
+    ],
+    "overflow": false,
+    "removed": 0,
+    "width": 1600
+  },
+  {
+    "columns": "332.25px 332.25px",
+    "count": 11,
+    "firstRow": [
+      {
+        "heading": "Tablet Pure Chocolate. Endless Desire.",
+        "height": 569.53125,
+        "top": 13.5625,
+        "width": 332.25
+      },
+      {
+        "heading": "Filled The Magic Is Within.",
+        "height": 569.53125,
+        "top": 13.5625,
+        "width": 332.25
+      },
+      {
+        "heading": "Covered Wrapped in Chocolate. Made to Crave.",
+        "height": 565.53125,
+        "top": 607.09375,
+        "width": 332.25
+      }
+    ],
+    "overflow": false,
+    "removed": 0,
+    "width": 768
+  },
+  {
+    "columns": "327px",
+    "count": 11,
+    "firstRow": [
+      {
+        "heading": "Tablet Pure Chocolate. Endless Desire.",
+        "height": 565.53125,
+        "top": 10.34375,
+        "width": 327
+      },
+      {
+        "heading": "Filled The Magic Is Within.",
+        "height": 538.34375,
+        "top": 599.875,
+        "width": 327
+      },
+      {
+        "heading": "Covered Wrapped in Chocolate. Made to Crave.",
+        "height": 561.53125,
+        "top": 1162.21875,
+        "width": 327
+      }
+    ],
+    "overflow": false,
+    "removed": 0,
+    "width": 390
+  }
+]

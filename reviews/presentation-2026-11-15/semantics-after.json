@@ -1,0 +1,634 @@
+[
+  {
+    "duplicates": [
+      {
+        "a": "Let's Talk",
+        "b": "Let’s Craft Something Together",
+        "classes": [
+          "button button-primary button-scroll-contact header-contact",
+          "button button-secondary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/",
+    "shortParagraphs": [
+      {
+        "cls": "",
+        "section": "partners",
+        "size": 24,
+        "style": "normal",
+        "text": "Good chocolate brings people together.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "talk",
+        "size": 24,
+        "style": "normal",
+        "text": "A question, an idea, a chocolate possibility.",
+        "weight": "400"
+      }
+    ],
+    "combinedHeadings": [
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "Pure Chocolate. Endless Desire."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "The Magic Is Within."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "Wrapped in Chocolate. Made to Crave."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "One Dip. Pure Temptation."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "Where Imagination Becomes Chocolate."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "Sip Into Something Wonderful."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "Indulgence with Intention."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "A Symphony of Sweet Sensations."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "Little Bites. Big Love."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "Give Chocolate. Share Love."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "Made to Share. Meant to Impress."
+      },
+      {
+        "heading": "H3",
+        "size": "16px",
+        "text": "B2C · Retail"
+      },
+      {
+        "heading": "H3",
+        "size": "16px",
+        "text": "B2B · Private Label"
+      },
+      {
+        "heading": "H3",
+        "size": "16px",
+        "text": "Pro2Pro · Chocolate Solutions"
+      },
+      {
+        "heading": "H3",
+        "size": "16px",
+        "text": "D2C · Logistics Services"
+      }
+    ],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Ask About Tablet",
+        "b": "Ask About Filled",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Filled",
+        "b": "Ask About Covered",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Covered",
+        "b": "Ask About Dipped",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Dipped",
+        "b": "Ask About Novelty",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Novelty",
+        "b": "Ask About Drink",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Drink",
+        "b": "Ask About Wellness",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Wellness",
+        "b": "Ask About Assortment",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Assortment",
+        "b": "Ask About Snacking",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Snacking",
+        "b": "Ask About Gifting",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Gifting",
+        "b": "Ask About Entertaining",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      }
+    ],
+    "route": "/products/",
+    "shortParagraphs": [],
+    "combinedHeadings": [
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "Pure Chocolate. Endless Desire."
+      },
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "The Magic Is Within."
+      },
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "Wrapped in Chocolate. Made to Crave."
+      },
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "One Dip. Pure Temptation."
+      },
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "Where Imagination Becomes Chocolate."
+      },
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "Sip Into Something Wonderful."
+      },
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "Indulgence with Intention."
+      },
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "A Symphony of Sweet Sensations."
+      },
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "Little Bites. Big Love."
+      },
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "Give Chocolate. Share Love."
+      },
+      {
+        "heading": "H2",
+        "size": "24px",
+        "text": "Made to Share. Meant to Impress."
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "A soft center"
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "The classic snap"
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "A playful finishing touch"
+      }
+    ],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/products/filled-chocolate/",
+    "shortParagraphs": [],
+    "combinedHeadings": [
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "The classic snap"
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "A playful finishing touch"
+      }
+    ],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/products/chocolate-bar/",
+    "shortParagraphs": [],
+    "combinedHeadings": [
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "A soft center"
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "A playful finishing touch"
+      }
+    ],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/products/chocolate-drizzle/",
+    "shortParagraphs": [],
+    "combinedHeadings": [
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "A soft center"
+      },
+      {
+        "heading": "H3",
+        "size": "24px",
+        "text": "The classic snap"
+      }
+    ],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/our-people/",
+    "shortParagraphs": [
+      {
+        "cls": "",
+        "section": "our-values",
+        "size": 24,
+        "style": "normal",
+        "text": "Be honest. Be safe. Do the right thing.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "our-values",
+        "size": 24,
+        "style": "normal",
+        "text": "Help each other. Learn. Grow as a team.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "our-values",
+        "size": 24,
+        "style": "normal",
+        "text": "Be positive. Be helpful. Set a good example.",
+        "weight": "400"
+      }
+    ],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Ask About Food Safety",
+        "b": "Ask About One Shot Depositing",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Our%20craft#inquiry"
+      },
+      {
+        "a": "Ask About One Shot Depositing",
+        "b": "Ask About Hollow Moulding",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Our%20craft#inquiry"
+      },
+      {
+        "a": "Ask About Hollow Moulding",
+        "b": "Ask About Mixing",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Our%20craft#inquiry"
+      },
+      {
+        "a": "Ask About Mixing",
+        "b": "Ask About Dry Filling",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Our%20craft#inquiry"
+      }
+    ],
+    "route": "/our-craft/",
+    "shortParagraphs": [
+      {
+        "cls": "",
+        "section": "sustainability",
+        "size": 24,
+        "style": "normal",
+        "text": "We source cacao responsibly.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "sustainability",
+        "size": 24,
+        "style": "normal",
+        "text": "We choose only clean label ingredients.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "sustainability",
+        "size": 24,
+        "style": "normal",
+        "text": "We use eco-friendly packaging.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "food-safety",
+        "size": 24,
+        "style": "normal",
+        "text": "We ensure:",
+        "weight": "400"
+      }
+    ],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/experience-center/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/our-segments/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/gifting/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/craft-your-own/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/fundraising/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/wholesale/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/b2b/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/decor/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/branded-chocolate/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/fulfillment/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/lets-talk/",
+    "shortParagraphs": [
+      {
+        "cls": "",
+        "section": "inquiry",
+        "size": 24,
+        "style": "normal",
+        "text": "Choose a topic and add your questions below.",
+        "weight": "400"
+      }
+    ],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/privacy-policy/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/terms-and-conditions/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [],
+    "route": "/accessibility/",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Go Home",
+        "b": "DeCocoa home",
+        "classes": [
+          "button button-primary",
+          "brand"
+        ],
+        "href": "http://127.0.0.1:4174/"
+      }
+    ],
+    "route": "/404.html",
+    "shortParagraphs": [],
+    "combinedHeadings": [],
+    "duplicateDrawerContacts": 0,
+    "h1": 1,
+    "linkedMenuImages": 0,
+    "overflow": false
+  }
+]

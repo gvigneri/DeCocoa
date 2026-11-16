@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-15",
+  "generator": "OpenAI image_gen",
+  "scope": "Generated editorial placeholders at user request; no real DeCocoa people or facility depicted.",
+  "treatment": "Square crop-safe generation; runtime downscale and WebP encoding only. Original PNGs retained.",
+  "assets": [
+    {
+      "purpose": "people mega-menu illustrative placeholder",
+      "source": "brand/source/menu-images-2026-11-15/menu-people-2026-11-15.png",
+      "source_sha256": "759fc5e1d04ae68d4c11f1f968f432b41c552584b6d8116caead25a0ad3c3e0d",
+      "web": "assets/images/menu-people-2026-11-15.webp",
+      "web_sha256": "a6fd751d255f4fff99337b9a614cf5f5d0dc641995dfd8355acb3424110dad60",
+      "dimensions": [
+        640,
+        640
+      ],
+      "bytes": 77948
+    },
+    {
+      "purpose": "craft mega-menu illustrative placeholder",
+      "source": "brand/source/menu-images-2026-11-15/menu-craft-2026-11-15.png",
+      "source_sha256": "dd6e0c2392fb90a9d177879ecdc37c0cad848970804e21da607addb495bc1c4c",
+      "web": "assets/images/menu-craft-2026-11-15.webp",
+      "web_sha256": "a84113b7412ad986e6ae4b5c1f240f95910368433a1d780df27f25e8c9f797d7",
+      "dimensions": [
+        640,
+        640
+      ],
+      "bytes": 75508
+    },
+    {
+      "purpose": "experience mega-menu illustrative placeholder",
+      "source": "brand/source/menu-images-2026-11-15/menu-experience-2026-11-15.png",
+      "source_sha256": "7c62299c05edf2dd50980192fb8092c69a58af4925a5eed9f86f2f85a9f0d021",
+      "web": "assets/images/menu-experience-2026-11-15.webp",
+      "web_sha256": "b8caa7e1ecbc81810c35bfb259d69c1dd2bc5b1abb7036b898efcc9ca57df45e",
+      "dimensions": [
+        640,
+        640
+      ],
+      "bytes": 101270
+    },
+    {
+      "purpose": "Our Segments mega-menu illustrative placeholder",
+      "source": "brand/source/menu-images-2026-11-15/menu-segments-2026-11-15.png",
+      "source_sha256": "a654fb7d913d4f5a57857e8c5ef33a06d5fc5f6614d22348b60fb6b57b00cf6f",
+      "web": "assets/images/menu-segments-2026-11-15.webp",
+      "web_sha256": "d250b45fa1e514149538f7c78ad1296b162a2538c18223e686f2366352515bb2",
+      "dimensions": [
+        640,
+        640
+      ],
+      "bytes": 65152
+    },
+    {
+      "purpose": "Our Chocolate mega-menu illustrative placeholder",
+      "source": "brand/source/menu-images-2026-11-15/menu-chocolate-2026-11-15.png",
+      "source_sha256": "814f9865e61b6949d487cf85a6fd574b331e68069fb73a2b9c38ec9257fdc9f2",
+      "web": "assets/images/menu-chocolate-2026-11-15.webp",
+      "web_sha256": "ddf946d72ef05f8d31ad934005e1fae7a76e067c1e471a70a9d14b417504dfa3",
+      "dimensions": [
+        640,
+        640
+      ],
+      "bytes": 112140,
+      "generator": "OpenAI image_gen built-in tool",
+      "prompt": "Use case: photorealistic-natural. Asset type: square supporting photograph for the Our Chocolate mega-menu on the DeCocoa chocolate crafter website. Create a polished editorial still life celebrating chocolate for snacking, gifting and entertaining: a small ceramic bowl of chocolate bites, a modest open unbranded kraft gift box with a few chocolates and subtle orange ribbon, and a serving platter with assorted chocolates and broken chocolate bar pieces. Warm cream linen and dark brown wood, natural side light, warm realistic chocolate texture. Close three-quarter overhead composition, cohesive square photograph with generous crop-safe edges, realistic editorial food photography. No people, no lettering, no logos, no watermarks, no graphic borders. This is an illustrative placeholder, not a photo of an actual brand product."
+    }
+  ]
+}

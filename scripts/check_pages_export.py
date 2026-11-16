@@ -121,7 +121,9 @@ for(const c of cases){let result;const current=new URL(c.current);vm.runInNewCon
 let legacy=0;
 for(const base of ['/', '/DeCocoa/'])for(const suffix of ['lets-talk/', 'lets-talk/index.html'])for(const [hash,target] of Object.entries({gifting:'gifting/','craft-your-own':'craft-your-own/','chocolate-bar':'craft-your-own/#chocolate-bars',basket:'craft-your-own/#baskets',fundraising:'fundraising/',business:'b2b/'})){
  let result;const current=new URL('https://pages.test'+base+suffix+'?topic=Gifting#'+hash);
- vm.runInNewContext(shared,{URL,document:{body:{dataset:{}},currentScript:{src:'https://pages.test'+base+'script.js'}},location:{pathname:current.pathname,href:current.href,hash:current.hash,search:current.search,replace:v=>result=v}});
+ // These fixtures contain legacy contact fragments, not capability markers.
+ // Supply the browser APIs used to register the new independent hash handler.
+ vm.runInNewContext(shared,{URL,addEventListener(){},document:{body:{dataset:{}},getElementById:()=>null,currentScript:{src:'https://pages.test'+base+'script.js'}},location:{pathname:current.pathname,href:current.href,hash:current.hash,search:current.search,replace:v=>result=v}});
  const expected=new URL(target,'https://pages.test'+base);expected.search=current.search;assert.equal(result,expected.href);legacy++;
 }
 const helper=shared.match(/const canonicalPath = [^\n]+/)[0];

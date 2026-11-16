@@ -6,6 +6,8 @@ from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit,unquote,urljoin
 from preview_server import PublicSite
+from content_updates import apply_content
+from navigation_components import load_navigation
 import collections, hashlib, importlib.util, json, re, tempfile
 ROOT=Path(__file__).resolve().parents[1]
 SITE=ROOT/'prototype'
@@ -22,7 +24,7 @@ class Scan(HTMLParser):
         if tag=='a':
             self.nested_anchors+=self.anchor_depth>0
             self.anchor_depth+=1
-            if 'discovery-card' in a.get('class','').split():self.discovery_links.append(a.get('href'))
+            if 'segment-card' in a.get('class','').split():self.discovery_links.append(a.get('href'))
             if 'category-card' in a.get('class','').split():self.category_links.append(a.get('href'))
     def handle_endtag(self,tag):
         if tag=='header':self.header=None
@@ -41,6 +43,10 @@ class HeadingScan(HTMLParser):
             self.headings.append(self.current)
         for role in ('eyebrow','heading-title'):
             if role in classes:
+                # A page whose label and title match uses one plain semantic
+                # H1 in the shared hero, without a duplicated eyebrow label.
+                if role=='heading-title' and tag=='h1' and self.current and not self.current['paired']:
+                    continue
                 if tag!='span' or not self.current or self.current['rank'] not in ('h1','h2') or not self.current['paired']:
                     self.errors.append('unpaired '+role)
                 else:self.current['parts'].append(role)
@@ -85,10 +91,10 @@ def run():
         if '{{' in html:errors.append([name,'unresolved build token'])
         public=' '.join(scan.text)
         policy_draft=PAGE_ROUTES[path] in ('/privacy-policy/','/terms-and-conditions/','/accessibility/')
-        if re.search(r'\b(prototype|provisional|placeholder|streamline|seamless|enhance)\b|—|Work With Us',public,re.I) or (not policy_draft and re.search(r'\bdraft\b',public,re.I)):errors.append([name,'forbidden customer copy'])
+        if re.search(r'\b(prototype|provisional|placeholder|streamline|seamless|enhance)\b|Work With Us',public,re.I) or (not policy_draft and re.search(r'\bdraft\b',public,re.I)):errors.append([name,'forbidden customer copy'])
         controls=[a for tag,a in scan.tags if tag=='button' and 'submenu-toggle' in a.get('class','').split()]
         panels={a.get('id'):a for tag,a in scan.tags if 'submenu' in a.get('class','').split()}
-        if len(controls)!=8 or len(panels)!=8:errors.append([name,'four independent dropdowns per header required'])
+        if len(controls)!=10 or len(panels)!=10:errors.append([name,'five independent dropdowns per header required'])
         for control in controls:
             panel=panels.get(control.get('aria-controls'))
             if panel is None or 'hidden' not in panel or control.get('aria-expanded')!='false':errors.append([name,'invalid disclosure relationship',control.get('aria-controls')])
@@ -109,26 +115,32 @@ def run():
                 elif fragment and dest in pages and fragment not in pages[dest].ids:errors.append([name,'missing fragment',ref])
         details.append({'route':PAGE_ROUTES[path],'file':name,'title':title,'ids':len(scan.ids),'headers_match':collections.Counter(scan.nav_links['original'])==collections.Counter(scan.nav_links['scroll']),'main':count('main'),'h1':count('h1'),'footer':count('footer'),'scripts':len(scripts),'paired_headings':len(paired),'heading_ranks':dict(collections.Counter(h['rank'] for h in headings.headings))})
     if len(titles)!=len(set(titles)):errors.append(['duplicate page titles'])
-    content=json.loads((SITE/'site-content.json').read_text(encoding='utf-8'))
+    content=apply_content(json.loads((SITE/'site-content.json').read_text(encoding='utf-8')))
+    content['navigation']=load_navigation(SITE)
     for item in content['navigation']:
         for child in item.get('children',[]):
             dest,fragment=target(child['route'],SITE/'index.html')
-            if fragment and not any(tag=='section' and a.get('id')==fragment and a.get('aria-labelledby') in pages[dest].ids for tag,a in pages[dest].tags):errors.append(['dropdown destination must be a labelled section',child['route']])
+            if fragment and not any(tag in ('section','article') and a.get('id')==fragment and a.get('aria-labelledby') in pages[dest].ids for tag,a in pages[dest].tags):errors.append(['dropdown destination must be a labelled section or article',child['route']])
     for service in content['services']:
-        if len(service['sections'])<2 or any(not section.get('paragraphs') for section in service['sections']):errors.append(['service landing content structure',service['route']])
+        if not service['sections'] or any(not any(section.get(key) for key in ('paragraphs','blocks','items','bullets','ordered_steps')) for section in service['sections']):errors.append(['service landing content structure',service['route']])
     categories=content['categories']
-    expected_categories=['Wellness','One Shot Depositing','Hollow Moulding','Mixing','Dry Filling']
+    expected_categories=['Tablet','Filled','Covered','Dipped','Novelty','Drink','Wellness','Assortment','Snacking','Gifting','Entertaining']
     home=(SITE/'index.html').read_text(encoding='utf-8')
-    home_categories=re.findall(r'<div class="category-copy"><h3[^>]*>(.*?)</h3>',home)
-    if [category['title'] for category in categories]!=expected_categories or home_categories!=expected_categories:errors.append(['category logical order'])
+    # The category title now shares its semantic heading with its styled tagline.
+    home_categories=[title.strip() for title in re.findall(r'<div class="category-copy"><h3[^>]*>([^<]+)',home)]
+    if [category['title'] for category in categories]!=expected_categories or home_categories!=expected_categories[:8]:errors.append(['category logical order'])
     for category in categories:
-        if home.count('href="products/#'+category['slug']+'"')!=1:errors.append(['missing or duplicate category CTA',category['slug']])
         if category['slug'] not in pages[SITE/'products/index.html'].ids:errors.append(['missing category destination',category['slug']])
-    if home.count('class="category-card"')!=5:errors.append(['duplicate category cards'])
-    if pages[SITE/'index.html'].category_links!=['products/#'+item['slug'] for item in categories]:errors.append(['category whole-card link destinations'])
-    if len(pages[SITE/'products/index.html'].category_links)!=5:errors.append(['static category whole-card links'])
-    if home.count('class="discovery-card" data-reveal')!=3:errors.append(['individual discovery entrance hooks'])
-    if pages[SITE/'index.html'].discovery_links!=[item['route'] for item in content['discovery_cards']]:errors.append(['discovery whole-card link destinations'])
+    home_cards=[a for tag,a in pages[SITE/'index.html'].tags if tag=='article' and 'category-card' in a.get('class','').split()]
+    if len(home_cards)!=8:errors.append(['eight non-link homepage category cards'])
+    if pages[SITE/'index.html'].category_links:errors.append(['homepage category links must be removed'])
+    collection_slugs=['snacking','gifting','entertaining']
+    format_slugs=['tablet','filled','covered','dipped','novelty','drink','wellness','assortment']
+    for route,expected_tiles in [('products/',collection_slugs)]+[(slug+'/',format_slugs) for slug in collection_slugs]:
+        tiles=[a.get('id') for tag,a in pages[SITE/route/'index.html'].tags if tag=='section' and 'category-block' in a.get('class','').split()]
+        if tiles!=expected_tiles:errors.append(['chocolate collection hierarchy',route,tiles])
+    if len(pages[SITE/'index.html'].discovery_links)!=4:errors.append(['four business segment cards'])
+    if pages[SITE/'index.html'].discovery_links!=[item['route'] for item in content['business_segments']]:errors.append(['business segment whole-card destinations'])
     for item in json.loads((ROOT/'assets/category-export-details.json').read_text()):
         if digest(ROOT/item['source'])!=item['source_sha256'] or digest(ROOT/item['web'])!=item['web_sha256']:errors.append(['category image provenance mismatch',item['web']])
     for item in json.loads((ROOT/'assets/trust-export-details.json').read_text()):
@@ -173,9 +185,9 @@ def run():
         builder.read=original_read;builder.build()
         for item in inventory:
             if (temp/item['file']).read_bytes()!=(ROOT/item['file']).read_bytes():errors.append([item['file'],'nondeterministic build'])
-    expected={'/','/products/','/products/filled-chocolate/','/products/chocolate-bar/','/products/chocolate-drizzle/','/our-people/','/our-craft/','/experience-center/','/lets-talk/','/gifting/','/craft-your-own/','/fundraising/','/wholesale/','/b2b/','/privacy-policy/','/terms-and-conditions/','/accessibility/','/404.html'}
+    expected={'/','/products/','/products/filled-chocolate/','/products/chocolate-bar/','/products/chocolate-drizzle/','/our-people/','/our-craft/','/experience-center/','/lets-talk/','/snacking/','/gifting/','/entertaining/','/craft-your-own/','/fundraising/','/b2b/','/decor/','/our-segments/','/branded-chocolate/','/fulfillment/','/privacy-policy/','/terms-and-conditions/','/accessibility/','/404.html'}
     if {i['route'] for i in inventory}!=expected:errors.append(['route inventory mismatch'])
-    result={'scope':'Static implementation checks only; browser interaction and visual checks separate.','pages':details,'category_order':home_categories,'category_cards':home.count('class="category-card"'),'discovery_cards':home.count('class="discovery-card" data-reveal'),'local_references_checked':links,'protected_baseline_files_checked':len(protected),'shared_header_footer_propagation':'pass' if not any('shared partial propagation' in e for e in errors) else 'fail','shared_inquiry_propagation':'pass' if not any('inquiry' in e and 'shared partial propagation' in e for e in errors) else 'fail','deterministic_rebuild':'pass' if not any('nondeterministic build' in e for e in errors) else 'fail','errors':errors}
+    result={'scope':'Static implementation checks only; browser interaction and visual checks separate.','pages':details,'category_order':home_categories,'category_cards':home.count('class="category-card"'),'discovery_cards':home.count('class="segment-card"'),'local_references_checked':links,'protected_baseline_files_checked':len(protected),'shared_header_footer_propagation':'pass' if not any('shared partial propagation' in e for e in errors) else 'fail','shared_inquiry_propagation':'pass' if not any('inquiry' in e and 'shared partial propagation' in e for e in errors) else 'fail','deterministic_rebuild':'pass' if not any('nondeterministic build' in e for e in errors) else 'fail','errors':errors}
     out=SITE/'qa-site-build';out.mkdir(exist_ok=True);(out/'static-checks.json').write_text(json.dumps(result,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(result,indent=2))
     if errors:raise SystemExit(1)

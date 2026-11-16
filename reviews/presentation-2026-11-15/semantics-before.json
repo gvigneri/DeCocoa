@@ -1,0 +1,2428 @@
+[
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let’s Craft Something Together",
+        "classes": [
+          "button button-primary button-scroll-contact header-contact",
+          "button button-secondary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/",
+    "shortParagraphs": [
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "Pure Chocolate. Endless Desire.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "The Magic Is Within.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "Wrapped in Chocolate. Made to Crave.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "One Dip. Pure Temptation.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "Where Imagination Becomes Chocolate.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "Sip Into Something Wonderful.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "Indulgence with Intention.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "A Symphony of Sweet Sensations.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "Little Bites. Big Love.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "Give Chocolate. Share Love.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "products",
+        "size": 24,
+        "style": "normal",
+        "text": "Made to Share. Meant to Impress.",
+        "weight": "700"
+      },
+      {
+        "cls": "",
+        "section": "partners",
+        "size": 24,
+        "style": "normal",
+        "text": "Good chocolate brings people together.",
+        "weight": "400"
+      },
+      {
+        "cls": "segment-kicker",
+        "section": "segments",
+        "size": 16,
+        "style": "normal",
+        "text": "B2C · Retail",
+        "weight": "700"
+      },
+      {
+        "cls": "segment-kicker",
+        "section": "segments",
+        "size": 16,
+        "style": "normal",
+        "text": "B2B · Private Label",
+        "weight": "700"
+      },
+      {
+        "cls": "segment-kicker",
+        "section": "segments",
+        "size": 16,
+        "style": "normal",
+        "text": "Pro2Pro · Chocolate Solutions",
+        "weight": "700"
+      },
+      {
+        "cls": "segment-kicker",
+        "section": "segments",
+        "size": 16,
+        "style": "normal",
+        "text": "D2C · Logistics Services",
+        "weight": "700"
+      },
+      {
+        "cls": "",
+        "section": "talk",
+        "size": 24,
+        "style": "normal",
+        "text": "A question, an idea, a chocolate possibility.",
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      },
+      {
+        "a": "Ask About Tablet",
+        "b": "Ask About Filled",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Filled",
+        "b": "Ask About Covered",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Covered",
+        "b": "Ask About Dipped",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Dipped",
+        "b": "Ask About Novelty",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Novelty",
+        "b": "Ask About Drink",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Drink",
+        "b": "Ask About Wellness",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Wellness",
+        "b": "Ask About Assortment",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Assortment",
+        "b": "Ask About Snacking",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Snacking",
+        "b": "Ask About Gifting",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      },
+      {
+        "a": "Ask About Gifting",
+        "b": "Ask About Entertaining",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Chocolate%20%26%20products#inquiry"
+      }
+    ],
+    "route": "/products/",
+    "shortParagraphs": [
+      {
+        "cls": "category-tagline",
+        "section": "tablet",
+        "size": 24,
+        "style": "normal",
+        "text": "Pure Chocolate. Endless Desire.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "filled",
+        "size": 24,
+        "style": "normal",
+        "text": "The Magic Is Within.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "covered",
+        "size": 24,
+        "style": "normal",
+        "text": "Wrapped in Chocolate. Made to Crave.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "dipped",
+        "size": 24,
+        "style": "normal",
+        "text": "One Dip. Pure Temptation.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "novelty",
+        "size": 24,
+        "style": "normal",
+        "text": "Where Imagination Becomes Chocolate.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "drink",
+        "size": 24,
+        "style": "normal",
+        "text": "Sip Into Something Wonderful.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "wellness",
+        "size": 24,
+        "style": "normal",
+        "text": "Indulgence with Intention.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "assortment",
+        "size": 24,
+        "style": "normal",
+        "text": "A Symphony of Sweet Sensations.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "snacking",
+        "size": 24,
+        "style": "normal",
+        "text": "Little Bites. Big Love.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "gifting",
+        "size": 24,
+        "style": "normal",
+        "text": "Give Chocolate. Share Love.",
+        "weight": "700"
+      },
+      {
+        "cls": "category-tagline",
+        "section": "entertaining",
+        "size": 24,
+        "style": "normal",
+        "text": "Made to Share. Meant to Impress.",
+        "weight": "700"
+      },
+      {
+        "cls": "",
+        "section": "",
+        "size": 24,
+        "style": "normal",
+        "text": "A soft center",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "",
+        "size": 24,
+        "style": "normal",
+        "text": "The classic snap",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "",
+        "size": 24,
+        "style": "normal",
+        "text": "A playful finishing touch",
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/products/filled-chocolate/",
+    "shortParagraphs": [
+      {
+        "cls": "",
+        "section": "",
+        "size": 24,
+        "style": "normal",
+        "text": "The classic snap",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "",
+        "size": 24,
+        "style": "normal",
+        "text": "A playful finishing touch",
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/products/chocolate-bar/",
+    "shortParagraphs": [
+      {
+        "cls": "",
+        "section": "",
+        "size": 24,
+        "style": "normal",
+        "text": "A soft center",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "",
+        "size": 24,
+        "style": "normal",
+        "text": "A playful finishing touch",
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/products/chocolate-drizzle/",
+    "shortParagraphs": [
+      {
+        "cls": "",
+        "section": "",
+        "size": 24,
+        "style": "normal",
+        "text": "A soft center",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "",
+        "size": 24,
+        "style": "normal",
+        "text": "The classic snap",
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/our-people/",
+    "shortParagraphs": [
+      {
+        "cls": "",
+        "section": "our-values",
+        "size": 24,
+        "style": "normal",
+        "text": "Be honest. Be safe. Do the right thing.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "our-values",
+        "size": 24,
+        "style": "normal",
+        "text": "Help each other. Learn. Grow as a team.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "our-values",
+        "size": 24,
+        "style": "normal",
+        "text": "Be positive. Be helpful. Set a good example.",
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      },
+      {
+        "a": "Ask About Food Safety",
+        "b": "Ask About One Shot Depositing",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Our%20craft#inquiry"
+      },
+      {
+        "a": "Ask About One Shot Depositing",
+        "b": "Ask About Hollow Moulding",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Our%20craft#inquiry"
+      },
+      {
+        "a": "Ask About Hollow Moulding",
+        "b": "Ask About Mixing",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Our%20craft#inquiry"
+      },
+      {
+        "a": "Ask About Mixing",
+        "b": "Ask About Dry Filling",
+        "classes": [
+          "button button-primary",
+          "button button-primary"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/?topic=Our%20craft#inquiry"
+      }
+    ],
+    "route": "/our-craft/",
+    "shortParagraphs": [
+      {
+        "cls": "",
+        "section": "sustainability",
+        "size": 24,
+        "style": "normal",
+        "text": "We source cacao responsibly.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "sustainability",
+        "size": 24,
+        "style": "normal",
+        "text": "We choose only clean label ingredients.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "sustainability",
+        "size": 24,
+        "style": "normal",
+        "text": "We use eco-friendly packaging.",
+        "weight": "400"
+      },
+      {
+        "cls": "",
+        "section": "food-safety",
+        "size": 24,
+        "style": "normal",
+        "text": "We ensure:",
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/experience-center/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/our-segments/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/gifting/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/craft-your-own/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/fundraising/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/wholesale/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/b2b/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/decor/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/branded-chocolate/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent is-current",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/fulfillment/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/lets-talk/",
+    "shortParagraphs": [
+      {
+        "cls": "",
+        "section": "inquiry",
+        "size": 24,
+        "style": "normal",
+        "text": "Choose a topic and add your questions below.",
+        "weight": "400"
+      }
+    ]
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/privacy-policy/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/terms-and-conditions/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      }
+    ],
+    "route": "/accessibility/",
+    "shortParagraphs": []
+  },
+  {
+    "duplicates": [
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Our Segments",
+        "b": "Explore Our Segments",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-segments/"
+      },
+      {
+        "a": "Our People",
+        "b": "Explore Our People",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-people/"
+      },
+      {
+        "a": "Our Craft",
+        "b": "Explore Our Craft",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/our-craft/"
+      },
+      {
+        "a": "Experience Center",
+        "b": "Explore Experience Center",
+        "classes": [
+          "nav-link nav-parent",
+          "submenu-feature"
+        ],
+        "href": "http://127.0.0.1:4174/experience-center/"
+      },
+      {
+        "a": "Let's Talk",
+        "b": "Let's Talk",
+        "classes": [
+          "nav-link nav-mobile-contact",
+          "button button-primary button-scroll-contact header-contact"
+        ],
+        "href": "http://127.0.0.1:4174/lets-talk/#inquiry"
+      },
+      {
+        "a": "Go Home",
+        "b": "DeCocoa home",
+        "classes": [
+          "button button-primary",
+          "brand"
+        ],
+        "href": "http://127.0.0.1:4174/"
+      }
+    ],
+    "route": "/404.html",
+    "shortParagraphs": []
+  }
+]

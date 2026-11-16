@@ -1,0 +1,119 @@
+{
+  "pages": [
+    {
+      "failures": [],
+      "frames": 6,
+      "overflow": false,
+      "route": "/"
+    },
+    {
+      "failures": [],
+      "frames": 10,
+      "overflow": false,
+      "route": "/products/"
+    },
+    {
+      "failures": [],
+      "frames": 9,
+      "overflow": false,
+      "route": "/products/filled-chocolate/"
+    },
+    {
+      "failures": [],
+      "frames": 9,
+      "overflow": false,
+      "route": "/products/chocolate-bar/"
+    },
+    {
+      "failures": [],
+      "frames": 9,
+      "overflow": false,
+      "route": "/products/chocolate-drizzle/"
+    },
+    {
+      "failures": [],
+      "frames": 7,
+      "overflow": false,
+      "route": "/our-people/"
+    },
+    {
+      "failures": [],
+      "frames": 8,
+      "overflow": false,
+      "route": "/our-craft/"
+    },
+    {
+      "failures": [],
+      "frames": 6,
+      "overflow": false,
+      "route": "/experience-center/"
+    },
+    {
+      "failures": [],
+      "frames": 7,
+      "overflow": false,
+      "route": "/gifting/"
+    },
+    {
+      "failures": [],
+      "frames": 7,
+      "overflow": false,
+      "route": "/craft-your-own/"
+    },
+    {
+      "failures": [],
+      "frames": 7,
+      "overflow": false,
+      "route": "/fundraising/"
+    },
+    {
+      "failures": [],
+      "frames": 7,
+      "overflow": false,
+      "route": "/wholesale/"
+    },
+    {
+      "failures": [],
+      "frames": 7,
+      "overflow": false,
+      "route": "/b2b/"
+    },
+    {
+      "failures": [],
+      "frames": 7,
+      "overflow": false,
+      "route": "/decor/"
+    },
+    {
+      "failures": [],
+      "frames": 6,
+      "overflow": false,
+      "route": "/lets-talk/"
+    },
+    {
+      "failures": [],
+      "frames": 6,
+      "overflow": false,
+      "route": "/privacy-policy/"
+    },
+    {
+      "failures": [],
+      "frames": 6,
+      "overflow": false,
+      "route": "/terms-and-conditions/"
+    },
+    {
+      "failures": [],
+      "frames": 6,
+      "overflow": false,
+      "route": "/accessibility/"
+    },
+    {
+      "failures": [],
+      "frames": 6,
+      "overflow": false,
+      "route": "/404.html"
+    }
+  ],
+  "mobile": "390px: no overflow; 0px frame border; 16px corners"
+}
